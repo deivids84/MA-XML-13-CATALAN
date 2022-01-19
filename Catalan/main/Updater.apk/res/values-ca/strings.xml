@@ -20,6 +20,7 @@
     <string name="check_new_version">Comprova</string>
     <string name="dialog_3g_desc">Tingueu en compte que l\'ús de dades mòbils per baixar ROM pot tenir una quota important del vostre paquet.</string>
     <string name="dialog_3g_title">Avís!</string>
+    <string name="dialog_ab">El dispositiu admet \"Actualitzacions del sistema sense problemes\", recordeu seleccionar \"Slot A\" quan se us demani a TWRP.</string>
     <string name="dialog_btn_3g">Continua de totes maneres</string>
     <string name="dialog_btn_wifi">Canvia a Wi-Fi</string>
     <string name="dialog_stop_desc">Podeu pausar o aturar la baixada, feu la vostra elecció.</string>

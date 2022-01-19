@@ -420,6 +420,7 @@
     <string name="menu_launcher_setting">Configuració del llançador</string>
     <string name="menu_lock">Bloqueja la disposició de la Pantalla d\'Inici</string>
     <string name="menu_more">Més</string>
+    <string name="menu_no_word">"No mostris el text"</string>
     <string name="menu_picktheme">Tria un tema</string>
     <string name="menu_reset_scene">Restableix a disposició per defecte</string>
     <string name="menu_search">Cerca</string>

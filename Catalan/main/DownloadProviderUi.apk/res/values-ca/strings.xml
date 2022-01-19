@@ -355,6 +355,7 @@
     <string name="no_share_file_content">El fitxer que heu seleccionat ja s\'ha eliminat</string>
     <string name="no_share_files">"No es poden compartir fitxers que ja s'han suprimit"</string>
     <string name="no_share_files_content">"Alguns dels fitxers que està tractant de compartir ja han estat suprimits. D'altres fitxers s'han compartit amb èxit."</string>
+    <string name="no_support_modify_path">"No es pot canviar la ubicació dels elements baixats per motius de seguretat"</string>
     <string name="no_vip_info">Registreu-vos a Xunlei per accelerar les baixades</string>
     <string name="no_vip_show_info">"Accelera les baixades
 en tots els dispositius a través de Xunlei"</string>

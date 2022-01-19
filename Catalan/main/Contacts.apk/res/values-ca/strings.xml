@@ -82,7 +82,7 @@
     <string name="bh_business_hall_is_here">Els serveis de l\'operadora són aquí</string>
     <string name="bh_business_style">Seleccioneu la interfície</string>
     <string name="bh_business_style_new">Nou</string>
-    <string name="bh_business_style_old">Vell</string>
+    <string name="bh_business_style_old">Antic</string>
     <string name="bh_button_finish">Fet</string>
     <string name="bh_buy_now">Compra</string>
     <string name="bh_call_used">Minuts usats</string>
@@ -658,6 +658,7 @@ Motiu: \"%s\""</string>
     <string name="hybrid_webpage_not_available">Pàgina web no disponible</string>
     <string name="ic_menu_back">Enrere</string>
     <string name="ic_menu_done">Fet</string>
+    <string name="identify_numbers_text">Activa l\'identificador de trucades per identificar les trucades de correu brossa</string>
     <string name="imLabelsGroup">MI</string>
     <string name="imei">IMEI</string>
     <string name="import_all_sim_entries_miui">Importa tots els contactes</string>

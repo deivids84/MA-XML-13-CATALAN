@@ -140,6 +140,32 @@
         <item>Mes vinent</item>
         <item>Seleccionar data</item>
     </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Error d\'inici de sessió o error de contrasenya</item>
+        <item>LOGIN Error de contrasenya en l\'inici de sessió</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Si us plau, utilitzeu el codi d\'autorització per iniciar la sessió. Més informació a https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Error d\'inici de sessió, usuari suspès</item>
+        <item>LOGIN error:1423, error de contrasenya d\'usuari(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Credencials no vàlides</item>
+        <item>Error d\'inici de sessió. La contrasenya és incorrecta o el servei no està obert</item>
+        <item>LOGIN no suporta imap4</item>
+        <item>LOGIN error:1328, imap personalitzat desactivat</item>
+        <item>LOGIN Error d\'inici de sessió, usuari suspès</item>
+        <item>LOGIN usuari a la llista negra</item>
+        <item>Error en iniciar sessió. El compte està bloquejat. Inicieu sessió al compte mitjançant un navegador web per verificar la vostra identitat.</item>
+        <item>LOGIN usuari a la llista negra</item>
+        <item>LOGIN error:1412 status=51 La contrasenya no es modifica durant molt de temps. Si us plau, modifiqueu la contrasenya. http://mail.10086.cn</item>
+        <item>LOGIN no suporta imap4</item>
+        <item>Error en iniciar sessió. El compte està bloquejat. Inicieu sessió al compte mitjançant un navegador web per verificar la vostra identitat.</item>
+        <item>ERR Usuari o contrasenya d\'inici de sessió no vàlids</item>
+        <item>Error d\'inici de sessió. Si us plau, utilitzeu la contrasenya de l\'aplicació per iniciar sessió. Més informació a http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR pop3 personalitzat desactivat</item>
+        <item>LOGIN Error d\'inici de sessió error de nom d\'usuari o contrasenya</item>
+        <item>Usuari o contrasenya no vàlids</item>
+        <item>ip XXXXXXX a la llista negra, canvieu la vostra xarxa o inicieu sessió a https://mail.sohu.com per configurar la llista blanca d\'IP del client</item>
+        <item>java.net.UnknownHostException: No es pot resoldre l\'amfitrió XXXX: no hi ha cap adreça associada amb el nom d\'amfitrió</item>
+    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Minúscul</item>
         <item>Petit</item>

@@ -357,6 +357,7 @@
     <string name="save_to_gallery_icon_name">Desa a la galeria</string>
     <string name="save_to_gallery_success_message">S\'ha desat a la galeria correctament</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="select_show_city">Selecciona la ubicació</string>
     <string name="send">Envia</string>
     <string name="settings">Configuració</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera (atm)</string>

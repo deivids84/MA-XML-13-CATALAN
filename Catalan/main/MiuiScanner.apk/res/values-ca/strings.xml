@@ -69,6 +69,7 @@
     <string name="calories_logo_text">Suport de IA proporcionat per Health Hope</string>
     <string name="calories_request_interface_text">Suport de IA</string>
     <string name="camera_error_title">Error de la càmera</string>
+    <string name="camera_permissions_text">Permeteu que l\'escàner accedeixi a la càmera per poder utilitzar aquesta característica.</string>
     <string name="camera_stealth_mode_message">No es pot connectar a la càmera. Si la càmera és necessària, apagueu el mode sigil·lós.</string>
     <string name="camera_stealth_mode_title">El mode sigil·lós està habilitat</string>
     <string name="can_only_be_English_Chinese">L’idioma de traducció en línia només pot ser l’anglès i el xinès simplificat</string>
@@ -231,6 +232,7 @@
     <string name="food_module_thumbs_up">M\'agrada</string>
     <string name="food_module_tip">Col·loqueu el menjar dins del marc</string>
     <string name="food_module_title_food">Calories</string>
+    <string name="format_error">Contrasenya no vàlida</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -281,6 +283,8 @@
     <string name="kuaidi100_data">Desenvolupat per Kuaidi 100</string>
     <string name="label_choose_picture">Seleccioneu una foto</string>
     <string name="label_flash_light">Llum de flaix</string>
+    <string name="label_flash_light_off">La llanterna està apagada</string>
+    <string name="label_flash_light_on">La llanterna està encesa</string>
     <string name="language_entry_chinese_cn">Xinès simplificat</string>
     <string name="language_entry_english">Anglès</string>
     <string name="language_entry_french">Francès</string>
@@ -327,6 +331,7 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
     <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
@@ -602,6 +607,7 @@
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="spaceIsLow_content">No hi ha prou espai a la memòria interna. Allibereu espai.</string>
+    <string name="storage_permissions_text">Permeteu que l\'Escàner accedeixi a l\'emmagatzematge del dispositiu per poder utilitzar aquesta funció.</string>
     <string name="store_feedback_prompt">Introduïu el comentari primer</string>
     <string name="store_location_dialog">Servei proporcionat per Dianping. Totes les fotos que feu mentre utilitzeu aquest servei, incloses les dades d’ubicació relacionades, es compartiran a Dianping per obtenir la informació sobre les botigues.</string>
     <string name="store_location_fail">"No s'ha pogut obtenir la informació sobre la ubicació"</string>
@@ -621,6 +627,7 @@
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
     <string name="switch_open">Activeu</string>
+    <string name="switchover">Canvia</string>
     <string name="take_a_picture">Càmera</string>
     <string name="take_the_word">Poseu la paraula al quadre i premeu per obtenir la paraula</string>
     <string name="taobao">Taobao</string>

@@ -390,6 +390,8 @@
     <string name="miui_plus_app_state_description_view_note">Veure nota</string>
     <string name="miui_plus_app_state_description_view_todo">Veure la tasca</string>
     <string name="miui_plus_relay_waring_data_not_find">"No s’ha pogut trobar l’element que esteu visualitzant en un altre dispositiu. Assegureu-vos que tots els elements estiguin sincronitzats."</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
@@ -407,6 +409,8 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -569,7 +573,7 @@
     <string name="pc_todo_fast_create_hint">Introduïu text i premeu \"Enter\" per afegir una tasca sense acabar</string>
     <string name="pc_todo_set_remind_time_hint">Establiu hora</string>
     <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
-    <string name="permission_data_shared_desc">Declaració d\'ús compartit de dades de tercers</string>
+    <string name="permission_data_shared_desc">Notes Declaració d\'intercanvi de dades de tercers</string>
     <string name="permission_get_account_desc">Sincronizant les notes amb el núvol</string>
     <string name="permission_intro_contact">Per marcar notes preses durant les trucades</string>
     <string name="permission_intro_microphone">Per enregistrar notes de veu</string>
@@ -583,7 +587,7 @@
     <string name="permission_storage_desc_pad_v12">Per afegir imatges a notes i desar notes com a imatges</string>
     <string name="permission_storage_desc_v12">Per afegir imatges a notes i desar notes com a imatges</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recollirà els vostres enregistraments de veu i el vostre identificador de dispositiu per transcriure l\'àudio i crear notes de veu. Apreneu més a la &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
-    <string name="permission_xiaoai_desc_new"><Data>Per oferir serveis de transcripció de veu a text, Mi AI ha de recopilar l\'entrada d\'àudio i l\'identificador del vostre dispositiu, que es genera aleatòriament. Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Declaració d\'ús compartit de dades de tercers&lt;/a&gt; abans de continuar. També podeu obtenir més informació llegint la &lt;a href=\"%2$s\"&gt;Política de privadesa &lt;/a&gt;de Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Per oferir serveis de transcripció de veu a text, Mi AI ha de recopilar l\'entrada d\'àudio i l\'identificador del dispositiu, que es genera aleatòriament. Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Declaració d\'intercanvi de dades de tercers&lt;/a&gt; abans de continuar. També podeu obtenir més informació llegint la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; de Mi AI.</Data></string>
     <string name="permission_xiaoai_title">De veu a text</string>
     <string name="permlab_accessNote">Notes d\'accés</string>
     <string name="pm">p. m.</string>

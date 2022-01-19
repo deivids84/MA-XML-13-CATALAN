@@ -49,6 +49,7 @@
     <string name="calibrate_success">Calibratge</string>
     <string name="calibrate_tip">Moveu el dispositiu per girar la pilota al voltant del cercle</string>
     <string name="calibrate_title">Calibra la brúixola</string>
+    <string name="calibrating">S\'està calibrant la brúixola</string>
     <string name="cancel">Cancel·leu</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="close">Tanca</string>
@@ -196,6 +197,7 @@
     <string name="month_september_shortest">set</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
+    <string name="new_cta_app_purpose">veure direccions i coordenades</string>
     <string name="new_cta_v2_app_purpose">Mostra direccions, coordenades, pressió atmosfèrica i altitud actual</string>
     <string name="new_permission_camera_desc">Per al calibratge</string>
     <string name="new_permission_location_desc">Per a mostrar les coordinades</string>

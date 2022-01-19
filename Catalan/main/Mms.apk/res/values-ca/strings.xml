@@ -49,6 +49,10 @@
     <string name="add_slide_hint">Premeu per crear una nova diapositiva</string>
     <string name="add_smiley">Emoticona</string>
     <string name="add_timing">Programat</string>
+    <string name="add_to_block_by_number">"S'ha afegit %s
+a la llista de bloqueig"</string>
+    <string name="add_to_block_by_tag">"Missatges que contenen \"%s\"
+afegits a la llista de bloqueig"</string>
     <string name="add_to_browser_favorite_failed">"No s'ha pogut afegir"</string>
     <string name="add_to_browser_favorite_success">S\'ha afegit amb èxit</string>
     <string name="add_video">Afegeix vídeo</string>
@@ -1209,6 +1213,10 @@ Mireu els recomanats!"</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="suspected_fraud_action">Toqueu per informar.</string>
+    <string name="suspected_fraud_action_tip">"Possible estafa. "</string>
+    <string name="suspected_fraud_link_tip">"URL insegur. "</string>
+    <string name="suspected_fraud_tip">Possible estafa</string>
     <string name="switch_to_editor">Mode d\'edició</string>
     <string name="switch_to_menu">Mode de menú</string>
     <string name="system_permission_declare_agree">D\'acord</string>

@@ -259,6 +259,7 @@
     <string name="other_settings">Configuració bàsica</string>
     <string name="other_settings_ad_dialog_agree">Encendre</string>
     <string name="other_settings_ad_dialog_content">"Quan les recomanacions d'anuncis personalitzats estiguin desactivades, encara veureu la mateixa quantitat d'anuncis que quan la funció està activada. Tanmateix, els anuncis deixaran de ser rellevants, ja que no es basaran en les vostres preferències personals."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Quan les recomanacions d'anuncis personalitzats estiguin desactivades, encara veureu la mateixa quantitat d'anuncis a les aplicacions del sistema MIUI que quan la funció està activada. Els anuncis de Xiaomi i plataformes de tercers, però, ja no seran rellevants, ja que no es basaran en les vostres preferències personals."</string>
     <string name="other_settings_ad_dialog_disagree">Tanca</string>
     <string name="other_settings_ad_disable_summary">Activeu-ho per personalitzar els anuncis</string>
     <string name="other_settings_ad_enable">Recomanació d\'anuncis personalitzats</string>
@@ -511,7 +512,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="solar_term_white_dews">Rosades</string>
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
-    <string name="start_up_slogan">Només vostre</string>
+    <string name="start_up_slogan">On totes les coses es connecten</string>
     <string name="summary_not_set">No s\'ha configurat</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>

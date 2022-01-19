@@ -1109,6 +1109,7 @@ disponibles"</string>
     <string name="input_or_select_a_name">Introduïu o seleccioneu un nom</string>
     <string name="input_relation_name">Introduïu el nom del grup</string>
     <string name="install_fail">"No s'ha pogut carregar el connector a causa d'un error."</string>
+    <string name="install_media_editor_function_message">Baixeu la darrera versió de Gallery Editor per poder utilitzar \"%1$s\".</string>
     <string name="install_media_editor_latest_message">Per poder editar els elements, baixeu primer el darrer connector.</string>
     <string name="install_media_editor_message">Per poder editar els elements, primer baixeu el connector. Voleu baixar-lo ara?</string>
     <string name="install_media_editor_title">Baixeu el connector</string>

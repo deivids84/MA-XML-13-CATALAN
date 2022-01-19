@@ -827,6 +827,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="emergency_information_confirm_hint">Toqueu de nou per veure la informació</string>
     <string name="emergency_information_hint">Informació d’emergència</string>
     <string name="emergency_information_owner_hint">Propietari</string>
+    <string name="emergency_medical_records">Historial mèdic</string>
     <string name="emm_cause_11">"L'operador actual no admet aquest servei."</string>
     <string name="emm_cause_14">"L'operador actual no admet serveis de dades mòbils."</string>
     <string name="emm_cause_2">"No s'ha pogut registrar el número de telèfon. Apagueu el dispositiu, enceneu-lo de nou i torneu-ho a provar."</string>
@@ -958,6 +959,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_sa_vice_switch_summary">Permet que la SIM secundària utilitzi una xarxa 5G independent</string>
     <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>
+    <string name="fiveg_switch_per_slot_summary">Utilitza el 5G per augmentar la velocitat de connexió de dades mòbils</string>
     <string name="fiveg_switch_status1">Estat del commutador 5G:</string>
     <string name="fiveg_switch_title">Utilitzeu xarxes 5G</string>
     <string name="fiveg_upperlayer_indication1">Estat de la indicació de la capa superior:</string>

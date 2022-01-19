@@ -97,7 +97,6 @@
     <string name="label_paper_size">Mida del paper</string>
     <string name="label_paper_size_summary">Mida del paper:</string>
     <string name="mediasize_default">NA_LETTER</string>
-    <string name="mediasize_standard">@string/mediasize_standard_north_america</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
