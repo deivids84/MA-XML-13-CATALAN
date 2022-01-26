@@ -95,6 +95,7 @@
     <string name="call_recording_notification_message_sd_unmounted">S\'ha tret la targeta SD.</string>
     <string name="call_recording_notification_title">Trucada enregistrada</string>
     <string name="call_recording_notification_title_error">"No s'ha pogut enregistrar la trucada"</string>
+    <string name="caller_info_name_delimiter">" o "</string>
     <string name="caller_manage_header">Trucada de conferència %s</string>
     <string name="can_not_use">"No es pot fer servir"</string>
     <string name="cancel">Cancel·leu</string>
@@ -388,7 +389,8 @@
     <string name="user_locked_prompt">Desbloqueja el dispositiu per accedir als contactes.</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Amplada de banda insuficient, rebaixa a trucada de veu</string>
     <string name="video_conference_caller_info_name">"Trucada de videoconferència de %1$s"</string>
-    <string name="video_crbt_title">"El to de devolució de trucada de l'altra part està sonant"</string>
+    <string name="video_crbt_title">S\'està reproduint el vídeo del perfil…</string>
+    <string name="voice_control_deny_permission_msg">"No es poden utilitzar els controls de veu ara. Permeteu que aquesta aplicació enregistri àudio primer."</string>
     <string name="voicemail">Bústia de veu</string>
     <string name="volte_call">Trucada VoLTE</string>
     <string name="volume_boost_text">S\'ha augmentat el volum amb èxit</string>

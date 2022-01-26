@@ -298,6 +298,15 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Tarda</string>
+    <string name="exo_download_completed">Baixada completada</string>
+    <string name="exo_download_description">Baixa</string>
+    <string name="exo_download_downloading">S\'està baixant</string>
+    <string name="exo_download_failed">La baixada ha fallat</string>
+    <string name="exo_download_notification_channel_name">Baixades</string>
+    <string name="exo_download_paused">Baixades en pausa</string>
+    <string name="exo_download_paused_for_network">Baixades a l\'espera de la xarxa</string>
+    <string name="exo_download_paused_for_wifi">Baixades a l\'espera de Wi-Fi</string>
+    <string name="exo_download_removing">Suprimint les baixades</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="facebook_clean_exit_confirm_cancel">Mantén l\'escaneig</string>
     <string name="facebook_clean_exit_confirm_msg">"Encara no s'ha finalitzat d'analitzar Facebook. Voleu aturar l'escaneig?"</string>
@@ -978,6 +987,7 @@
     <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
     <string name="white_list_residual_header">Fitxers residuals: %d</string>
     <string name="white_list_title">Excepcions</string>
+    <string name="widget_cleaner_size_unit">MB</string>
     <string name="wqfile_group_chat_file">Fitxers enviats a missatgers</string>
     <string name="wqfile_group_chat_pic">Imatges de missatgers</string>
     <string name="wqfile_group_chat_video">Vídeos de missatgers</string>
