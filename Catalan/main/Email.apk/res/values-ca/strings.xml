@@ -134,7 +134,6 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="account_setup_correct_address_tips">L\'adreça de correu que heu introduït no és vàlida.</string>
     <string name="account_setup_creating_account_msg">"    Creant compte…"</string>
     <string name="account_setup_deleting_account_msg">"    Suprimint compte…"</string>
-    <string name="account_setup_domain_invalid_toast">El nom de domini de correu electrònic que heu introduït és incorrecte, comproveu-ho</string>
     <string name="account_setup_exchange_certificate_title">Certificat de client</string>
     <string name="account_setup_exchange_no_certificate">Cap</string>
     <string name="account_setup_failed_auth_required">"Aquest mètode d'autentificació no és compatible amb el servidor."</string>
@@ -311,7 +310,7 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="broker_helper_signature">Signatura a introduir en registrar-se a l\'aplicació</string>
     <string name="broker_helper_title">Informació de l\'URI de redirecció MSAL</string>
     <string name="broker_processing">Broker està processant</string>
-    <string name="calendar_remind_dialog_title">Afegeix al calendari</string>
+    <string name="calendar_remind_dialog_title">Recorda més tard</string>
     <string name="calendar_remind_gridview_pick_date">Seleccionar data</string>
     <string name="calendar_skip_no_account_alert">"No s'ha pogut trobar aquest compte"</string>
     <string name="cancel">Cancel·leu</string>
@@ -454,7 +453,6 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="default_signature">Enviat des del meu telèfon Mi</string>
     <string name="default_signature_2">Enviat des del meu %s</string>
     <string name="default_signature_pad">Enviat des del meu Mi Pad</string>
-    <string name="default_signature_phone">Enviat des del meu telèfon Mi</string>
     <string name="delete">Suprimeix</string>
     <string name="delete_contact_content">Suprimir aquest contacte ara?</string>
     <string name="delete_message_event">Vols suprimir la invitació?</string>
@@ -525,18 +523,6 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="eras_bc">AEC</string>
     <string name="error">Error</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="error_message_account_or_password">L\'identificador del compte o la contrasenya són incorrectes.</string>
-    <string name="error_message_auth_error">Utilitzeu un codi de verificació per iniciar la sessió.</string>
-    <string name="error_message_blacklist">El compte s\'ha afegit a la llista de bloqueig. Poseu-vos en contacte amb el proveïdor de serveis de correu electrònic per resoldre aquest problema.</string>
-    <string name="error_message_imap_or_pop3_service_not_open">Activeu iMAP o POP3 i torneu-ho a provar.</string>
-    <string name="error_message_imap_service_not_open">Activeu l\'IMAP i torneu-ho a provar.</string>
-    <string name="error_message_outlook_error">Verifiqueu primer la vostra identitat a la versió web de l\'Outlook.</string>
-    <string name="error_message_respond_revert_03">"Aquest nom de domini no existeix. Comproveu l'URL i torneu-ho a provar."</string>
-    <string name="error_message_respond_revert_06">La contrasenya que heu introduït és incorrecta.</string>
-    <string name="error_message_respond_revert_07">"No s'ha pogut verificar la vostra identitat. Utilitzeu un codi de verificació per iniciar la sessió."</string>
-    <string name="error_message_respond_revert_16">La contrasenya ha caducat. Actualitzeu la contrasenya i torneu a iniciar la sessió.</string>
-    <string name="error_message_respond_revert_21">Activeu POP3 i torneu-ho a provar.</string>
-    <string name="error_message_respond_revert_25">Comproveu la connexió de xarxa i torneu-ho a provar.</string>
     <string name="evening">Tarda</string>
     <string name="exception_cancel">"
         Aquest esdeveniment ha estat cancel·lat
@@ -607,7 +593,6 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="folder_list_current_account">Compte actual</string>
     <string name="folder_list_display_all">Mostrar totes les carpetes</string>
     <string name="folder_list_display_only_import">Mostrar només les carpetes importants</string>
-    <string name="folder_list_switch_account">Canvia</string>
     <string name="folder_no_mails">Sense correu</string>
     <string name="folder_notification_setting_tip">Teniu diverses carpetes a la safata d\'entrada. Configureu les notificacions sobre missatges nous en carpetes específiques.</string>
     <string name="folder_picker_title">Trieu les carpetes</string>
@@ -891,8 +876,6 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="mibill_privacy_policy_title">Gestiona factures automàticament</string>
     <string name="midnight">Nit</string>
     <string name="min_payment_text">Pagament mínim</string>
-    <string name="miuix_access_state_desc">Seleccionat</string>
-    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
@@ -907,8 +890,6 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona elements</string>
-    <string name="miuix_indexer_collect">Col·leccions</string>
-    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -1059,7 +1040,7 @@ Prova de canviar a un altre compte de correu electrònic."</string>
     <string name="ntes_send_to_content">Si el vostre número de telèfon actual està associat al compte, toqueu \"Enviar SMS\".</string>
     <string name="ntes_verification_code">Introduïu codi: %s</string>
     <string name="oauth_error_description">"No ha estat possible autenticar"</string>
-    <string name="oauth_find_browser_error_description">Instal·leu un navegador abans d\'iniciar la sessió</string>
+    <string name="oauth_find_browser_error_description">Instal·leu el navegador abans d’iniciar la sessió</string>
     <string name="oauth_gmail_login_notify">Introdueix el teu nom d\'usuari i contrasenya del compte de Google a la següent pàgina d\'inici de sessió.</string>
     <string name="oauth_login_continue">Continua</string>
     <string name="oauth_login_continue_qq">Aconsegueix un codi de pas i inicia sessió a &gt;</string>

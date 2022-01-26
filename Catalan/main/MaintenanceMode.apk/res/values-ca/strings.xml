@@ -61,9 +61,9 @@
     <string name="friday_shortest">Dv</string>
     <string name="maintenance_mode">mode de manteniment</string>
     <string name="maintenance_mode_close_title">En mode de manteniment</string>
-    <string name="maintenance_mode_loading">S\'està iniciant el mode de reparació, el dispositiu es reiniciarà aviat…</string>
+    <string name="maintenance_mode_loading">S\'està iniciant el mode de reparació, el telèfon es reiniciarà aviat …</string>
     <string name="maintenance_mode_reboot">Reinici del mode de manteniment</string>
-    <string name="maintenance_mode_title">Protecció integral de les dades del dispositiu</string>
+    <string name="maintenance_mode_title">Protecció integral de dades de telefonia mòbil</string>
     <string name="maintenance_mode_watch_out">Protegiu dades privades importants com ara fotos, vídeos, contactes, registres de trucades i missatges de text durant el manteniment postvenda</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desseleccionar</string>
@@ -135,11 +135,10 @@
     <string name="open_maintenance_mode">Obre el mode de manteniment</string>
     <string name="open_maintenance_mode_msg">Per evitar la pèrdua de dades, es recomana enviar-les a reparació després</string>
     <string name="open_maintenance_mode_msg_sub">fent una còpia de seguretat de les vostres dades</string>
-    <string name="open_maintenance_mode_tips">Acabeu de desactivar el mode de manteniment i s\'estan suprimint les dades relacionades; torneu-ho a provar més tard</string>
     <string name="pm">PM</string>
     <string name="reached_max_user">S\'ha arribat al nombre màxim d\'usuaris</string>
     <string name="reboot_maintenance_mode">esborra el mode de manteniment completat, per al vostre rendiment del dispositiu, reinicieu-lo</string>
-    <string name="reboot_msg">En activar el mode de manteniment, es reiniciarà automàticament el dispositiu. Confirmeu si està activat immediatament</string>
+    <string name="reboot_msg">Si enceneu el mode de manteniment, es reiniciarà automàticament el telèfon i confirmeu si està activat immediatament</string>
     <string name="reopen_maintenance_mode">Es detecta que l’usuari principal del dispositiu s’ha desbloquejat. Per protegir la privadesa de l\'usuari i la seguretat de les dades, es recomana tornar a entrar al mode de manteniment</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>

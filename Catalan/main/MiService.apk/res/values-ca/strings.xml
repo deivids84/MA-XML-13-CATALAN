@@ -222,7 +222,6 @@ Correu electrònic: service.jp@xiaomi.com"</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona elements</string>
-    <string name="miuix_indexer_collect">Col·leccions</string>
     <string name="miuix_indexer_selected">%sseleccionat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>

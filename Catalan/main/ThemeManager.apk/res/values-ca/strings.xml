@@ -1145,8 +1145,6 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="shortcut_message">Afegeix una drecera a la pantalla d\'inici!</string>
     <string name="shortcut_show_tip">"No tornis a mostrar-ho"</string>
     <string name="shortcut_title">Us agraden els nostres fons de pantalla?</string>
-    <string name="show_exchange">Drecera del centre de bescanvi</string>
-    <string name="show_exchange_desc">Mostra o amaga la drecera del centre de bescanvi</string>
     <string name="show_free_aod">Mostra temes gratuïts</string>
     <string name="show_free_font">Mostra els tipus de lletra gratuïts</string>
     <string name="show_free_icons">Mostra les icones gratuïtes</string>
@@ -1161,8 +1159,6 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="show_mamual_hide_theme">Mostra els temes ocults</string>
     <string name="show_mamual_hide_wallpaper">Mostra els fons de pantalla ocults</string>
     <string name="show_phone_wallpaper">Mostra els fons de pantalla del telèfon</string>
-    <string name="show_theme_community">Drecera de la comunitat</string>
-    <string name="show_theme_community_desc">Mostra o amaga la drecera de la comunitat de temes</string>
     <string name="still_apply">Aplica</string>
     <string name="storage_migration_exit_msg">Per fer que Temes sigui compatible amb les pròximes versions d\'Android, hem traslladat els elements baixats a una ubicació nova. Reinicieu l\'aplicació per aplicar els canvis i veure el contingut baixat.</string>
     <string name="storage_permission_denied_desc">Permet que Temes accedeixi a l\'emmagatzematge per poder veure els elements</string>
@@ -1177,7 +1173,6 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Seleccioneu la ubicació</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenades</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
-    <string name="supersave_mode_toast_message">"Aquesta funció no està disponible quan s'utilitza l'estalvi de bateria Ultra. Desactiveu l'estalvi de bateria Ultra per poder-lo utilitzar."</string>
     <string name="support_theme_store_des">Els bons temes sempre són creats per dissenyadors amb talent. La nostra aplicació conté una petita quantitat d’anuncis que ens permeten donar suport al seu treball.</string>
     <string name="support_theme_store_supported">Gràcies pel teu recolzament!</string>
     <string name="support_theme_store_title">Donar suport als nostres dissenyadors</string>

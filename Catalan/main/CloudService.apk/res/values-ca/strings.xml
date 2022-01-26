@@ -27,10 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
-    <string name="accept_all_permission_content">Pot ser que Troba el dispositiu no funcioni correctament sense els permisos. Seleccioneu tots els permisos enumerats per poder utilitzar totes les funcions de Troba el dispositiu.</string>
-    <string name="accept_all_permission_title">Permisos necessaris</string>
-    <string name="accept_all_positive">Selecciona</string>
-    <string name="accept_use_permissions">Concedeix</string>
     <string name="access_denied">Accés denegat</string>
     <string name="account_related">El dispositiu està associat a un Compte Mi existent (%s). Connectau-vos a la xarxa per verificar el dispositiu.</string>
     <string name="actionbar_button_up_description">Enrere</string>
@@ -158,8 +154,6 @@
     <string name="find_device_dspt_provision">Si perds el teu dispositiu, pots anar a &lt;font color=#0097FF&gt;%s&lt;/font&gt; per localitzar-lo, bloquejar-lo o reiniciar-lo. Pots activar o desactivar aquesta funció en qualsevol moment a la Configuració.</string>
     <string name="find_device_gdpr_prompt">\"En activar Cerca dispositiu, accepteu la nostra\"<a href="app://com.miui.cloudservice.gdpr.license"><u>Política de privadesa</u></a>. Desactiveu aquesta funció si voleu retirar el vostre consentiment.</string>
     <string name="find_device_operation_failure_rpc">"No s'ha pogut realitzar l'operació a causa de l'error RPC."</string>
-    <string name="find_device_permissions_footer">"Toqueu \"Concedeix\" per concedir els permisos que heu seleccionat."</string>
-    <string name="find_device_permissions_header">"Us donem la benvinguda a Troba el dispositiu! Podeu utilitzar aquesta aplicació per localitzar, fer un seguiment i bloquejar el vostre dispositiu quan el perdeu. Troba el dispositiu requereix els permisos següents:"</string>
     <string name="find_device_privacy_policy_update_msg">S\'ha actualitzat la política de privadesa del dispositiu&lt;br/&gt;%1$s&lt;br/&gt;Llegir i acceptar la nova versió de la política de privadesa &lt;a href=%2$s&gt;&lt;u&gt;&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
     <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
     <string name="find_device_service_title">Troba el dispositiu</string>
@@ -686,8 +680,6 @@ Pot ser que la informació sobre la ubicació no es notifiqui quan la connexió 
     <string name="retain_data_high_quality_photo_waring_message">Un cop hàgiu tancat la sessió, se suprimiran de la galeria les còpies d\'alta qualitat de les vostres fotos i vídeos. Els fitxers originals corresponents continuaran emmagatzemats al núvol. També podeu descarregar fitxers originals abans de tancar la sessió.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Les imatges d’alta qualitat no estaran disponibles"</string>
     <string name="revoke_block_by_find_device">"Si retireu el consentiment, també desactivarà el dispositiu Cerca. Haureu de verificar la contrasenya després de continuar."</string>
-    <string name="revoke_permission_content">"No podreu continuar utilitzant Troba el dispositiu si retireu els permisos. Troba el dispositiu també es desactivarà. Se us demanarà que verifiqueu la vostra contrasenya abans de retirar-los."</string>
-    <string name="revoke_permission_title">Atenció</string>
     <string name="revoke_privacy_agreement_msg">"Si continues, retiraràs el teu consentiment a la Política de Privadesa de Xiaomi Cloud. La informació personal ja recollida i retinguda s'eliminarà en el termini específic d'acord amb les lleis i regulacions aplicables, llevat que es requereixi el contrari. Atès que Xiaomi Cloud proporciona els seus serveis basats en la recopilació de la informació personal necessària, la seva retirada del consentiment es durà a terme com a neda a acceptar els serveis de Xiaomi Cloud. Retirar el consentiment ara?"</string>
     <string name="revoke_privacy_confirm">Retirar</string>
     <string name="revoke_privacy_content">"Si continues, retiraràs el teu consentiment a la Política de privadesa &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;/a&gt; del dispositiu Cerca. La informació personal ja recollida i retinguda s'eliminarà en el termini específic d'acord amb les lleis i regulacions aplicables, llevat que es requereixi el contrari. Atès que el dispositiu Find proporciona els seus serveis basats en la recopilació de la informació personal necessària, la retirada del consentiment es mantindrà com a neda a acceptar els serveis de Cerca del dispositiu. Retirar el consentiment ara?"</string>

@@ -159,7 +159,7 @@
     <string name="bh_order_status">Estat de la comanda</string>
     <string name="bh_order_time">Temps de transacció</string>
     <string name="bh_other_charge">Un altre número de telèfon</string>
-    <string name="bh_other_operator">Altres operadores</string>
+    <string name="bh_other_operator">Altres transportistes</string>
     <string name="bh_other_traffic">Un altre número de telèfon</string>
     <string name="bh_pay_fail_desc">"No s'ha pogut connectar a la xarxa. Torneu enrere i completeu el pagament de nou."</string>
     <string name="bh_pay_fee">Ampunt</string>
