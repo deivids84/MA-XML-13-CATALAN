@@ -100,12 +100,14 @@ El economitzador de bateria tractarà de forma selectiva les aplicacions importa
     <string name="extreme_power_config_mode_title">Estalvi extrem de bateria</string>
     <string name="extreme_power_settings_title">Configuració</string>
     <string name="failure">Error</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Divendres</string>
     <string name="friday_shortest">Divendres</string>
@@ -139,6 +141,8 @@ El economitzador de bateria tractarà de forma selectiva les aplicacions importa
     <string name="material_timepicker_text_input_mode_description">Canvieu al mode d’entrada de text per introduir l’hora.</string>
     <string name="message_i_know">Entesos</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
@@ -153,6 +157,8 @@ El economitzador de bateria tractarà de forma selectiva les aplicacions importa
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>

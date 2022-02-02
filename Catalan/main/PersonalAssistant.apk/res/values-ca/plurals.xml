@@ -56,6 +56,26 @@
         <item quantity="other">Comença d\'aquí a %1$d minuts</item>
         <item quantity="one">Comença d\'aquí a %1$d minut</item>
     </plurals>
+    <plurals name="app_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d medalles de bronze</item>
+        <item quantity="one">%d medalla de bronze</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d medalles d\'or</item>
+        <item quantity="one">%d medalla d\'or</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_medal_count">
+        <item quantity="other">%d medalles en total</item>
+        <item quantity="one">%d medalla en total</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_rank">
+        <item quantity="other">Lloc %d</item>
+        <item quantity="one">Lloc %d</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d medalles de plata</item>
+        <item quantity="one">%d medalla de plata</item>
+    </plurals>
     <plurals name="app_course_to_start">
         <item quantity="other">Comença d\'aquí a %1$d minuts</item>
         <item quantity="one">Comença d\'aquí a %1$d min</item>

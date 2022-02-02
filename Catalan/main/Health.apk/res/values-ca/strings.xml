@@ -375,6 +375,11 @@ Xiaomi Salut només us notificarà sobre articles importants."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">Per monitorar més precisament el son, permet que s\'iniciï automàticament Xiaomi Salut.</string>
     <string name="dialog_sure">D\'acord</string>
+    <string name="dialog_upgrade_description">"1. Nou disseny.
+2. Sincronitza les dades entre dispositius.
+3. Visualitzeu les dades de salut de Xiaomi Wear, Salut i altres aplicacions en un sol lloc."</string>
+    <string name="dialog_upgrade_positive_btn">Actualitza</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">Benvingut/da a Xiaomi Salut! Pots fer servir aquesta aplicació per a comptar passes, fer un seguiment del son, del període i del pes, i sincronitzar les teves dades estadístiques al núvol.</string>
     <string name="dialog_user_agreement_purpose2">Benvingut/da a Xiaomi Health! Pots fer servir aquesta aplicació per a comptar les teves passes, analitzar el son, portar un seguiment de la menstruació, anotar el pes i més.</string>
     <string name="diastolic_pressure">Diastòlica</string>

@@ -117,6 +117,8 @@
     <string name="box_title_gallery">Caixa d’eines de vídeo</string>
     <string name="box_title_mivideo">Característiques addicionals</string>
     <string name="brvah_app_name">Biblioteca</string>
+    <string name="btn_clear_history">Neteja l\'historial</string>
+    <string name="btn_empty_go_to_download">Baixa</string>
     <string name="cancel">Cancel·lar</string>
     <string name="cancel_choose">Desselecciona</string>
     <string name="cancel_subscribe_tips">Deixant de seguir?</string>
@@ -270,6 +272,7 @@
     <string name="content">Contingut</string>
     <string name="content_can_not_null">"No es pot enviar el missatge sense descripció."</string>
     <string name="continue_play">Reprèn</string>
+    <string name="controller_bar_edit">Edita</string>
     <string name="data_empty">Aquí no hi ha elements</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
@@ -292,15 +295,27 @@ Envia aquest codi al supervisor."</string>
     <string name="dialog_app_comment_title">Valoreu la nostra aplicació</string>
     <string name="dialog_bookmark_add">Afegeix</string>
     <string name="dialog_bookmark_cancel">Cancel·la</string>
+    <string name="dialog_cancel">Cancel·la</string>
+    <string name="dialog_clearn_content">Voleu esborrar l\'historial de navegació ara?</string>
+    <string name="dialog_clearn_title">Neteja l\'historial</string>
+    <string name="dialog_confirm">D\'acord</string>
+    <string name="dialog_delete_bookmarks_content">Voleu suprimir l\'adreça d\'interès ara?</string>
     <string name="dialog_disagree_privacychange_info">"No podreu utilitzar els serveis de transmissió en línia de Mi Vídeo si no accepteu la nostra Política de privadesa. Toqueu \"Cancel·la\" per tornar enrere o \"No estic d'acord\" per continuar i utilitzar Mi Vídeo només com a reproductor local."</string>
     <string name="dialog_disagree_privacychange_title">"No hi esteu d'acord?"</string>
+    <string name="dialog_edit_bookmarks">Edita l\'adreça d\'interès</string>
     <string name="dialog_edit_hint_bookmarks_name">Nom de l’adreça d’interès</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
+    <string name="dialog_edit_hint_name">Nom</string>
+    <string name="dialog_edit_hint_url">URL</string>
     <string name="dialog_jumpto_choose">"No ho tornis a mostrar"</string>
     <string name="dialog_jumpto_content">Voleu canviar a Mi Video per accedir a funcions de reproducció addicionals?</string>
     <string name="dialog_jumpto_title">Mi Video</string>
+    <string name="dialog_no_video_confirm">Entesos</string>
+    <string name="dialog_no_video_tip">Proveu d\'obrir primer els detalls del vídeo. El botó de baixada estarà disponible un cop es trobi un vídeo.</string>
+    <string name="dialog_no_video_title">"No s'ha pogut trobar el vídeo"</string>
     <string name="dialog_privacy_change_info">"Hem actualitzat la Política de privadesa de Mi Vídeo a causa dels ajustaments dels serveis que oferim. Per entendre els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d'utilitzar l'aplicació."</string>
     <string name="dialog_privacy_change_title">Actualitza la Política de privadesa</string>
+    <string name="dialog_privacy_experience_plan">Uniu-vos al nostre programa d\'experiència d\'usuari per compartir dades d\'usuari amb nosaltres per ajudar-nos a millorar els nostres productes i serveis.</string>
     <string name="dialog_privacy_info_new2">"TPer poder utilitzar els serveis, heu d'acceptar que %1$s recollirà, processarà i utilitzarà la vostra informació personal. Al tocar Acceptar confirmeu que heu llegit i acceptat la nostra &lt;a href=%2$s&gt;política de privadesa&lt;/a&gt;."</string>
     <string name="dialog_privacy_info_new3">"Per poder utilitzar aquest servei, heu de permetre que %1$s reculli, processi i utilitzi la vostra informació personal d'acord amb la Política de privadesa. Si toqueu Accepta a continuació, accepteu la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; de Xiaomi i el &lt;a href=%3$s&gt;Acord d'usuari&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Si toqueu Accepta també podreu accedir a Mi Video a la llista d'aplicacions instal·lades al dispositiu. Amb aquest permís, Mi Video podrà compartir elements, entendre si hi ha instal·lada una aplicació al dispositiu, quina versió d'una aplicació s'instal·la i si una aplicació és segura."</string>
     <string name="dialog_privacy_info_new4">"Benvingut a Mi Vídeo! Aquesta aplicació proporciona els serveis següents:&lt;br&gt;&lt;/br&gt;- Serveis de transmissió en línia&lt;br&gt;&lt;/br&gt;- Un reproductor de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necessita recopilar la informació personal necessària per proporcionar-vos el serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra Política de privadesa. Podreu canviar la configuració relacionada a Configuració &gt; Contrasenyes i seguretat.&lt;br&gt;&lt;/br&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d'utilitzar Mi Vídeo."</string>
@@ -315,9 +330,17 @@ Envia aquest codi al supervisor."</string>
     <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_revoke_privacy_info_new2">Després de revocar l\'autorització, l\'aplicació deixarà de recopilar dades, i totes les dades relacionades s\'eliminaran dels nostres servidors. Això pot fer que l\'aplicació quedi pràcticament inutilitzable. Vols revocar l\'autorització de totes formes?</string>
     <string name="dialog_revoke_privacy_title">Revocant l\'autorització</string>
+    <string name="dialog_select_folder_content">Voleu desar totes les baixades futures en aquesta carpeta?</string>
+    <string name="dialog_select_folder_title">Seleccioneu la carpeta</string>
     <string name="dialog_set_default_later">No gràcies</string>
     <string name="dialog_set_default_set">Estableix</string>
     <string name="dialog_set_default_text">Voleu establir Mi Video com a reproductor de vídeo per defecte?</string>
+    <string name="dialog_video_change">Canvia</string>
+    <string name="dialog_video_download_tip">S\'ha afegit a la cua de baixades</string>
+    <string name="dialog_video_download_view">Mostra</string>
+    <string name="dialog_video_high">Alta</string>
+    <string name="dialog_video_low">Baixa</string>
+    <string name="dialog_video_medium">Mitjana</string>
     <string name="disagree">"No hi estic d'acord"</string>
     <string name="diy_channels_tips">Ara podeu personalitzar la llista dels vostres canals.</string>
     <string name="do_not_show_again">"No tornar-ho a mostrar"</string>
@@ -367,6 +390,9 @@ Envia aquest codi al supervisor."</string>
     <string name="exo_download_failed">No s\'ha pogut baixar</string>
     <string name="exo_download_notification_channel_name">Baixades</string>
     <string name="exo_download_removing">S\'estan suprimint les baixades</string>
+    <string name="exo_media_action_repeat_all_description">Repeteix-ho tot</string>
+    <string name="exo_media_action_repeat_off_description">No ho repeteixis</string>
+    <string name="exo_media_action_repeat_one_description">Repeteix-ho una vegada</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -481,6 +507,7 @@ Envia aquest codi al supervisor."</string>
     <string name="galleryplus_network_connect_confirm">Connecta\'t al wifi o activa les dades mòbils a la configuració de la xarxa.</string>
     <string name="galleryplus_network_error">"No s'ha pogut connectar a la xarxa"</string>
     <string name="galleryplus_network_not_wifi">Fer servir les de dades mòbils per transmetre vídeos pot generar despeses addicionals per part de l\'operador</string>
+    <string name="galleryplus_next_step">Següent</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gestiona fitxers %$s Afegeix subtítols %$s Emet vídeos %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Protegiu els vostres vídeos privats amb una contrasenya %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Baixeu vídeos de TikTok, Instagram i Twitter %$s</string>
@@ -496,6 +523,8 @@ Envia aquest codi al supervisor."</string>
     <string name="galleryplus_orientation_unlock">L\'orientació de la pantalla està desbloquejada</string>
     <string name="galleryplus_permission_content">Concedeix a Mi Vídeo els permisos necessaris per poder utilitzar aquesta funció.</string>
     <string name="galleryplus_permission_content_opt">Mi Video necessita permisos per funcionar amb normalitat. Esborreu totes les dades de l\'aplicació a Configuració i torneu a obrir l\'aplicació.</string>
+    <string name="galleryplus_permission_content_opt2">"Mi Vídeo necessita permisos per funcionar amb normalitat. Esborreu totes les dades de l'aplicació a la configuració i torneu a obrir l'aplicació.
+Aquesta operació no afectarà les imatges de la galeria."</string>
     <string name="galleryplus_permission_content_xms">Mi Video necessita permisos per funcionar amb normalitat. Aneu a Configuració i doneu a Mi Video els permisos necessaris.</string>
     <string name="galleryplus_permission_open_settings">Configuració</string>
     <string name="galleryplus_permission_refuse">Cancel·la</string>
@@ -531,7 +560,9 @@ Envia aquest codi al supervisor."</string>
     <string name="galleryplus_talkback_btn_send">Envia</string>
     <string name="galleryplus_talkback_btn_unfold_speed_view">Velocitat de reproducció</string>
     <string name="galleryplus_talkback_btn_unmute">No silenciïs</string>
+    <string name="galleryplus_talkback_btn_volume_adjust">Volum</string>
     <string name="galleryplus_talkback_focused_speed">Seleccionat, %sX</string>
+    <string name="galleryplus_talkback_miplay_volume_change">Canvia el volum a %d</string>
     <string name="galleryplus_talkback_sound_track_item_ai_music">Banda sonora automàtica</string>
     <string name="galleryplus_talkback_sound_track_item_local_music">Banda sonora local</string>
     <string name="galleryplus_talkback_sound_track_item_no_music">Sense banda sonora</string>
@@ -548,6 +579,7 @@ Envia aquest codi al supervisor."</string>
     <string name="galleryplus_v_dialog_hint_too_long">El nom del fitxer és massa llarg</string>
     <string name="galleryplus_v_network_failed">"No s'ha pogut connectar a la xarxa"</string>
     <string name="galleryplus_v_ok">D\'acord</string>
+    <string name="galleryplus_video_circulate_quit">Atura la reproducció de vídeo</string>
     <string name="galleryplus_video_edit_save_video">Generant el vídeo amb subtítols…</string>
     <string name="galleryplus_vp_hardware_unsported">"Aquest vídeo no es pot reproduir al teu dispositiu."</string>
     <string name="galleryplus_vp_videoview_error_button">Entesos</string>
@@ -560,6 +592,7 @@ Envia aquest codi al supervisor."</string>
     <string name="got_it">Entesos</string>
     <string name="goto_sign_up">Crea un compte</string>
     <string name="have_learned">Entesos</string>
+    <string name="hello_blank_fragment">Hola fragment en blanc</string>
     <string name="hidden_channels">"Els següents canals no es mostraran a la pàgina Principal."</string>
     <string name="hide">Amaga</string>
     <string name="hint_icon_ad_title">Recomanat</string>
@@ -583,6 +616,9 @@ Envia aquest codi al supervisor."</string>
     <string name="item_card_more_trailers">Més tràilers</string>
     <string name="item_card_open_in">"Obre en "</string>
     <string name="item_card_related">Relacionats</string>
+    <string name="item_download_only_wify">Baixa només per Wi-Fi</string>
+    <string name="item_download_path">Baixa la ubicació</string>
+    <string name="item_download_path_setting">Baixa la configuració de la ubicació</string>
     <string name="item_setting_go_back">Retirada del consentiment</string>
     <string name="just_a_second">Un moment…</string>
     <string name="language_later_setting_tips">Pots canviar les teves preferències lingüístiques a Perfil &gt; Idioma.</string>
@@ -606,6 +642,7 @@ per a la millor experiència de visualització"</string>
     <string name="local_play_tip">Reproduint vídeo local</string>
     <string name="local_push_setting_power_tag">Notificacions sobre vídeos locals</string>
     <string name="local_push_title">Popular avui</string>
+    <string name="local_push_video_title">Cerca vídeos locals nous</string>
     <string name="local_video_create_a_new_playlist">Nova llista de reproducció</string>
     <string name="local_video_date">Data</string>
     <string name="local_video_dialog_default">Per defecte</string>
@@ -761,6 +798,10 @@ per a la millor experiència de visualització"</string>
     <string name="lv_video_null">Sense vídeos</string>
     <string name="lv_volume">Volum</string>
     <string name="manage">Gestiona</string>
+    <string name="mangotv_feature_list_title3">S\'ha afegit l\'episodi %s</string>
+    <string name="mangotv_feature_more">Més</string>
+    <string name="mangotv_feature_title1">Episodis</string>
+    <string name="mangotv_feature_title2">Episodis</string>
     <string name="mediation_ad">AD</string>
     <string name="mediation_ad_can_not_share">"No es pot compartir aquest vídeo"</string>
     <string name="mi_video">Mi Vídeo</string>
@@ -873,6 +914,8 @@ per a la millor experiència de visualització"</string>
     <string name="network_failed">"No ha estat possible connectar a la xarxa"</string>
     <string name="neverthink_player_loading">S\'està carregant el vídeo …desvetllar</string>
     <string name="new_channel_tip">Fes un cop d\'ull als canals nous!</string>
+    <string name="newyearfestival_go_to_draw_prizes">Anar al sorteig</string>
+    <string name="newyearfestival_watch_the_video_to_draw_prizes">Mireu vídeos per entrar al sorteig</string>
     <string name="next">Següent</string>
     <string name="next_step">Següent</string>
     <string name="nick_name">Sobrenom</string>
@@ -899,7 +942,7 @@ per a la millor experiència de visualització"</string>
     <string name="notification_bar_player_subtitle">Mostra el reproductor minimitzat en l\'àrea de notificacions</string>
     <string name="notification_bar_player_title">Minimitza el reproductor</string>
     <string name="notification_last_played_status">Historial de reproducció</string>
-    <string name="notification_open_tip">Activa-ho per a rebre notificacions</string>
+    <string name="notification_open_tip">Rebre notificacions quan es trobin vídeos locals nous</string>
     <string name="notification_promotion">Recomanat</string>
     <string name="notification_recall_action">Activa</string>
     <string name="notification_recall_desc">Mi Video pot notificar-te vídeos populars i les teves subscripcions.</string>
@@ -907,8 +950,17 @@ per a la millor experiència de visualització"</string>
     <string name="notification_tool">Caixa d\'eines</string>
     <string name="notify_apk_installed">S\'ha baixat correctament</string>
     <string name="off_tip_firework_recommend">"No rebràs recomanacions de contingut personalitzat de Firework"</string>
+    <string name="offline_notification_text">Toqueu per obrir l\'anunci</string>
+    <string name="offline_notification_title">Mireu l\'anunci que heu desat sense connexió</string>
+    <string name="offline_opt_in_confirm">D\'acord</string>
+    <string name="offline_opt_in_confirmation">"Rebreu una notificació amb l'enllaç quan torneu a tenir connexió"</string>
+    <string name="offline_opt_in_decline">No gràcies</string>
+    <string name="offline_opt_in_message">"Us enviarem una notificació amb un enllaç al lloc de l'anunciant."</string>
+    <string name="offline_opt_in_title">"Obre l'anunci quan torneu a tenir connexió."</string>
     <string name="ok">D\'acord</string>
     <string name="on_tip_firework_recommend">"Rebràs recomanacions de contingut personalitzat de Firework"</string>
+    <string name="online_play_hint">Per exemple: http://www.example.com/video.mp4</string>
+    <string name="online_play_title">Introduïu l\'URL</string>
     <string name="open_settings">Configuració</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
@@ -1139,6 +1191,7 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="plus_deleting_wait">Eliminant</string>
     <string name="plus_fallback">Comentaris</string>
     <string name="plus_gallery_allvideos">Tots els vídeos</string>
+    <string name="plus_gallery_files">Fitxers</string>
     <string name="plus_gallery_folder_switch_guid">Toqueu per canviar a la vista de llista</string>
     <string name="plus_gallery_mediatype_aimusic">Banda sonora</string>
     <string name="plus_gallery_mediatype_changtu">Imatges llargues</string>
@@ -1258,8 +1311,11 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="popup_click_for_download_video">Descarrega el vídeo</string>
     <string name="popup_pip_activate_button">Configuració</string>
     <string name="popup_pip_not_activated">Primer permeteu que Mi Video utilitzi la imatge en imatge.</string>
+    <string name="popup_window_home_tip">Baixa vídeos en línia</string>
     <string name="privacy_agree_subtitle">El consentiment a la Política de privadesa us permet utilitzar totes les funcions de Mi Video</string>
     <string name="privacy_agree_title">Consentiment</string>
+    <string name="privacy_experience_plan">Uniu-vos al nostre Programa d’experiència d’usuari per compartir dades d’usuari amb nosaltres per ajudar-nos a millorar els nostres productes i serveis</string>
+    <string name="privacy_experience_title">Programa d\'experiència d\'usuari</string>
     <string name="privacy_revoke_setting">En desactivar l\'interruptor, retirareu el vostre consentiment a la Política de privadesa de Mi Vídeo.</string>
     <string name="privacy_revoke_subtitle">Retira el consentiment a la Política de privadesa de Mi Video</string>
     <string name="privacy_revoke_title">Retirada del consentiment</string>
@@ -1279,7 +1335,7 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="question_click_bottom_tab">També podeu tocar una drecera per obrir un lloc web.</string>
     <string name="question_click_with_light">Toca el botó de baixada després que s\'encengui.</string>
     <string name="question_edit_url_here">Cerqueu o introduïu URL aquí.</string>
-    <string name="question_how_to_download_video">Com puc descarregar vídeos?</string>
+    <string name="question_how_to_download_video">Com baixar els vídeos?</string>
     <string name="question_known">Ho tinc</string>
     <string name="question_look_video_here">Els vídeos baixats es desaran aquí.</string>
     <string name="question_next">Pròxim</string>
@@ -1361,11 +1417,15 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="share">Compartiu</string>
     <string name="share_fail">"No s'ha pogut compartir. Comprova els teus ajustaments de xarxa i torna a provar-ho."</string>
     <string name="share_success">Compartit amb èxit</string>
+    <string name="share_text_before_link">Mireu i baixeu vídeos fantàstics de forma gratuïta a Mi Vídeo</string>
     <string name="share_ugc_content">Mireu el %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Uniu-vos</string>
     <string name="share_ugc_waitting">Generació d\'enllaços…</string>
     <string name="show_the_location">Tipus de notificacions</string>
     <string name="sign_in">S\'està iniciant sessió</string>
+    <string name="sign_in_google_account">Inicia la sessió amb Google</string>
+    <string name="sign_in_google_account_hint">"Inicieu la sessió al compte de Google per veure més vídeos que us agradaran"</string>
+    <string name="sign_in_mi_account">Inicieu la sessió amb el Compte Mi</string>
     <string name="sign_in_progress">Iniciant sessió…</string>
     <string name="sign_in_title">Inicieu sessió amb el vostre Compte Mi</string>
     <string name="slid_fail_message">"No s'ha pogut desar"</string>
@@ -1444,7 +1504,8 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="tab_name_video">Vídeos</string>
     <string name="talkback_ad_clicked">Anunci</string>
     <string name="talkback_background_playback">Reproducció en segon pla</string>
-    <string name="target_sdk_version_30_upgrade_tips">És possible que alguns vídeos no es vegin aquí a causa de les restriccions d’Android 11. Toqueu \"Fitxers\" per trobar altres vídeos.</string>
+    <string name="talkback_voice_search">Cerca per veu</string>
+    <string name="target_sdk_version_30_upgrade_tips">És possible que alguns vídeos no es vegin aquí a causa de les restriccions d\'Android. Toqueu \"Fitxers\" per trobar altres vídeos.</string>
     <string name="temporary_not_available">"Aquesta funció no està disponible, encara"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'Aixecament de la Llei Marcial</string>
     <string name="the_anti_aggression_day">Dia Internacional de la No-Violència</string>
@@ -1496,18 +1557,33 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
     <string name="tip_auth_again">"Com que no heu acceptat prèviament els termes de la Política de privadesa corresponent del proveïdor de contingut de tercers, no podem mostrar contingut de vídeo a Moments. Toqueu el botó següent per acceptar la Política de privadesa i accedir a aquesta funció."</string>
     <string name="tip_author_click">Prem per a veure més vídeos d\'aquest compte</string>
+    <string name="tip_download_video_to_save_here">%d. El vídeo es desarà a baixades</string>
+    <string name="tip_enter_the_website">%d. Obre un lloc web o una aplicació</string>
+    <string name="tip_local_long_press_for_manager">Manteniu premut per gestionar els vídeos</string>
+    <string name="tip_local_manager_here">Gestioneu els vostres fitxers aquí</string>
+    <string name="tip_play_a_video">%d. Reprodueix un vídeo</string>
     <string name="tip_pop">&lt;Data&gt;El contingut de Moments és proporcionat per Firework. Per millorar la vostra experiència de visualització i rebre recomanacions de contingut més rellevants, permeteu a Firework recopilar, processar i utilitzar la vostra informació personal d’acord amb la seva Política de privadesa. Llegiu i accepteu la &lt;a href=\"%1$s\"&gt; Política de privadesa de Firework &lt;/a&gt; abans d\'utilitzar els seus serveis. &lt;/Data&gt;</string>
+    <string name="tip_storage_used_space" formatted="false">Utilitzat %.2f GB/%.2f GB</string>
+    <string name="tip_tap_download_button">%d. Toqueu \"Baixa\"</string>
     <string name="tip_topic_click">Prem per a trobar més vídeos sobre aquest tema</string>
+    <string name="title_bookmarks">Adreces d\'interès</string>
+    <string name="title_continue_to_borwser">Obre al navegador</string>
+    <string name="title_download_setting">Configuració de les baixades</string>
     <string name="title_firework_recommend">Recomanacions de Firework</string>
+    <string name="title_history">Historial</string>
     <string name="title_publisher">Creadors</string>
+    <string name="title_select_directory">Seleccioneu la carpeta</string>
+    <string name="title_selected">Seleccionat</string>
     <string name="title_subscribe">Subscripcions</string>
     <string name="toast_bookmark_add_success">S’ha afegit una adreça d’interès</string>
     <string name="toast_bookmark_already_created">Aquesta adreça d’interès ja existeix</string>
+    <string name="toast_bookmark_edit_success">S\'ha editat l\'adreça d\'interès correctament</string>
     <string name="toast_bookmark_input_name">Introduïu el nom de l’adreça d’interès</string>
     <string name="toast_bookmark_input_url">Introduïu l’URL</string>
     <string name="toast_bookmark_success_to_add">S’ha afegit l’adreça d’interès</string>
     <string name="toast_bookmark_success_to_delete">S’ha suprimit l’adreça d’interès</string>
     <string name="toast_bookmark_url_error">Introduïu un URL vàlid</string>
+    <string name="toast_m3u8_download_path_tip">"No es pot canviar la ruta de baixada del contingut en format m3u8"</string>
     <string name="toast_no_data">"Aquest element no està disponible ara. Torna més tard."</string>
     <string name="toast_request_too_frequently">No tan ràpid!</string>
     <string name="toast_share_failed">"No s'ha pogut compartir. Espereu un minut i proveu-ho de nou."</string>
@@ -1555,6 +1631,7 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="v_network_failed">"No ha estat possible connectar-se a la xarxa"</string>
     <string name="v_next">Següent</string>
     <string name="v_ok">D\'acord</string>
+    <string name="v_online_play">Transmet en línia</string>
     <string name="v_pw_need_update_app">Actualitza Mi Video per a fer servir totes les seves funcions</string>
     <string name="v_save">Deseu</string>
     <string name="v_search">Cercar</string>
@@ -1603,6 +1680,12 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="welcome_tip_content1">Potent reproductor de vídeo local</string>
+    <string name="welcome_tip_content2">Milions de vídeos per veure en línia o baixar</string>
+    <string name="welcome_tip_explore_more">Descobreix</string>
+    <string name="welcome_tip_into_mivideo">Primers passos</string>
+    <string name="welcome_tip_skip">Omet</string>
+    <string name="welcome_tip_title">Us donem la benvinguda a Mi Video</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Error al gestor de descàrregues de Connect, comproveu l\'estat del gestor de descàrregues al Gestió d\'aplicacions.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>

@@ -19,7 +19,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -34,17 +34,20 @@
     <string name="account_summary">Còpia de seguretat del Compte Google, Compte Mi i altres dades d\'usuari</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
+    <string name="agree_button">D\'acord</string>
+    <string name="agree_revoke_permission_title">Retirada de permisos</string>
     <string name="alert_button_agree_and_continue">Permet</string>
     <string name="alert_button_deny">Declina</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite sol·licita permís per crear una còpia de seguretat a l\'ordinador. Voleu permetre-ho?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite sol·licita permís per restaurar elements al telèfon. Voleu permetre-ho?</string>
     <string name="alert_miasist_occupy_backup">S\'està fent la còpia de seguretat dels elements utilitzant Mi PC Suite… Espereu fins que es completi la còpia de seguretat i proveu-ho de nou.</string>
-    <string name="alert_miasist_occupy_restore">S\'estan restaurant els elements mitjançant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
+    <string name="alert_miasist_occupy_restore">S\'estan restaurant els elements utilitzant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
     <string name="alert_phone_occupy_backup">"Ara no es pot utilitzar Mi PC Suite. Completeu la còpia de seguretat o restaureu els elements al telèfon i torneu-ho a provar."</string>
-    <string name="alert_second_space_not_support_miasist">"No es pot utilitzar Mi PC Suite en el segon espai. Canvieu al primer espai."</string>
-    <string name="alert_title_backup_to_miasist">Voleu fer una còpia de seguretat d\'elements amb Mi PC Suite?</string>
+    <string name="alert_second_space_not_support_miasist">"No es pot utilitzar Mi PC Suite al segon espai. Canvieu al primer espai."</string>
+    <string name="alert_title_backup_to_miasist">Voleu fer una còpia de seguretat dels elements amb Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Voleu restaurar els elements al telèfon?</string>
     <string name="already_enable_encrypt">El xifratge ja està activat</string>
+    <string name="alternative_ui_content">Aquesta característica us permet fer còpies de seguretat i restaurar elements amb el vostre dispositiu mòbil i ordinador. Aquesta característica ha de connectar-se a Internet i requereix els permisos obligatoris següents per poder funcionar amb normalitat:</string>
     <string name="am">AM</string>
     <string name="app_name">Còpia de seguretat</string>
     <string name="apps_and_data_item_desc">Aplicacions i dades</string>
@@ -60,7 +63,7 @@
     <string name="auto_backup_progress">S\'està fent una còpia de seguretat…</string>
     <string name="auto_backup_select_user_apps">Trieu les aplicacions</string>
     <string name="auto_backup_selected_user_apps">Aplicacions seleccionades</string>
-    <string name="auto_backup_setting">Planifica les còpies de seguretat periòdiques</string>
+    <string name="auto_backup_setting">Planifiqueu les còpies de seguretat periòdiques</string>
     <string name="auto_backup_system_data">Sistema</string>
     <string name="auto_backup_time">Hora</string>
     <string name="auto_backup_user_data">Aplicacions</string>
@@ -76,7 +79,7 @@
     <string name="backup_finished">S\'ha copiat correctament</string>
     <string name="backup_hint">Manteniu el dispositiu encès</string>
     <string name="backup_hint_onpad">Manteniu el dispositiu encès</string>
-    <string name="backup_hint_pad">Mantingueu el dispositiu encès</string>
+    <string name="backup_hint_pad">Manteniu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
     <string name="backup_new">Noves:</string>
     <string name="backup_progress">S\'està fent una còpia de seguretat…</string>
@@ -106,16 +109,14 @@
     <string name="cancel_moving_dialog_message">Voleu aturar la importació?</string>
     <string name="cancel_moving_dialog_title">Atura la importació</string>
     <string name="cancel_restore">Atura</string>
-    <string name="check_privacy_policy">Visualitza la política de privadesa</string>
+    <string name="check_privacy_policy">Mostra la Política de privadesa</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="click_soft_ap_to_link">Seleccioneu un punt d\'accés per connectar-vos</string>
-    <string name="click_to_view">Toqueu per mostrar-ho</string>
+    <string name="click_to_view">Toqueu per veure-ho</string>
     <string name="close">Tanca</string>
     <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
     <string name="close_twice_auth_note">"Nota:
-Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l'autenticació de dos factors d'Apple es desactivarà. Si no veieu l'opció de desactivar l'autenticació de dos factors a la pàgina del compte d'ID d'Apple, no podreu desactivar-la."</string>
-    <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!ipage=signin to close"</string>
+Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l'autenticació de dos factors d'Apple es desactivarà. Si no veieu l'opció de desactivar l'autenticació de dos factors a la pàgina del compte d'Apple, no podreu desactivar-la."</string>
     <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Accediu a l\'ID d\'Apple que voleu desactivar l\'autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i seleccioneu \"Edita\".</string>
     <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
@@ -125,11 +126,11 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
     <string name="cloud_backup_login">Inicieu la sessió al Compte Mi</string>
     <string name="cloud_backup_window_title">Còpies de seguretat de Xiaomi Cloud</string>
-    <string name="cloud_home_title">Núvol Xiaomi</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Última còpia de seguretat"</string>
     <string name="cloud_no_backup">Sense còpies de seguretat</string>
-    <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per %s, toqueu Restaura</string>
+    <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per a %s, toqueu Restaura</string>
     <string name="cloud_restore_title">Restaura les dades de la còpia de seguretat</string>
     <string name="cloud_restore_window_title">Restaura des de Xiaomi Cloud</string>
     <string name="cloud_search">S\'està cercant…</string>
@@ -138,7 +139,7 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="compute_delete_contact_info">S\'està obtenint la informació…</string>
     <string name="confirm_exit_link">Surt</string>
     <string name="confirm_exit_link_cancel">"No surtis"</string>
-    <string name="confirm_exit_link_msg">"Si sortiu de l'aplicació interrompreu la transferència en curs. Haureu d'establir una connexió entre els dos dispositius de nou. Voleu sortir de l'aplicació de totes maneres?"</string>
+    <string name="confirm_exit_link_msg">"Si sortiu de l'aplicació, s'interromprà la transferència en curs. Haureu d'establir una connexió entre els dos dispositius de nou. Voleu sortir de l'aplicació de totes maneres?"</string>
     <string name="confirm_exit_link_title">Interrupció de la transferència</string>
     <string name="connect_soft_ap_label">S\'està connectant a un dispositiu nou…</string>
     <string name="connect_wifi">Connecteu-vos a la Wi-Fi</string>
@@ -244,6 +245,8 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="gallery_summary">Configuració de la Galeria (sense incloure les fotos)</string>
+    <string name="grant_all_permission_content">Concediu tots els permisos obligatoris per poder fer còpies de seguretat i restaurar els elements.</string>
+    <string name="grant_all_permission_title">Permisos necessaris</string>
     <string name="guarded_mode_dialog_backup_message">"Les còpies de seguretat no estan permeses al mode de Convidat."</string>
     <string name="guarded_mode_dialog_title">"Esteu en mode de Convidat"</string>
     <string name="guarded_mode_dialog_transfer_message">"No es pot utilitzar Mi Mover al mode de Convidat."</string>
@@ -534,6 +537,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="permission_content_title">Permisos necessaris</string>
     <string name="permission_dialog_positive_btn">Configuració</string>
     <string name="permission_intro">Detalls dels permisos</string>
+    <string name="permission_management_entrance">Gestiona els permisos</string>
     <string name="permission_not_admit">No concedit</string>
     <string name="permission_purpose">Aquesta característica us permet fer una còpia de seguretat i restaurar elements mitjançant el dispositiu mòbil, els ordinadors i les unitats USB.</string>
     <string name="permission_read_apps">Accedeix a la llista d\'aplicacions instal·lades en aquest dispositiu</string>
@@ -542,6 +546,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="permission_read_contacts">Accedeix als contactes</string>
     <string name="permission_read_sms">Accedeix als missatges</string>
     <string name="permission_read_storage">Accedir i desar elements a l\'emmagatzematge</string>
+    <string name="permission_read_storage_global">Accés a l\'emmagatzematge</string>
     <string name="permission_read_write_storage">Per poder fer una còpia de còpia de casa dels elements, permeteu que aquesta funció accedeixi primer a l\'emmagatzematge.</string>
     <string name="permission_read_write_sys_app">Per poder fer una còpia de seguretat i restaurar missatges, contactes i historial de trucades, permeteu que aquesta funció accedeixi primer a aquests elements.</string>
     <string name="permission_related">Permisos</string>
@@ -555,6 +560,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="permission_show_all_apps_desc">Per poder veure les aplicacions de les quals es pot fer una còpia de música, permet que aquesta aplicació accedeixi primer a la llista d\'aplicacions instal·lades en aquest dispositiu.</string>
     <string name="permission_write_calllog">Edita l\'historial de trucades</string>
     <string name="permission_write_contacts">Edita els contactes</string>
+    <string name="permission_write_storage">Desa els elements a l\'emmagatzematge</string>
     <string name="phone_title">Configuració del telèfon</string>
     <string name="platform_chooser_item_android_mi">Telèfon Mi</string>
     <string name="platform_chooser_item_android_others">Altres marques</string>
@@ -562,8 +568,10 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="platform_chooser_title">Trieu el dispositiu antic</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="privacy_policy_link"><Data>\"Per obtenir més informació sobre les nostres pràctiques de tractament de dades i els vostres drets com a usuari, llegiu i accepteu la nostra &lt;a href=\'%1s\'&gt;Política de privadesa&lt;/a&gt; abans de continuar.\"</Data></string>
     <string name="privacy_settings">Privacitat</string>
     <string name="privacy_settings_title">Política de privadesa</string>
+    <string name="private_policy_text">Política de privadesa</string>
     <string name="progress_backup_hint">S\'està fent una còpia de seguretat…</string>
     <string name="progress_restore_hint">S\'està restaurant…</string>
     <string name="prompt_reading">S\'està llegint…</string>
@@ -582,6 +590,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="restore_counts">Restaura:</string>
     <string name="restore_data">Trieu els elements a restaurar</string>
     <string name="restore_failed">"No s'ha pogut restaurar"</string>
+    <string name="restore_files">Per restaurar elements</string>
     <string name="restore_finished">S\'ha restaurat correctament</string>
     <string name="restore_is_running">S\'està restaurant el dispositiu</string>
     <string name="restore_launcher_layout_hit">Restaura la configuració del llançador</string>
@@ -590,6 +599,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="restore_telephony_hit">La restauració reiniciarà l\'aplicació Telèfon.</string>
     <string name="retry">Torna-ho a provar</string>
     <string name="reverse_all">Neteja-ho tot</string>
+    <string name="revoke_permission_dialog_content">"No podreu fer còpies de seguretat ni restaurar elements sense tots els permisos obligatoris. Voleu retirar els permisos de totes maneres?"</string>
     <string name="router_backup_hint">Mantingueu el dispositiu encès</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
@@ -949,6 +959,7 @@ Allibereu espai o feu diverses transferències més petites."</string>
     <string name="usb_trans_select_data_no_space">"Només hi ha %s disponibles a la unitat USB.
 Allibereu espai o transferiu només els elements importants."</string>
     <string name="user_feedback">Comentaris</string>
+    <string name="user_know_button_text">D\'acord</string>
     <string name="user_name">ID d\'Apple o correu</string>
     <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
     <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>

@@ -174,6 +174,7 @@
     <string name="copy">Còpia</string>
     <string name="count_down_tip">%ds restants</string>
     <string name="create_home_icon">Drecera de la pantalla d’inici</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">"Els superfons de pantalla no són compatibles amb aquest dispositiu"</string>
     <string name="current_using">Actual</string>
     <string name="current_using_desktop_wallpaper_text">Pantalla d\'inici</string>
     <string name="current_using_float_wallpaper_text">Transparent</string>
@@ -223,6 +224,8 @@
     <string name="de_super_wp_land_position_default_des">Punt d’aterratge</string>
     <string name="de_to_comment">Comentar</string>
     <string name="de_try">Proveu</string>
+    <string name="deep_sea">Mar profund</string>
+    <string name="deep_sea_resource_comment">L\'origen de la vida a la Terra</string>
     <string name="deleting">S\'està eliminant…</string>
     <string name="desc_more_online_wallpaper">Més fons de pantalla en línia</string>
     <string name="description_author">Autor</string>
@@ -284,6 +287,8 @@
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarda</string>
     <string name="exchange_alert">Podeu obtenir codis durant els nostres esdeveniments i bescanviar-los aquí</string>
+    <string name="exchange_code_dialog_title">Atenció</string>
+    <string name="exchange_code_not_match_account_dialog_content">Aquest codi ja ha estat bescanviat per un altre compte Mi. Inicieu la sessió amb aquest compte Mi i torneu-ho a provar.</string>
     <string name="exit_extreme_mode_dialog_agree">D\'acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancel·la</string>
     <string name="exit_extreme_mode_dialog_title">Desactiva el mode Extrem</string>
@@ -458,6 +463,13 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="loading_picture">S\'està carregant la imatge…</string>
     <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
     <string name="loading_resource_detail_info">Un moment…</string>
+    <string name="local_mode">Mode fora de línia</string>
+    <string name="local_mode_close">Voleu desactivar el mode fora de línia?</string>
+    <string name="local_mode_close_desc">Desactiveu el mode fora de línia si voleu utilitzar els serveis en línia. Voleu desactivar-lo ara?</string>
+    <string name="local_mode_desc">"El mode fora de línia només utilitza contingut local i no utilitza serveis en línia"</string>
+    <string name="local_mode_hint">"Estàs utilitzant el mode fora de línia.
+Toqueu per desactivar-lo."</string>
+    <string name="local_mode_open">Mode fora de línia</string>
     <string name="local_photos">Fotos locals</string>
     <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
     <string name="lock_screen_apply">Estableix com a pantalla de bloqueig</string>
@@ -866,6 +878,9 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="refresh_footer_release">Allibereu per carregar-ne més</string>
     <string name="region_not_support">"Els temes no són compatibles amb la vostra regió."</string>
     <string name="reload">Torna-ho a provar</string>
+    <string name="repeat_exchange_dialog_content">"No es pot bescanviar el codi. Voleu comprovar quines altres recompenses estan disponibles?"</string>
+    <string name="repeat_exchange_dialog_positive_btn">Comprova</string>
+    <string name="repeat_exchange_dialog_title">Torna-ho a provar</string>
     <string name="request_time_out">S\'ha esgotat el temps de la sol·licitud. Torneu-ho a provar.</string>
     <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
     <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>
@@ -1145,6 +1160,8 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="shortcut_message">Afegeix una drecera a la pantalla d\'inici!</string>
     <string name="shortcut_show_tip">"No tornis a mostrar-ho"</string>
     <string name="shortcut_title">Us agraden els nostres fons de pantalla?</string>
+    <string name="show_exchange">Drecera del centre de bescanvi</string>
+    <string name="show_exchange_desc">Mostra o amaga la drecera del centre de bescanvi</string>
     <string name="show_free_aod">Mostra temes gratuïts</string>
     <string name="show_free_font">Mostra els tipus de lletra gratuïts</string>
     <string name="show_free_icons">Mostra les icones gratuïtes</string>
@@ -1159,6 +1176,8 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="show_mamual_hide_theme">Mostra els temes ocults</string>
     <string name="show_mamual_hide_wallpaper">Mostra els fons de pantalla ocults</string>
     <string name="show_phone_wallpaper">Mostra els fons de pantalla del telèfon</string>
+    <string name="show_theme_community">Drecera de la comunitat</string>
+    <string name="show_theme_community_desc">Mostra o amaga la drecera de la comunitat de temes</string>
     <string name="still_apply">Aplica</string>
     <string name="storage_migration_exit_msg">Per fer que Temes sigui compatible amb les pròximes versions d\'Android, hem traslladat els elements baixats a una ubicació nova. Reinicieu l\'aplicació per aplicar els canvis i veure el contingut baixat.</string>
     <string name="storage_permission_denied_desc">Permet que Temes accedeixi a l\'emmagatzematge per poder veure els elements</string>
@@ -1173,6 +1192,8 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Seleccioneu la ubicació</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenades</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
+    <string name="supersave_mode_toast_message">"Aquesta funció no està disponible quan s'utilitza l'estalvi de bateria Ultra. Desactiveu l'estalvi de bateria Ultra per poder-lo utilitzar."</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Aquest fons de pantalla ja està associat a un altre compte Mi. Inicieu la sessió amb aquest compte Mi i torneu-ho a provar.</string>
     <string name="support_theme_store_des">Els bons temes sempre són creats per dissenyadors amb talent. La nostra aplicació conté una petita quantitat d’anuncis que ens permeten donar suport al seu treball.</string>
     <string name="support_theme_store_supported">Gràcies pel teu recolzament!</string>
     <string name="support_theme_store_title">Donar suport als nostres dissenyadors</string>
@@ -1280,6 +1301,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="theme_is_external_priority_storage_summary">L\'aplicació Temes es reiniciarà immediatament per aplicar els canvis</string>
     <string name="theme_log_out">Tanca la sessió</string>
     <string name="theme_multiple_button_title_customize">Personalitza</string>
+    <string name="theme_need_login_dialog_content">Inicieu la sessió al vostre compte Mi per continuar.</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Aquest tema no conté els elements següents: %s"</string>
     <string name="theme_on_the_phone_alert">"No es pot reproduir durant les trucades"</string>
@@ -1301,6 +1323,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="theme_user_agreement_remind_never">"No tornis a mostrar-ho"</string>
     <string name="theme_user_agreement_remind_summary">Mostra les condicions d\'ús cada vegada que obris l\'aplicació Temes. S\'aplicarà després de reiniciar el dispositiu.</string>
     <string name="theme_user_agreement_title">Condicions d\'ús</string>
+    <string name="theme_version_need_update_prompt_dialog_content">Actualitzeu Temes a la versió %s o posterior per continuar</string>
     <string name="theme_wallpaper">Categories de fons de pantalla</string>
     <string name="theme_yes">Sí</string>
     <string name="third_party_pickers_activity_title">Afegeix %1$s</string>

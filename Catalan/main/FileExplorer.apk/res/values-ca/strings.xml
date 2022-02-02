@@ -289,6 +289,7 @@
     <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
     <string name="instruction_pre_pad">Toqueu per iniciar el servidor FTP</string>
     <string name="instruction_pre_phone">Toqueu per iniciar el servidor FTP</string>
+    <string name="internal_storage">Emmagatzematge intern</string>
     <string name="item_view_role_description">Pestanya</string>
     <string name="just_now">Ara mateix</string>
     <string name="kilobyteShort">KB</string>
@@ -324,6 +325,8 @@
     <string name="mi_router_label">Encaminador</string>
     <string name="mi_share">MiShare</string>
     <string name="midnight">Nit</string>
+    <string name="midriver_install_button_text">Instal·la</string>
+    <string name="midriver_not_install_title">El Mi Drive està desinstal·lat</string>
     <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
     <string name="midrop_msg_2">Quan Mi Drop estigui actiu, podeu cercar dispositius propers i enviar fitxers</string>
     <string name="midrop_send_files">Trieu fitxers a pujar</string>
@@ -570,6 +573,7 @@
     <string name="qq_title">"No es pot accedir als documents de WeChat"</string>
     <string name="recent_hide_camera_and_screenshots">"No mostreu elements de la galeria ni captures de pantalla entre fitxers recents"</string>
     <string name="refresh_success">Actualització completa</string>
+    <string name="reinstall_midriver_message">Voleu tornar a instal·lar-lo ara?</string>
     <string name="release_enter_private">Allibereu per obrir la carpeta privada</string>
     <string name="remainder_size">Restants: %s</string>
     <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, és possible que no pugueu obrir-lo."</string>

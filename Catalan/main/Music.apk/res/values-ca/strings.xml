@@ -513,6 +513,7 @@
     <string name="hungama_category_radio">Ràdio</string>
     <string name="hungama_category_video">Vídeos</string>
     <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_download_subscription_toast">Subscriu-vos a Hungama Music per baixar aquesta cançó</string>
     <string name="hungama_free_download_out_summary">"No podeu baixar més cançons gratuïtes. Voleu obtenir una afiliació PRO per baixar cançons il·limitades?"</string>
     <string name="hungama_free_download_out_summary_toast">"Ja has baixat %d cançons. Aconsegueix una subscripció per baixar-ne més."</string>
     <string name="hungama_playlist_category">Categoria de la llista de reproducció</string>
@@ -1117,7 +1118,7 @@ Sigues Feliç"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Prova la fosa de transició durant la reproducció</string>
     <string name="start_to_check_new_version">S\'estan cercant actualitzacions…</string>
     <string name="start_to_download">S\'està baixant…</string>
-    <string name="start_to_play">Reproduir</string>
+    <string name="start_to_play">S\'està preparant per reproduir…</string>
     <string name="start_update">S\'està instal·lant una nova versió…</string>
     <string name="storage_cloned_app">Emmagatzematge per a aplicacions duals</string>
     <string name="storage_internal">Emmagatzematge intern</string>

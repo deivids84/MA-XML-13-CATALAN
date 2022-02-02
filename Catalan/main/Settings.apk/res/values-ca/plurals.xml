@@ -144,6 +144,10 @@
         <item quantity="other">%d dispositius disponibles</item>
         <item quantity="one">%d dispositiu disponible</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segon</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Cada %d segons</item>
         <item quantity="one">Cada %d segons</item>

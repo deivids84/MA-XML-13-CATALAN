@@ -371,6 +371,9 @@
     <string name="slavewifi_disconnect">Desconnecteu</string>
     <string name="slavewifi_notification_title">Utilitzant WiFi de doble banda</string>
     <string name="slavewifi_settings">Toqueu per canviar la configuració</string>
+    <string name="small_freeform_check_memory_exception_message">%1$s ha provocat un error de memòria. Tanqueu aquesta aplicació per evitar retards.</string>
+    <string name="small_freeform_check_memory_exception_negative_message">Cancel·la</string>
+    <string name="small_freeform_check_memory_exception_positive_message">Tanca</string>
     <string name="small_freeform_enter_warning">Finestra flotant</string>
     <string name="small_freeform_exit_tip">Tanca la finestra flotant</string>
     <string name="small_freeform_memory_toast_app_type">"No es pot obrir ara. Aquesta aplicació requereix massa memòria per poder funcionar."</string>
@@ -447,9 +450,12 @@
     <string name="vigor">Vigor</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_group_black_gobi_title">Sorres de Gobi</string>
     <string name="wallpaper_group_black_white_title">Blanc i negre</string>
     <string name="wallpaper_group_color_move_title">Colors líquids</string>
     <string name="wallpaper_group_concerto_title">Concert</string>
+    <string name="wallpaper_group_crystallization_subtitle">Bellesa de la ciència</string>
+    <string name="wallpaper_group_crystallization_title">Cristal·lització</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinàmica</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
