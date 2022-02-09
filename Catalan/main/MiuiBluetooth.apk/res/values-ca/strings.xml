@@ -369,6 +369,13 @@ Protocol de connexió més ràpid."</string>
     <string name="some_app_taking">(%1$s ja està utilitzant aquesta funció)</string>
     <string name="start_speech">Inicia la parla</string>
     <string name="stop_speech">Atura la parla</string>
+    <string name="stylus_firmware_failed_summary">Activeu els serveis d\'ubicació i reinicieu el Bluetooth. Després d\'això, torneu a col·locar el llapis i torneu-ho a provar.</string>
+    <string name="stylus_firmware_failed_title">"No s'ha pogut actualitzar el microprogramari"</string>
+    <string name="stylus_firmware_success_summary">Col·loqueu el llapis per vincular-lo.</string>
+    <string name="stylus_firmware_success_title">El microprogramari s\'ha actualitzat correctament</string>
+    <string name="stylus_firmware_timeout_summary">Temps de connexió esgotat. Torneu-ho a provar.</string>
+    <string name="stylus_firmware_update_summary">S\'està actualitzant el microprogramari del llapis…</string>
+    <string name="stylus_firmware_update_title">Microprogramari del llapis</string>
     <string name="stylus_ota_check_update">Actualitza</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>

@@ -60,6 +60,10 @@
         <item quantity="other">fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">En %d min</item>
+        <item quantity="one">En %d min</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s dies</item>
         <item quantity="one">%1$s dia</item>
@@ -180,6 +184,10 @@
         <item quantity="other">" dies"</item>
         <item quantity="one">" dia"</item>
     </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d esdeveniments més</item>
+        <item quantity="one">%d esdeveniment més</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">cada %1$s en %2$s</item>
         <item quantity="one">cada %1$s en %2$s</item>
@@ -228,6 +236,10 @@
         <item quantity="other">Previst el dia %1$d del període</item>
         <item quantity="one">Previst el dia %1$d del període</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d esdeveniments avui</item>
+        <item quantity="one">%d esdeveniment avui</item>
+    </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%2$s minuts en cotxe fins %1$s.</item>
         <item quantity="one">%2$s minut en cotxe fins %1$s.</item>
@@ -235,6 +247,30 @@
     <plurals name="weekN">
         <item quantity="one">SETMANA %d</item>
         <item quantity="other">SETMANA%d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s dies</item>
+        <item quantity="one">%1$s dia</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d esdeveniments en curs</item>
+        <item quantity="one">%d esdeveniment en curs</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Pròxim esdeveniment d\'aquí a %d min</item>
+        <item quantity="one">Pròxim esdeveniment d\'aquí a %d min</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d esdeveniments demà</item>
+        <item quantity="one">%d esdeveniment demà</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">Setmana %d</item>
+        <item quantity="one">Setmana %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d dies laborables</item>

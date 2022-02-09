@@ -521,12 +521,8 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="systemdesktop_introduction">El connector del servei de pantalla d’inici us ofereix funcions bàsiques com ara la pantalla d’inici, la interfície d’usuari del sistema i les captures de pantalla.</string>
     <string name="term_condition_detail">"Obteniu imatges impressionants i històries emocionants lliurades a la pantalla de bloqueig diàriament. Aquesta funció no utilitzarà les vostres dades per a la personalització sense el vostre consentiment. Llegiu i accepteu la &lt;a href =%1$s&gt;Política de privadesa&lt;/a&gt; i l'&lt;a href =%2$s&gt;Acord d'usuari&lt;/a&gt; del proveïdor de contingut de tercers abans d’usar aquesta funció."</string>
     <string name="terms_of_use">Termes i condicions</string>
-    <string name="terms_of_use_ble_htmlViewer">, Proveïdor d\'Ubicacions Fusionat, Visualitzador HTML</string>
-    <string name="terms_of_use_label">"Llegiu el nostre Acord d’Usuari i la nostra Política de privadesa per comprendre quina informació recopilem, com la fem servir i quines opcions hi ha a la vostra disposició.
-Per poder utilitzar MIUI, heu d’acceptar el nostre Acord d’Usuari i la nostra Política de privadesa.
-%s i els components del Compte Mi es connectaran a Internet i adquiriran la vostra ubicació."</string>
     <string name="terms_of_use_label_MSA">MSA</string>
-    <string name="terms_of_use_label_Mistore">, Complement del sistema Mi Store</string>
+    <string name="terms_of_use_label_Mistore">Complement del sistema Mi Store</string>
     <string name="terms_of_use_label_RMS">Gestor de permisos</string>
     <string name="terms_of_use_label_ai_assistant">Assistent d’IA</string>
     <string name="terms_of_use_label_app_vault">Tauler d’aplicacions</string>
@@ -543,13 +539,14 @@ Per poder utilitzar MIUI, heu d’acceptar el nostre Acord d’Usuari i la nostr
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">funcionalitat d’optimització de la vista horitzontal</string>
+    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Components del Compte Mi</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">Configuració OS AI</string>
-    <string name="terms_of_use_label_package">, Instal·lador de paquets</string>
+    <string name="terms_of_use_label_package">Instal·lador de paquets</string>
     <string name="terms_of_use_label_parallel_windows">Finestres paral·leles</string>
-    <string name="terms_of_use_label_phrase">, Frases freqüents</string>
+    <string name="terms_of_use_label_phrase">Frases freqüents</string>
     <string name="terms_of_use_label_power_detection">Detector d’energia</string>
     <string name="terms_of_use_label_power_performance">Bateria i rendiment</string>
     <string name="terms_of_use_label_quickapp">Aplicacions ràpides</string>
@@ -557,14 +554,12 @@ Per poder utilitzar MIUI, heu d’acceptar el nostre Acord d’Usuari i la nostr
     <string name="terms_of_use_label_simcard">Serveis d’activació Mi SIM</string>
     <string name="terms_of_use_label_smart_service">serveis intel·ligents</string>
     <string name="terms_of_use_label_statistics">Estadístiques</string>
-    <string name="terms_of_use_label_systemhelper">, Servei autoregistrat</string>
+    <string name="terms_of_use_label_systemhelper">Servei d\'autoregistre</string>
     <string name="terms_of_use_label_translation">Servei de traducció</string>
-    <string name="terms_of_use_label_updater">, Actualitzador</string>
+    <string name="terms_of_use_label_updater">Actualitzador</string>
     <string name="terms_of_use_label_use_location_and_network_global">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, els serveis següents es connectaran a la xarxa i accediran a la vostra ubicació:</string>
     <string name="terms_of_use_label_use_network_china">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el dispositiu estigui activat, els serveis següents es connectaran a la xarxa:</string>
     <string name="terms_of_use_label_wallpaper">Fons de pantalla</string>
-    <string name="terms_of_use_lable_apps">Serveis Mi, serveis d\'activació Mi SIM, Xiaomi Cloud, Cerca dispositiu, Pantalla inicial, Jocs, MIUI Daemon, Components del sistema MSA, Servei de traducció, MIUI SDK, Aplicacions ràpides, Volta d\'aplicacions, estadístiques, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Serveis Mi, Xiaomi Cloud, Cerca dispositiu, Pantalla d\'inici, Jocs, MIUI Daemon, Components del sistema MSA, Servei de traducció, MIUI SDK, Aplicacions ràpides, Volta d\'aplicacions, estadístiques, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Heu d’acceptar la Política de privadesa de Facemoji abans d’utilitzar aquesta funció."</string>
@@ -574,9 +569,8 @@ Heu d’acceptar la Política de privadesa de Kika abans d’utilitzar aquesta f
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’utilitzar aquesta funció."</string>
-    <string name="terms_of_use_lable_gms">, Google Play services</string>
-    <string name="terms_of_use_lable_smart_cards">, Targetes intel·ligents</string>
-    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_lable_gms">Serveis de Google Play</string>
+    <string name="terms_of_use_lable_smart_cards">Targetes intel·ligents</string>
     <string name="terms_of_use_lable_xmsf">Marc de serveis de Xiaomi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Política de privadesa de Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Política de privadesa de Kika</string>
@@ -633,10 +627,6 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
     <string name="user_agreement">Condicions del servei</string>
-    <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, les aplicacions i serveis següents es connectaran a la xarxa: Serveis d’activació de Mi SIM, Xiaomi Cloud, Còpia de seguretat al núvol, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Serveis de comunicació per Internet Xiaomi, Servei de traducció, MIUI Daemon, Lector d’HTML, MIUI SDK, Secure Element Application, Assistent IA, Bateria i rendiment, Detector d\'energia, Joyose, Configuració OS AI i Actualitzador. Les aplicacions i serveis següents es connectaran a la xarxa i accediran a la vostra ubicació: Targetes intel·ligents, Gestor de permisos i serveis intel·ligents.</string>
-    <string name="user_agreement_declare_gmscore">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, les aplicacions i serveis següents es connectaran a la xarxa: Serveis d’activació de Mi SIM, Xiaomi Cloud, Còpia de seguretat al núvol, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Serveis de comunicació per Internet Xiaomi, Servei de traducció, MIUI Daemon, Lector d’HTML, MIUI SDK, Secure Element Application, Assistent d’IA, Bateria i rendiment, Detector d\'energia, Joyose, Configuració OS AI Setting i Updater. Les aplicacions i serveis següents es connectaran a la xarxa i accediran a la teva ubicació: targetes intel·ligents, gestor de permisos, ConfigUpdater i Serveis intel·ligents.</string>
-    <string name="user_agreement_declare_wifi_device">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, les aplicacions i serveis següents es connectaran a la xarxa: Xiaomi Cloud, Còpia de seguretat al núvol, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Serveis de comunicació per Internet de Xiaomi, Servei de traducció, MIUI Daemon, Lector d\'HTML, SDK MIUI, Secure Aplicació d\'elements, Assistent d\'IA, Bateria i rendiment, Detector d\'energia, Joyose, Configuració d\'IA del sistema operatiu i Actualitzador. Les aplicacions i serveis següents es connectaran a la xarxa i accediran a la vostra ubicació: Targetes intel·ligents, Gestor de permisos i Serveis intel·ligents.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, les aplicacions i serveis següents es connectaran a la xarxa: Xiaomi Cloud, Còpia de seguretat al núvol, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Serveis de comunicació per Internet de Xiaomi, Servei de traducció, MIUI Daemon, Lector d\'HTML, SDK MIUI, Secure Aplicació d\'elements, Assistent d’IA, Bateria i rendiment, Detector d\'energia, Joyose, Configuració d\'IA del sistema operatiu i Actualitzador. Les aplicacions i serveis següents es connectaran a la xarxa i accediran a la vostra ubicació: Targetes intel·ligents, Gestor de permisos, ConfigUpdater i Serveis intel·ligents.</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="voice_assist_advice">Mi AI us permet utilitzar els controls de veu, però consumeix més energia (+ 1% cada hora).</string>

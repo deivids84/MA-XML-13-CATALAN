@@ -68,7 +68,7 @@
     <string name="audio_create_will_cancel_state">Deixa anar per a cancel·lar</string>
     <string name="audio_dialog_mode_meeting">Mode de reunió (beta)</string>
     <string name="audio_dialog_mode_meeting_exit">No gràcies</string>
-    <string name="audio_dialog_mode_meeting_sum">El mode de reunió us permet reconèixer les veus de fins a 4 persones diferents. Es poden produir alguns errors de reconeixement a la versió beta.</string>
+    <string name="audio_dialog_mode_meeting_sum">El mode reunió us permet reconèixer les veus de %1$d a %2$d persones diferents. Es poden produir alguns errors de reconeixement a la versió beta.</string>
     <string name="audio_dialog_mode_meeting_use">Inicia</string>
     <string name="audio_toast_file_invalid">El fitxer d\'àudio no és vàlid</string>
     <string name="audio_toast_file_undownload">"El fitxer d'àudio no està completament baixat o està desaparegut"</string>

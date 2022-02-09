@@ -998,6 +998,8 @@ semblin més grans a les fotos"</string>
     <string name="mimoji_tips">Toqueu per fer una foto. Manteniu premuda per enregistrar un vídeo.</string>
     <string name="miservice_notification_content">Toqueu per obtenir més informació</string>
     <string name="miservice_notification_title">Obteniu més informació sobre les noves funcions de la càmera</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -1012,6 +1014,8 @@ semblin més grans a les fotos"</string>
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -1050,6 +1054,7 @@ semblin més grans a les fotos"</string>
     <string name="module_name_square">Quadrat</string>
     <string name="module_name_super_moon">Superlluna</string>
     <string name="module_name_video">Vídeo</string>
+    <string name="moiton_detection_tip">xxxmd s\'està executant</string>
     <string name="moive_frame">Quadre del vídeo</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
@@ -1465,6 +1470,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_tip_id_card">Escàner d’identificació</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivat</string>
     <string name="pref_camera_touchafaec_entry_on">Activat</string>
+    <string name="pref_camera_track_eye_preferred_description">Fa un seguiment del moviment dels ulls per mantenir els ulls enfocats quan hi ha una persona a l\'enquadrament</string>
+    <string name="pref_camera_track_eye_preferred_title">Enfocament de seguiment ocular</string>
     <string name="pref_camera_track_focus_intro_description">Quan feu fotos o enregistreu vídeos amb subjectes en moviment, aquesta funció detecta persones, gats i gossos i els manté en el focus automàticament. A més, també podeu tocar dues vegades qualsevol subjecte per fer el seguiment del moviment.</string>
     <string name="pref_camera_track_focus_intro_goto">Activa</string>
     <string name="pref_camera_track_focus_preferred_description">Mantingueu enfocats a persones, gats i gossos en moviment automàticament o feu doble toc a qualsevol subjecte per fer-ne el seguiment</string>
@@ -1539,6 +1546,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_hdr10_video_mode_description">Optimitza automàticament els colors i el contrast dels vídeos 4K i 8K. Només és possible reproduir els vídeos optimitzats en dispositius compatibles HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimitzeu els colors i ajusteu el contrast per als vídeos 4K i 8K. Aquesta funció només funciona en dispositius compatibles amb HDR10+.</string>
+    <string name="pref_hybrid_video_mode_description">Utilitza la tecnologia HLG per millorar els colors i el rang dinàmic dels vídeos enregistrats en alta resolució</string>
     <string name="pref_i_n_r_b">Reducció de soroll intel·ligent</string>
     <string name="pref_k_h">Auriculars in-ear en viu</string>
     <string name="pref_k_s_i">Monitoreu el so enregistrat mitjançant auriculars per cable quan estan connectats</string>

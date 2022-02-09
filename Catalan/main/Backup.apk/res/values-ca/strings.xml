@@ -82,6 +82,7 @@
     <string name="backup_hint_pad">Manteniu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
     <string name="backup_new">Noves:</string>
+    <string name="backup_notification_title">\"Còpia de seguretat\" està funcionant…</string>
     <string name="backup_progress">S\'està fent una còpia de seguretat…</string>
     <string name="backup_report">Mostra els detalls</string>
     <string name="backup_security_tips_message">És possible que d\'algunes aplicacions no es puguin fer còpies de seguretat o restaurar-les.</string>

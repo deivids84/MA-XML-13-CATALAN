@@ -1384,6 +1384,10 @@ dd MMMM"</string>
     <string name="missed_call">Trucada perduda</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segon rellotge</string>
+    <string name="miui_keyboard_shortcut_click">Pulsació</string>
+    <string name="miui_keyboard_shortcut_double_click">Doble pulsació</string>
+    <string name="miui_keyboard_shortcut_system_dock">Mostra l\'acoblador d\'aplicacions</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Canvia entre aplicacions recents</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquejat per un dispositiu Bluetooth</string>
     <string name="miui_lock_screen_date">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd/MM</string>

@@ -59,6 +59,7 @@
     <string name="alert_title">Notificacions del calendari</string>
     <string name="all_events">Tots els esdeveniments</string>
     <string name="all_records">Tots els registres</string>
+    <string name="already_num">Temps des de %s</string>
     <string name="anniversary_event_title">Aniversari: %1$s</string>
     <string name="anniversary_secondary_tag">Aniversari</string>
     <string name="app_label">Calendari</string>
@@ -135,6 +136,7 @@
     <string name="copy">Copiar</string>
     <string name="copy_email">Copia l\'adreça electrònica</string>
     <string name="copy_number">Copia el número de telèfon</string>
+    <string name="count_down_date_view">Compte enrere</string>
     <string name="countdown_event_title">Compte enrere: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Compte enrere: %1$s en %2$d dies</string>
     <string name="countdown_notify_title">Compte enrere: %1$s</string>
@@ -171,6 +173,7 @@ Accés des de qualsevol navegador
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
     <string name="date_today">" (avui)"</string>
+    <string name="date_view">Data</string>
     <string name="day">Dia</string>
     <string name="day_view_new_event_hint">Esdeveniment nou</string>
     <string name="default_reminder_mode">Recordatoris</string>
@@ -323,6 +326,7 @@ Accés des de qualsevol navegador
     <string name="import_action">Importa</string>
     <string name="import_birthday">Importeu aniversari</string>
     <string name="imported">S\'ha importat</string>
+    <string name="in_progress">En curs</string>
     <string name="insert_event_dialog_btn_negative">No</string>
     <string name="insert_event_dialog_btn_positive">Sí</string>
     <string name="insert_event_dialog_message">Voleu afegir aquest esdeveniment al calendari?</string>
@@ -476,6 +480,7 @@ Accés des de qualsevol navegador
     <string name="movie_card_trailer">Tràiler</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="name_title_menstruation_today_end">El període hauria d\'acabar avui</string>
+    <string name="near_agenda_view">Pròxims esdeveniments</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="never">Mai</string>
     <string name="new_event_description">Nou</string>
@@ -665,9 +670,11 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="single_selected_holiday">%1$s dia és festiu</string>
     <string name="skip">Omet</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="spec_agenda_view">Esdeveniments especials</string>
     <string name="start_date_calculate">Calcula</string>
     <string name="stats_title">Estadístiques</string>
     <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="still_num">Temps fins a %s</string>
     <string name="storage_permission_denied">Permeteu l\'accés a l\'emmagatzematge primer</string>
     <string name="subscribe_card">Subscriu-vos ara</string>
     <string name="subscribe_card_success">Us heu subscrit correctament. Consulteu-ne els detalls a la pàgina d\'inici.</string>
@@ -748,6 +755,7 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="today">Avui</string>
     <string name="today_at_time_fmt">Avui a les %s</string>
     <string name="today_icon_voice_contentdescription">Torna a avui</string>
+    <string name="today_no_event">No hi ha esdeveniments per avui.</string>
     <string name="today_no_events">No hi ha esdeveniments</string>
     <string name="todays_panchang_title">"Panchang d'avui"</string>
     <string name="todo_audio_event">"[Tasca de veu] "</string>
@@ -811,7 +819,13 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="widget_events">Pròxim esdeveniment</string>
     <string name="widget_get_weather_info">Obtén la informació meteorològica</string>
     <string name="widget_no_events">No hi ha esdeveniments</string>
+    <string name="widget_normal_agenda_tip_empty">No hi ha esdeveniments per avui.</string>
+    <string name="widget_normal_agenda_today_done">S\'han completat tots els esdeveniments per avui.</string>
+    <string name="widget_normal_more_event">Més esdeveniments</string>
+    <string name="widget_normal_new_event">Afegeix un esdeveniment</string>
+    <string name="widget_normal_weekN">Setmana %d</string>
     <string name="widget_select_style">Seleccioneu un estil</string>
+    <string name="widget_spec_agenda_birth_today">Avui</string>
     <string name="xiaomi_calendar_delete_description">Calendari és una aplicació del sistema que us permet crear i gestionar esdeveniments. Algunes de les seves funcions continuaran disponibles després d’eliminar de la Drecera a la Pantalla d\'Inici.</string>
     <string name="xiaomi_calendar_delete_title">Voleu eliminar \"Calendari\" de la Pantalla d\'inici?</string>
     <string name="xiaomi_calendar_display_name">Calendari del Compte Mi</string>

@@ -951,6 +951,14 @@
         <item>Comprova només contingut DRM</item>
         <item>Comprova sempre</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Nivell 0</item>
+        <item>Nivell 1</item>
+        <item>Nivell 2</item>
+        <item>Nivell 3</item>
+        <item>Nivell 4</item>
+        <item>Nivell 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"No activis la pantalla"</item>
         <item>Activa la pantalla</item>
