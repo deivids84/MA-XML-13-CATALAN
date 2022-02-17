@@ -601,6 +601,7 @@ mitjançant %s"</string>
     <string name="face_error_timeout">Torna a provar el desbloqueig facial.</string>
     <string name="face_error_unable_to_process">No es pot verificar la cara. Torna-ho a provar.</string>
     <string name="face_error_user_canceled">L\'usuari ha cancel·lat el desbloqueig facial.</string>
+    <string name="face_error_vendor_unknown">Alguna cosa ha anat malament. Torneu-ho a provar.</string>
     <string name="face_icon_content_description">Icona facial</string>
     <string name="face_name_template">Cara %d</string>
     <string name="face_or_screen_lock_app_setting_name">Utilitza el bloqueig de pantalla o de cara</string>
@@ -652,6 +653,7 @@ Si tens cap dubte, contacta amb l'administrador de la teva organització."</stri
     <string name="fingerprint_error_timeout">S\'ha esgotat el temps d\'espera per a l\'empremta digital. Torna-ho a provar.</string>
     <string name="fingerprint_error_unable_to_process">Torna-ho a provar.</string>
     <string name="fingerprint_error_user_canceled">L\'usuari ha cancel·lat l\'operació d\'empremta digital.</string>
+    <string name="fingerprint_error_vendor_unknown">Alguna cosa ha anat malament. Torneu-ho a provar.</string>
     <string name="fingerprint_icon_content_description">Icona d\'empremta digital</string>
     <string name="fingerprint_name_template">Dit %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Utilitzeu l\'empremta o el bloqueig de pantalla</string>

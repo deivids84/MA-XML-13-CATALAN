@@ -284,7 +284,7 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="auto_remind_unbind">Atura</string>
     <string name="auto_sync_off">La sincronització automàtica està desactivada.</string>
     <string name="automatic_remind_text">Recordar automàticament</string>
-    <string name="bContact_list_search_hint">Cerqueu els contactes bloquejats</string>
+    <string name="bContact_list_search_hint">Cerca contactes bloquejats</string>
     <string name="b_contacts">Llista de bloqueig</string>
     <string name="b_contacts_remove">Treu de la llista de bloquejats</string>
     <string name="b_contacts_remove_tips">Voleu suprimir aquests número de la llista de bloqueig?</string>
@@ -655,7 +655,7 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="forward_download_failed_title">Adjunt no reenviat</string>
     <string name="free_period_text">Període sense interessos</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar abans de suprimir</string>

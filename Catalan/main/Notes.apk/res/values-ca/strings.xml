@@ -253,7 +253,7 @@
     <string name="format_move_note_to_folder">Moguda a %1$s</string>
     <string name="frequently_click_tips">Massa ràpid! Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="gesture_guide_cancel">Saltar</string>
     <string name="gesture_guide_message">Pots fer un toc, prémer i mantenir premut, i arrossegar elements per a crear i reendreçar notes. Vols aprendre aquests gestos ara?</string>
@@ -548,8 +548,8 @@
     <string name="pc_action_create_new_mind_note">Mapa mental</string>
     <string name="pc_action_create_new_normal_note">Nota</string>
     <string name="pc_action_create_new_note">Creeu una nota</string>
-    <string name="pc_action_search_notes_hint">Cerqueu notes</string>
-    <string name="pc_action_search_todo_hint">Cerqueu tasques</string>
+    <string name="pc_action_search_notes_hint">Cerca notes</string>
+    <string name="pc_action_search_todo_hint">Cerca tasques</string>
     <string name="pc_all_folder_name">Tot</string>
     <string name="pc_date_time_picker_set_date">Establiu data</string>
     <string name="pc_date_time_picker_set_time">Establiu hora</string>
@@ -882,7 +882,7 @@ Permeteu Notes per enregistrar l'àudio."</string>
     <string name="todo_schedule_time_tomorrow">Demà</string>
     <string name="todo_schedule_time_yesterday">Ahir</string>
     <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
-    <string name="todo_search_hint">Cerqueu tasques</string>
+    <string name="todo_search_hint">Cerca tasques</string>
     <string name="todo_time_picker_title">Establiu recordatori</string>
     <string name="todo_user_guide_fw_pop">Afegiu drecera a la Pantalla d\'inici</string>
     <string name="todo_user_guide_tip1">Benvinguts a Tasques!</string>

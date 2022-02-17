@@ -195,7 +195,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Divendres</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="get_known_tip">Torna-ho a provar</string>
     <string name="group_info_scanning">Calculant…</string>

@@ -1364,6 +1364,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>rubens</item>
         <item>munch</item>
         <item>thor</item>
+        <item>evergo</item>
+        <item>evergreen</item>
+        <item>xaga</item>
+        <item>xagapro</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítid</item>

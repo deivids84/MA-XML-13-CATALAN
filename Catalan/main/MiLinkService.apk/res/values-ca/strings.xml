@@ -106,7 +106,7 @@ Consulta l'ajuda si tens problemes per a connectar-t'hi."</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="global_privacy">Termes i condicions</string>
     <string name="global_privacy_detail">&lt;Data&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.&lt;br&gt; Si no accepteu utilitzar els serveis esmentats, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.&lt;/Data&gt;</string>

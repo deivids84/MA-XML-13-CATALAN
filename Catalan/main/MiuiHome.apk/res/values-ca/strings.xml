@@ -74,7 +74,7 @@
     <string name="all_apps_install_contentcenter_msg">Sembla que el Centre de continguts s\'ha desinstal·lat. Voleu tornar a instal·lar-la?</string>
     <string name="all_apps_install_contentcenter_title">Instal·leu el Centre de continguts</string>
     <string name="all_apps_no_search_results">"No s'han pogut trobar resultats"</string>
-    <string name="all_apps_search_app">Cerqueu aplicacions</string>
+    <string name="all_apps_search_app">Cerca aplicacions</string>
     <string name="all_apps_search_market_message">Cercar a internet</string>
     <string name="all_apps_setting_classic_title">Clàssic</string>
     <string name="all_apps_setting_desktop_desc">"Mostra totes les aplicacions instal·lades a la Pantalla d'inici. Manteniu premuda la icona d'una aplicació per veure les dreceres disponibles, gestionar o desinstal·lar l'aplicació."</string>
@@ -262,7 +262,7 @@
     <string name="edit_mode_group_error_nothing_be_selected">Seleccioneu primer una aplicació</string>
     <string name="edit_mode_group_error_one_folder">"No es pot duplicar una carpeta amb les icones seleccionades"</string>
     <string name="edit_mode_top_menu_finish">Fet</string>
-    <string name="edit_mode_uninstall">Desinstal·leu</string>
+    <string name="edit_mode_uninstall">Desinstal·la</string>
     <string name="editing_add_widget_tips">Edita ginys</string>
     <string name="editing_mode_enter_tip_text">Premeu per editar la Pantalla d\'Inici</string>
     <string name="editing_mode_title_empty">No hi ha elements seleccionats</string>
@@ -306,8 +306,8 @@
     <string name="free_style_exit_tip">Per tornar a la Pantalla d\'Inici, llisqueu cap amunt des de la part inferior de la pantalla amb dos dits</string>
     <string name="free_style_londing_text">Un moment…</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Divendres</string>
-    <string name="friday_shortest">Divendres</string>
+    <string name="friday_short">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="fsg_mistake_touch_summary">En alguns casos (per exemple, quan jugues o mires vídeos), els gestos només funcionaran després de repetir-se.</string>
     <string name="fsg_mistake_touch_title">Confirmació del gest</string>
     <string name="gadget_calculator_label">Calculadora</string>
@@ -569,7 +569,7 @@
     <string name="permlab_install_shortcut">Instal·leu accessos directes</string>
     <string name="permlab_install_widget">Instal·leu ginys</string>
     <string name="permlab_read_settings">Llegiu la configuració de la Pantalla d\'Inici i els accessos directes</string>
-    <string name="permlab_uninstall_shortcut">Desinstal·leu accessos directes</string>
+    <string name="permlab_uninstall_shortcut">Desinstal·lar les dreceres</string>
     <string name="permlab_uninstall_widget">Desinstal·lar ginys</string>
     <string name="permlab_write_settings">Llegiu la configuració de la Pantalla d\'Inici i les dreceres</string>
     <string name="photo_adjust">Vista prèvia</string>
@@ -649,8 +649,6 @@
     <string name="reset_fail">"No s'ha pogut restaurar"</string>
     <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
     <string name="reset_title">Restaura</string>
-    <string name="resource_canary_leak_tip">té filtració!</string>
-    <string name="resource_canary_wait_for_heapdump_message">S\'està buidant la instantània del munt ...</string>
     <string name="restore_icon_successful">S\'ha afegit amb èxit</string>
     <string name="russia_preinstall_folder_name">Rússia</string>
     <string name="saturday">Dissabte</string>
@@ -741,13 +739,13 @@
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
-    <string name="uninstall">Desinstal·leu</string>
+    <string name="uninstall">Desinstal·la</string>
     <string name="uninstall_dialog_message">Si ho desinstal·les, es suprimiran totes les dades de l\'aplicació.</string>
     <string name="uninstall_dialog_title_format">Voleu desinstal·lar %s?</string>
     <string name="uninstall_result_failed">"No es pot desinstal·lar %s"</string>
     <string name="uninstall_result_succeeded">Desinstal·lació finalitzada</string>
     <string name="uninstall_with_xspace_dialog_message">Es suprimiran les aplicacions duals corresponents juntament amb les dades d\'aplicació.</string>
-    <string name="uninstall_xspace_dialog_message">Desinstal·lar una aplicació dual suprimira totes les dades de l\'aplicació.</string>
+    <string name="uninstall_xspace_dialog_message">La desinstal·lació de l\'aplicació dual suprimirà totes les dades de l\'aplicació.</string>
     <string name="uninstall_xspace_dialog_title_format">Voleu desinstal·lar l\'aplicació duplicada \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconegut</string>
     <string name="unnamed_folder_name">Carpeta</string>

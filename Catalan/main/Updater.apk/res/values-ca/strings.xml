@@ -33,6 +33,19 @@
     <string name="downloading">S\'està baixant:</string>
     <string name="downloading_desc">Baixada en curs, comproveu l\'estat en l\'àrea de notificació.</string>
     <string name="fastboot_update_warning">Aquesta actualització només és per a la instal·lació d\'arrencada ràpida!</string>
+    <string name="fetch_notification_default_channel_name">Baixades</string>
+    <string name="fetch_notification_download_cancel">Cancel·la</string>
+    <string name="fetch_notification_download_complete">Completada</string>
+    <string name="fetch_notification_download_downloading">S\'està baixant</string>
+    <string name="fetch_notification_download_eta_hrs">Queda %1$dh %2$dm %3$ds</string>
+    <string name="fetch_notification_download_eta_min">Queda %1$dm %2$ds</string>
+    <string name="fetch_notification_download_eta_sec">Queda %1$ds</string>
+    <string name="fetch_notification_download_failed">Ha fallat</string>
+    <string name="fetch_notification_download_pause">Pausa</string>
+    <string name="fetch_notification_download_paused">En pausa</string>
+    <string name="fetch_notification_download_resume">Reprèn</string>
+    <string name="fetch_notification_download_retry">Reintenta</string>
+    <string name="fetch_notification_download_starting">S\'està iniciant</string>
     <string name="fetching_data">S\'està obtenint l\'enllaç de baixada, espereu…</string>
     <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: <b>%1$s</b>\"
 Les dades no s’esborraran.\"</string>

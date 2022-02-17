@@ -312,7 +312,7 @@ Envia aquest codi al supervisor."</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="for_diagnosis_usage_only">Els registres només són per a finalitats de diagnòstic.</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="get_back_pwd">Restabliment de la contrasenya</string>
     <string name="get_ph_ticket">Obtén codi</string>

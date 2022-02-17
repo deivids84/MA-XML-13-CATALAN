@@ -77,7 +77,7 @@
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
-    <string name="friday_shortest">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="hybrid_provider">Proporcionat per %1$s</string>
     <string name="im">Xat</string>
     <string name="immersion_button_close_description">Tanca</string>

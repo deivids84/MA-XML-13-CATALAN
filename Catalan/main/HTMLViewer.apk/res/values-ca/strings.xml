@@ -56,7 +56,7 @@
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="ime_privacy_policy">Trieu un teclat</string>
     <string name="instruction">Informació de seguretat important</string>

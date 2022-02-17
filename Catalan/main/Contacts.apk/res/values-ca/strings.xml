@@ -284,7 +284,7 @@
     <string name="call_record_text_auto_delete_half_year">Després de %d mesos</string>
     <string name="call_record_text_auto_delete_never">Mai</string>
     <string name="call_record_text_auto_delete_one_month">Després de %d mes</string>
-    <string name="call_record_user_notice_all_purpose">Cerqueu les trucades durant les quals s’han esmentat certes paraules</string>
+    <string name="call_record_user_notice_all_purpose">Cerca les trucades durant les quals s\'han esmentat determinades paraules</string>
     <string name="call_record_user_notice_permission_desc_microphone">Per enregistrar trucades</string>
     <string name="call_record_user_notice_permission_desc_storage">Per desar enregistraments d\'àudio</string>
     <string name="call_record_user_notice_title">Cerca per trucada de veu</string>
@@ -306,6 +306,7 @@
     <string name="calllog_menu_blacklist">Bloqueja</string>
     <string name="calllog_menu_edit_before_call">Edita</string>
     <string name="calllog_menu_send_sms">Envia missatge</string>
+    <string name="calllog_record_none_toast">No hi ha enregistraments de trucades per mostrar</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_missed">"No s'ha pogut establir la trucada"</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -622,7 +623,7 @@ Motiu: \"%s\""</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Freqüents</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="full_name">Nom</string>
     <string name="gallery">Galeria</string>
@@ -844,6 +845,12 @@ Motiu: \"%s\""</string>
     <string name="name_phonetic_middle">Segon nom fonètic</string>
     <string name="name_prefix">Prefix de nom</string>
     <string name="name_suffix">Sufix de nom</string>
+    <string name="new_saf_permission_dialog_content">"S'han actualitzat els permisos de contactes. Permet que els contactes accedeixin als enregistraments de trucades.
+
+Com concedir el permís
+Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Següent</string>
+    <string name="new_saf_permission_dialog_title"><b>Permisos necessaris</b></string>
     <string name="next">Següent</string>
     <string name="next_birthday">Proper aniversari: %s</string>
     <string name="nfc_vcard_file_name">Contacte rebut sobre NFC</string>
@@ -1260,6 +1267,7 @@ Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</s
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festival de les llanternes d\'aigua</string>
+    <string name="this_folder">Utilitza aquesta carpeta</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>

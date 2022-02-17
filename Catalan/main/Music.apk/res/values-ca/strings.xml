@@ -498,7 +498,7 @@
     <string name="high_sound_quality">Alta</string>
     <string name="higher_quality_music">Música d\'alta qualitat</string>
     <string name="higher_quality_music_summary">Escolta i baixa música a major taxa de bits</string>
-    <string name="hint_search_songs_playlists_artists">Cerqueu cançons, llistes de reproducció i artistes</string>
+    <string name="hint_search_songs_playlists_artists">Cerca cançons, llistes de reproducció i artistes</string>
     <string name="home_tab_home">Inici</string>
     <string name="home_tab_local">La meva música</string>
     <string name="home_tab_more_music">Més música</string>
@@ -1034,8 +1034,8 @@ Sigues Feliç"</string>
     <string name="search_for_album">Àlbum</string>
     <string name="search_for_artist">Artista</string>
     <string name="search_hint">Cerca artistes, cançons, àlbums i recomanacions</string>
-    <string name="search_hint_local">Cerca per cançons al dispositiu</string>
-    <string name="search_hint_online">Cerca per artistes, àlbums, cançons, llistes de reproducció i vídeos en línia</string>
+    <string name="search_hint_local">Cerca cançons al dispositiu</string>
+    <string name="search_hint_online">Cerca artistes, àlbums, cançons, llistes de reproducció i vídeos en línia</string>
     <string name="search_history_clear_all">Neteja</string>
     <string name="search_history_delete_all_dialog_titile">Netejar l\'historial de cerca ara?</string>
     <string name="search_in_youtube">Cerca a YouTube</string>

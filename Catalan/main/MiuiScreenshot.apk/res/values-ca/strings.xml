@@ -57,6 +57,7 @@
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="garbage_count">Hi ha %1$s casos antics</string>
+    <string name="long_screenshot_error">"No s'ha pogut fer la captura de pantalla. Torneu-ho a provar."</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer
 una captura de pantalla de desplaçament"</string>
     <string name="long_screenshot_intercepted_error">"No s'ha pogut fer la captura de pantalla. Torna-ho a provar."</string>

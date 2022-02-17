@@ -64,6 +64,7 @@ Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon princip
     <string name="cit_front_camera_motor_cali_tips">No bloquegeu la càmera durant el procés de calibratge del motor de la càmera emergent</string>
     <string name="cit_gyrodata_second_sensor_check_title">Segon giroscopi</string>
     <string name="cit_gyroscope_second_cali_title">Segona prova de calibratge del sensor de giroscopi</string>
+    <string name="cit_ispv3_test">Prova ISPv3</string>
     <string name="cit_light_sensor_check_summary">El valor DAC hauria d\'aparèixer a continuació; proveu el sensor de llum</string>
     <string name="cit_nfc_check_summary">"Feu clic al botó per iniciar NFC i, a continuació, poseu la targeta a la part superior de la part posterior del dispositiu. 
 No apagueu la pantalla durant la prova"</string>

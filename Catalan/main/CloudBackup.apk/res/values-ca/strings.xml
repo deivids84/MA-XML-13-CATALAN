@@ -227,7 +227,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
     <string name="help_and_feedback">Ajut i comentaris</string>
@@ -355,7 +355,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_app_order_retry">Proveu de nou</string>
     <string name="restore_app_order_retry_desc">"No s'ha pogut connectar a la xarxa.
 Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
-    <string name="restore_app_order_search_hint">Cerqueu elements per establir la prioritat</string>
+    <string name="restore_app_order_search_hint">Cerca elements per definir la prioritat</string>
     <string name="restore_app_order_search_installed">Aplicacions en aquest dispositiu</string>
     <string name="restore_app_order_search_normal">Aplicacions de prioritat regular</string>
     <string name="restore_app_order_search_prior">Aplicacions d\'alta prioritat</string>

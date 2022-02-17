@@ -278,7 +278,7 @@ no es generen al segon espai"</string>
     <string name="fps_user_tip_footer">"%1$d. Perquè entengueu la diferència entre els percentatges de refresc més alts i els més baixos, les demostracions es reprodueixen més a poc a poc aquí. Pot ser que sigui més difícil notar la diferència durant l’ús habitual.
 %2$d. En alguns casos, la freqüència de refresc es pot ajustar dinàmicament en funció dels elements que es mostren."</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="galapagos_cormorant">Cormorà sense volar</string>
     <string name="galapagos_dove">Colom de les Galápagos</string>

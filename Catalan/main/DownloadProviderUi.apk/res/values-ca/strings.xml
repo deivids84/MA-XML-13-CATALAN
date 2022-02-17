@@ -70,6 +70,7 @@
     <string name="cancel">Cancel·leu</string>
     <string name="cancel_running_download">Cancel·leu</string>
     <string name="cancle">Cancel·la</string>
+    <string name="category">Categoria</string>
     <string name="choose_open_picture">Tria una opció</string>
     <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
     <string name="clear_data">Esborra</string>
@@ -136,6 +137,7 @@
     <string name="do_not_support_url">"Aquest tipus d'URL no està suportat"</string>
     <string name="doc_filter">DOCUMENT</string>
     <string name="download">Baixades</string>
+    <string name="downloadCount">Baixades</string>
     <string name="download_auth">Obtenint autorització…</string>
     <string name="download_complete">Completades</string>
     <string name="download_description_content">"Baixades és una aplicació del sistema. No podreu gestionar les baixades després de suprimir-la."</string>
@@ -367,6 +369,7 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="notify_install_guide_title">S\'ha instal·lat correctament %s</string>
     <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
     <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
+    <string name="nowInstall">Instal·la</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Només estan suportats els fitxers torrent</string>
     <string name="open">Obre</string>
@@ -462,8 +465,8 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="search_hot_variety">Entreteniment</string>
     <string name="search_hotwords">Paraules clau</string>
     <string name="search_hotwords_switch">Canvia</string>
-    <string name="search_input_empty_toast">Cerqueu o escriviu l\'URL</string>
-    <string name="search_input_hint">Cerqueu o escriviu l\'URL</string>
+    <string name="search_input_empty_toast">Cerqueu o introduïu l\'URL</string>
+    <string name="search_input_hint">Cerqueu o introduïu l\'URL</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_nonetwork_prompt">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
     <string name="search_nonetwork_refresh">Actualitza</string>
@@ -485,6 +488,7 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="shortcut_dialog_create">Crea</string>
     <string name="shortcut_dialog_title">Voleu crear una drecera en la pantalla d\'inici?</string>
     <string name="show_more">Mostra\'n %s més</string>
+    <string name="size">Mida</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

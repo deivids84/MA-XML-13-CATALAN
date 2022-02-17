@@ -115,6 +115,7 @@
     <string name="friday_shortest">dv.</string>
     <string name="game_booster">Accelerador de velocitat dels jocs</string>
     <string name="gamebooster_network_dialog_message">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de Game Turbo?</string>
+    <string name="gamebooster_network_dialog_message_pad">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunes funcions no estan disponibles"</string>
     <string name="gamebox_no_network_btn">Recarrega</string>
     <string name="gb_adv_touch_adv_title">Mode clàssic (per defecte)</string>
@@ -161,6 +162,7 @@
     <string name="gb_game_speed_closed_fail">"No s'ha pogut desactivar el mode de velocitat de llum"</string>
     <string name="gb_game_speed_open">El mode de velocitat de llum està activat</string>
     <string name="gb_game_speed_open_fail">"No s'ha pogut activar el mode de velocitat de llum"</string>
+    <string name="gb_global_settings">Configuració general</string>
     <string name="gb_gpu_control_anisotropic_filtering">Filtratge anisotròpic</string>
     <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
     <string name="gb_gpu_control_fps">Fotogrames per segon</string>
@@ -191,6 +193,9 @@
     <string name="gb_pannel_control_mode_high_quality">Qualitat alta</string>
     <string name="gb_pannel_control_mode_normal">Predeterminada</string>
     <string name="gb_pannel_control_mode_power_saving">Estalvi d\'energia</string>
+    <string name="gb_webwindow_schemedialog_accept">Obre</string>
+    <string name="gb_webwindow_schemedialog_cancel">Cancel·la</string>
+    <string name="gb_webwindow_schemedialog_title">Voleu obrir Jocs ara?</string>
     <string name="gb_weixinpay_can_not_complete">"No es pot completar el pagament. Instal·leu-lo per continuar."</string>
     <string name="gdpr_msg"><Data>\"Per utilitzar les funcions bàsiques de seguretat, heu d\'acceptar que Xiaomi recopilarà, processarà i utilitzarà les vostres dades personals, inclosa informació sobre les formes d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre programari maliciós, com així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificats a la nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privadesa&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Esteu a punt d’utilitzar Xunyou Game Booster. Aquest servei recopilarà l’identificador del vostre compte Mi per registrar la durada de la pertinença."</string>

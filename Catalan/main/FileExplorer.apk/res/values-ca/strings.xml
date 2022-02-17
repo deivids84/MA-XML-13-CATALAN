@@ -603,7 +603,7 @@
     <string name="search_app_more">Més</string>
     <string name="search_category">Categories</string>
     <string name="search_category_folder">Carpetes</string>
-    <string name="search_description">Cerqueu tots els fitxers del dispositiu</string>
+    <string name="search_description">Cerca a tots els fitxers del dispositiu</string>
     <string name="search_empty_view_hint">"No hi ha resultats"</string>
     <string name="search_error_hint">Cerca</string>
     <string name="search_file_type_apk">APK</string>
@@ -618,7 +618,7 @@
     <string name="search_more_category">Més</string>
     <string name="search_result">Resultats</string>
     <string name="search_result_more">Més</string>
-    <string name="search_title">Cerqueu</string>
+    <string name="search_title">Cerca</string>
     <string name="search_title_hint">Cerca</string>
     <string name="select_dest_folder">Seleccioneu la carpeta</string>
     <string name="select_image">Imatges</string>

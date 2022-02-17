@@ -1034,7 +1034,7 @@ disponibles"</string>
     <string name="free_view_desc">Visió en 3D</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
-    <string name="friday_shortest">F</string>
+    <string name="friday_shortest">dv.</string>
     <string name="functions_are_being_developed">Aquesta funció estarà disponible en breu. Estigueu atents!</string>
     <string name="gallery_setting">Configuració</string>
     <string name="gallery_sync_disable_toast">La sincronització de la galeria està desactivada</string>
@@ -2037,7 +2037,7 @@ per personalitzar Galeria"</string>
     <string name="scan_barcode_guide">"Per obtenir un codi QR de l'àlbum premeu \"Comparteix\"."</string>
     <string name="scan_barcode_to_join">Escanegeu el codi QR per afegir l\'àlbum</string>
     <string name="scan_qr_code_buttom_text">Escanegeu el codi QR per veure aquest àlbum</string>
-    <string name="scanning_device_tips">Cerqueu dispositius propers… Assegureu-vos que l\'altre dispositiu estigui en mode descobert.</string>
+    <string name="scanning_device_tips">S\'estan cercant dispositius a prop… Assegureu-vos que l\'altre dispositiu està en mode descobert.</string>
     <string name="scope_storage_dialog_cancel_btn">Cancel·la</string>
     <string name="scope_storage_dialog_confirm_btn">Següent</string>
     <string name="scope_storage_dialog_description">S\'han actualitzat els permisos de la Galeria. Permeteu que la Galeria accedeixi a aquesta carpeta per poder veure\'n el contingut.</string>
@@ -2085,7 +2085,7 @@ per personalitzar Galeria"</string>
     <string name="search_clear_histories">Neteja l\'historial de cerca</string>
     <string name="search_connection_error">"No es pot connectar a la xarxa"</string>
     <string name="search_connection_error_and_set">Toqueu per comprovar la configuració de xarxa</string>
-    <string name="search_empty_title">Trobeu fotos amb persones, llocs i objectes específics a la vostra Galeria</string>
+    <string name="search_empty_title">Cerca fotos amb persones, llocs i objectes concrets a la Galeria</string>
     <string name="search_error">S\'ha produït un error</string>
     <string name="search_error_and_retry">S\'ha produït un error, toqueu per provar-ho de nou</string>
     <string name="search_failed_mark_feedback_false_negative">"No s'ha pogut afegir"</string>

@@ -601,6 +601,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="speed_label_very_fast">Molt ràpida</string>
     <string name="speed_label_very_slow">Molt lenta</string>
     <string name="standby_bucket_summary">Estat d\'espera de l\'aplicació: %s</string>
+    <string name="start_new_trace">Inicia una traça nova</string>
     <string name="status_unavailable">No disponible</string>
     <string name="stop_on_bugreport">Atura el seguiment dels informes d\'errors</string>
     <string name="stop_on_bugreport_summary">Finalitza els enregistraments de traça actius quan s\'inicia un informe d\'errors</string>

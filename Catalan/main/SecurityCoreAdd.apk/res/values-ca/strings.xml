@@ -196,8 +196,8 @@ Assegureu-vos que el nom de la vostra empresa sigui correcte. Llegiu i accepteu 
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Divendres</string>
-    <string name="friday_shortest">Divendres</string>
+    <string name="friday_short">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="function_not_support">No és compatible amb aquest espai</string>
     <string name="gms_message">La creació d\'aplicacions duals requereix treballar amb els serveis de Google. Voleu crear una aplicació dual per als serveis de Google?</string>
     <string name="gms_open_button">Activa</string>

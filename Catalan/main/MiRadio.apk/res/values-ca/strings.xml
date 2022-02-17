@@ -134,7 +134,7 @@
     <string name="asset_sync_network_unavailable_alert_title">"No s'ha pogut connectar a la xarxa"</string>
     <string name="asset_sync_power_alert_message">Connecteu el carregador per fer còpies de seguretat de les cançons.</string>
     <string name="asset_sync_power_alert_title">Bateria baixa</string>
-    <string name="audio_recognition_setting_summary">Cerqueu automàticament portades d’àlbums i lletres de cançons locals</string>
+    <string name="audio_recognition_setting_summary">Cerca automàticament portades d\'àlbums i lletres de cançons locals</string>
     <string name="auth_activity_title">Compte Xunlei</string>
     <string name="auth_fail_warning">La sessió ha expirat. Inicieu la sessió de nou.</string>
     <string name="author_other_albums">"Altres àlbums de l'autor"</string>
@@ -1026,13 +1026,13 @@ Envieu aquest codi al supervisor."</string>
     <string name="scanned_list">Canals disponibles</string>
     <string name="search_dialog_title">Cerca d\'emissores</string>
     <string name="search_empty">"No s'ha pogut trobar resultats"</string>
-    <string name="search_hint">Cerqueu emissores de ràdio i programes</string>
-    <string name="search_hint_not_support_online">Cerqueu artistes, cançons i àlbums</string>
+    <string name="search_hint">Cerca emissores i programes de ràdio</string>
+    <string name="search_hint_not_support_online">Cerca artistes, cançons i àlbums</string>
     <string name="search_history_clear_all">Neteja</string>
     <string name="search_history_more">Més</string>
     <string name="search_history_shrink">Oculta</string>
     <string name="search_instant_online_music">En línia</string>
-    <string name="search_localsearch_hint">Cerqueu cançons en aquest dispositiu</string>
+    <string name="search_localsearch_hint">Cerca cançons en aquest dispositiu</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_title">Cerca</string>
     <string name="search_try_online">Cerca en línia</string>
@@ -1284,7 +1284,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_picker_min">minuts</string>
-    <string name="time_to_upgrade">Cerqueu una versió nova</string>
+    <string name="time_to_upgrade">Cerca una nova versió</string>
     <string name="title_album_list">Àlbum</string>
     <string name="title_fm_list">FM</string>
     <string name="title_online_fm_recommend">FM recomanats</string>

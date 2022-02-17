@@ -110,7 +110,7 @@
     <string name="fmt_time_second">"s"</string>
     <string name="fmt_time_second_millis">"s.S"</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="get_location">Accedir a la ubicació</string>
     <string name="gradienter_title">Nivell</string>

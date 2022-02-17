@@ -64,8 +64,8 @@
     <string name="foreground_text">Utilitza el servei en primer pla per incrementar el nivell actiu</string>
     <string name="foreground_title">Servei en primer pla</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Divendres</string>
-    <string name="friday_shortest">Divendres</string>
+    <string name="friday_short">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="hello_world">Hola món!</string>
     <string name="lab_switch_server">Canvia de servidor</string>
     <string name="local_ctrl">Depuració local</string>

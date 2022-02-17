@@ -90,7 +90,7 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="fmt_date_short_month_day">MM/dd</string>
     <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="i_know">D\'acord</string>
     <string name="lock_msg_phone">Informació de contacte: %s</string>

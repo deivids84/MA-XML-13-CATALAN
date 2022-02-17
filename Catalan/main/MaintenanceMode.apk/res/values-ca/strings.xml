@@ -57,8 +57,8 @@
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="forbid_create">El mode de manteniment només es pot crear a l’espai principal de l’usuari</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Dv</string>
-    <string name="friday_shortest">Dv</string>
+    <string name="friday_short">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="maintenance_mode">mode de manteniment</string>
     <string name="maintenance_mode_close_title">En mode de manteniment</string>
     <string name="maintenance_mode_loading">S\'està iniciant el mode de reparació, el dispositiu es reiniciarà aviat…</string>

@@ -395,7 +395,7 @@
     <string name="app_classification_activity_label">Totes les aplicacions</string>
     <string name="app_classification_recent_add">Recent</string>
     <string name="app_classification_search_all">Tots</string>
-    <string name="app_classification_search_hint">Cerqueu aplicacions</string>
+    <string name="app_classification_search_hint">Cerca aplicacions</string>
     <string name="app_classification_suggest_app">Suggeriments</string>
     <string name="app_detail">Detalls</string>
     <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, s'alenteixin o s'aturin definitivament. Si teniu aquests problemes, envieu els vostres comentaris als desenvolupadors de l'aplicació."</string>
@@ -558,7 +558,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_predict_dialog_message">AI suggerirà aplicacions que és possible que necessiteu en aquest moment</string>
     <string name="app_predict_dialog_success">S\'ha afegit a la pantalla d\'inici correctament</string>
     <string name="app_predict_folder_name">Cerca</string>
-    <string name="app_predict_go_shop_search_app">Cerqueu a GetApps</string>
+    <string name="app_predict_go_shop_search_app">Cerca a GetApps</string>
     <string name="app_predict_guide_button">Afegeix</string>
     <string name="app_predict_guide_message">AI suggerirà aplicacions que és possible que necessiteu en aquest moment</string>
     <string name="app_predict_guide_title">Suggeriments d\'aplicacions intel·ligents</string>
@@ -1104,6 +1104,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="compatible_dialog_title">Atenció</string>
     <string name="comprehensive_protection_measures">Protecció integral</string>
     <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
+    <string name="confirm_ai_allow_all_permission">Voleu canviar l\'estat del permís a \"Decideix per mi\" per a totes les aplicacions?</string>
     <string name="confirm_allow_all_permission">Vols permetre que totes les aplicacions facin servir aquesta funció?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">S\'està afegint el compte Mi</string>
     <string name="confirm_fingerprint_msg">Verifica l\'empremta</string>
@@ -1876,7 +1877,7 @@ voluntari"</string>
     <string name="gb_dialog_game_uninstall_loading">Carregant jocs…</string>
     <string name="gb_dialog_game_uninstall_tips_message">S’eliminaran totes les dades de l’aplicació.</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">S\'eliminaran totes les dades d\'aplicacions i les aplicacions duals relacionades.</string>
-    <string name="gb_dialog_game_uninstall_tips_title">Desinstal·leu %s</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Desinstal·la %s</string>
     <string name="gb_dialog_record_way_ai">Els enregistraments de la IA es desaran a la caixa de jocs i s’emmagatzemen durant 7 dies.</string>
     <string name="gb_dialog_record_way_finish">Fet</string>
     <string name="gb_dialog_record_way_manual">Graveu vídeos de fins a 30 segons de forma manual</string>
@@ -1932,10 +1933,12 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_not_support_on_device">"Aquesta aplicació no es pot utilitzar a la pantalla externa"</string>
     <string name="gb_operat_frequently">No tan ràpid!</string>
     <string name="gb_performance_balance">Equilibrada</string>
+    <string name="gb_performance_balance_tips">"El mode equilibrat estàlvia energia
+alhora que redueix la freqüència de refresc i els límits de temperatura"</string>
     <string name="gb_performance_high">Rendiment</string>
     <string name="gb_performance_mode">Mode de joc</string>
-    <string name="gb_performance_tips">"Si utilitzeu el mode de rendiment durant molt de temps,
-pot esgotar la bateria i provocar un sobreescalfament"</string>
+    <string name="gb_performance_tips">"El Mode rendiment millora el rendiment dels gràfics,
+però també augmenta el consum d'energia i permet que el dispositiu se sobreescalfi"</string>
     <string name="gb_shortcut_pref_title">Drecera a la pantalla d\'inici</string>
     <string name="gb_shoulder_key">Botons d\'espatlla</string>
     <string name="gb_shoulder_key_add_show_btn">Mostra els botons virtuals durant els jocs</string>
@@ -2054,6 +2057,7 @@ de les teves sessions de joc"</string>
     <string name="gd_setting_title">Barra lateral</string>
     <string name="gd_setting_vtb">Mostra durant la reproducció de vídeos</string>
     <string name="gd_setting_vtb_desc">Característiques especials per a la reproducció de vídeo</string>
+    <string name="gd_sidebar_long_press_tips">Manteniu premut l\'indicador per moure\'l mentre sosteniu el dispositiu verticalment</string>
     <string name="gd_splite_screen_tips">"La pantalla dividida no admet finestres flotants"</string>
     <string name="gdpr_msg"><Data>\"Per ser capaç de detectar els riscos de seguretat i protegir les seves dades, hem de recollir la quantitat necessària d\'informació sobre el dispositiu. Llegir i acceptar la nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privacitat&lt;/a&gt; abans d\'utilitzar els nostres serveis. En cas que no ens permeten recopileu aquesta informació, encara podreu utilitzar aquesta aplicació, però algunes funcions no estaran disponibles per a vosaltres. \"</Data></string>
     <string name="get_detail_by_click">Toca per veure\'n els detalls</string>
@@ -2130,6 +2134,7 @@ de les teves sessions de joc"</string>
     <string name="gtb_exit_game_to_gtb">Obre la caixa de jocs</string>
     <string name="gtb_exit_game_to_home">Torna a la pantalla d\'inici</string>
     <string name="gtb_guide_finish">Omet</string>
+    <string name="gtb_guide_game_mode_tips">Seleccioneu el mode de joc preferit</string>
     <string name="gtb_guide_gtb_button_done">Fet</string>
     <string name="gtb_guide_gtb_community_desc">Comparteix la teva experiència amb altres jugadors</string>
     <string name="gtb_guide_gtb_community_title">Comunitat</string>
@@ -2137,7 +2142,8 @@ de les teves sessions de joc"</string>
     <string name="gtb_guide_gtb_func_title">Joc Turbo</string>
     <string name="gtb_guide_gtb_game_effected">Aplicat</string>
     <string name="gtb_guide_gtb_game_new">Novetat</string>
-    <string name="gtb_guide_gtb_line_new">Intensifiqueu el joc amb el nou Game Turbo.</string>
+    <string name="gtb_guide_gtb_line_new">Proveu el Mode rendiment a Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_xspace">Accelereu el joc amb el nou Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Utilitzeu altres aplicacions mentre jugueu"</string>
     <string name="gtb_guide_small_window_app_title">Finestres flotants</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bloqueja tots els serveis de comunicació a la SIM secundària durant les sessions de joc per mantenir la connexió estable i evitar canviar entre xarxes. La SIM secundària es desbloquejarà quan deixeu de jugar.</string>
@@ -2384,7 +2390,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="mark_number_agent">Agència</string>
     <string name="mark_number_fraud">Frau</string>
     <string name="mark_number_harass">Assetjament</string>
-    <string name="mark_number_info">"Tingueu en compte que de vegades aquestes trucades poden ser útils (p.e. quan realment cerqueu un apartament). Bloquegeu només els números dels quals mai no voleu rebre trucades."</string>
+    <string name="mark_number_info">"Tingueu en compte que, de vegades, aquestes trucades poden ser útils (per exemple, quan realment busqueu un apartament). Només bloquegeu els números dels quals no voleu rebre trucades."</string>
     <string name="mark_number_sell">Telemàrqueting</string>
     <string name="mark_number_setting_guide_content1">Voleu bloquejar les trucades dels números notificats?</string>
     <string name="mark_number_setting_guide_content2">Bloqueja automàticament les trucades dels números notificats per altres usuaris</string>
@@ -2440,8 +2446,8 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="menu_setting_traffic">Estableix manualment</string>
     <string name="menu_sms">Envia el missatge</string>
     <string name="menu_summary_antispam">Bloca trucades i missatges</string>
-    <string name="menu_summary_antivirus">Cerqueu virus al dispositiu</string>
-    <string name="menu_summary_app_manager">Actualitzeu i desinstal·leu aplicacions</string>
+    <string name="menu_summary_antivirus">Cerca virus al dispositiu</string>
+    <string name="menu_summary_app_manager">Actualitza i desinstal·la aplicacions</string>
     <string name="menu_summary_garbage_cleanup">No hi ha brossa</string>
     <string name="menu_summary_garbage_cleanup_ex">Allibereu %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% d’espai d’emmagatzematge</string>
@@ -3702,7 +3708,7 @@ Voleu retirar el consentiment?"</string>
     <string name="privacy_risk_sensitive_second_title">"Heu concedit permisos delicats"</string>
     <string name="privacy_risk_sensitive_storage">Permetre que les aplicacions accedeixin o desin fitxers</string>
     <string name="privacy_risk_sensitive_top_tip">"Per protegir la vostra privadesa, concediu permisos delicats només quan sigui necessari."</string>
-    <string name="privacy_risk_space_uninstall_dialog_msg">Desinstal·leu les aplicacions seleccionades, incloses les seves aplicacions dobles？</string>
+    <string name="privacy_risk_space_uninstall_dialog_msg">Voleu desinstal·lar les aplicacions seleccionades, incloses les seves aplicacions duals？</string>
     <string name="privacy_risk_uninstall_dialog_msg">Voleu desinstal·lar les aplicacions seleccionades ara?</string>
     <string name="privacy_risk_uninstall_dialog_title">D\'acord</string>
     <string name="privacy_risk_uninstall_title">Desinstal·la les aplicacions</string>
@@ -4355,6 +4361,7 @@ Voleu retirar el consentiment?"</string>
     <string name="st_title_editblacklist">Edita la llista de bloqueig</string>
     <string name="st_title_editwhitelist">Edita les excepcions</string>
     <string name="st_title_keywords_blacklist">Llista de bloqueig de paraules clau</string>
+    <string name="st_title_keywords_list">Llista de paraules clau</string>
     <string name="st_title_keywords_whitelist">Excepcions de paraules clau</string>
     <string name="st_title_man_addblacklist">Afegeix el número a la llista de bloqueig</string>
     <string name="st_title_man_addwhitelist">Afegeix el número de telèfon a les excepcions</string>
@@ -4401,7 +4408,7 @@ Voleu retirar el consentiment?"</string>
     <string name="storage_app_detail_third_clean_size">Allibereu %s</string>
     <string name="storage_app_detail_total">Espai total ocupat</string>
     <string name="storage_app_detail_uninstall_app">Desinstal·la l\'aplicació</string>
-    <string name="storage_app_detail_uninstall_dialog_message">Totes les dades de l’aplicació també se suprimeixen si desinstal·leu l’aplicació.</string>
+    <string name="storage_app_detail_uninstall_dialog_message">Totes les dades de l\'aplicació també se suprimiran si desinstal·leu l\'aplicació.</string>
     <string name="storage_app_detail_uninstall_dialog_title">Vols desinstal·lar-lo ara?</string>
     <string name="storage_app_detail_uninstall_done">S\'ha desinstal·lat correctament</string>
     <string name="storage_app_detail_wechat_cleaner">Netejador de WeChat</string>
@@ -4419,10 +4426,10 @@ Voleu retirar el consentiment?"</string>
     <string name="storage_app_manager_uninstall_protected_dlg_msg">La desinstal·lació dels complements del sistema pot provocar que algunes funcions funcionin de manera incorrecta. Voleu desinstal·lar-la de totes maneres?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">Atenció</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"La doble aplicació d'aquesta aplicació també es desinstal·larà."</string>
-    <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Totes les dades de l’aplicació també se suprimeixen si desinstal·leu l’aplicació.</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Totes les dades de l\'aplicació també se suprimiran si desinstal·leu l\'aplicació.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació doble?</string>
     <string name="storage_app_space_details_entry">Veure els detalls de l\'aplicació</string>
-    <string name="storage_app_uninstall_app_dialog_msg">Totes les dades de l’aplicació també se suprimeixen si desinstal·leu l’aplicació.</string>
+    <string name="storage_app_uninstall_app_dialog_msg">Totes les dades de l\'aplicació també se suprimiran si desinstal·leu l\'aplicació.</string>
     <string name="storage_app_uninstall_app_dialog_title">Desinstal·lar l’aplicació</string>
     <string name="storage_available_total_size">%1$s de %2$s disponibles</string>
     <string name="storage_available_total_size1">Ocupat: %1$s | Total: %2$s</string>
@@ -4993,7 +5000,7 @@ Dades extres en ús"</string>
     <string name="two_address_choose_hint">%1$s i %2$s</string>
     <string name="type_face_condition_summary">Ajusta la mida del text i el pes de la lletra</string>
     <string name="unable_connect_internet">No hi ha connexió a internet</string>
-    <string name="uninstall_app_dialog_msg">Si ho desinstal·leu, es suprimiran totes les dades de l\'aplicació.</string>
+    <string name="uninstall_app_dialog_msg">La desinstal·lació suprimirà totes les dades de l\'aplicació.</string>
     <string name="uninstall_app_dialog_title">Voleu desinstal·lar-ho ara?</string>
     <string name="uninstall_app_done">S\'ha desinstal·lat amb èxit</string>
     <string name="uninstall_danagerous_btn">Desinstal·la</string>

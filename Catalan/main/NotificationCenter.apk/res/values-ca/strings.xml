@@ -75,9 +75,9 @@
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="function_description">Quant a aquesta característica</string>
-    <string name="hint_search_all">Cerqueu aplicacions</string>
-    <string name="hint_search_in_disabled_apps">"Cerqueu aplicacions que no puguin mostrar notificacions"</string>
-    <string name="hint_search_in_enabled_apps">Cerqueu aplicacions que puguin mostrar notificacions</string>
+    <string name="hint_search_all">Cerca aplicacions</string>
+    <string name="hint_search_in_disabled_apps">"Cerca aplicacions que no puguin mostrar notificacions"</string>
+    <string name="hint_search_in_enabled_apps">Cerca aplicacions que puguin mostrar notificacions</string>
     <string name="last_sent_time_second">Ara mateix</string>
     <string name="list_title_disable_notification">"Les notificacions no estan permeses"</string>
     <string name="loading">Un moment…</string>

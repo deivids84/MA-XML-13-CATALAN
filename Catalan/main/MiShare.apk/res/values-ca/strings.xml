@@ -247,7 +247,7 @@ Abans d'utilitzar Mi Share, heu de concedir els permisos següents, i també per
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
-    <string name="scanning_device_tips">Cerqueu dispositius propers… Assegureu-vos que l\'altre dispositiu estigui en mode descobert.</string>
+    <string name="scanning_device_tips">S\'estan cercant dispositius propers… Assegureu-vos que l’altre dispositiu estigui en mode descobert.</string>
     <string name="scanning_only_xiaomi_device">Aquest element només es pot transferir a dispositius Xiaomi o Black Shark</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>

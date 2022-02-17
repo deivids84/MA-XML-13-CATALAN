@@ -214,7 +214,7 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Inicieu la sessió mitjançant Facebook</string>
     <string name="com_facebook_send_button_text">Envia</string>
     <string name="com_facebook_share_button_text">Compartir</string>
-    <string name="com_facebook_smart_device_instructions">Per connectar el vostre compte, obriu l\'aplicació Facebook al dispositiu mòbil i cerqueu notificacions.</string>
+    <string name="com_facebook_smart_device_instructions">Per connectar el compte, obriu l\'aplicació de Facebook al dispositiu mòbil i comproveu si hi ha notificacions.</string>
     <string name="com_facebook_smart_device_instructions_or">- O -</string>
     <string name="com_facebook_smart_login_confirmation_cancel">No tu?</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">Continua com a %1$s</string>
@@ -1238,7 +1238,7 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="plus_player_share_screen_in_device">S\'està reproduint a%s…</string>
     <string name="plus_player_share_screen_no_device">"No s'han pogut trobar dispositius a prop."</string>
     <string name="plus_player_share_screen_play">S\'està emetent un vídeo…</string>
-    <string name="plus_player_share_screen_searching_device">Cercant dispositius propers…</string>
+    <string name="plus_player_share_screen_searching_device">S\'estan cercant dispositius propers…</string>
     <string name="plus_player_share_screen_starting_service">S\'està preparant una emissió…</string>
     <string name="plus_player_share_screen_stop">Atura l\'emissió</string>
     <string name="plus_player_share_screen_video_not_support">"No s'admeten vistes prèvies per a aquest format de vídeo."</string>
@@ -1397,7 +1397,7 @@ Augmentar la seguretat del vostre compte."</string>
     <string name="screenrecord_cancel">Problemes de compatibilitat</string>
     <string name="screenrecord_nosupport_record">"La gravadora de pantalla no és compatible actualment amb aquest dispositiu."</string>
     <string name="search">Cercar</string>
-    <string name="search_bar_hint">Cerqueu vídeos</string>
+    <string name="search_bar_hint">Cerca vídeos</string>
     <string name="search_bar_video_download_hint">Cerqueu o introduïu l\'URL</string>
     <string name="search_choose_language">Seleccioneu l\'idioma</string>
     <string name="search_choose_voice_language">Seleccioneu l\'idioma utilitzat per a la cerca de veu</string>

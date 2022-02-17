@@ -159,7 +159,7 @@
     <string name="community_cta_dialog_des">Els temes de tercers ara admeten el giny de la meva comunitat. Permet que els temes accedeixin al vostre estat de compte de Mi i als vostres estatus de la comunitat de Mi associats al compte per poder-los veure aquí.</string>
     <string name="community_cta_dialog_ok">Permetre</string>
     <string name="community_cta_dialog_title">Permisos necessaris</string>
-    <string name="community_entrance_summary">Cerqueu contingut relacionat amb el tema a la meva comunitat. Aquesta funció és compatible amb els temes seleccionats.</string>
+    <string name="community_entrance_summary">Cerca contingut relacionat amb el tema a Mi Community. Aquesta funció és compatible amb els temes seleccionats.</string>
     <string name="community_entrance_title">Giny rellotge Mi Community</string>
     <string name="community_message_trigger_disabled">Desactivat</string>
     <string name="community_message_trigger_triggered">Encès</string>

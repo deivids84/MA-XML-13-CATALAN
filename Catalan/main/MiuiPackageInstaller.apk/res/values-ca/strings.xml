@@ -120,8 +120,8 @@ Es mantindran totes les dades d'usuari prèvies."</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Divendres</string>
-    <string name="friday_shortest">Divendres</string>
+    <string name="friday_short">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="game_center_install">Instal·leu-ho des de Mi Games</string>
     <string name="game_center_install_tips">Baixeu i instal·leu Mi Games per obtenir més funcions</string>
     <string name="game_center_intercept_trust_app">Confio en aquesta aplicació i puc fer front a possibles riscos.</string>

@@ -282,6 +282,11 @@
     <string name="network_tip_dialog_title">Es necessita una connexió a Internet</string>
     <string name="network_unavailable_tip">Connecteu-vos a la xarxa i torneu-ho a provar.</string>
     <string name="new_record_name">Gravació nova</string>
+    <string name="new_saf_permission_dialog_content">"S'han actualitzat els permisos de la Gravadora. Permet que la Gravadora accedeixi als enregistraments de trucades.
+
+Com concedir el permís
+Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Següent</string>
     <string name="night">Vespre</string>
     <string name="no_content">Encara no hi ha cap element</string>
     <string name="no_file">No hi ha gravacions</string>
@@ -587,6 +592,7 @@
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Dia de Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festa dels fanalets d\'aigua</string>
+    <string name="this_folder">Utilitza aquesta carpeta</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>

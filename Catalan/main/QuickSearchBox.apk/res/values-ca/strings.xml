@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_loaction">Cerqueu a la pantalla d\'inici</string>
+    <string name="app_loaction">Cerca a la pantalla d\'inici</string>
     <string name="app_name">Cerca</string>
     <string name="appindex_description">funcions de les aplicacions instal·lades</string>
     <string name="appindex_search_label">Funcions de les aplicacions</string>

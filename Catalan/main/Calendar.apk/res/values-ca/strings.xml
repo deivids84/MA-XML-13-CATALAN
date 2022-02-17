@@ -266,8 +266,8 @@ Accés des de qualsevol navegador
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="fourth_saturday_holiday">Cada segon i quart dissabte són festius</string>
     <string name="friday">Divendres</string>
-    <string name="friday_short">Dv</string>
-    <string name="friday_shortest">Dv</string>
+    <string name="friday_short">Dv.</string>
+    <string name="friday_shortest">dv.</string>
     <string name="from_google_group_calendar">Google Calendar</string>
     <string name="full_scorecard">Tarja de resultats completa</string>
     <string name="gadget_no_events">No hi ha esdeveniments de calendari pròxims</string>

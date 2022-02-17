@@ -189,7 +189,7 @@
     <string name="force_touch_enter_stopwatch">Cronòmetre</string>
     <string name="force_touch_enter_timer">Temporitzador</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="go_back">Enrere</string>
@@ -431,6 +431,8 @@
     <string name="shortcut_new_alarm">Establiu alarma</string>
     <string name="shortcut_start_timer">Inicia temporitzador</string>
     <string name="shortcut_stop_watch">Atureu el crono</string>
+    <string name="show_life_post_desc">"Els informes matinals no es mostraran si desactiveu aquesta funció"</string>
+    <string name="show_life_post_lable">Mostra l\'informe matinal</string>
     <string name="shut_down_keep_screen">"La pantalla no serà conservada"</string>
     <string name="shutdown_alarm_alert_enable_summary">Les alarmes de desactivació s\'apagaran almenys 10 minuts després que apagueu el dispositiu</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Activeu-ho per activar les alarmes configurades quan el dispositiu està apagat. Només les alarmes apagat configurades com a mínim durant %d minuts després d\'apagar el dispositiu.</string>
@@ -443,6 +445,7 @@
     <string name="sleep_analysis">Estadístiques</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">Dades del son proporcionades per Xiaomi Salut</string>
+    <string name="sleep_date_provider_text_new">Mi Fitness proporciona les dades del son</string>
     <string name="sleep_duration">"Durada del son: "</string>
     <string name="sleep_duration_avg_text_diff">Durada mitja del son (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Has dormit durant %1$s %2$s</string>
@@ -457,6 +460,7 @@
     <string name="sleep_record_desc">Activa per començar a gravar les dades del son</string>
     <string name="sleep_record_desc_detailed">Salut Xiaomi proporciona la funcionalitat de seguiment del son. Un cop activada, Xiaomi Salut registra automàticament el son en funció de l\'ús del telèfon, de les estadístiques d\'activitat, així com de l\'hora de llevar-te i d\'anar-te\'
  a dormir especificades, mostrant-te les estadístiques en forma de gràfics. Per fer un seguiment més precís del son, permet que s\'iniciï automàticament a Salut Xiaomi. Totes les dades relacionades s\'emmagatzemaran localment al dispositiu, cosa que permet gestionar-les fàcilment.</string>
+    <string name="sleep_record_desc_detailed_new">El seguiment del son el proporciona la funció Mi Fitness Sleep. Si activeu aquesta funció, Mi Fitness recopilarà i mostrarà automàticament dades sobre el son en funció de l\'ús del telèfon, l\'activitat i l\'hora d\'anar a dormir i de despertar-vos que hàgiu establert. Per fer un seguiment del son amb més precisió, permet que Mi Fitness s\'iniciï automàticament.</string>
     <string name="sleep_record_no_data">Les teves estadístiques apareixeran després que Xiaomi Salut analitzi prou dades</string>
     <string name="sleep_remind">Recordatori per anar a dormir</string>
     <string name="sleep_time">Inici del son</string>
@@ -616,6 +620,8 @@
     <string name="upcoming_alarm_hint">Ara podeu desactivar aquesta alarma</string>
     <string name="update_health_app">Actualitza Xiaomi Salut</string>
     <string name="update_health_app_desc">Salut Xiaomi proporciona la funcionalitat de seguiment del son. Actualitza Xiaomi Salut a la darrera versió per accedir a funcions relacionades.</string>
+    <string name="update_health_app_desc_new">La funció de seguiment del son la proporciona Mi Fitness. Actualitzeu Mi Fitness a la seva darrera versió per accedir a les funcions relacionades.</string>
+    <string name="update_health_app_new">Actualitza Mi Fitness</string>
     <string name="update_it">Actualitza</string>
     <string name="update_notification_info">S\'estan actualitzant dades en segon pla…</string>
     <string name="usage_start">Inicia</string>

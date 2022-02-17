@@ -154,7 +154,7 @@
     <string name="button_text_select_all">Selecciona</string>
     <string name="button_text_select_all_photos">Seleccioneu-ho tot</string>
     <string name="button_text_select_pic">Selecciona</string>
-    <string name="button_text_uninstall">Desinstal·leu</string>
+    <string name="button_text_uninstall">Desinstal·la</string>
     <string name="button_text_uninstall_only">Desinstal·la %s</string>
     <string name="button_text_unselect_all">Desselecciona</string>
     <string name="button_text_unselect_pic">Desselecciona</string>
@@ -277,7 +277,7 @@
     <string name="dialog_title_esc_cleanmaster">Sortida del netejador</string>
     <string name="dialog_title_load_cleanup_engine_error">Quelcom ha fallat</string>
     <string name="dialog_title_stop_scan">Aturar l\'escaneig</string>
-    <string name="dialog_title_uninstall_apps">Desinstal·leu</string>
+    <string name="dialog_title_uninstall_apps">Desinstal·la</string>
     <string name="download">Baixa</string>
     <string name="downloading">S\'està baixant</string>
     <string name="early_morning">Matí</string>
@@ -331,7 +331,7 @@
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="function_app_lock_title">%d aplicacions contenen riscos de privacitat</string>
     <string name="garbage_clean_detail">Detalls</string>
@@ -824,8 +824,8 @@
     <string name="tips_low_storage_dialog_cancel">Cancel·leu</string>
     <string name="tips_low_storage_dialog_msg_qq">La mida de la memòria cau de QQ ha arribat als 3 GB. Això podria alentir el vostre dispositiu. Voleu esborrar la memòria cau de QQ?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">La mida de la memòria cau de QQ ha arribat a %d GB. Això pot frenar el dispositiu. Voleu esborrar la memòria cau de QQ ara?</string>
-    <string name="tips_low_storage_dialog_msg_storage">"Esteu utilitzant el 90% de l'espai d'emmagatzematge. Desinstal·leu aplicacions en desús."</string>
-    <string name="tips_low_storage_dialog_msg_storage_new">"Feu servir %s del vostre espai d'emmagatzematge. Desinstal·leu les aplicacions que no utilitzeu."</string>
+    <string name="tips_low_storage_dialog_msg_storage">"Esteu utilitzant el 90% de l'espai d'emmagatzematge. Desinstal·leu les aplicacions en desús."</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">"Esteu utilitzant %s del vostre espai d'emmagatzematge. Desinstal·leu les aplicacions que no feu servir."</string>
     <string name="tips_low_storage_dialog_msg_wechat">La mida de la memòria cau de WeChat ha arribat als 3 Gb. Això podria alentir el vostre dispositiu. Voleu esborrar la memòria cau de WeChat?</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">La mida de la memòria cau de WeChat ha arribat a %d GB. Això pot frenar el dispositiu. Voleu esborrar la memòria cau de WeChat ara?</string>
     <string name="tips_low_storage_dialog_ok">Neteja</string>

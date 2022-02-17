@@ -88,7 +88,7 @@ MM/dd"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="font_thickness">Densitat de la font</string>
     <string name="friday">divendres</string>
-    <string name="friday_short">dv.</string>
+    <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="gallery_page_name">Des de la Galeria</string>
     <string name="has_add_contact">Afegit</string>
@@ -229,6 +229,7 @@ MM/dd"</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
+    <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Pantalla posterior</string>
     <string name="sps_cancel">Manteniu premut per sortir</string>
     <string name="step_to_image_community">Trobeu més a Comunitat Mi</string>
