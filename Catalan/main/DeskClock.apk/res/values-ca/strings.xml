@@ -178,7 +178,7 @@
     <string name="expand_button_title">Opcions avançades</string>
     <string name="expired_timers_dismissed">S\'ha deshabilitat amb èxit el temporitzador</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">MM/dd</string>
     <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -327,7 +327,7 @@
     <string name="month_december_short">des</string>
     <string name="month_december_shortest">des.</string>
     <string name="month_february">febrer</string>
-    <string name="month_february_short">feb</string>
+    <string name="month_february_short">febr.</string>
     <string name="month_february_shortest">febr.</string>
     <string name="month_january">gener</string>
     <string name="month_january_short">gen</string>
@@ -392,6 +392,10 @@
     <string name="reach_upper_limit">"No es poden afegir més temporitzadors"</string>
     <string name="read_external_storage_permission_desc">Per configurar tons de trucada personalitzats</string>
     <string name="read_internal_storage">Accés a l’emmagatzematge</string>
+    <string name="read_phone_state">Accés a la informació del dispositiu</string>
+    <string name="read_phone_state_desc">Accedeix a l\'estat de la trucada quan sona l\'alarma</string>
+    <string name="read_phone_state_desc_when_request">Per accedir a l\'estat de la trucada per posar en pausa automàticament les alarmes quan es reben trucades</string>
+    <string name="remark_hint">Introduïu l\'etiqueta</string>
     <string name="remind_ringtone">So</string>
     <string name="repeat_count">Vegades</string>
     <string name="repeat_type">Repeteix</string>
@@ -666,8 +670,5 @@
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">Mateixa a la hora local</string>
     <string name="xiaoai_ringtone_title">Tons de trucada Mi AI</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="yesterday">Ahir</string>
 </resources>

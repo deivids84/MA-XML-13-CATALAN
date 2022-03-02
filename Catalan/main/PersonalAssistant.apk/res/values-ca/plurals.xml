@@ -36,101 +36,9 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
-    <plurals name="agenda_anniversary_day">
-        <item quantity="other">·%1$d dies</item>
-        <item quantity="one">·%1$d dia</item>
-    </plurals>
-    <plurals name="agenda_anniversary_year">
-        <item quantity="other">·%1$d anys</item>
-        <item quantity="one">·%1$d any</item>
-    </plurals>
-    <plurals name="agenda_count_down">
-        <item quantity="other">En %d minuts</item>
-        <item quantity="one">En %d minut</item>
-    </plurals>
-    <plurals name="agenda_countdown_day">
-        <item quantity="other">·En %1$d dies</item>
-        <item quantity="one">·En %1$d dia</item>
-    </plurals>
-    <plurals name="agenda_tip_count_down">
-        <item quantity="other">Comença d\'aquí a %1$d minuts</item>
-        <item quantity="one">Comença d\'aquí a %1$d minut</item>
-    </plurals>
-    <plurals name="app_accessibility_olympic_bronze_medal_count">
-        <item quantity="other">%d medalles de bronze</item>
-        <item quantity="one">%d medalla de bronze</item>
-    </plurals>
-    <plurals name="app_accessibility_olympic_gold_medal_count">
-        <item quantity="other">%d medalles d\'or</item>
-        <item quantity="one">%d medalla d\'or</item>
-    </plurals>
-    <plurals name="app_accessibility_olympic_medal_count">
-        <item quantity="other">%d medalles en total</item>
-        <item quantity="one">%d medalla en total</item>
-    </plurals>
-    <plurals name="app_accessibility_olympic_rank">
-        <item quantity="other">Lloc %d</item>
-        <item quantity="one">Lloc %d</item>
-    </plurals>
-    <plurals name="app_accessibility_olympic_silver_medal_count">
-        <item quantity="other">%d medalles de plata</item>
-        <item quantity="one">%d medalla de plata</item>
-    </plurals>
-    <plurals name="app_course_to_start">
-        <item quantity="other">Comença d\'aquí a %1$d minuts</item>
-        <item quantity="one">Comença d\'aquí a %1$d min</item>
-    </plurals>
-    <plurals name="app_express_content_title_1">
-        <item quantity="other">%d paquets en camí</item>
-        <item quantity="one">%d paquet està en camí</item>
-    </plurals>
-    <plurals name="app_express_settings_title_2">
-        <item quantity="other">S\'han afegit %d números de telèfon</item>
-        <item quantity="one">S\'ha afegit %d número de telèfon</item>
-    </plurals>
-    <plurals name="app_miot_total_device">
-        <item quantity="other">%1$d dispositius</item>
-        <item quantity="one">%1$d dispositiu</item>
-    </plurals>
-    <plurals name="assistant_day">
-        <item quantity="other">En %d dies</item>
-        <item quantity="one">En %d dia</item>
-    </plurals>
-    <plurals name="base_time_hour_ago">
-        <item quantity="other">Fa %d hores</item>
-        <item quantity="one">Fa %d hora</item>
-    </plurals>
-    <plurals name="base_time_minute_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa %d minut</item>
-    </plurals>
-    <plurals name="book_start_interval">
-        <item quantity="other">Surt en %d dies</item>
-        <item quantity="one">Surt en %d dia</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">Fa %1$d dia</item>
-        <item quantity="other">Fa %1$d dies</item>
-    </plurals>
-    <plurals name="express_history_dialog_delete_message">
-        <item quantity="other">Voleu eliminar %s elements de l\'enviament urgent?</item>
-        <item quantity="one">Voleu eliminar %s element de l\'enviament urgent?</item>
-    </plurals>
-    <plurals name="express_history_menu_select_num">
-        <item quantity="other">%s elements seleccionats</item>
-        <item quantity="one">%s element seleccionat</item>
-    </plurals>
-    <plurals name="express_setting_phone_binded_info">
-        <item quantity="other">S\'han afegit %d números de telèfon</item>
-        <item quantity="one">S\'ha afegit %d número de telèfon</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">Fa %1$d hora</item>
-        <item quantity="other">Fa %1$d hores</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">D\'aquí a 1 hora</item>
@@ -152,22 +60,6 @@
         <item quantity="one">Ara</item>
         <item quantity="other">Ara</item>
     </plurals>
-    <plurals name="main_delete_desc">
-        <item quantity="other">Voleu eliminar %s elements dels preferits?</item>
-        <item quantity="one">Voleu eliminar %s element dels preferits?</item>
-    </plurals>
-    <plurals name="main_mark_fav_num">
-        <item quantity="other">S\'ha marcat %s elements com a important</item>
-        <item quantity="one">S\'ha marcat %s element com a important</item>
-    </plurals>
-    <plurals name="main_mark_select_num">
-        <item quantity="other">%s elements seleccionats</item>
-        <item quantity="one">%s element seleccionat</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="one">Fa %1$d minut</item>
-        <item quantity="other">Fa %1$d minuts</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
@@ -176,48 +68,96 @@
         <item quantity="other">fa %d minuts</item>
         <item quantity="one">fa 1 minut</item>
     </plurals>
-    <plurals name="payment_record_dialog_delete_message">
-        <item quantity="other">Voleu eliminar %s elements del pagament?</item>
-        <item quantity="one">Voleu eliminar %s element del pagament?</item>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d medalles de bronze</item>
+        <item quantity="one">%d medalla de bronze</item>
     </plurals>
-    <plurals name="payment_record_menu_select_num">
-        <item quantity="other">%s elements seleccionats</item>
-        <item quantity="one">%s element seleccionat</item>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d medalles d\'or</item>
+        <item quantity="one">%d medalla d\'or</item>
     </plurals>
-    <plurals name="shopping_delete_num">
-        <item quantity="other">Voleu suprimir els %s elements seleccionats?</item>
-        <item quantity="one">Voleu suprimir %s element seleccionat?</item>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">%d medalles en total</item>
+        <item quantity="one">%d medalla en total</item>
     </plurals>
-    <plurals name="sms_day_suffix">
-        <item quantity="other">En %d dies</item>
-        <item quantity="one">En %d dia</item>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">Lloc %d</item>
+        <item quantity="one">Lloc %d</item>
     </plurals>
-    <plurals name="sms_hour_suffix">
-        <item quantity="other">En %d hores</item>
-        <item quantity="one">En %d hora</item>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d medalles de plata</item>
+        <item quantity="one">%d medalla de plata</item>
     </plurals>
-    <plurals name="sms_minute_suffix">
-        <item quantity="other">En %d minuts</item>
-        <item quantity="one">En %d minut</item>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Botiga de ginys. Llista d\'aplicacions. %d elements a la llista d\'aplicacions.</item>
+        <item quantity="one">Botiga de ginys. Llista d\'aplicacions. %d element a la llista d\'aplicacions.</item>
     </plurals>
-    <plurals name="sms_title_hours">
-        <item quantity="other">%d hores</item>
-        <item quantity="one">%d hora</item>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Número %d a la llista.</item>
+        <item quantity="one">Número %d a la llista.</item>
     </plurals>
-    <plurals name="sms_title_minutes">
-        <item quantity="other">%d minuts</item>
-        <item quantity="one">%d minut</item>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">L\'element conté %d ginys. Feu doble toc per obrir la descripció del giny.</item>
+        <item quantity="one">L\'element conté %d giny. Feu doble toc per obrir la descripció del giny.</item>
     </plurals>
-    <plurals name="steps">
-        <item quantity="other">%d|passos</item>
-        <item quantity="one">%d|pas</item>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Botiga de ginys. Llista d\'aplicacions. %d elements a la llista.</item>
+        <item quantity="one">Botiga de ginys. Llista d\'aplicacions. %d element a la llista.</item>
     </plurals>
-    <plurals name="time_hour_ago">
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Número %d a la llista.</item>
+        <item quantity="one">Número %d a la llista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">L\'element conté %d ginys. Feu doble toc per obrir la descripció del giny.</item>
+        <item quantity="one">L\'element conté %d giny. Feu doble toc per obrir la descripció del giny.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Botiga de ginys. Llista d\'aplicacions. %d elements a la llista.</item>
+        <item quantity="one">Botiga de ginys. Llista d\'aplicacions. %d element a la llista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Número %d a la llista.</item>
+        <item quantity="one">Número %d a la llista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">L\'element conté %d ginys. Feu doble toc per obrir la descripció del giny.</item>
+        <item quantity="one">L\'element conté %d giny. Feu doble toc per obrir la descripció del giny.</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
         <item quantity="other">Fa %d hores</item>
         <item quantity="one">Fa %d hora</item>
     </plurals>
-    <plurals name="time_minute_ago">
-        <item quantity="other">fa %d minuts</item>
-        <item quantity="one">fa %d minut</item>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa %d min</item>
+    </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">Introduïu fins a %1$d caràcters</item>
+        <item quantity="one">Introduïu fins a %1$d caràcters</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Com a mínim %1$d caràcters</item>
+        <item quantity="one">Com a mínim %1$d caràcter</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d paquets estan en camí</item>
+        <item quantity="one">%d paquet està en camí</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Voleu suprimir %s elements?</item>
+        <item quantity="one">Voleu suprimir %s element?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">%s elements seleccionats</item>
+        <item quantity="one">%s element seleccionat</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">"Heu afegit %d números de telèfon"</item>
+        <item quantity="one">"Heu afegit %d número de telèfon"</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d empreses al giny</item>
+        <item quantity="one">%1$d empresa al giny</item>
     </plurals>
 </resources>

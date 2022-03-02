@@ -286,7 +286,7 @@
     <string name="app_behavior_desc_other_perm_allowed">Última activitat: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Activitat en les últimes %d hores</string>
     <string name="app_behavior_desc_virtual_once">Va tornar un missatge en blanc a %1$s</string>
-    <string name="app_behavior_door">Comportament de l\'aplicació</string>
+    <string name="app_behavior_door">Accions d\'aplicacions</string>
     <string name="app_behavior_get_install">%1s accedir a la llista de les vostres aplicacions</string>
     <string name="app_behavior_get_install_single">Aquesta aplicació va accedir a la llista de les vostres aplicacions</string>
     <string name="app_behavior_global_settings_perm_tips">Rebreu una alerta de la barra d\'estat quan les aplicacions graven àudio o utilitzen la càmera</string>
@@ -510,7 +510,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_manager_tab_manager">Gestiona</string>
     <string name="app_manager_thumbnail_blur_summary">Difumina les previsualitzacions de les aplicacions a Recents</string>
     <string name="app_manager_thumbnail_blur_title">Difumina la previsualització de les aplicacions</string>
-    <string name="app_manager_title">Gestiona les aplicacions</string>
+    <string name="app_manager_title">Gestor d\'aplicacions</string>
     <string name="app_manager_to_appstore">Descobriu més aplicacions</string>
     <string name="app_manager_total_size">Total</string>
     <string name="app_manager_uninstall">Desinstal·la</string>
@@ -1672,7 +1672,7 @@ voluntari"</string>
     <string name="first_aid_item4_content">Bateria</string>
     <string name="first_aid_item5_content">Altres qüestions</string>
     <string name="first_aid_result_feedback_button">Envia</string>
-    <string name="first_aid_result_feedback_summary">"L'escaneig de seguretat no ha trobat cap problema. Tot i això, en vaig veure alguns."</string>
+    <string name="first_aid_result_feedback_summary">"L'escaneig de seguretat no ha pogut trobar cap problema. Tot i això, n'ha trobat alguns."</string>
     <string name="first_aid_result_feedback_title">Comentaris</string>
     <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
     <string name="first_aid_result_summary_not_finished">"L'escaneig no s'ha completat. Pot ser que no es detectin alguns riscos."</string>
@@ -2210,7 +2210,7 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="image_protect_ensure_del_pic">Suprimeix</string>
     <string name="image_protect_exit_and_del">Suprimeix</string>
     <string name="image_protect_intercept_can_recover_tips">Aquesta acció s\'ha bloquejat. Podeu triar si voleu suprimir o restaurar les imatges.</string>
-    <string name="image_protect_intercept_tips">Toca per gestionar el comportament de l\'aplicació</string>
+    <string name="image_protect_intercept_tips">Toqueu per gestionar les accions d\'aplicacions</string>
     <string name="image_protect_no_data">No hi ha articles aquí</string>
     <string name="image_protect_recover_del_pic">Restaura</string>
     <string name="image_protect_recover_success">S\'ha restaurat correctament</string>
@@ -2550,8 +2550,8 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="month_june">Juny</string>
     <string name="month_june_short">Juny</string>
     <string name="month_june_shortest">juny</string>
-    <string name="month_march">Març</string>
-    <string name="month_march_short">Març</string>
+    <string name="month_march">març</string>
+    <string name="month_march_short">març</string>
     <string name="month_march_shortest">març</string>
     <string name="month_may">Maig</string>
     <string name="month_may_short">Maig</string>
@@ -3347,7 +3347,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_wireless_update_tv_text">"Actualització del firmware… No apagueu el dispositiu."</string>
     <string name="pp_anti_track_summary">"No permeteu fer el seguiment de la vostra activitat"</string>
     <string name="pp_antitrack_detail">Les aplicacions poden fer un seguiment de la vostra activitat mitjançant identificadors personals, informació d’ubicació i altres tipus d’informació personal compartida amb ells. El seguiment de la vostra activitat a diferents aplicacions i llocs web els permet personalitzar anuncis i recomanar-vos contingut rellevant.</string>
-    <string name="pp_app_behavior_record_detail">Registre tot el comportament de l\'aplicació</string>
+    <string name="pp_app_behavior_record_detail">Enregistra totes les accions de les aplicacions</string>
     <string name="pp_app_del_img_intercept_detail">Rebeu notificacions quan les aplicacions suprimeixin elements de la galeria sense el vostre permís</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Rebeu notificacions quan les aplicacions utilitzen permisos d\'alt risc</string>
     <string name="pp_app_gets_dangerous_permission_reminder_detail">Rebeu notificacions cada vegada que una aplicació utilitza un permís d\'alt risc i tingueu en compte les vostres opcions</string>
@@ -3516,7 +3516,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="priority_storage_summary">Seleccioneu la ubicació per desar les dades</string>
     <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
     <string name="privacy_app_behavior_summary">Arrencada automàtica, permisos i molt més</string>
-    <string name="privacy_app_behavior_title">Historial de comportament de l\'aplicació</string>
+    <string name="privacy_app_behavior_title">Historial d\'accions d\'aplicacions</string>
     <string name="privacy_app_permission_manage_summary">Gestiona els permisos de les aplicacions instal·lades</string>
     <string name="privacy_app_permission_manage_title">Gestiona els permisos</string>
     <string name="privacy_apps">Aplicacions ocultes</string>
@@ -3717,7 +3717,7 @@ Voleu retirar el consentiment?"</string>
     <string name="privacy_search_key_10">Identificador del dispositiu</string>
     <string name="privacy_search_key_2">Intercepció de xarxa</string>
     <string name="privacy_search_key_3">Permisos</string>
-    <string name="privacy_search_key_4">Comportament de l\'aplicació</string>
+    <string name="privacy_search_key_4">Accions d\'aplicacions</string>
     <string name="privacy_search_key_5">Permisos especials</string>
     <string name="privacy_search_key_6">Notificacions de permisos</string>
     <string name="privacy_search_key_7">Informació sobre ubicació</string>
@@ -4156,7 +4156,7 @@ Voleu retirar el consentiment?"</string>
     <string name="sp_monitored_apps_list_title">Seguretat de pagament</string>
     <string name="sp_more_security_settings">Configuració addicional</string>
     <string name="sp_network_privacy_dialog_message">"L'aplicació seguretat no pot funcionar correctament perquè heu restringit la connexió a Internet. Voleu que la seguretat es connecti a Internet?"</string>
-    <string name="sp_network_privacy_dialog_title">"No es pot utilitzar l'escaneig de seguretat"</string>
+    <string name="sp_network_privacy_dialog_title">"No es pot escanejar la seguretat"</string>
     <string name="sp_payment_protect_summary">Protegiu l’entorn de pagaments en línia</string>
     <string name="sp_payment_protect_title">Seguretat de pagament</string>
     <string name="sp_person_security_title">Seguretat personal</string>

@@ -68,8 +68,8 @@
     </string-array>
     <string-array name="month12">
         <item>Gener</item>
-        <item>Febrer</item>
-        <item>Març</item>
+        <item>febrer</item>
+        <item>març</item>
         <item>Abril</item>
         <item>Maig</item>
         <item>Juny</item>

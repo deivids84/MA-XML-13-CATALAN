@@ -185,8 +185,8 @@
     </string-array>
     <string-array name="last_month">
         <item>Gener</item>
-        <item>Febrer</item>
-        <item>Març</item>
+        <item>febrer</item>
+        <item>març</item>
         <item>Abril</item>
         <item>Maig</item>
         <item>Juny</item>
@@ -387,8 +387,8 @@
     </string-array>
     <string-array name="month_last_year">
         <item>El passat Gener</item>
-        <item>El passat Febrer</item>
-        <item>El passat Març</item>
+        <item>El passat febrer</item>
+        <item>El passat març</item>
         <item>El passat Abril</item>
         <item>El passat Maig</item>
         <item>El passat Juny</item>

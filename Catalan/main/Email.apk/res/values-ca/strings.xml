@@ -936,7 +936,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="month_december_short">des</string>
     <string name="month_december_shortest">des.</string>
     <string name="month_february">febrer</string>
-    <string name="month_february_short">feb</string>
+    <string name="month_february_short">febr.</string>
     <string name="month_february_shortest">febr.</string>
     <string name="month_january">gener</string>
     <string name="month_january_short">gen</string>
@@ -948,7 +948,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="month_june_short">jun</string>
     <string name="month_june_shortest">juny</string>
     <string name="month_march">març</string>
-    <string name="month_march_short">mar</string>
+    <string name="month_march_short">març</string>
     <string name="month_march_shortest">març</string>
     <string name="month_may">maig</string>
     <string name="month_may_short">mai</string>

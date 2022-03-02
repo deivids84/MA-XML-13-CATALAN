@@ -418,7 +418,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="error_invalid_bind_address">L’adreça de correu que heu introduït no és vàlida.</string>
     <string name="evening">Tarda</string>
     <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre Compte Mi.</string>
-    <string name="exit_fm">Cancel·la</string>
+    <string name="exit_fm">Surt</string>
     <string name="expired">Ha vençut</string>
     <string name="fail_to_play">"No es pot reproduir la cançó"</string>
     <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre Compte Mi</string>
@@ -599,7 +599,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="menu_exit_radio">Cancel·la</string>
     <string name="menu_headset">Canvia a auriculars</string>
     <string name="menu_label">Menú</string>
-    <string name="menu_new_station">Afegir</string>
+    <string name="menu_new_station">Afegeix</string>
     <string name="menu_online_service">Serveis en línia</string>
     <string name="menu_preferences">Baixeu la configuració</string>
     <string name="menu_privacy">Política de privadesa</string>
@@ -665,7 +665,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="month_december">de desembre</string>
     <string name="month_december_short">Des.</string>
     <string name="month_december_shortest">des.</string>
-    <string name="month_february">febrer</string>
+    <string name="month_february">Febrer</string>
     <string name="month_february_short">Febr.</string>
     <string name="month_february_shortest">febr.</string>
     <string name="month_january">gener</string>
