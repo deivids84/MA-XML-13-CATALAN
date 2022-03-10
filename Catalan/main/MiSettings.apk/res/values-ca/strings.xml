@@ -309,7 +309,7 @@ no es generen al segon espai"</string>
     <string name="hsv_space_color_saturation">Saturació</string>
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_radio_btn_summary">Ajusteu la freqüència de refresc dinàmicament en funció dels escenaris per equilibrar el rendiment amb el consum d’energia</string>
-    <string name="intelligent_radio_btn_title">Auto (recomanat)</string>
+    <string name="intelligent_radio_btn_title">Per defecte (recomanat)</string>
     <string name="intelligent_recognition_item_summary">Utilitza un to de trucada designat per a trucades dels serveis de repartiment i taxis. Aquesta funció funcionarà quan %s estigui definit com a to de trucada predeterminat.</string>
     <string name="intelligent_recognition_item_title">Identificar serveis</string>
     <string name="item_anura">Anurs</string>

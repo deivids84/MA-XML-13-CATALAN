@@ -31,6 +31,7 @@
     <string name="add">Afegeix</string>
     <string name="afternoon">Tarda</string>
     <string name="app_name">Xiaomi.eu Extension</string>
+    <string name="auto">Automàtic</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="confirm_reset">Confirma el restabliment</string>
@@ -152,5 +153,6 @@
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="wifi_region">Regió Wi-Fi</string>
     <string name="yesterday">Ahir</string>
 </resources>

@@ -510,7 +510,13 @@ Comproveu la targeta SIM."</string>
 Pot ser que aquest missatge no sigui sol·licitat."</string>
     <string name="mms_block_hint_highlight">Bloqueja els MMS</string>
     <string name="mms_main_purpose">"Per accedir a la funcionalitat completa de la Missatgeria, activeu Mi Message i la Missatgeria Intel·ligent."</string>
+    <string name="mms_mi_message_main_purpose">Us donem la benvinguda a Mi Message! Cal un missatge SMS de sortida per activar Mi Message. El vostre operador us cobrarà per aquest missatge.</string>
+    <string name="mms_mi_message_request_notice">Volem que trèieu el màxim profit de Mi Message.</string>
+    <string name="mms_mx_privacy_policy">Política de privadesa de Mi Message</string>
+    <string name="mms_smart_msg_main_purpose">La missatgeria intel·ligent pot reconèixer els identificadors del remitent, proporcionar serveis de menú intel·ligent i identificar missatges sospitosos.</string>
+    <string name="mms_smart_msg_privacy_policy">Política de privadesa de la Missatgeria Intel·ligent</string>
     <string name="mms_title">Missatgeria</string>
+    <string name="mms_user_agreement">Acord d\'usuari</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
     <string name="monday_shortest">dl.</string>
@@ -1223,15 +1229,19 @@ Mireu els recomanats!"</string>
     <string name="system_permission_declare_disagree">Cancel·la</string>
     <string name="system_permission_declare_double_link" formatted="false">Llegiu i accepteu les nostres %1s i %2s abans d’utilitzar aquesta funció.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Us donem la benvinguda a %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">Us donem la benvinguda a Mi Message!</string>
     <string name="system_permission_declare_no_say_no">"Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.
 Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació."</string>
     <string name="system_permission_declare_privacy_declare">%1s necessita recopilar les vostres dades i requereix els permisos següents per funcionar amb normalitat:</string>
     <string name="system_permission_declare_privacy_declare_new">Aquesta aplicació necessita connectar-se a Internet i requereix els permisos següents per funcionar normalment:</string>
     <string name="system_permission_declare_privacy_link">Per entendre completament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegiu i accepteu el nostre %1s.</string>
+    <string name="system_permission_declare_rcs">Us donem la benvinguda a la Missatgeria 5G!</string>
     <string name="system_permission_declare_revoke_path">Podeu revocar l’autorització i desactivar els serveis a la configuració de Missatgeria.</string>
     <string name="system_permission_declare_single_link">Llegiu i accepteu els nostres %1s abans d’utilitzar aquesta funció.</string>
+    <string name="system_permission_declare_smart_message">Us donem la benvinguda a la Missatgeria Intel·ligent!</string>
     <string name="system_permission_declare_triple_link" formatted="false">Llegiu i accepteu les nostres %1s, %2s i %3s abans d’utilitzar aquestes funcions.</string>
     <string name="system_permission_declare_use_network">Connecta’t a la xarxa</string>
+    <string name="system_permission_declare_user_agree">D\'acord</string>
     <string name="system_permission_disabled">No concedit</string>
     <string name="system_permission_enabled">Concedit</string>
     <string name="system_permission_perm_agree_desc">Permeteu que aquesta aplicació es connecti a Internet i concediu els permisos opcionals per poder utilitzar totes les seves funcions.</string>
@@ -1263,6 +1273,7 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
     <string name="system_permission_perm_write_mms">Permet que Missatgeria escrigui MMS</string>
     <string name="system_permission_perm_write_sms">Permet que Missatgeria escrigui SMS</string>
     <string name="system_permission_requested">Pregunta</string>
+    <string name="system_permission_user_privacy">Abans de continuar, llegiu i accepteu els següents termes i condicions.</string>
     <string name="tab_finance">Finances</string>
     <string name="tab_message">Missatges</string>
     <string name="tab_promotions">Promocions</string>

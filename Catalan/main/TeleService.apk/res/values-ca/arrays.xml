@@ -112,6 +112,9 @@
         <item>Amaga el número</item>
         <item>Mostra el número</item>
     </string-array>
+    <string-array name="clir_values_default_only">
+        <item>PER DEFECTE</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
         <item>Colors naturals tal com els veu l\'ull</item>

@@ -556,6 +556,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="terms_of_use_label_statistics">Estadístiques</string>
     <string name="terms_of_use_label_systemhelper">Servei d\'autoregistre</string>
     <string name="terms_of_use_label_translation">Servei de traducció</string>
+    <string name="terms_of_use_label_unionplay_security">Element segur de UnionPay TSM (versió de Xiaomi)</string>
     <string name="terms_of_use_label_updater">Actualitzador</string>
     <string name="terms_of_use_label_use_location_and_network_global">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, els serveis següents es connectaran a la xarxa i accediran a la vostra ubicació:</string>
     <string name="terms_of_use_label_use_network_china">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el dispositiu estigui activat, els serveis següents es connectaran a la xarxa:</string>

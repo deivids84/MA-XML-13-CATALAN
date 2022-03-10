@@ -314,6 +314,9 @@
     <string name="relay_call_device_name">Dispositiu connectat (%1$s)</string>
     <string name="relay_deny_permission_msg">"No es poden transferir trucades sense permís per enregistrar àudio"</string>
     <string name="relay_grant_permissions_on_phone">Doneu permís per enregistrar àudio al vostre telèfon</string>
+    <string name="relay_known">Entesos</string>
+    <string name="relay_network_error">Error de xarxa</string>
+    <string name="relay_network_error_msg">"No es poden rebre trucades en aquest dispositiu a causa d'un error de xarxa. Torneu al telèfon."</string>
     <string name="remind_unlock_message">El vostre dispositiu està bloquejat ara. \"%s\" estarà disponible després de desbloquejar el dispositiu. Desbloquejar ara?</string>
     <string name="respond_via_sms_custom_message">SMS personalitzat</string>
     <string name="saturday">Dissabte</string>

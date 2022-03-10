@@ -1450,6 +1450,8 @@ Encara podeu fer trucades d\'emergència.\"</string>
     <string name="msim_sim_radio_off">Desactivat</string>
     <string name="msim_switch_data_conn_toast">S\'han bescanviat les targetes SIM. El tipus de xarxa ha canviat. Consulteu informació addicional a targes SIM i xarxes mòbils del menú de configuració.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">La ranura de la SIM 2 només admet xarxes GSM. S\' ha canviat el tipus de xarxa preferit per aquesta ranura a \"Només xarxes 2G\".</string>
+    <string name="mtn_simlock_emergency">Emergència</string>
+    <string name="mtn_simlock_text_tip">La targeta SIM inserida no compleix el requisit. Heu d\'inserir una targeta SIM requerida pel contracte abans d\'utilitzar el telèfon. Per obtenir més informació, poseu-vos en contacte amb el vostre operador local.</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d notificacions noves</string>
@@ -1821,8 +1823,10 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferentment 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferentment 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G / 3G / 2G (preferit 4G)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferentment 5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G / 4G / 3G / 2G (preferit 5G / 4G)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G auto</string>
     <string name="preferred_network_type_pref_entries_auto">Automàtic</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">Només 2G</string>
@@ -1968,7 +1972,7 @@ Interfície UT: %5$s"</string>
     <string name="reject_via_sms_summary">Mostra els botons per finalitzar la trucada i enviar SMS</string>
     <string name="reject_via_sms_title">Respostes ràpides</string>
     <string name="relay_call_answered_by_other_devices">Aquesta trucada s\'ha respost en un altre dispositiu.</string>
-    <string name="relay_call_released_due_to_connect_lost">S\'ha perdut la connexió. Continueu amb la trucada al dispositiu desconnectat.</string>
+    <string name="relay_call_released_due_to_connect_lost">S\'ha perdut la connexió. Continueu amb la trucada a l\'altre dispositiu.</string>
     <string name="relay_connection_service_label">Trucada RELAY integrada</string>
     <string name="remaining_length_format">Falten %1$s</string>
     <string name="remove">Treu</string>
@@ -2108,6 +2112,7 @@ Interfície UT: %5$s"</string>
     <string name="simContacts_title">Gestiona els contactes de la targeta SIM</string>
     <string name="simFdnContacts_empty">No hi ha contactes de marcatge predefinit.</string>
     <string name="sim_accounts">Comptes SIM</string>
+    <string name="sim_can_not_read">La ranura de la targeta %d només pot llegir la targeta SIM de l\'operador MTN</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="sim_change_data_message">Voleu utilitzar %1$s en lloc de %2$s per a les dades mòbils?</string>
     <string name="sim_change_data_title">Voleu canviar la SIM de dades?</string>
@@ -2674,6 +2679,8 @@ L'emmagatzematge de credencials no es pot activar"</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="window_blurs">Permet els difuminats en l’àmbit de la finestra</string>
     <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
+    <string name="xcap_setting_summary">Restricció de trucades, bústia de veu i desviament de trucades, i trucada en espera</string>
+    <string name="xcap_setting_title">Configuració del servei de trucades</string>
     <string name="yesterday">Ahir</string>
     <string name="zen_alarm_warning">"No sentireu la propera alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la propera alarma %1$s a menys que desactiveu aquesta opció abans"</string>

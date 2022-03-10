@@ -380,6 +380,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="my_device_title">Dispositiu actual</string>
     <string name="need_install_wechat">Instal·leu primer WeChat</string>
     <string name="night">Vespre</string>
+    <string name="no_account_or_forget_password">Voleu crear un compte o heu oblidat la contrasenya?</string>
     <string name="no_install">No està instal · lat</string>
     <string name="no_network_btn">Actualitza</string>
     <string name="no_network_title">"No es pot connectar a la xarxa."</string>

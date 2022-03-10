@@ -1127,6 +1127,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="copy">Copia</string>
     <string name="cpu_usage_android_system">Sistema Android</string>
     <string name="cpu_usage_process_run_time_little_time">Menys d\'un minut</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Menys de %d minut</string>
     <string name="cpu_usage_view_action_btn_text">Toqueu per mostrar-ho</string>
     <string name="create_gamebooster_destop">S\'ha creat la drecera a la Pantalla d\'inici correctament</string>
     <string name="create_shortcut">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
@@ -1644,8 +1645,8 @@ voluntari"</string>
     <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
     <string name="first_aid_card_consume_power_button1">Restringeix</string>
     <string name="first_aid_card_consume_power_button2">Desactiva</string>
-    <string name="first_aid_card_consume_power_summary1">Més de 5 aplicacions s\'inicien elles soles. Limiteu-les per estalviar bateria.</string>
     <string name="first_aid_card_consume_power_summary2">Desactiveu el punt d\'accés portàtil per estalviar bateria</string>
+    <string name="first_aid_card_consume_power_summary_app">Es permet l\'inici automàtic de més de %d aplicacions. Restringiu-ho per estalviar bateria.</string>
     <string name="first_aid_card_consume_power_title">Consum de bateria</string>
     <string name="first_aid_card_kadun_button1">Allibera espai</string>
     <string name="first_aid_card_kadun_button2">Restringeix</string>
@@ -2042,7 +2043,6 @@ de les teves sessions de joc"</string>
     <string name="gd_setting_desc_action1">Obre la finestra flotant</string>
     <string name="gd_setting_desc_action2">Utilitza una drecera</string>
     <string name="gd_setting_group_custom_gtb_apps">Jocs</string>
-    <string name="gd_setting_group_custom_line_location">Posició de la caixa d\'eines</string>
     <string name="gd_setting_group_custom_settings">Personalització</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicacions de vídeo</string>
     <string name="gd_setting_group_smart_tool_box">Barra lateral</string>
@@ -4587,7 +4587,9 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="system_anti_fraud_dialog_content">"Sembla que acabeu de rebre una trucada o un missatge d'estafa. Procedir amb aquest pagament pot provocar pèrdues econòmiques."</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474&gt;Si el personal d\'atenció al client, les autoritats o les persones que coneixeu us demanen que completeu aquest pagament, &lt;/font&gt;&lt;font = color=#F22424&gt;verifiqueu la seva identitat abans de continuar.&lt;/font&gt;</string>
     <string name="system_anti_fraud_dialog_image_txt">Protecció antifrau</string>
+    <string name="system_anti_fraud_dialog_message">Protecció antifrau</string>
     <string name="system_anti_fraud_dialog_title">Avís antifrau</string>
+    <string name="system_anti_fraud_dialog_title2">Avís antifrau</string>
     <string name="system_app">Aplicacions del sistema</string>
     <string name="system_app_permission_instruction">Aquesta aplicació necessita els permisos següents per oferir els serveis bàsics del sistema. La gestió dels permisos està restringida per a aquesta aplicació, ja que canviar l\'estat dels permisos provocarà anomalies en el funcionament del sistema.</string>
     <string name="system_application">Aplicacions del sistema</string>

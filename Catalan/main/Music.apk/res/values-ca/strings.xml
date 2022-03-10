@@ -773,6 +773,7 @@
     <string name="mtrl_picker_a11y_next_month">Canvieu al mes que ve</string>
     <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'acord</string>
     <string name="mtrl_picker_date_header_title">Seleccioneu una data</string>
     <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
@@ -797,6 +798,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a seleccionar un dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d’entrada de text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a seleccionar un any</string>
+    <string name="mtrl_timepicker_confirm">D\'acord</string>
     <string name="mulit_choice_management">Gestionar múltiples elements</string>
     <string name="music_browser_label">Música</string>
     <string name="music_filter">Filtra els fitxers d\'àudio</string>
@@ -1049,7 +1051,7 @@ Sigues Feliç"</string>
     <string name="select">Selecciona</string>
     <string name="select_all">Seleccioneu-ho tot</string>
     <string name="select_clip_desc">Seleccioneu un clip de la cançó</string>
-    <string name="select_desc_sub">Podeu seleccionar fins a 3 idiomes</string>
+    <string name="select_desc_sub">Podeu seleccionar fins a %d idiomes</string>
     <string name="select_device">Seleccionar dispositiu</string>
     <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
     <string name="select_local_album_cover">Selecciona imatge</string>
@@ -1057,8 +1059,8 @@ Sigues Feliç"</string>
     <string name="select_local_lyric">Selecciona arxiu</string>
     <string name="select_local_lyric_file">Sel·leccioneu un fitxer de lletres locals</string>
     <string name="select_none">Desseleccioneu-ho tot</string>
-    <string name="select_one_language">Com a mínim seleccioneu 1 idioma</string>
-    <string name="select_three_languages">Podeu seleccionar fins a 3 idiomes</string>
+    <string name="select_one_language">Seleccioneu com a mínim %d idioma</string>
+    <string name="select_three_languages">Podeu seleccionar fins a %d idiomes</string>
     <string name="selected_count">Seleccionats %1$d de %2$d</string>
     <string name="send">Envia</string>
     <string name="send_to_title">Enviar a (%1$s)</string>

@@ -284,6 +284,8 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="menuDesc">menú</string>
     <string name="midnight">Nit</string>
     <string name="minusDesc">menys</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona els elements</string>
@@ -298,6 +300,8 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Baixeu per refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està refrescant…</string>

@@ -1186,6 +1186,7 @@ semblin més grans a les fotos"</string>
     <string name="popup_tips_near_range_mode">Enfocament proper</string>
     <string name="popup_tips_privacy_watermark_edit">Edita la marca d\'aigua</string>
     <string name="portait_effect_entry_blackwhite">B/N</string>
+    <string name="portait_effect_entry_cold_white">Llum estel·lar</string>
     <string name="portait_effect_entry_cool">Menta</string>
     <string name="portait_effect_entry_dusk">Vespre</string>
     <string name="portait_effect_entry_fairytale">Infància</string>
@@ -1203,6 +1204,7 @@ semblin més grans a les fotos"</string>
     <string name="portait_effect_entry_riddle">Dolç</string>
     <string name="portait_effect_entry_romance">Romàntic</string>
     <string name="portait_effect_entry_sepia">Sèpia</string>
+    <string name="portait_effect_entry_shallots">Raig de sol</string>
     <string name="portait_effect_entry_story">Historia</string>
     <string name="portait_effect_entry_tea">Te</string>
     <string name="portrait_bokeh_first_tips">"Utilitzeu el mode retrat per desenfocar
@@ -1492,6 +1494,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_video_tag_description">Toca \"Etiqueta\" mentre graves un vídeo per poder tornar als moments marcats durant la reproducció</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Obturador</string>
     <string name="pref_camera_volumekey_function_entry_timer">Compte enrere de l\'obturador</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Temporitzador (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volum</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Funció dels botons de volum</string>

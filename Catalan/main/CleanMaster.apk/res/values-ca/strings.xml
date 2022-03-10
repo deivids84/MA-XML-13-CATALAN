@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Aplicacions</string>
     <string name="activity_title_video">Esborrar vídeos</string>
     <string name="activity_title_white_list">Excepcions</string>
+    <string name="ad_description" formatted="false">%s | Versió %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Obre</string>
     <string name="ad_install_success_dialog_title">%1$s s\'ha instal·lat amb èxit. Voleu obrir-lo?</string>
     <string name="afternoon">Tarda</string>
@@ -66,9 +67,13 @@
     <string name="app_clean_group_document_send">S\'han enviat els fitxers</string>
     <string name="app_clean_group_image_recv">S\'han rebut les imatges</string>
     <string name="app_clean_group_image_send">S\'han enviat les imatges</string>
+    <string name="app_cleaned">S\'ha netejat correctament</string>
     <string name="app_description_content">El netejador troba elements per eliminar del dispositiu i alliberar espai d\'emmagatzematge. Assegura\'t que pots fer sense aquestes funcions abans de desinstal·lar l\'aplicació.</string>
     <string name="app_description_title">Sobre eliminar</string>
     <string name="app_name">Preferència</string>
+    <string name="app_reset">Restableix</string>
+    <string name="app_specific_clean">Netejador d\'aplicacions</string>
+    <string name="app_unload">Desinstal·la</string>
     <string name="app_usage_never">No s\'ha utilitzat recentment</string>
     <string name="app_usage_recently">Utilitzat recentment</string>
     <string name="appcleaner_g_audio_summary_qq">Elimineu permanentment missatges de veu de QQ</string>
@@ -169,6 +174,7 @@
     <string name="cache_title_system_cache">Dades de la memòria cau</string>
     <string name="cached_garbage">Memòria cau</string>
     <string name="cancel">Cancel·leu</string>
+    <string name="cancel_select_all">Desselecciona-ho tot</string>
     <string name="cd_back">enrere</string>
     <string name="cd_check_box_checked">comprovat</string>
     <string name="cd_check_box_middle">selecció parcial</string>
@@ -179,6 +185,10 @@
     <string name="cd_scanning">s\'està escanejant</string>
     <string name="cd_settings">configuració</string>
     <string name="cd_sort_type">ordena per tipus</string>
+    <string name="clean_ing">S\'està netejant…</string>
+    <string name="clean_item_tip_data_app">Esborra les dades de %s</string>
+    <string name="clean_item_tip_reset_app">Restableix %s</string>
+    <string name="clean_item_tip_unload_app">Desinstal·la %s</string>
     <string name="clean_master_icon_recall_button_text">Afegeix</string>
     <string name="clean_master_icon_recall_dialog_button_negative">No gràcies</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Afegeix</string>
@@ -189,6 +199,7 @@
     <string name="clean_master_icon_recall_title">Netegeu la brossa més ràpidament</string>
     <string name="clean_master_icon_recall_toast_text">S\'ha afegit una drecera de pantalla d\'inici per al Netejador correctament</string>
     <string name="clean_summary">Netejat %1$s</string>
+    <string name="clear_app_data">Neteja</string>
     <string name="clear_bigfiles">Esborra els fitxers grans, fotos duplicades i altres elements inútils</string>
     <string name="clear_immediately">Neteja-ho ara</string>
     <string name="clear_safe_notify">Giny en l\'àrea de notificacions</string>
@@ -197,7 +208,10 @@
     <string name="confirm_auto_cleaner">D\'acord</string>
     <string name="conn_of_function_safe">Connexió de xarxa per a Seguretat</string>
     <string name="connecting">S\'està connectant…</string>
+    <string name="continue_check">Selecciona</string>
+    <string name="continue_to_do">Continua</string>
     <string name="copy">Copia</string>
+    <string name="data_selected">Elements seleccionats</string>
     <string name="date_picker_lunar">Calendari Tradicional Xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
     <string name="dc_activity_title">Neteja profunda</string>
@@ -258,6 +272,7 @@
     <string name="default_cache_type">Fitxers de dades</string>
     <string name="delete_confirm">Suprimeix</string>
     <string name="delete_confirm_msg">Voleu suprimir els fitxers seleccionats de manera permanent?</string>
+    <string name="delete_slected_data">Restableix</string>
     <string name="desc_image">imatge</string>
     <string name="dialog_content_checkbox_delete_cloud_image">També esborra fotos del Núvol Xiaomi</string>
     <string name="dialog_content_select_all_confirm">Voleu desar una còpia d\'aquesta foto?</string>
@@ -469,7 +484,10 @@
     <string name="install_time_format">dd/MM/yyyy</string>
     <string name="installed">S\'ha instal·lat</string>
     <string name="installing">S\'està instal·lant</string>
+    <string name="is_Scanning">S\'està escanejant…</string>
+    <string name="item_content_app_reset">%s ocupat</string>
     <string name="item_title_process_mode">Trieu una acció</string>
+    <string name="jump_to_next">Omet</string>
     <string name="junk_temporary_file">Fitxers temporals</string>
     <string name="just_now">Ara mateix</string>
     <string name="kilobyteShort">KB</string>
@@ -536,8 +554,8 @@
     <string name="month_december">Desembre</string>
     <string name="month_december_short">des.</string>
     <string name="month_december_shortest">des.</string>
-    <string name="month_february">febrer</string>
-    <string name="month_february_short">feb.</string>
+    <string name="month_february">Febrer</string>
+    <string name="month_february_short">Febr.</string>
     <string name="month_february_shortest">febr.</string>
     <string name="month_january">gener</string>
     <string name="month_january_short">Gener</string>
@@ -549,7 +567,7 @@
     <string name="month_june_short">Juny</string>
     <string name="month_june_shortest">juny</string>
     <string name="month_march">Març</string>
-    <string name="month_march_short">desfigurar</string>
+    <string name="month_march_short">març</string>
     <string name="month_march_shortest">març</string>
     <string name="month_may">Maig</string>
     <string name="month_may_short">Maig</string>
@@ -577,10 +595,12 @@
     <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="news_change">Canvia</string>
+    <string name="next_step">Següent</string>
     <string name="night">Vespre</string>
     <string name="no_network">"No s'ha pogut connectar a la xarxa, proveu-ho de nou més tard"</string>
     <string name="no_network_btn">Proveu de nou</string>
     <string name="noon">Migdia</string>
+    <string name="not_selected_tips">Seleccioneu primer les aplicacions.</string>
     <string name="not_set">Sense definir</string>
     <string name="notification_apk_clean_button_text">Neteja</string>
     <string name="notification_checker_installed_apk_hint">No cal conservar els APK després de la instal·lació</string>
@@ -733,6 +753,9 @@
     <string name="recommend_news">Rebre recomanacions</string>
     <string name="recommend_the_following">Prengueu les següents accions per obtenir el màxim profit del seu dispositiu</string>
     <string name="recommended">Recomanat</string>
+    <string name="reset_app_dialog_summary">"Esteu a punt de restablir les aplicacions que heu seleccionat. Totes les dades de les aplicacions (inclòs l'estat d'inici de sessió, la configuració, les imatges a la memòria cau, els vídeos, els fitxers i els xats) se suprimiran permanentment i tornaran les aplicacions al seu estat inicial."</string>
+    <string name="reset_app_dialog_title">Restabliment d\'aplicacions</string>
+    <string name="reset_selected">Restableix %s</string>
     <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; s\'han de suprimir més fitxers. Allibereu més espai.&lt;/Data&gt;</string>
     <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Podeu eliminar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de memòria generada per QQ&lt;/Data&gt;</string>
     <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de memòria WeChat. Allibereu més espai.&lt;/Data&gt;</string>
@@ -748,6 +771,7 @@
     <string name="search_menu_title">Cerca</string>
     <string name="security_center_slogan">Mantingueu el dispositiu ràpid i segur</string>
     <string name="see_more">Més</string>
+    <string name="select_all">Selecciona-ho tot</string>
     <string name="send">Envia</string>
     <string name="set_immediately">Aplica</string>
     <string name="seton_immediately">Activa</string>
@@ -763,6 +787,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
     <string name="sponsored">Patrocinat</string>
+    <string name="start_clean">Inicia</string>
     <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
     <string name="start_install">Instal·la ara</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -821,6 +846,11 @@
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
+    <string name="tips_app_reset_dialog">El restabliment allibera espai d\'emmagatzematge al màxim sense desinstal·lar l\'aplicació. Tanmateix, totes les dades de l\'aplicació (incloent-hi l\'estat d\'inici de sessió, la configuració, les imatges a la memòria cau, els vídeos, els fitxers i els xats) de l\'aplicació que es restableix se suprimiran permanentment.</string>
+    <string name="tips_app_reset_result_page">Restableix les aplicacions per esborrar totes les seves dades i tornar-les a l\'estat inicial</string>
+    <string name="tips_app_reset_top">El restabliment retorna les aplicacions al seu estat inicial i esborra totes les seves dades</string>
+    <string name="tips_app_specific_clean_result_page">Allibera espai d\'emmagatzematge</string>
+    <string name="tips_data_page">Proveu de netejar les dades de l\'aplicació per alliberar emmagatzematge</string>
     <string name="tips_low_storage_dialog_cancel">Cancel·leu</string>
     <string name="tips_low_storage_dialog_msg_qq">La mida de la memòria cau de QQ ha arribat als 3 GB. Això podria alentir el vostre dispositiu. Voleu esborrar la memòria cau de QQ?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">La mida de la memòria cau de QQ ha arribat a %d GB. Això pot frenar el dispositiu. Voleu esborrar la memòria cau de QQ ara?</string>
@@ -843,6 +873,9 @@
     <string name="tips_of_traffic_notification">Mostra les estadístiques de dades mòbils a l\'àrea de notificacions</string>
     <string name="tips_of_traffic_pack_threshold">"Compreu més dades quan estiguis a punt d'arribar al teu límit"</string>
     <string name="tips_of_virus_scan">Escanegeu el dispositiu per mantenir lliure de virus i més segur</string>
+    <string name="tips_reset_page">Proveu de restablir les aplicacions per esborrar totes les seves dades i alliberar emmagatzematge</string>
+    <string name="tips_result_ad">Voleu provar aquestes aplicacions a l\'espai alliberat?</string>
+    <string name="tips_unload_page">"Proveu de desinstal·lar les aplicacions que no heu utilitzat en %d dies"</string>
     <string name="title_auto_cleaner">Recordatori per netejar</string>
     <string name="title_delete_cache">Esborrar dades en memòria cau</string>
     <string name="title_delete_clipboard">Contingut del porta-retalls</string>
@@ -859,6 +892,7 @@
     <string name="title_of_traffic_notification">Barra d\'estadístiques de dades</string>
     <string name="title_optimizer">Termes i condicions</string>
     <string name="title_share_link">Compartir URL</string>
+    <string name="to_reset_app">Restableix</string>
     <string name="toast_add_white_list_success">Afegit a les excepcions correctament</string>
     <string name="toast_app_no_residual_on_sdcard">"L'aplicació no té cap fitxer emmagatzemat en la SD"</string>
     <string name="toast_backup_is_running">La còpia de seguretat ja s\'està executant. Espereu un moment i torneu-ho a provar</string>
@@ -891,6 +925,7 @@
     <string name="unit_mb">%s MB</string>
     <string name="unlike">No, gràcies</string>
     <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="updating_tips">Un moment…</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="video_clean">Neteja els vídeos emmagatzemats a la memòria cau</string>

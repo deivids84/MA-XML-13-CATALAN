@@ -48,6 +48,10 @@
         <item quantity="other">"No s'ha utilitzat des de fa %d anys"</item>
         <item quantity="one">"No s'ha utilitzat des de fa %d any"</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">S\'han seleccionat %d aplicacions per esborrar dades</item>
+        <item quantity="one">S\'ha seleccionat %d aplicació per esborrar dades</item>
+    </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Netejant %1$d fitxers (%2$d%%)
 "</item>
@@ -69,6 +73,10 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">&lt;Data&gt;Pots esborrar les dades de &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicacions&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Pots esborrar les dades d\'&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicació&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicacions utilitzen molt espai d\'emmagatzematge&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; \'aplicació utilitza molt espai d\'emmagatzematge&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Pots eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; fotos innecessàries&lt;/Data&gt;</item>
@@ -214,6 +222,10 @@
         <item quantity="other">Baixat per %1$d persones</item>
         <item quantity="one">Baixat per %1$d persona</item>
     </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">S\'han seleccionat %d aplicacions per restablir</item>
+        <item quantity="one">S\'ha seleccionat %d aplicació per restablir</item>
+    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; de l\'aplicació no s\'han utlitzat des de fa molt temps, feu-hi un cop d\'ull.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; de l\'aplicació no s\'ha utlitzat des de fa molt temps, feu-hi un cop d\'ull.&lt;/Data&gt;</item>
@@ -229,6 +241,14 @@
     <plurals name="second">
         <item quantity="other">%1$d segons</item>
         <item quantity="one">%1$d segon</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">S\'han seleccionat %d aplicacions</item>
+        <item quantity="one">S\'ha seleccionat %d aplicació</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">S\'han seleccionat %d aplicacions per desinstal·lar</item>
+        <item quantity="one">S\'ha seleccionat %d aplicació per desinstal·lar</item>
     </plurals>
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d aplicacions amb vídeos a la memòria cau</item>
