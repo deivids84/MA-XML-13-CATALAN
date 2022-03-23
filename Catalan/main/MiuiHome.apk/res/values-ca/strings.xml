@@ -160,7 +160,7 @@
     <string name="auto_add_app_shortcut">Posa noves aplicacions en la pantalla principal</string>
     <string name="auto_delete_category_dialog_content">Les aplicacions actuals seran eliminades d\'aquesta categoria i la categoria serà eliminada. Vols eliminar aquesta categoria ara?</string>
     <string name="auto_delete_category_dialog_title">Eliminant categoria</string>
-    <string name="auto_disable_screenbuttons_summary">Toqueu dos cops qualsevol botó de navegació per tornar a activar-lo</string>
+    <string name="auto_disable_screenbuttons_summary">"Desactiva automàticament els botons de navegació quan la barra d'estat no es mostra. Toqueu dues vegades qualsevol botó de navegació per tornar-los a activar."</string>
     <string name="auto_disable_screenbuttons_title">Deshabilita automàticament els botons de navegació</string>
     <string name="back">Enrere</string>
     <string name="backup_fail">"No s'ha pogut copiar el llançador"</string>
@@ -629,6 +629,11 @@
     <string name="recents_title_market">Cercar aplicacions</string>
     <string name="recents_title_security_scan">Escaneig de seguretat</string>
     <string name="recents_tv_small_window_text">Finestres flotants</string>
+    <string name="recents_worldcirculate_text">Allibereu per a seleccionar</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">L\'aplicació està funcionant en %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Toqueu per a tornar-lo aquí.</string>
+    <string name="recnets_worldcirculate_display_pad_info">L\'aplicació està funcionant a %s.</string>
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
     <string name="recommend_app">Suggeriments d\'aplicacions</string>
     <string name="recommend_apps_default_title">Buit</string>

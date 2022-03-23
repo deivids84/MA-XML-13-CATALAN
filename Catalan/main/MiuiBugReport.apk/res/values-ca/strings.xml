@@ -684,7 +684,7 @@ Llegiu i accepteu la nova versió de %3$s abans de continuar."</string>
     <string name="system_app_select">Aplicacions integrades</string>
     <string name="system_error_info">El sistema està ocupat. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="tab_title_chat">PMF</string>
-    <string name="tab_title_my_reports">Els meus informes</string>
+    <string name="tab_title_my_reports">Els meus comentaris</string>
     <string name="tab_title_preferences">Configuració</string>
     <string name="tab_title_report">Comentaris</string>
     <string name="temporary_not_available">"Aquesta funció no està disponible, encara"</string>

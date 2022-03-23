@@ -79,6 +79,7 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="account_settings_description_label">Nom del compte</string>
     <string name="account_settings_display">Pantalla</string>
     <string name="account_settings_does_not_support_pop">"POP3 no admet aquesta funció"</string>
+    <string name="account_settings_does_not_support_pop_attachment">"POP3 pot baixar fitxers adjunts automàticament, però no els pot editar"</string>
     <string name="account_settings_edit_quick_responses_label">Resposta ràpida</string>
     <string name="account_settings_edit_quick_responses_summary">Editar missatges breus per a enganxar-los en correus electrònics</string>
     <string name="account_settings_incoming_summary">Nom d\'usuari, contrasenya i altres configuracions del servidor</string>
@@ -466,6 +467,10 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="default_signature_phone">Enviat des del meu telèfon Mi</string>
     <string name="delete">Suprimeix</string>
     <string name="delete_contact_content">Suprimir aquest contacte ara?</string>
+    <string name="delete_message_dialog_content">Voleu suprimir aquest correu electrònic i bloquejar el remitent?</string>
+    <string name="delete_message_dialog_left_button">Suprimeix i bloca</string>
+    <string name="delete_message_dialog_right_button">Només suprimeix</string>
+    <string name="delete_message_dialog_title">S\'està suprimint el correu electrònic</string>
     <string name="delete_message_event">Vols suprimir la invitació?</string>
     <string name="deleted">Suprimit</string>
     <string name="device_activity_btn_str">Activa</string>
@@ -669,6 +674,7 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar abans de suprimir</string>
     <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar</string>
+    <string name="general_preference_delete_message_prompt_title">Pregunta abans de suprimir</string>
     <string name="general_preference_load_picture">Carrega imatges en línia</string>
     <string name="general_preference_str_auto_translation">Traducció ràpida</string>
     <string name="general_preference_str_auto_translation_prompt">Copiar text per a veure la traducció</string>
@@ -728,7 +734,8 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="installation_failed">La instal·lació ha fallat.</string>
     <string name="installing_module">Instal·lació del mòdul:</string>
     <string name="interact_with_server_error">"No s'ha pogut connectar al servidor"</string>
-    <string name="invalid_recipient">L\'adreça %s no és vàlida.</string>
+    <string name="invalid_recipient_dialog_message">Introduïu una adreça electrònica de destinatari vàlida</string>
+    <string name="invalid_recipient_dialog_title">"No s'ha pogut enviar"</string>
     <string name="invalid_recipient_title">Error en destinatari</string>
     <string name="invoice_card_amount">Import</string>
     <string name="invoice_card_buyer">Destinatari</string>
@@ -1303,6 +1310,7 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="request_entity_large">El fitxer és massa gran</string>
     <string name="request_permission_activity">Es necessiten permisos</string>
     <string name="respond_inline">"   Respondre directament"</string>
+    <string name="respond_inline_text">Edita el correu electrònic original</string>
     <string name="retry">Torna-ho a provar</string>
     <string name="retry_login">Iniciar sessió de nou</string>
     <string name="saturday">Dissabte</string>
@@ -1392,6 +1400,7 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="show_images_all">Carrega i mostra totes les imatges</string>
     <string name="show_password">Mostrar contrasenya</string>
     <string name="show_server_cet">Mostra el certificat</string>
+    <string name="shrink">Redueix</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook per a empreses (sense calendari)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (amb calendari)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sense calendari)</string>

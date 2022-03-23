@@ -971,7 +971,7 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="preference_privacy_settings_title">Privadesa</string>
     <string name="preference_remove_duplicate">Combina contactes duplicats</string>
     <string name="preference_show_firewall_calllog">Mostreu les trucades bloquejades a l\'historial de trucades</string>
-    <string name="preference_show_yellowpage_tab_description">És possible que les pàgines grogues no funcionin correctament quan aquesta funció estigui desactivada.</string>
+    <string name="preference_show_yellowpage_tab_description">"Les pàgines grogues i els seus serveis no es mostraran si desactiveu aquesta funció"</string>
     <string name="preference_show_yellowpage_tab_title">Mostra pàgines grogues</string>
     <string name="preference_simple_mode_title">Mostra fotos i informació</string>
     <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
@@ -982,6 +982,7 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="preference_smart_group_location_title">Per ubicació</string>
     <string name="preference_smart_group_title">Grups intel·ligents</string>
     <string name="preference_tone_title">Tons</string>
+    <string name="preference_yellowpage_function_setting">Configuració de pàgines grogues</string>
     <string name="previous">Anterior</string>
     <string name="privacy_password_message1">La contrasenya de protecció de privadesa funciona per a missatges, fotos, notes i carpetes ocultes.</string>
     <string name="privacy_password_message2">Utilitzeu la contrasenya de protecció de privadesa. Funciona per a missatges, fotos, notes i carpetes ocultes.</string>

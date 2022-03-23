@@ -1448,7 +1448,6 @@ dd/MM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un segon…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
-    <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Dades mòbils</string>
     <string name="mobile_data_always_on">Sempre manté les dades mòbils activades</string>
     <string name="mobile_data_always_on_summary">Mantén sempre les dades mòbils actives, fins i tot quan el Wi-Fi està activat (per canviar de xarxa ràpidament).</string>
@@ -1831,9 +1830,12 @@ Si teniu dubtes, poseu-vos en contacte amb %2$s."</string>
     <string name="pref_show_lunar_calendar_title">Mostra el calendari Xinès tradicional a la pantalla de bloqueig</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="priority_conversations">Converses prioritàries</string>
+    <string name="privacy_dialog_title">Notificacions sobre accions sensibles</string>
+    <string name="privacy_recent_used_title">Recent</string>
     <string name="privacy_type_camera">càmera</string>
     <string name="privacy_type_location">ubicació</string>
     <string name="privacy_type_microphone">micròfon</string>
+    <string name="privacy_using_title">Actual</string>
     <string name="private_dns_broken">No es pot accedir al servidor DNS privat</string>
     <string name="private_dns_mode_off">Apagat</string>
     <string name="private_dns_mode_opportunistic">Automàtic</string>
@@ -1876,6 +1878,9 @@ Si teniu dubtes, poseu-vos en contacte amb %2$s."</string>
     <string name="qs_rearrange">Reorganitza la configuració ràpida</string>
     <string name="qs_status_phone_muted">Telèfon silenciat</string>
     <string name="qs_status_phone_vibrate">Telèfon en mode de vibració</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s per sobre del límit</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s restant</string>
+    <string name="qs_traffic_message_type_used">Utilitzat %1$s %2$s</string>
     <string name="quick_controls_title">Controls de dispositius</string>
     <string name="quick_settings">Configuració ràpida</string>
     <string name="quick_settings_autobrightness_label">Brillantor automàtica</string>
@@ -2031,6 +2036,9 @@ Si teniu dubtes, poseu-vos en contacte amb %2$s."</string>
     <string name="reboot_info_auto_boot_global">Propera alarma: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Atureu l’alarma: %s</string>
     <string name="recent_conversations">Converses recents</string>
+    <string name="recent_used_camera">Aquesta aplicació va utilitzar la càmera</string>
+    <string name="recent_used_camera_and_microphone">Aquesta aplicació va enregistrar àudio i utilitzar la càmera</string>
+    <string name="recent_used_microphone">Aquesta aplicació va enregistrar àudio</string>
     <string name="remaining_length_format">Resta %1$s</string>
     <string name="remote_input_image_insertion_text">ha enviat una imatge</string>
     <string name="remove_from_settings">Treu de Configuració</string>
@@ -2205,7 +2213,7 @@ estigui controlada"</string>
     <string name="status_bar_clock_date_format">E, d MMM</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, dd MMMM</string>
     <string name="status_bar_date_format">"E
@@ -2288,6 +2296,10 @@ Es pot sobreescalfar si:
     <string name="torch_high_temperature_warning">"El dispositiu està sobreescalfat. No es pot utilitzar la llanterna."</string>
     <string name="touch_filtered_warning">Com que hi ha una aplicació que oculta una sol·licitud de permís, no es pot verificar la teva resposta des de la configuració.</string>
     <string name="track_frame_time">Perfil de renderització de la HWUI</string>
+    <string name="traffic_unit_byte">B</string>
+    <string name="traffic_unit_gigabyte">GB</string>
+    <string name="traffic_unit_kilobyte">KB</string>
+    <string name="traffic_unit_megabyte">MB</string>
     <string name="transcode_default">Suposem que les aplicacions admeten formats moderns</string>
     <string name="transcode_disable_cache">Inhabilita la memòria cau de transcodificació</string>
     <string name="transcode_enable_all">Habilita la transcodificació</string>
@@ -2426,6 +2438,9 @@ Qualsevol usuari pot actualitzar les aplicacions de la resta d'usuaris."</string
     <string name="user_setup_dialog_title">Voleu configurar l\'usuari ara?</string>
     <string name="user_setup_profile_dialog_message">Voleu configurar un perfil ara?</string>
     <string name="user_switch_to_user">Canvia a %s</string>
+    <string name="using_camera">Aquesta aplicació utilitza la càmera</string>
+    <string name="using_camera_and_microphone">Aquesta aplicació està enregistrant àudio i utilitzant la càmera</string>
+    <string name="using_microphone">Aquesta aplicació està enregistrant àudio</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="verify_apps_over_usb_summary">Comproveu les aplicacions instal·lades mitjançant ADB/ADT en busca de comportament perjudicial.</string>

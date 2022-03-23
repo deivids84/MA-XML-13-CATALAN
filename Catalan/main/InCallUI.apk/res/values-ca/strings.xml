@@ -41,6 +41,11 @@
     <string name="antispam_local_marked">Localment marcat</string>
     <string name="antispam_notification_title">Número desconegut</string>
     <string name="antispam_provider">Identificat per %s</string>
+    <string name="bluetooth_permission_content">S\'han actualitzat els permisos del sistema. Permeteu que aquesta aplicació accedeixi als noms dels 
+dispositius Bluetooth per poder veure\'ls.</string>
+    <string name="bluetooth_permission_grant_immediately">Permet</string>
+    <string name="bluetooth_permission_later">Ara no</string>
+    <string name="bluetooth_permission_title">Permisos necessaris</string>
     <string name="callFailed_cb_enabled">"No podeu fer trucades mentre estigui activada la restricció de trucades."</string>
     <string name="callFailed_congestion">Xarxa ocupada</string>
     <string name="callFailed_dialToDial">Petició dial modificada a dial amb diferent número.</string>
@@ -174,6 +179,7 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
+    <string name="font_camera_tip">Plegueu el dispositiu per utilitzar la càmera frontal</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -318,7 +324,17 @@
     <string name="relay_network_error">Error de xarxa</string>
     <string name="relay_network_error_msg">"No es poden rebre trucades en aquest dispositiu a causa d'un error de xarxa. Torneu al telèfon."</string>
     <string name="remind_unlock_message">El vostre dispositiu està bloquejat ara. \"%s\" estarà disponible després de desbloquejar el dispositiu. Desbloquejar ara?</string>
+    <string name="remind_unlock_screen_message">Desbloquegeu el dispositiu per poder utilitzar \"%s\". Voleu desbloquejar-lo ara?</string>
     <string name="respond_via_sms_custom_message">SMS personalitzat</string>
+    <string name="saf_permission_content">"S'han actualitzat els permisos del sistema. Per poder enregistrar les trucades, primer concediu el permís.
+
+Com atorgar permís
+Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Següent</string>
+    <string name="saf_permission_later">Ara no</string>
+    <string name="saf_permission_refused">"No es poden enregistrar les trucades perquè falten permisos"</string>
+    <string name="saf_permission_title">Permisos necessaris</string>
+    <string name="saf_permission_use_this_folder">Utilitza aquesta carpeta</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
