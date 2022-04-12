@@ -72,9 +72,11 @@
     <string name="name_not_greater_than_twenty_character_tips">El nom pot contenir fins a 20 caràcters</string>
     <string name="name_not_less_than_two_character_tips">El nom ha de contenir com a mínim 2 caràcters</string>
     <string name="notification_content">S\'està executant un combo…</string>
+    <string name="notification_title">macro</string>
     <string name="number_times">Nombre de vegades que es realitza l\'acció</string>
     <string name="ok">OK</string>
     <string name="one_guide_introduce">Feu clic a Crea per crear una macro</string>
+    <string name="operation_track">pista d\'operació</string>
     <string name="operation_track_explain">Si l\'operació de diapositiva de punts és visible</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="play_delay">retard en la reproducció</string>
