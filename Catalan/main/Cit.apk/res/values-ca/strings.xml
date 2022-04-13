@@ -55,6 +55,8 @@ Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon princip
     <string name="cit_charger_test_tips_pd">El dispositiu actual ha de provar USB_PD</string>
     <string name="cit_cust_img_version">Consulta la informació de la versió cust</string>
     <string name="cit_dial_emergencycall">Marca 112</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Manteniu el dispositiu tancat per al calibratge</string>
+    <string name="cit_digital_hall_sensor_cali_title">Prova de calibratge de la sala digital</string>
     <string name="cit_digital_hall_sensor_check_summary">El valor de l\'angle es mostra a continuació</string>
     <string name="cit_digital_hall_sensor_check_title">Prova de saló digital</string>
     <string name="cit_emergencycall_check_summary">Feu clic al botó Marca 112 per marcar el 112 per comprovar si es pot col·locar el 112.</string>
