@@ -31,7 +31,6 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="am">a. m.</string>
-    <string name="app_name">Emet</string>
     <string name="audio_record_des">Per transmetre àudio des del dispositiu mòbil a monitors externs</string>
     <string name="casting_tips">Emetent…</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
@@ -83,7 +82,7 @@ Consulta l'ajuda si tens problemes per a connectar-t'hi."</string>
     <string name="dialog_scanning_device">Cercant els dispositius propers…</string>
     <string name="dialog_scanning_precondition">Activa el wifi i el Bluetooth del telèfon per utilitzar la pantalla sense fils.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder utilitzar el càsting. Voleu activar-los ara?</string>
+    <string name="dialog_scanning_precondition_new_global">Activeu la Wi-Fi i els serveis d\'ubicació per poder utilitzar l\'emissió. Voleu activar-ho ara?</string>
     <string name="dialog_select_tv">Selecciona un dispositiu (%1$d)</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="disconnect">Atura l\'emissió</string>
@@ -201,8 +200,14 @@ Si necessites activar Miracast, prem el botó [MENU] i selecciona Les meves apps
     <string name="help_page_text_55_global">"Si no us podeu connectar a la xarxa, assegureu-vos que el vostre monitor extern admeti la funcionalitat Miracast i que estigui activat. En alguns models, aquesta funció s’anomena Pantalla sense fils, Mirroring de pantalla o pantalles múltiples.
 %1$d. Si teniu algun problema, podeu informar-los mitjançant l'aplicació \"Comentaris de &amp;"</string>
     <string name="help_page_text_end">"Si la marca del teu dispositiu no apareix aquí, posa't en contacte amb el fabricant per obtenir més informació sobre les funcions d'emissió."</string>
+    <string name="invisible_mode_dialog_content">"No podeu utilitzar l'emissió quan esteu d'incògnit. Primer desactiveu el mode d'incògnit."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"No es pot transferir la reproducció quan esteu d'incògnit. Primer desactiveu el mode d'incògnit."</string>
+    <string name="invisible_mode_dialog_pos">Desactiva</string>
+    <string name="invisible_mode_dialog_title">"Esteu d'incògnit"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de privadesa</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
@@ -217,6 +222,8 @@ Si necessites activar Miracast, prem el botó [MENU] i selecciona Les meves apps
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>

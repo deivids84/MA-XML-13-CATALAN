@@ -217,6 +217,14 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="force_touch_newdownload">Nova baixada</string>
     <string name="force_touch_rank">Classificacions</string>
     <string name="force_touch_search">Cerca al web</string>

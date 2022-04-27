@@ -316,13 +316,6 @@ Llegir i acceptar la nova versió de %3$s abans de continuar."</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
-    <string name="share_cancel">S\'ha cancel·lat l\'ús compartit</string>
-    <string name="share_failed">"No s'ha pogut compartir"</string>
-    <string name="share_no_network">"No s'ha pogut connectar a la xarxa"</string>
-    <string name="share_not_install_wechat">Instal·leu primer WeChat</string>
-    <string name="share_not_install_weibo">Instal·leu primer Weibo</string>
-    <string name="share_success">S\'ha compartit correctament</string>
-    <string name="share_title">Compartir</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>

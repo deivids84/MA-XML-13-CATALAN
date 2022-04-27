@@ -114,7 +114,7 @@
     <string name="expand">Desplega</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
-    <string name="financed_device_screen_header">Aquest dispositiu s\'ha comprat a crèdit a %1$s</string>
+    <string name="financed_device_screen_header">Aquest dispositiu és proporcionat per %s</string>
     <string name="financed_make_payments_subheader_description">%1$s pot instal·lar l’aplicació %2$s perquè pugueu fer pagaments per aquest dispositiu.</string>
     <string name="financed_make_payments_subheader_title">Feu pagaments per aquest dispositiu</string>
     <string name="financed_restrict_device_subheader_description">%1$s pot restringir l’accés a aquest dispositiu si no efectueu pagaments.</string>

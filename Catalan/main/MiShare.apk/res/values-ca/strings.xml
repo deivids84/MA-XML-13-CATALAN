@@ -137,6 +137,8 @@
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entesos</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Telèfon Lenovo</string>
     <string name="location_enabled">Mi Share ha activat els serveis d\'ubicació per trobar dispositius propers</string>
     <string name="menu_item_permission_title">Detalls dels permisos</string>
     <string name="menu_item_privacy_title">Política de privadesa</string>
@@ -166,6 +168,7 @@ Aquesta funció és compatible amb OPPO, vivo, realme i altres fabricants de tel
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
     <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
@@ -227,6 +230,8 @@ Aquesta funció és compatible amb OPPO, vivo, realme i altres fabricants de tel
     <string name="operate_too_fast">Massa ràpid! Espereu fins que es completin les operacions en curs.</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Ordinador</string>
+    <string name="pc_redmi_device_model_name">Portàtil Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Portàtil Xiaomi</string>
     <string name="permission_denied_hint">Concediu els permisos necessaris per poder utilitzar Mi Share</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
@@ -250,6 +255,8 @@ Abans d'utilitzar Mi Share, heu de concedir els permisos següents, i també per
     <string name="scanning_device_tips">S\'estan cercant dispositius propers… Assegureu-vos que l’altre dispositiu estigui en mode descobert.</string>
     <string name="scanning_only_xiaomi_device">Aquest element només es pot transferir a dispositius Xiaomi o Black Shark</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="seize_content">Deixeu de compartir la pantalla per poder transferir elements. Voleu deixar de compartir-la ara?</string>
+    <string name="seize_title">Deixa de compartir la pantalla</string>
     <string name="send">Envia</string>
     <string name="send_file">ENVIAR FITXER</string>
     <string name="send_files_by">Compartiu fitxers a través de</string>

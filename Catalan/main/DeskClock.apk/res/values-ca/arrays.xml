@@ -15,13 +15,13 @@
         <item>Diàriament</item>
         <item>Dies de feina</item>
         <item>Dies de festa</item>
-        <item>De Dl a Dv</item>
+        <item>Dill a Div</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una vegada</item>
         <item>Diàriament</item>
-        <item>De dll a dv</item>
+        <item>Dill a Div</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_set">
@@ -767,7 +767,7 @@
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No fer res</item>
-        <item>Repetiu</item>
+        <item>Postposar</item>
         <item>Rebutgeu</item>
     </string-array>
 </resources>

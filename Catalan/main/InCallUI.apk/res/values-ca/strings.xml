@@ -324,7 +324,6 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="relay_network_error">Error de xarxa</string>
     <string name="relay_network_error_msg">"No es poden rebre trucades en aquest dispositiu a causa d'un error de xarxa. Torneu al telèfon."</string>
     <string name="remind_unlock_message">El vostre dispositiu està bloquejat ara. \"%s\" estarà disponible després de desbloquejar el dispositiu. Desbloquejar ara?</string>
-    <string name="remind_unlock_screen_message">Desbloquegeu el dispositiu per poder utilitzar \"%s\". Voleu desbloquejar-lo ara?</string>
     <string name="respond_via_sms_custom_message">SMS personalitzat</string>
     <string name="saf_permission_content">"S'han actualitzat els permisos del sistema. Per poder enregistrar les trucades, primer concediu el permís.
 
@@ -332,6 +331,7 @@ Com atorgar permís
 Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="saf_permission_grant_permission_immediately">Següent</string>
     <string name="saf_permission_later">Ara no</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Per poder desar enregistraments, primer desbloquegeu el dispositiu. Voleu desbloquejar-lo ara?</string>
     <string name="saf_permission_refused">"No es poden enregistrar les trucades perquè falten permisos"</string>
     <string name="saf_permission_title">Permisos necessaris</string>
     <string name="saf_permission_use_this_folder">Utilitza aquesta carpeta</string>

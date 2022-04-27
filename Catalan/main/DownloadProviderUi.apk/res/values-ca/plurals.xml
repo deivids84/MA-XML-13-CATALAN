@@ -41,8 +41,8 @@
         <item quantity="one">Vols eliminar %d tasca?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d baixades eliminades</item>
-        <item quantity="one">%1$d baixada eliminada</item>
+        <item quantity="other">S\'han suprimit %s baixades correctament</item>
+        <item quantity="one">S\'ha suprimit %s baixada correctament</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d dies</item>

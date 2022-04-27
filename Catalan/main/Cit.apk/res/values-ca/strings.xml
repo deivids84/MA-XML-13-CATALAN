@@ -118,12 +118,15 @@ Base el botó passi o falli el botó de clic del resultat de la prova"</string>
     <string name="front_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part frontal del dispositiu</string>
     <string name="main_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part principal del dispositiu</string>
     <string name="motor_calibration">Calibratge del motor</string>
+    <string name="mtb_tool_modem_user_panel">Panell d\'usuari</string>
     <string name="open_third_color_led">obre tres colors led</string>
     <string name="pop_camera">Càmera pop</string>
     <string name="pop_push_camera_test_summary">"Feu clic al botó Pop Camera per veure si la càmera surt
 feu clic al botó premeu per veure si entra la càmera"</string>
     <string name="pop_push_camera_test_title">Prova de càmera pop i push</string>
     <string name="push_camera">Càmera push</string>
+    <string name="radio_info_data_connected">Connectat</string>
+    <string name="radio_info_data_disconnected">Desconnectat</string>
     <string name="sar_sensor_collect_data_self_cali">Auto calibratge</string>
     <string name="sar_sensor_collect_test_summary">"Gireu el dispositiu i poseu-lo al dispositiu
 Feu clic al botó Inicia l'adquisició de dades

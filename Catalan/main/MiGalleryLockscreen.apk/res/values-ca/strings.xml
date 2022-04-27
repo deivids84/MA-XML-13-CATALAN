@@ -326,6 +326,12 @@ Envieu aquest codi al supervisor."</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher per a Android</string>
     <string name="like">Afegeix a preferits</string>
     <string name="liked">Afegit als preferits</string>
+    <string name="lks_cta_dont_mention">"No ho tornis a mostrar"</string>
+    <string name="lks_cta_ok">D\'acord</string>
+    <string name="lks_cta_reject">"No estic d'acord"</string>
+    <string name="lks_cta_summary1">El Carrusel de fons de pantalla ofereix les funcions següents:</string>
+    <string name="lks_cta_summary2">"1. Fons de pantalla actualitzats automàticament&lt;br&gt;2. Imatges i històries noves que es mostren a la pantalla de bloqueig&lt;br&gt;3. Opcions de personalització&lt;br&gt;Aquesta funció s'ha de connectar a Internet per funcionar amb normalitat.&lt;br&gt;&lt;br&gt;Per oferir serveis addicionals, és possible que demanem permís per accedir i desar elements a l'emmagatzematge d'aquest dispositiu. Llegiu i accepteu el nostre &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acord d'usuari&lt;/font&gt;&lt;/a&gt; i la &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privadesa&lt;/font&gt;&lt;/a&gt; abans de continuar."</string>
+    <string name="lks_cta_title">Termes i condicions</string>
     <string name="lks_left_net_deny">La connexió de xarxa està restringida</string>
     <string name="lks_left_net_error">"No s'ha pogut connectar a la xarxa."</string>
     <string name="lks_left_top_notice">Toqueu aquí per tornar al principi</string>
@@ -897,7 +903,7 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Canvia el fons de pantalla cada 3 hores</string>
     <string name="subscribe_success_content_per_unlock">Canvia el fons de pantalla cada vegada que el dispositiu es bloqueja</string>
     <string name="subscribe_update_time_setting">Estableix un interval diferent</string>
-    <string name="summary">"Al utilitzar Tipus de fons de pantalla, mostreu que esteu d'acord amb l'&lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i la &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Tipus de fons de pantalla necessita connectar-se a internet per funcionar amb normalitat."</string>
+    <string name="summary">"Accepteu la nostra &lt;a href='%s'&gt;Política de privadesa&lt;/a&gt; per veure contingut en línia. Si no hi esteu d'acord, els fons de pantalla locals encara estaran disponibles."</string>
     <string name="summary2">"En utilitzar aquesta funció, accepteu el nostre &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Acord d’usuari&lt;/font&gt;&lt;/a&gt; i &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privadesa&lt;/font&gt;&lt;/a&gt;. Aquesta funció ha de connectar-se a Internet per funcionar amb normalitat."</string>
     <string name="summary3">"Us donem la benvinguda al Carrusel de fons de pantalla! Aquí us podeu subscriure a les vostres categories de fons de pantalla preferides i rebre imatges noves a la vostra pantalla de bloqueig regularment. Aquesta aplicació ha de connectar-se a Internet i recopilar les dades personals necessàries per poder funcionar amb normalitat.&lt;br&gt;Per oferir serveis addicionals, podríem demanar permís per accedir i desar elements a l’emmagatzematge d’aquest dispositiu.&lt;br&gt;Per entendre completament els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acord d’usuari&lt;/font&gt;&lt;/a&gt; i &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privadesa&lt;/font&gt;&lt;/a&gt; abans d’utilitzar aquesta aplicació."</string>
     <string name="summary4">"Us donem la benvinguda al Carrusel de fons de pantalla! Aquí us podeu subscriure a les vostres categories de fons de pantalla preferides i rebre imatges noves a la vostra pantalla de bloqueig regularment. "</string>

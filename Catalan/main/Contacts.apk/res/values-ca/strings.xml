@@ -151,6 +151,8 @@
     <string name="bh_not_contact">"Aquest número no és als contactes"</string>
     <string name="bh_notice">Atenció</string>
     <string name="bh_online_service">Assistència en línia</string>
+    <string name="bh_open_carrier_services_short">Serveis de Mi Carrier</string>
+    <string name="bh_open_carrier_services_short_reason">Activeu els serveis de Mi Carrier per poder utilitzar aquesta funció.</string>
     <string name="bh_option_agree_dec">Permet que Mi Carrier Services es connecti a Internet i concedeixi els permisos necessaris abans d\'utilitzar l\'aplicació.</string>
     <string name="bh_order_detail">Detalls de la comanda</string>
     <string name="bh_order_id">Identificador de la comanda</string>
@@ -180,6 +182,7 @@
     <string name="bh_please_fill_total_limit">Afegiu dades mòbils incloses al vostre pla</string>
     <string name="bh_please_set_pkg">Establiu el vostre pla per poder comprovar el vostre saldo.</string>
     <string name="bh_privacy_policy">Política de privadesa</string>
+    <string name="bh_qualification_and_certificate">Llicències i certificacions</string>
     <string name="bh_receive_zero_card">SIM gratuïta</string>
     <string name="bh_recharge_money">Quantitat</string>
     <string name="bh_recharge_record">Registre de recàrregues</string>
@@ -197,7 +200,7 @@
     <string name="bh_stop_carrier_services_short">Desactiva els serveis de Mi Carrier</string>
     <string name="bh_stop_result">"No podreu gestionar el vostre pla de l’operadora ni comprar dades o minuts de trucades si desactiveu els serveis de Mi Carrier. Voleu desactivar-los de totes maneres?"</string>
     <string name="bh_system_recommend">Recomanacions del sistema</string>
-    <string name="bh_system_recommend_des">Permeteu-nos analitzar el vostre trànsit i recomanar productes digitals en funció dels resultats</string>
+    <string name="bh_system_recommend_des">"Permeteu-nos analitzar el vostre trànsit i recomanar productes digitals en funció dels resultats"</string>
     <string name="bh_tag_phones">Números de telèfon d’ús freqüent</string>
     <string name="bh_tags_number_exceed">"No es poden desar més números de telèfon"</string>
     <string name="bh_text_buy_time">Comanda creada</string>
@@ -992,6 +995,7 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="privacy_password_title2">Utilitza la contrasenya de protecció de privadesa</string>
     <string name="privacy_password_title3">Actualitzeu la contrasenya</string>
     <string name="privacy_password_title4">S\'ha actualitzat la contrasenya</string>
+    <string name="privacy_settings_blue_scan_connect">Connecta\'t a dispositius propers</string>
     <string name="privacy_settings_call_phone">Fer trucades</string>
     <string name="privacy_settings_call_phone_description">Per fer trucades mitjançant les dreceres de la pantalla d’inici</string>
     <string name="privacy_settings_call_phone_description_for_pad">Per fer trucades en aplicacions de tercers</string>
@@ -1184,6 +1188,10 @@ Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</s
     <string name="sms_work">Text de la feina</string>
     <string name="sms_work_mobile">Text del mòbil de treball</string>
     <string name="sms_work_pager">Text del cercador de treball</string>
+    <string name="solar_calendar">Calendari</string>
+    <string name="solar_term_autumn_begins">Comença la tardor</string>
+    <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
+    <string name="solar_term_clear_and_bright">Festa de la Claredat Pura</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>
     <string name="solar_term_grain_in_ear">Sembrant mill</string>
@@ -1286,6 +1294,7 @@ Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</s
     <string name="toast_for_failed_saving_nickname">"No s'ha pogut desar el sobrenom"</string>
     <string name="toast_for_saving_nickname">Sobrenom desat</string>
     <string name="toast_join_with_empty_contact">Introduïu el nom del contacte abans de combinar-ho amb un altre</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permet que aquesta funció es connecti a dispositius propers mitjançant Bluetooth per poder importar contactes d\'altres dispositius.</string>
     <string name="toast_not_show_camera_perm_req">Per poder utilitzar la càmera per fer fotos de perfil, primer permeteu que aquesta aplicació faci fotos i enregistri vídeos.</string>
     <string name="toast_not_show_location_perm_req">Per poder importar contactes d’altres dispositius mitjançant Bluetooth, primer permeteu que aquesta aplicació accedeixi a la vostra ubicació.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Per poder veure l’historial de trucades, primer permeteu que aquesta aplicació accedeixi a l’historial de trucades.</string>

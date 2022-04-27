@@ -47,6 +47,7 @@
     <string name="app_name">Núvol Xiaomi</string>
     <string name="bad_authentication">Contrasenya o nom d\'usuari no vàlids</string>
     <string name="btn_return">Enrere</string>
+    <string name="btn_revoke_permission">Retira el consentiment</string>
     <string name="button_agree">Acordar</string>
     <string name="button_cancel">Cancel·leu</string>
     <string name="button_quit">Sortida</string>

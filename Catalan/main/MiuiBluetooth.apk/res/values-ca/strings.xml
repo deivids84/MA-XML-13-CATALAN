@@ -35,6 +35,7 @@
     <string name="ble_device_address">Adreça MAC de dispositiu Bluetooth de baix consum</string>
     <string name="ble_device_profile">Perfil del dispositiu Bluetooth</string>
     <string name="ble_device_profile_header_title">Configuració</string>
+    <string name="ble_device_profile_summary">Gestiona aquest dispositiu</string>
     <string name="ble_device_profile_title">Dispositiu vinculat amb Bluetooth de baix consum</string>
     <string name="ble_device_rename">Reanomena</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Connectat a l\'àudio multimèdia</string>
@@ -198,6 +199,10 @@ Protocol de connexió més ràpid."</string>
     <string name="headset_fw_error_failed">"No es pot actualitzar. La informació del maquinari no és correcta."</string>
     <string name="headset_fw_file_position_failed">"No s'ha pogut accedir al fitxer"</string>
     <string name="headset_fw_file_readfailed">"No s'ha pogut obtenir informació sobre les actualitzacions"</string>
+    <string name="headset_incall_answer">Respon</string>
+    <string name="headset_incall_reject">Cancel·la</string>
+    <string name="headset_incall_summary">Voleu respondre la trucada de %1$s amb els auriculars? Els auriculars es mantindran connectats a aquest dispositiu un cop finalitzi la trucada.</string>
+    <string name="headset_incall_title">Respon la trucada amb auriculars</string>
     <string name="headset_loss_notify_summary">Sembla que almenys un dels auriculars no es troba a la caixa de càrrega. Feu una ullada al voltant!</string>
     <string name="headset_loss_notify_summary1">"Sembla que els auriculars no estan a l’estoig. Poseu'ls-hi de nou per deixar-los carregar."</string>
     <string name="headset_loss_notify_title">Falta l\'alerta dels auriculars</string>

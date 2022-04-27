@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">S\'han trobat %d resultats</item>
+        <item quantity="one">S\'ha trobat %d resultat</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>

@@ -134,6 +134,7 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="battery_info_status_full">Carregada</string>
     <string name="battery_info_status_not_charging">Connectat, no carregant</string>
     <string name="battery_info_status_unknown">Desconegut</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="blob_expires_text">Caduca a les %s</string>
     <string name="blob_id_text">Identificador de dades compartides: %d</string>
     <string name="block_button">Bloqueja</string>

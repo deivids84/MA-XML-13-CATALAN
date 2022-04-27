@@ -439,7 +439,6 @@ mitjançant %s"</string>
     <string name="data_usage_warning_title">Advertiment de dades</string>
     <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
     <string name="data_usage_wifi_limit_title">Límit de dades Wi-Fi assolit</string>
-    <string name="date_and_time" formatted="false">%-k:%M:%S %d/%m/%Y</string>
     <string name="date_picker_decrement_day_button">Fes disminuir el dia</string>
     <string name="date_picker_decrement_month_button">Fes disminuir el mes</string>
     <string name="date_picker_decrement_year_button">Fes disminuir l\'any</string>
@@ -1761,7 +1760,6 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="tethered_notification_title">Enllaç o punt d\'accés actiu</string>
     <string name="textSelectionCABTitle">Selecció de text</string>
     <string name="text_copied">Text copiat al Porta-retalls.</string>
-    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
     <string name="time_picker_decrement_hour_button">Fes disminuir l\'hora</string>
     <string name="time_picker_decrement_minute_button">Fes disminuir el minut</string>
     <string name="time_picker_decrement_set_am_button">Estableix com a a. m.</string>

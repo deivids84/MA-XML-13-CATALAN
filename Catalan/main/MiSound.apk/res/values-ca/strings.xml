@@ -160,9 +160,11 @@
     <string name="material_minute_suffix">%1$s minuts</string>
     <string name="material_slider_range_end">Final del rang,</string>
     <string name="material_slider_range_start">Inici del rang,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Canvia al mode de rellotge per a l’entrada de temps.</string>
     <string name="material_timepicker_hour">Hores</string>
     <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Seleccioneu l\'hora</string>
     <string name="material_timepicker_text_input_mode_description">Canvieu al mode d’entrada de text per a l’entrada de temps.</string>
     <string name="midnight">Nit</string>
@@ -183,6 +185,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
     <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>

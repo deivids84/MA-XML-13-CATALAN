@@ -79,11 +79,14 @@
     <string name="aqi_quality_no2_desc">Diòxid de nitrogen</string>
     <string name="aqi_quality_o3_desc">Ozó</string>
     <string name="aqi_quality_pm10_desc">Partícules gruixudes inhalables</string>
+    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Partícules fines</string>
+    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">Diòxid de sofre</string>
     <string name="aqi_station_best_quality_station">El millor al voltant</string>
     <string name="aqi_station_min_distance_station">L\'estació més propera</string>
     <string name="aqi_sub_desc">IQA</string>
+    <string name="aqi_title_pad">IQA: %1$s</string>
     <string name="aqi_top_pollution">Principals contaminants</string>
     <string name="button_allow">D\'acord</string>
     <string name="button_confirm">D\'acord</string>
@@ -138,6 +141,11 @@
     <string name="dialog_msg_score_midrop">Com et sents del clima?</string>
     <string name="dialog_msg_score_not_good">També ens podríeu proporcionar els vostres comentaris?</string>
     <string name="dialog_msg_score_perfect">Bonic! Valoreu també el temps a Play Store?</string>
+    <string name="dialog_score_bad">Insatisfet</string>
+    <string name="dialog_score_general">Neutral</string>
+    <string name="dialog_score_good">Satisfet</string>
+    <string name="dialog_score_very_bad">Molt insatisfet</string>
+    <string name="dialog_score_very_good">Molt satisfet</string>
     <string name="dialog_title_score">Valora el temps</string>
     <string name="download_rsc_tips">S\'està carregant l\'àudio de fons…</string>
     <string name="dynamic_weather">El temps</string>
@@ -311,6 +319,7 @@
     <string name="pad_keyboard_add_city">Afegeix ubicació</string>
     <string name="pad_keyboard_left_switch">Ubicació anterior</string>
     <string name="pad_keyboard_right_switch">Propera ubicació</string>
+    <string name="pad_real_time_detail_title">Confort</string>
     <string name="particulate_matter_exceeded">Alta</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Massa alta</string>

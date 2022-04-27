@@ -221,6 +221,7 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="battery_info_status_full">Carregada</string>
     <string name="battery_info_status_not_charging">Connectat, no s\'està carregant</string>
     <string name="battery_info_status_unknown">Desconeguda</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="bf_news_settings">Notícies financeres i de negocis</string>
     <string name="blob_expires_text">Caduca a les %s</string>
     <string name="blob_id_text">Identificador de dades compartides: %d</string>
@@ -901,6 +902,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
     <string name="enhanced_connectivity_summary">Activa la funció de connectivitat millorada.</string>
     <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (%d dígits)</string>
+    <string name="enter_esim_manager">Gestiona l\'eSIM</string>
     <string name="enter_input">Un missatge USSD ha de tenir entre %1$d i %2$d caràcters. Torneu-ho a provar.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de la SIM:</string>
@@ -911,6 +913,10 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Error</string>
     <string name="error_updating_title">Error de configuració de trucada</string>
+    <string name="esim_goto_active">Activa</string>
+    <string name="esim_inactive_message">eSIM inactiva</string>
+    <string name="esim_inactive_notification_message">No s\'ha detectat cap targeta SIM. Toqueu per activar l\'eSIM.</string>
+    <string name="esim_inactive_settings_title">Doble SIM i xarxes mòbils</string>
     <string name="evening">Tarda</string>
     <string name="exception_error">Error de xarxa o de targeta SIM.</string>
     <string name="expand_button_title">Avançat</string>

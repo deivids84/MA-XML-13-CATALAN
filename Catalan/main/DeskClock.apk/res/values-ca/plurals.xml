@@ -121,8 +121,8 @@
         <item quantity="one">%1$s minut</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
-        <item quantity="other">Ha canviat l\'interval d\'ajornament a %d minuts</item>
-        <item quantity="one">Ha canviat l\'interval d\'ajornament a %d minut</item>
+        <item quantity="other">Ha canviat l\'interval de postposar a %d minuts</item>
+        <item quantity="one">Ha canviat l\'interval de postposar a %d minut</item>
     </plurals>
     <plurals name="snooze_duration_count">
         <item quantity="other">Sonar %1$s vegades</item>
@@ -141,8 +141,8 @@
         <item quantity="one">L\'alarma sonarà %2$s vegada (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Retardar %d mins</item>
-        <item quantity="one">Retardar %d min</item>
+        <item quantity="other">Postposar %d mins</item>
+        <item quantity="one">Postposar %d min</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">
         <item quantity="other">El cronòmetre s\'ha estat executant durant %s dies. Toca per veure-ho.</item>
