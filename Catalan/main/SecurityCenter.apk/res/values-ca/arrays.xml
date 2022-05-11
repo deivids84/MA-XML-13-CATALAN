@@ -122,6 +122,10 @@
         <item>Extra gran</item>
         <item>XXL</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Mida</item>
+        <item>Nom</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>
@@ -245,15 +249,13 @@
         <item>Ús de dades</item>
         <item>Saldo del telèfon</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Ordena per estat</item>
+    <string-array name="sort_title_new">
         <item>Ordena per nom de l\'aplicació</item>
         <item>Ordena per freqüència d\'ús</item>
         <item>Ordena per l\'emmagatzematge utilitzat</item>
         <item>Ordena per data d\'instal·lació</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>Estat</item>
+    <string-array name="sort_type_new">
         <item>Nom de l\'aplicació</item>
         <item>Freqüència d\'ús</item>
         <item>Emmagatzematge utilitzat</item>

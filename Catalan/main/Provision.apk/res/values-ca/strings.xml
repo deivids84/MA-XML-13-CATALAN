@@ -56,6 +56,8 @@
     <string name="back">Enrere</string>
     <string name="backup_introduction">Podeu utilitzar aquesta aplicació per fer una còpia de seguretat i restaurar els elements del vostre dispositiu.</string>
     <string name="bluetooth_introduction">El sistema utilitza el Bluetooth per a la comunicació sense fil. Per poder funcionar amb normalitat, el Bluetooth necessita els permisos següents:</string>
+    <string name="bluetooth_usage_desc">La configuració inicial us permet establir les vostres preferències bàsiques per a aquest dispositiu. Per configurar el dispositiu correctament, els serveis del sistema Bluetooth utilitzaran els permisos següents:</string>
+    <string name="boot_video_desc">Veure el món en 2K</string>
     <string name="boot_video_replay">Torna a reproduir</string>
     <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
@@ -111,6 +113,7 @@
     <string name="enable_accessibility_dialog_message">Vau activar TalkBack prement la pantalla amb 2 dits durant més de 10 segons. TalkBack proporciona comentaris de veu per a persones amb impediments visuals. Si ho va activar per accident, toqueu el botó Cancel·la i a continuació, toqueu dues vegades la pantalla.</string>
     <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
     <string name="enable_accessibility_dialog_positive_btn">D\'acord</string>
+    <string name="enable_or_disable_bluetooth">Activació i desactivació del Bluetooth</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="evening">Tarda</string>
@@ -144,8 +147,10 @@
     <string name="input_method_category">"Seleccioneu el teclat per defecte que s'utilitzarà per escriure correus, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>
     <string name="input_method_setting">Seleccioneu el teclat predeterminat</string>
     <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
+    <string name="intent_filter_verification_service">Servei de comprovació de filtratge</string>
     <string name="interconnection_communication_introduction">Els serveis de comunicació per Internet de Xiaomi us permeten descobrir, connectar-vos i comunicar-vos amb altres dispositius Xiaomi.</string>
     <string name="item_contents_wwarning">"Si el dispositiu desapareix, no podreu evitar que altres persones l’utilitzin i no accedeixin a les vostres dades tret que establiu un bloqueig de pantalla. Ometre igualment?"</string>
+    <string name="item_facerecognition">Desbloqueig facial</string>
     <string name="item_fingerprint">Empremta</string>
     <string name="item_lock_screen_password">Només bloqueig de pantalla</string>
     <string name="item_lock_screen_password_only">Bloqueig de pantalla</string>
@@ -169,6 +174,7 @@
     <string name="mint_keyboard_oobe_checkbox">"He llegit i he acceptat la Política de privadesa del teclat Mint"</string>
     <string name="mint_keyboard_oobe_terms">Política de privadesa del teclat Mint</string>
     <string name="miui_privacy_policy_no_network">"No hi ha connexió a internet. Vegeu la política de privadesa a %s."</string>
+    <string name="miui_provision">Configuració inicial</string>
     <string name="miui_terms_no_network">"No hi ha connexió a internet. Vegeu els Termes del Servei a %s."</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
@@ -246,6 +252,7 @@
     <string name="msim_setting_default_data">SIM de dades</string>
     <string name="msim_setting_default_voice">SIM per defecte per a trucades</string>
     <string name="multisim_settings_category">Configuració de targeta SIM</string>
+    <string name="multisim_settings_sb_title">%d targeta SIM detectada</string>
     <string name="multisim_settings_title">S\'han detectat 2 targetes SIM</string>
     <string name="navigation_picker_gesture_guide">Guia de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos a pantalla completa</string>
@@ -273,6 +280,8 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Acord de llicència d\'usuari final</string>
     <string name="other_settings_location">Ubicació</string>
     <string name="other_settings_location_summary">Permet que les aplicacions i els llocs web accedeixin a la informació d’ubicació per oferir serveis basats en la ubicació</string>
+    <string name="other_settings_quality_service">Permisos MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon s\'utilitza per millorar l\'estabilitat i el rendiment del sistema. Per poder funcionar amb normalitat, aquest servei necessita permisos per accedir i desar elements a l\'emmagatzematge del dispositiu.</string>
     <string name="other_settings_upload_debug_log_detail">"Ajudeu a millorar l’experiència del vostre dispositiu MIUI enviant automàticament dades de diagnòstic, dispositius i ús de les aplicacions a Xiaomi. Això ajudarà a millorar la durada de la bateria, l'estabilitat del sistema MIUI i de l'aplicació, etc.
 Les dades que envieu inclouran informació general sobre el vostre dispositiu i sobre com el feu servir (per exemple, nivell de bateria, activitat del sistema i de l'aplicació i errors). Les dades s’utilitzaran per millorar els dispositius MIUI.
 Desactivar aquesta funció no afecta la capacitat del dispositiu per enviar la informació necessària per a serveis essencials, com ara actualitzacions del sistema i seguretat.
@@ -312,6 +321,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="permission_direct_call">Fer trucades</string>
     <string name="permission_direct_call_introduction">Per afegir elements a la Llista de bloqueig</string>
     <string name="permission_download_introduction">Per emmagatzemar en memòria cau els elements baixats i desar-los al dispositiu</string>
+    <string name="permission_enable_disable_bluetooth_summary">Per trobar dispositius a prop per connectar i transferir dades</string>
     <string name="permission_fast_pairing">Per poder trobar dispositius a prop, Mi Link s’ha de connectar a Internet i requereix els permisos següents:</string>
     <string name="permission_imei_service">Per accedir a l\'IMEI per proporcionar serveis associats amb el dispositiu</string>
     <string name="permission_interaction_introduction">Per desar fotos i vídeos al dispositiu</string>
@@ -474,12 +484,14 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="sim_card_detecting_title">S\'està comprovant la targeta SIM…</string>
     <string name="sim_card_detection">Inseriu una targeta SIM</string>
     <string name="sim_card_detection_info">Per inserir la targeta SIM, llegiu les instruccions subministrades amb el dispositiu.</string>
+    <string name="sim_card_detection_info_sb">"Inseriu una targeta SIM abans de continuar. La funció de Troba el dispositiu i la sincronització no estarà totalment disponible si creeu un compte sense una targeta SIM. Aquest dispositiu és compatible amb eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Toqueu per activar l\'eSIM.</string>
     <string name="sim_card_detection_mobile_not_available">"La targeta SIM no s'ha pogut connectar a la xarxa"</string>
-    <string name="sim_card_dial_card1">SIM 1 per a trucades</string>
-    <string name="sim_card_dial_card2">SIM 2 per a trucades</string>
+    <string name="sim_card_detection_sb_esim">Activa l\'eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">No activada</string>
+    <string name="sim_card_dial_card">SIM %d per a trucades</string>
     <string name="sim_card_do_not_select_dial_card">Seleccioneu la targeta SIM quan marqueu</string>
-    <string name="sim_card_network_card1">SIM de dades 1</string>
-    <string name="sim_card_network_card2">SIM de dades 2</string>
+    <string name="sim_card_network_card">SIM de dades %d</string>
     <string name="sim_dectection_next">Continua</string>
     <string name="sim_redetection">Torna-ho a comprovar</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"La vostra targeta SIM no s'ha pogut connectar a una xarxa vàlida de l'operador. Assegureu-vos que disposeu de fons suficients al vostre saldo i torneu a connectar-vos de nou."</string>

@@ -60,6 +60,9 @@
     <string name="freeform_demo_title_skip">Salta</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arrossegueu la cantonada per minimitzar una aplicació</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arrossegueu la cantonada per minimitzar una aplicació</string>
+    <string name="freeform_guide_to_sidehide_summary">Arrossegueu ràpidament la finestra per la barra d\'acció fins a la vora de la pantalla</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Arrossegueu ràpidament l\'aplicació cap a un costat de la pantalla per amagar-la</string>
+    <string name="freeform_guide_to_sidehide_title">Ocultació de finestres flotants</string>
     <string name="freeform_slide_to_small_freeform">Minimitza una finestra flotant</string>
     <string name="freeform_slide_to_small_freeform_summary">Mantén premuda la barra d\'accions i arrossega cap a una cantonada</string>
     <string name="friday">Divendres</string>

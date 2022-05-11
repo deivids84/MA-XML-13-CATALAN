@@ -75,8 +75,8 @@
         <item quantity="one">&lt;Data&gt;Pots esborrar les dades d\'&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicació&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicacions utilitzen molt espai d\'emmagatzematge&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; \'aplicació utilitza molt espai d\'emmagatzematge&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicacions utilitzen molt d\'emmagatzematge&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicació utilitza molt d\'emmagatzematge&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Pots eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; fotos innecessàries&lt;/Data&gt;</item>

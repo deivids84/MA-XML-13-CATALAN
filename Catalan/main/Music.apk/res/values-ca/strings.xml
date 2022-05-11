@@ -351,6 +351,7 @@
     <string name="download_while_playing_title">Baixa mentre es reprodueix</string>
     <string name="downloaded">Baixat</string>
     <string name="downloaded_empty">Buida</string>
+    <string name="downloading">S\'està carregant...</string>
     <string name="downloading_apk">S\'està baixant…Vegeu el progrés al panell de notificació.</string>
     <string name="downloading_empty">Buida</string>
     <string name="downloading_pause_apk">S\'ha pausat. Reprèn la baixada al panell de notificació.</string>
@@ -361,6 +362,7 @@
     <string name="empty_page_no_artist">No hi ha artistes.</string>
     <string name="enabled">Activat</string>
     <string name="enjoy_hungama_pro">Gaudiu d\'Hungama PRO</string>
+    <string name="enroll_in">Inscriure\'s</string>
     <string name="enter_garbage_clean">Neteja l\'emmagatzematge intern.</string>
     <string name="eq_auto">Personalitzat</string>
     <string name="eq_blues">Blues</string>
@@ -412,9 +414,7 @@
     <string name="exo_media_action_repeat_all_description">Repeteix tot</string>
     <string name="exo_media_action_repeat_off_description">No en repeteixis cap</string>
     <string name="exo_media_action_repeat_one_description">Repeteix una</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativa</string>
     <string name="exo_track_role_closed_captions">Subtítols</string>
     <string name="exo_track_role_commentary">Comentaris</string>
@@ -496,6 +496,8 @@
     <string name="google_account_login">Inicia sessió amb Google</string>
     <string name="goto_local_search">Cerca al dispositiu</string>
     <string name="goto_online_search">Cercar a internet</string>
+    <string name="gps_prompt_context">Baixar-ho amb la xarxa mòbil?</string>
+    <string name="gps_prompt_title">Consells</string>
     <string name="handle_later">Ara no</string>
     <string name="hd_quality_audio">Qualitat d\'àudio HD</string>
     <string name="headset_and_audio_effect_category">Auriculars i efectes d\'àudio</string>

@@ -93,14 +93,15 @@
     <string name="catch_full_log_category">Tipus de registre</string>
     <string name="catch_full_log_dialog_confirm_text">Aneu a la Pantalla d\'Inici</string>
     <string name="catch_full_log_dialog_content">"MIUI està generant un registre. Això podria afectar al rendiment general del vostre dispositiu. Si no podeu reproduir el problema que voleu notificar, torneu als registres i premeu \"cancel·la\"."</string>
+    <string name="catch_full_log_dialog_content_pad">"Això pot afectar el rendiment general del dispositiu. Si no podeu reproduir el problema del qual voleu informar, torneu als registres i toqueu \"Cancel·la\"."</string>
     <string name="catch_full_log_dialog_title">Generació de registres…</string>
     <string name="catch_full_log_dump_hprof_failed">"No s'ha pogut generar el registre de ralentització"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Torneu a la funció que voleu notificar i reproduir-la.
 2. Torneu a aquesta pàgina i premeu \"Finalitza i puja\"."</string>
     <string name="catch_full_log_item_content_catching">Generació de registres…</string>
-    <string name="catch_full_log_item_content_need_open">"1. Toqueu \"Genera registre\".
-2. Torneu a la funció que voleu notificar i reproduir-la.
-3. Torneu a aquesta pàgina i premeu \"Finalitza i puja\"."</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Toqueu \"Inicia\" per començar a generar registres.
+%2$d. Reproduïu el problema que heu trobat.
+%3$d. Torneu a aquesta pàgina i toca \"Finalitza i puja\"."</string>
     <string name="catch_full_log_item_content_title">Pasos</string>
     <string name="catch_full_log_item_title_audio">Àudio, enregistrament de so i àudio de trucades</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -116,11 +117,13 @@
     <string name="catch_full_log_notification_content">Premeu per tornar als registres</string>
     <string name="catch_full_log_notification_title">S\'està generant el registre…</string>
     <string name="catch_full_log_privacy_content_audio">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir la informació sobre l'àudio del dispositiu, inclòs l'historial de reproducció i l'historial d'enregistrament. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
+    <string name="catch_full_log_privacy_content_audio_pad">"Esteu generant registres i desant-los al dispositiu. Els registres poden contenir la informació sobre l'àudio del dispositiu, inclòs l'historial de reproducció i l'historial d'enregistraments. Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D'acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_bt">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir informació d'ús del dispositiu Bluetooth (incloent l’historial de trucades, els missatges, els fitxers transferits, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_camera">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir informació sobre l'ús de la càmera (inclosa la freqüència de la CPU, la trucada al sistema, l'ús de la memòria, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D'acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per tal de localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_charge">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir estadístiques de la càrrega. Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D’acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_gps">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir informació personal i informació sobre la ubicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_sensor">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir la informació recollida pels sensors del dispositiu (incloent el sensor de llum ambiental, el baròmetre, el podòmetre, el magnetòmetre, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
+    <string name="catch_full_log_privacy_content_sensor_pad">"Esteu generant registres i desant-los al dispositiu. Els registres poden contenir la informació recollida pels sensors del vostre dispositiu (incloent-hi sensor de llum ambiental, baròmetre, podòmetre, magnetòmetre, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D'acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_signal">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir missatges, historial de trucades, informació de xarxa i dades de comunicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_trace">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir estadístiques d'ús de l'aplicació (incloent-hi la freqüència de la CPU, la trucada al sistema, l'ús de la memòria, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D'acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_wifi">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir les vostres dades personals, informació de ubicació, així com les adreces IP i MAC del vostre dispositiu. Si esteu connectat a una xarxa Wi-Fi sense xifrar, també podem accedir a parts de les vostres dades de comunicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
@@ -243,7 +246,7 @@ Envia aquest codi al supervisor."</string>
     <string name="feedback_package_log_failed">"No s'han pogut comprimir els registres"</string>
     <string name="feedback_remind_login_btn">Inicia la sessió</string>
     <string name="feedback_report_remind_login_desc">Connecteu-vos amb el Compte Mi perquè els nostres enginyers puguin contactar-vos.</string>
-    <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a \"Els meus informes\"."</string>
+    <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés de l'informe a Els meus comentaris."</string>
     <string name="feedback_reproductivity_everytime">Cada vegada</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalment</string>
     <string name="feedback_reproductivity_often">Sovint</string>
@@ -288,7 +291,7 @@ Envia aquest codi al supervisor."</string>
     <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
     <string name="feedback_submit_hint">Informa d\'errors cada vegada que trobis problemes per ajudar-nos a resoldre\'ls més ràpidament.</string>
     <string name="feedback_submit_hint1">"Us informarem sobre el progrés de l'informe"</string>
-    <string name="feedback_submit_hint2">Aneu a \"Els meus informes\" per veure\'n els detalls</string>
+    <string name="feedback_submit_hint2">Aneu a Els meus comentaris per veure\'n els detalls</string>
     <string name="feedback_submit_hint_gone">Missatge tancat</string>
     <string name="feedback_submit_succ">S\'ha enviat correctament</string>
     <string name="feedback_submit_succ_button">Fet</string>
@@ -345,6 +348,7 @@ Envia aquest codi al supervisor."</string>
     <string name="kr_authorization_log_protocol_desc">"Per millorar els serveis que us oferim, penjarem estadístiques d'ús i registres del sistema als nostres servidors. Aquests elements poden incloure la vostra informació personal, així com la informació sobre el dispositiu i les xarxes. Utilitzarem elements pujats per localitzar i analitzar els problemes del sistema."</string>
     <string name="kr_authorization_phone">Telèfon</string>
     <string name="kr_authorization_phone_desc">Per accedir al model de dispositiu, IMEI i ID de dispositiu per localitzar i resoldre problemes</string>
+    <string name="kr_authorization_phone_desc_pad">Per accedir al model del dispositiu, a l\'IMEI i a l\'identificador del dispositiu per localitzar i resoldre problemes</string>
     <string name="kr_authorization_privacy_policy">Polítiques de privadesa (obligatori)</string>
     <string name="kr_authorization_select_all">Seleccioneu-ho tot</string>
     <string name="kr_authorization_storage">Emmagatzematge</string>

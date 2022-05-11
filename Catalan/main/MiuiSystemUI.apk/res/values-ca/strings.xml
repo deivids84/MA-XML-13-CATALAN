@@ -1776,6 +1776,7 @@ Si teniu dubtes, poseu-vos en contacte amb %2$s."</string>
     <string name="pip_skip_to_next">Ves al següent</string>
     <string name="pip_skip_to_prev">Torna a l\'anterior</string>
     <string name="plugins">Connectors</string>
+    <string name="pm">PM</string>
     <string name="pointer_location">Ubicació del punter</string>
     <string name="pointer_location_summary">Superposició de pantalla que mostra les dades tàctils actuals</string>
     <string name="power_charging_duration">%1$s - %2$s fins càrrega completa</string>

@@ -1371,6 +1371,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>plato</item>
         <item>mayfly</item>
         <item>daumier</item>
+        <item>diting</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítid</item>

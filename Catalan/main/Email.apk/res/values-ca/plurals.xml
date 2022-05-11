@@ -116,6 +116,10 @@
         <item quantity="other">Esborranys</item>
         <item quantity="one">Esborrany</item>
     </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Podeu afegir fins a %1$d condicions</item>
+        <item quantity="one">Podeu afegir fins a %1$d condició</item>
+    </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d missatges es suprimiran definitivament.</item>
         <item quantity="one">%1$d missatge es surpimirà definitivament.</item>

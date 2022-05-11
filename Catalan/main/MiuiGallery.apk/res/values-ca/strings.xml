@@ -493,6 +493,7 @@
     <string name="cloud_full_space_tip_negative">Ara no</string>
     <string name="cloud_full_space_tip_positive">Actualització</string>
     <string name="cloud_full_space_tip_title">Emmagatzematge al núvol insuficient</string>
+    <string name="cloud_full_space_tip_title_completely">L’emmagatzematge al núvol està ple</string>
     <string name="cloud_guide_auto_backup_title">Selecciona els àlbums a sincronitzar</string>
     <string name="cloud_guide_login_title">Còpia de seguretat automàtica de fotos i vídeos</string>
     <string name="cloud_guide_welcome_title">Núvol Xiaomi</string>
@@ -574,6 +575,7 @@
     <string name="correct_photo_time">Corregeix la data i hora de les fotos</string>
     <string name="correct_time_success">S\'ha corregit amb èxit</string>
     <string name="correct_time_tip">S\'està corregint la data i hora…</string>
+    <string name="create_album_failed_because_dup">Aquest àlbum ja existeix. Voleu afegir elements a aquest àlbum?</string>
     <string name="create_baby_album">Crea un àlbum de nadó</string>
     <string name="create_baby_album_dialog_msg">Voleu crear un àlbum per a \"%s\"?</string>
     <string name="create_baby_album_later_toast">Creeu un àlbum de nadó en qualsevol moment des de Configuració</string>
@@ -1049,6 +1051,8 @@ disponibles"</string>
     <string name="grant_permission_go_and_set">Estableix</string>
     <string name="grant_permission_go_and_set_2">Configuració</string>
     <string name="grant_permission_go_and_set_3">Configuració</string>
+    <string name="grant_permission_manage_storage">Permisos necessaris</string>
+    <string name="grant_permission_manage_storage_unlock">Desbloquegeu el dispositiu i permeteu que aquesta aplicació accedeixi a tots els fitxers per poder veure els elements.</string>
     <string name="grant_permission_shortcut">Permet que aquesta aplicació creï primer dreceres de pantalla inicial.</string>
     <string name="grant_permission_storage">Permet que aquesta aplicació accedeixi primer a l’emmagatzematge.</string>
     <string name="grant_permission_storage_unlock">Desbloqueja el dispositiu i permet que aquesta aplicació accedeixi primer a l’emmagatzematge.</string>
@@ -1171,6 +1175,9 @@ disponibles"</string>
     <string name="last_some_day_travel_title_one">En %1$s</string>
     <string name="last_some_day_travel_title_three">Explorant %1$s</string>
     <string name="last_some_day_travel_title_two">Memòries de %1$s</string>
+    <string name="last_some_performance_title">Coses que he vist</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Telèfon Lenovo</string>
     <string name="limit_height">L\'alçada ha de ser &gt; 0</string>
     <string name="limit_width">L\'amplada ha de ser &gt; 0</string>
     <string name="live_photo">Captura dinàmica</string>
@@ -1654,6 +1661,7 @@ per personalitzar Galeria"</string>
     <string name="operation_too_often">Ep! S\'estan fent massa sol·licituds des de la vostra adreça IP. Espereu un minut o dos i proveu-ho de nou.</string>
     <string name="operation_unforce_top">No fixis</string>
     <string name="operation_unhide">No amaguis</string>
+    <string name="operation_upgrade_gallery">Actualitza</string>
     <string name="operation_video_compress">Comprimeix vídeo</string>
     <string name="operation_watermark">Marca d\'aigua protectora</string>
     <string name="orientation_lock_tip">Rotació automàtica desactivada</string>
@@ -1843,7 +1851,7 @@ per personalitzar Galeria"</string>
     <string name="photo_vlog_module_loading">Descarregant editor de vídeo…</string>
     <string name="photodetail_failed_already_exist">Aquest fitxer ja existeix</string>
     <string name="photodetail_rename_failed">"No s'ha pogut reanomenar"</string>
-    <string name="photodetail_rename_invalid">"Els noms dels fitxers no poden contenir aquests caràcters: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_invalid">"Els noms de fitxer no poden contenir aquests caràcters: /\\:*?&lt;&gt;|.\""</string>
     <string name="photodetail_rename_success">S\'ha reanomenat correctament</string>
     <string name="photodetail_rename_title">Reanomena</string>
     <string name="photodetail_rename_too_long">El nom del fitxer que heu introduït és massa llarg</string>
@@ -2165,8 +2173,8 @@ per personalitzar Galeria"</string>
     <string name="send_file_beautify_failed">"No s'ha pogut compartir"</string>
     <string name="send_files_by">Compartiu fitxers a través de</string>
     <string name="send_files_to">Enviar elements a</string>
-    <string name="send_heif_summary">Converteix imatges HEIF a JPEG per a assegurar la compatibilitat</string>
-    <string name="send_heif_title">Converteix HEIF a JPEG abans d\'enviar</string>
+    <string name="send_heif_summary">Converteix les imatges HEIF a JPEG abans d\'enviar-les</string>
+    <string name="send_heif_title">Converteix HEIF abans d\'enviar</string>
     <string name="send_multiple_files_hint_format">Envia (%s)</string>
     <string name="send_public_url">Envia la URL de l\'àlbum</string>
     <string name="send_secret_file_failed">"No s'ha pogut compartir"</string>

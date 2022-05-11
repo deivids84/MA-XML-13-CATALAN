@@ -59,9 +59,9 @@
     <string name="accessibility_camera_switch_capture_recording">Canvia entre modes de foto i vídeo</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Mode de cos complet desactivat</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Mode de cos complet activat</string>
-    <string name="accessibility_camera_video_960fps_120">120 FPS</string>
-    <string name="accessibility_camera_video_960fps_240">240 FPS</string>
-    <string name="accessibility_camera_video_960fps_960">960 FPS</string>
+    <string name="accessibility_camera_video_960fps_120">%d FPS</string>
+    <string name="accessibility_camera_video_960fps_240">%d FPS</string>
+    <string name="accessibility_camera_video_960fps_960">%d FPS</string>
     <string name="accessibility_camera_video_fps_120">120 FPS</string>
     <string name="accessibility_camera_video_fps_30">30 FPS</string>
     <string name="accessibility_closed">Desactivat</string>
@@ -375,15 +375,24 @@ i ajusta les preferències automàticament"</string>
     <string name="beauty_lens_none">Difuminat</string>
     <string name="beauty_lens_use_hint">Utilitzeu una obertura gran per difuminar el fons i fer que els elements en primer pla destaquin.</string>
     <string name="beauty_makeups_bluefemale">Gelada</string>
+    <string name="beauty_makeups_danyan">Nu</string>
     <string name="beauty_makeups_gentleman">Plata</string>
     <string name="beauty_makeups_nude">Nu</string>
     <string name="beauty_makeups_pinkfemale">Pètal</string>
+    <string name="beauty_makeups_qianjin">Castany</string>
+    <string name="beauty_makeups_ruanmei">Adolescent</string>
     <string name="beauty_makeups_solid">Contorn</string>
+    <string name="beauty_makeups_subeffect_filter">Filtres</string>
+    <string name="beauty_makeups_subeffect_makeup">Maquillatge</string>
     <string name="beauty_makeups_toughman">Bronze</string>
+    <string name="beauty_makeups_xiazhi">Ombra d\'ulls de la parpella inferior</string>
+    <string name="beauty_makeups_yanku">Reina del gel</string>
+    <string name="beauty_makeups_yuanqi">Fresc</string>
     <string name="beauty_mo_fe">Natural</string>
     <string name="beauty_mo_ma">Clàssic</string>
     <string name="beauty_mo_or">Original</string>
     <string name="beauty_mode_reset_toast">S\'ha netejat els efectes del mode remodelat amb èxit</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=&gt;Primer desactiveu&lt;/a&gt; l\'efecte de maquillatge</string>
     <string name="beauty_ne">Original</string>
     <string name="beauty_no_t">Bellesa està desactivat</string>
     <string name="beauty_origin_skincolor">Original</string>
@@ -408,6 +417,7 @@ i ajusta les preferències automàticament"</string>
     <string name="button_normal_video_title">Enregistra Vídeo</string>
     <string name="camcorder_tip_8k_max_video_duration">Podeu enregistrar fins a %1$d minuts en 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Podeu enregistrar fins a %d minuts de vídeo a la resolució actual</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Podeu enregistrar fins a %d minuts en 4K</string>
     <string name="camera_disabled">S\'ha desactivat la càmera</string>
     <string name="camera_error_title">Error de la càmera</string>
     <string name="camera_facedetection_sub_option_hint">L\'opció experimental ara està disponible</string>
@@ -551,6 +561,7 @@ i ajusta les preferències automàticament"</string>
     <string name="cta_perm_voice">Utilitzeu el micròfon</string>
     <string name="cta_perm_voice_desc">Per enregistrar àudio mentre es graven vídeos</string>
     <string name="cta_user_tips">&lt;Data&gt;Per comprendre plenament els teus drets com a usuari i les maneres en què utilitzem les teves dades, llegeix i accepta el nostre &lt;a href =%1$s&gt;Acord d\'usuari&lt;/a&gt; i la nostra &lt;a href =%2$s&gt;Política de privacitat&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="custom_content_unavailable_alert">"No es pot utilitzar el text que heu introduït. Proveu una altra cosa."</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Per defecte</string>
     <string name="custom_sound_modern">Modern</string>
@@ -651,6 +662,7 @@ La Gravació de telèfon dual també us permet connectar-vos a l’altre disposi
     <string name="dual_video_user_guide_standalone_content_new">Els vídeos gravats simultàniament també es poden separar i desar com a dos fitxers.</string>
     <string name="early_morning">Matí</string>
     <string name="edit_blusher">Coloret</string>
+    <string name="edit_cheekbone">Pòmuls</string>
     <string name="edit_chin">Barbeta</string>
     <string name="edit_color_skin">To de pell</string>
     <string name="edit_eye_large">Ulls grans</string>
@@ -658,11 +670,14 @@ La Gravació de telèfon dual també us permet connectar-vos a l’altre disposi
     <string name="edit_face_ruddy">Rogenc</string>
     <string name="edit_face_slender">Esvelt</string>
     <string name="edit_hairline">Línia del cabell</string>
+    <string name="edit_head_narrow">Mida del cap</string>
+    <string name="edit_jaw">Mandíbula inferior</string>
     <string name="edit_jelly_lips">Brillant de llavis</string>
     <string name="edit_lips">Llavis</string>
     <string name="edit_makeup">Maquillatge</string>
     <string name="edit_neck">Coll</string>
     <string name="edit_nose">Nas</string>
+    <string name="edit_nose_tip">Punta nasal</string>
     <string name="edit_pupil_line">Delineador d\'ulls</string>
     <string name="edit_risorius">Risorio</string>
     <string name="edit_skin_smooth">Suau</string>
@@ -670,6 +685,8 @@ La Gravació de telèfon dual també us permet connectar-vos a l’altre disposi
     <string name="edit_slim_nose">Nas</string>
     <string name="edit_smile">Somriure</string>
     <string name="edit_solid">Contorn</string>
+    <string name="edit_temple">Temples</string>
+    <string name="edit_touch_up">Maquillatge</string>
     <string name="emoticon">Paquet d\'adhesius</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
@@ -1239,6 +1256,10 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_audio_focus_title">Focus d\'àudio</string>
     <string name="pref_auto_boot">Inici automàtic</string>
     <string name="pref_auto_boot_summary">Fa que la càmera respongui millor si permeteu que s\'iniciï automàticament. Podeu gestionar els permisos d\'inici automàtic als detalls de l\'aplicació.</string>
+    <string name="pref_beauty_me_mp_switch_desc">Ajusta els efectes de maquillatge per a homes a les fotos de grup</string>
+    <string name="pref_beauty_me_mp_switch_title">Ajusta els efectes de maquillatge per als homes</string>
+    <string name="pref_beauty_nvs_wp_desc">Elimina els lunars quan s\'utilitzin efectes per suavitzar la pell</string>
+    <string name="pref_beauty_nvs_wp_title">Elimina els lunars</string>
     <string name="pref_burst_shoot_title">Ràfega</string>
     <string name="pref_camcorder_settings">Vídeo</string>
     <string name="pref_camcorder_settings_category">Configuració de la càmera</string>
@@ -1527,6 +1548,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_e_p_s_n">Enregistreu el so mitjançant un micròfon extern quan es connecten uns auriculars Bluetooth equipats amb micro</string>
     <string name="pref_face_beauty_title">Embellidor</string>
     <string name="pref_fingerprint_capture_title">Obturador d\'empremtes dactilars</string>
+    <string name="pref_focus_view_bg_tip">AE/AF bloquejat</string>
     <string name="pref_front_denoise_summary">Redueix el soroll en la càmera frontal</string>
     <string name="pref_front_denoise_title">Filtre de soroll de càmera frontal</string>
     <string name="pref_front_mirror_entry_auto">Quan es detecti la cara</string>
@@ -1598,6 +1620,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_smart_guide_title">Suggeriments intel·ligents</string>
     <string name="pref_super_night_se_summary">Detecta les condicions de poca llum i millora la qualitat de la imatge automàticament</string>
     <string name="pref_super_night_se_title">Mode nocturn automàtic</string>
+    <string name="pref_true_colour_video_mode_introduction">TC</string>
     <string name="pref_userdefine_watermark_title">Marca d\'aigua personalitzada</string>
     <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_i">So 3D</string>
@@ -1617,8 +1640,13 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_video_focusmode_entry_continuous">Autofocus continu</string>
     <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
     <string name="pref_video_hfr_title">Freqüència de fotogrames</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %d fps</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Alta definició completa, 1080p, 24 fotogrames per segon</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %d fps</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %d fps</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Ultra alta definició, 4K, 24 fotogrames per segon</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %d fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %d fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30 fps</string>
     <string name="pref_video_quality_hfr_title">Freqüència de fotogrames i qualitat d\'imatge</string>
     <string name="pref_video_quality_sub_120fps">120 fps</string>

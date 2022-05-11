@@ -118,6 +118,7 @@ El economitzador de bateria tractarà de forma selectiva les aplicacions importa
     <string name="high_temp_benchmark_state_message">"Sembla que ara aquest dispositiu està massa calent. Utilitzeu aquesta aplicació després que el dispositiu es refredi: "</string>
     <string name="high_temp_state">Sobreescalfament</string>
     <string name="high_temp_state_message">El dispositiu s\'està sobreescalfant. Es restringiran les dades mòbils, els punts d\'accés Wi-Fi, el GPS i la càmera.</string>
+    <string name="high_temp_state_message_orange_es">Per millorar el rendiment del dispositiu, algunes aplicacions s\'han desactivat temporalment.</string>
     <string name="hints_loading_text">Un moment…</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="important_warning">Atenció</string>

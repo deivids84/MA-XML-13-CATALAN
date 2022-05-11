@@ -120,6 +120,10 @@
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">El teu contingut té elements (%1$s) que infringeixen les nostres normes comunitàries. El teu compte quedarà suspès per %2$d dies fins el %3$s.</item>
         <item quantity="one">El teu contingut té elements (%1$s) que infringeixen les nostres normes comunitàries. El teu compte quedarà suspès per %2$d dia fins el %3$s.</item>
@@ -191,6 +195,10 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Afegeix fins a %d adreces d’interès</item>
         <item quantity="one">Afegeix fins a %d adreça d’interès</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s m\'agrada</item>
+        <item quantity="one">%s m\'agrada</item>
     </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d visualitzacions</item>

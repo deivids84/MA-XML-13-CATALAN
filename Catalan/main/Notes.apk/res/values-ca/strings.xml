@@ -294,9 +294,11 @@
     <string name="material_minute_suffix">%1$s minuts</string>
     <string name="material_slider_range_end">Final del rang,</string>
     <string name="material_slider_range_start">Inici del rang,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Canvia al mode de rellotge per a l’entrada de temps.</string>
     <string name="material_timepicker_hour">Hores</string>
     <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Seleccioneu l\'hora</string>
     <string name="material_timepicker_text_input_mode_description">Canvieu al mode d’entrada de text per a l’entrada de temps.</string>
     <string name="menu_add_audio_description">Afegeix nota de veu</string>
@@ -308,6 +310,7 @@
     <string name="menu_create_folder">Carpeta nova</string>
     <string name="menu_delete">Elimineu</string>
     <string name="menu_delete_forever">Suprimeix de manera permanent</string>
+    <string name="menu_edit">Edita</string>
     <string name="menu_folders">Carpetes</string>
     <string name="menu_group">Crea una carpeta</string>
     <string name="menu_hide">​​Amaga</string>
@@ -520,6 +523,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Comenceu a escriure "</string>
     <string name="note_mindnote_entrance_icon_text">Creeu un mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Creeu un mapa mental</string>
+    <string name="note_module_name">Notes</string>
     <string name="note_not_text_stub">Sense text</string>
     <string name="note_sort_way">Seleccioneu com voleu ordenar les notes</string>
     <string name="notealert_enter">Fer una ullada</string>
@@ -683,6 +687,7 @@
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Mosaic</string>
     <string name="setting_big_screen_layout_title">Disposició de pantalla gran</string>
+    <string name="setting_cloud_service">Serveis al núvol</string>
     <string name="setting_layout">Disposició</string>
     <string name="setting_micloud_sync_title">Sincronitza amb el núvol</string>
     <string name="setting_note_list_layout_title">Disposició</string>

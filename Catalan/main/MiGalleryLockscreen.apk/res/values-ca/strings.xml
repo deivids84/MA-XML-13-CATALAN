@@ -332,13 +332,34 @@ Envieu aquest codi al supervisor."</string>
     <string name="lks_cta_summary1">El Carrusel de fons de pantalla ofereix les funcions següents:</string>
     <string name="lks_cta_summary2">"1. Fons de pantalla actualitzats automàticament&lt;br&gt;2. Imatges i històries noves que es mostren a la pantalla de bloqueig&lt;br&gt;3. Opcions de personalització&lt;br&gt;Aquesta funció s'ha de connectar a Internet per funcionar amb normalitat.&lt;br&gt;&lt;br&gt;Per oferir serveis addicionals, és possible que demanem permís per accedir i desar elements a l'emmagatzematge d'aquest dispositiu. Llegiu i accepteu el nostre &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acord d'usuari&lt;/font&gt;&lt;/a&gt; i la &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privadesa&lt;/font&gt;&lt;/a&gt; abans de continuar."</string>
     <string name="lks_cta_title">Termes i condicions</string>
+    <string name="lks_data_warning_toast_1">"Esteu utilitzant dades mòbils per cercar fons de pantalla.
+Això pot generar costos addicionals."</string>
+    <string name="lks_dislike">"No m'agrada"</string>
     <string name="lks_left_net_deny">La connexió de xarxa està restringida</string>
     <string name="lks_left_net_error">"No s'ha pogut connectar a la xarxa."</string>
     <string name="lks_left_top_notice">Toqueu aquí per tornar al principi</string>
     <string name="lks_left_top_notice_refresh">Toqueu per visualitzar els nous elements</string>
     <string name="lks_logo_desc2">Fons de pantalla nous cada dia</string>
     <string name="lks_logo_desc_search">Fons de pantalla nous diàriament</string>
+    <string name="lks_loop_icon_ask_cancle">Cancel·la</string>
+    <string name="lks_loop_icon_ask_dlg">Activa la presentació de diapositives de la pantalla de bloqueig per obtenir imatges i històries noves que s\'envien diàriament a la pantalla de bloqueig.</string>
+    <string name="lks_loop_icon_ask_ok">Activa</string>
+    <string name="lks_loop_icon_ask_title">Presentació de diapositives a la pantalla de bloqueig</string>
+    <string name="lks_loop_icon_close_cancle">Cancel·la</string>
+    <string name="lks_loop_icon_close_dlg">La presentació de diapositives de la pantalla de bloqueig es desactivarà si configureu aquesta imatge com a pantalla de bloqueig. Voleu establir-la com a pantalla de bloqueig?</string>
+    <string name="lks_loop_icon_close_ok">D\'acord</string>
+    <string name="lks_loop_icon_close_title">Atenció</string>
+    <string name="lks_loop_icon_dlg_title">Presentació de diapositives a la pantalla de bloqueig</string>
+    <string name="lks_loop_icon_open_dlg">La presentació de diapositives a la pantalla de bloqueig està activada i ofereix imatges i històries noves a la pantalla de bloqueig diàriament.</string>
+    <string name="lks_loop_icon_open_ok">Entesos</string>
+    <string name="lks_more_pics_coming_toast">Noves imatges estan en camí</string>
+    <string name="lks_new_user_help_anime">Llisqueu el dit cap amunt per veure més del Carrusel de fons de pantalla</string>
+    <string name="lks_no_network">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="lks_please_reload">Actualitza</string>
+    <string name="lks_retry">Torna-ho a provar</string>
     <string name="lks_subscription_toast">S\'ha canviat correctament el fons de pantalla</string>
+    <string name="lks_to_history">Historial</string>
+    <string name="lks_to_setting">Configuració del Carrusel de fons de pantalla</string>
     <string name="llks_add_cate">Subscriviu-vos a %s</string>
     <string name="llks_auto_switch_wp">Subscriviu-vos a les categories que us agradin</string>
     <string name="llks_display_error">Permisos necessaris</string>

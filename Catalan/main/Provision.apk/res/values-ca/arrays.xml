@@ -59,6 +59,10 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+        <item>Només Wi-Fi</item>
+        <item>Desactivat</item>
+    </string-array>
     <string-array name="other_settings_auto_update_entries">
         <item>Wi-Fi i dades mòbils</item>
         <item>Només Wi-Fi</item>
