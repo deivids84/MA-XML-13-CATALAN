@@ -1635,7 +1635,7 @@ les dades del son"</string>
     <string name="tb_sleep_index_info">%1$s. Toqueu per veure els detalls.</string>
     <string name="tb_sleep_index_title">Canvia a %1$s</string>
     <string name="tb_sleep_ring_info">%1$s. Son: %2$s. Toqueu per veure els detalls.</string>
-    <string name="tb_snore_detection_main">Quant a les funcions relacionades amb converses i roncs: %1%s. Llisqueu horitzontalment a la part superior de la pantalla per anar a la pàgina següent.</string>
+    <string name="tb_snore_detection_main">Quant a les funcions relacionades amb converses i roncs: %1$s. Llisqueu horitzontalment a la part superior de la pantalla per anar a la pàgina següent.</string>
     <string name="tb_snore_view_info">Gràfic de converses i roncs</string>
     <string name="tb_stand_card_finish_stand">Pauses per aixecar-se d\'avui: %1$s. Cal fer-ne com a mínim 12 avui. Heu assolit el vostre objectiu entre %2$s i %3$s.</string>
     <string name="tb_stand_card_not_finish_stand">"Pauses per aixecar-se d'avui: %1$s. Cal fer-ne com a mínim 12 avui. No heu assolit el vostre objectiu entre %2$s i %3$s."</string>
