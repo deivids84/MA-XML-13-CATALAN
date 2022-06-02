@@ -284,10 +284,6 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="icloud_need_wifi_title">Connecteu-vos a la Wi-Fi</string>
     <string name="import_again">Importa de nou</string>
     <string name="import_data_from_icloud">Importa les dades de l\'iCloud</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
-\u0009http://www.miliao.com
-
-2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, toqueu Següent.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer una còpia de seguretat dels contactes en diversos dispositius.</string>
     <string name="import_tip_summary">A causa de problemes de compatibilitat, només podeu transferir dades parcials des de dispositius iOS. Assegureu-vos de crear una còpia de seguretat d\'iCloud abans d’iniciar la transferència.</string>

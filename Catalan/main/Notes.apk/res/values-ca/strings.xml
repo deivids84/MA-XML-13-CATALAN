@@ -930,6 +930,7 @@ Permeteu Notes per enregistrar l'àudio."</string>
     <string name="view_all_notes">Mostra-ho tot</string>
     <string name="warn_cannot_add_new_bullet">"No es pot afegir una llista amb vinyetes nova perquè la nota és massa llarga"</string>
     <string name="warn_cannot_add_new_checkbox">"No es pot afegir una casella de selecció nova perquè la nota és massa llarga"</string>
+    <string name="warn_cannot_add_new_content">"No es pot afegir contingut nou perquè la nota és massa llarga"</string>
     <string name="warn_cannot_add_new_doodle">"No es pot afegir un nou gargot perquè la nota és massa llarga"</string>
     <string name="warn_cannot_add_new_element">"No es pot afegir un element nou perquè la nota és massa llarga"</string>
     <string name="warn_cannot_add_new_link_card">"No es pot afegir un enllaç nou perquè la nota és massa llarga"</string>
@@ -952,6 +953,8 @@ Permeteu Notes per enregistrar l'àudio."</string>
     <string name="widget_size_item_big">Gran</string>
     <string name="widget_size_item_medium">Mitjà</string>
     <string name="widget_size_item_small">Petit</string>
+    <string name="widget_size_item_super_big">Extra gran</string>
+    <string name="widget_size_not_support">"Els ginys molt grans no són compatibles amb aquest dispositiu"</string>
     <string name="widget_take_notes_title">Notes</string>
     <string name="yesterday">Ahir</string>
 </resources>

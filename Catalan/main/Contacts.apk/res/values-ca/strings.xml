@@ -310,6 +310,7 @@
     <string name="calllog_menu_edit_before_call">Edita</string>
     <string name="calllog_menu_send_sms">Envia missatge</string>
     <string name="calllog_record_none_toast">No hi ha enregistraments de trucades per mostrar</string>
+    <string name="calllog_record_searching_toast">S\'estan cercant enregistraments de trucades…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_missed">"No s'ha pogut establir la trucada"</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -719,6 +720,9 @@ Motiu: \"%s\""</string>
     <string name="low_memory_toast">"Poca memòria disponible, no es pot emprar aquesta funció."</string>
     <string name="lunarBirthdayLabelsGroup">Aniversari</string>
     <string name="make_primary">Recorda aquesta elecció</string>
+    <string name="manage_external_storage_dialog_message">Permet que aquesta aplicació accedeixi a tots els fitxers per gestionar els enregistraments de trucades.</string>
+    <string name="manage_external_storage_dialog_positive">Configuració</string>
+    <string name="manage_external_storage_dialog_title">Permisos necessaris</string>
     <string name="map_custom">Veure adreça de %s</string>
     <string name="map_home">Veure adreça de domicili</string>
     <string name="map_other">Veure adreça</string>
@@ -1321,6 +1325,7 @@ Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</s
     <string name="unknown_contact_name">Contacte desconegut</string>
     <string name="unknown_details_add_to_contact">Ja existeix</string>
     <string name="unknown_details_new_contact">Nou</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">"No es poden mostrar codis QR mentre s'utilitza la pantalla dividida"</string>
     <string name="update_sim_contact_photo_toast">"No s'han pogut associar fotos de perfil a contactes de la SIM"</string>
     <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
     <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats. 

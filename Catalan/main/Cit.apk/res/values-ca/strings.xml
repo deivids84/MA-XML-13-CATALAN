@@ -77,8 +77,15 @@ No apagueu la pantalla durant la prova"</string>
     <string name="cit_proximity_sensor_check_summary">"Tapeu el sensor de proximitat (situat a la part superior del dispositiu a prop del receptor) amb la mà i, a continuació, aparteu-la. El valor hauria d’augmentar de 0,0 quan allunyeu la mà del dispositiu.
 Quan calibreu, assegureu-vos que no hi hagi res entre el sensor i la mà (per exemple, coberta de la pantalla o guants de protecció)."</string>
     <string name="cit_reverse_wireless_charge_check_tips">Si us plau, poseu el dispositiu perquè es carregui segons sigui necessari i comenceu a provar</string>
+    <string name="cit_tool_current_size">Mida actual</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">sol·licita la ubicació</string>
+    <string name="cit_tool_gps_path_loss_title">Eina de prova de Gnss pathloss</string>
     <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt fallit, reinicieu el dispositiu per tornar-ho a provar</string>
     <string name="cit_tool_opt_fail_info_notify">L\'opció ha fallat; heu de reiniciar el dispositiu per al mode no en línia.</string>
+    <string name="cit_tool_wlan_circular_capture">Captura circular</string>
+    <string name="cit_tool_wlan_clear">neteja</string>
+    <string name="cit_tool_wlan_export">Exporta</string>
+    <string name="cit_tool_wlan_update_ap_list">Actualitza la llista AP</string>
     <string name="cit_touch_auto_main_tips">Autoprova de la pantalla d\'inici en curs, no toqueu la pantalla</string>
     <string name="cit_touch_auto_operate_expand_screen_tips">Amplieu primer la pantalla i, a continuació, feu l\'autocomprovació de la pantalla principal</string>
     <string name="cit_touch_auto_operate_fold_screen_tips">Si us plau, plegueu la pantalla primer i, a continuació, feu l\'autocomprovació de la pantalla secundària</string>

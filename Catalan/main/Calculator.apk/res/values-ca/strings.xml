@@ -376,7 +376,7 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessiten connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
     <string name="network_confirm_title">Es requereixen permisos</string>
     <string name="network_purpose">Benvingut a la calculadora. Calculadora us permet convertir monedes, calcular les amortitzacions d\'hipoteca i molt més.</string>
-    <string name="new_privacy_string">&lt;Data&gt;Benvingut a Calculadora!&lt;br/&gt;Aquesta aplicació conté les funcions següents:&lt;br/&gt;•Calculadora bàsica &lt;br/&gt;• Calculadora científica &lt;br/&gt;• Convertidor universal (per exemple, moneda , unitats de mesura, etc.) &lt;br/&gt;• Plantilles de càlcul de préstecs, inversions, EMI, etc. &lt;br/&gt; Calculadora ha de recopilar la informació personal necessària per proporcionar-vos serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra &lt;a href= \"%1$s\"&gt;Política de privadesa&lt;/a&gt; Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar Calculadora. Podeu retirar el vostre consentiment a la Política de privadesa de Calculadora a Configuració en qualsevol moment. Si no accepteu la nostra Política de privadesa, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.&lt;/Data&gt;</string>
+    <string name="new_privacy_string"><Data>\"Us donem la benvinguda a la Calculadora!&lt;br/&gt;Aquesta aplicació conté les funcions següents:&lt;br/&gt;• Calculadora bàsica&lt;br/&gt;• Calculadora científica&lt;br/&gt;• Convertidor universal (per exemple, moneda, unitats de mesura, etc.)&lt;br/&gt;• Plantilles de càlcul per a préstecs, inversió, EMI i més&lt;br/&gt;Podeu obtenir informació sobre com gestionem la informació que recollim a la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar la Calculadora. Podeu retirar el vostre consentiment a la Política de privadesa de la Calculadora a la configuració en qualsevol moment. Si no esteu d\'acord amb la nostra Política de privadesa, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.\"</Data></string>
     <string name="night">Vespre</string>
     <string name="none">Cap</string>
     <string name="noon">Migdia</string>
@@ -504,6 +504,7 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="tax_total_insurance_provident_fund">Assegurança i fons d\'habitatge</string>
     <string name="tax_unemployment">Atur</string>
     <string name="tax_update_time_format">Dades proporcionades per Hexun (%s)</string>
+    <string name="tenure_year_month">%1$s i %2$s</string>
     <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Defineix l\'hora</string>
     <string name="tuesday_shortest">dt.</string>

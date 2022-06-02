@@ -601,6 +601,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="notification_disconnectedCall_body">S\'ha desconnectat la trucada al %s causa de la realització d\'una trucada d\'emergència.</string>
     <string name="notification_disconnectedCall_generic_body">La vostra trucada s\'ha desconnectat a causa de la realització d\'una trucada d\'emergència.</string>
     <string name="notification_disconnectedCall_title">Trucada desconnectada</string>
+    <string name="notification_disconnectedDialing_message">No es pot fer la trucada perquè ja hi ha una trucada sortint en curs.</string>
     <string name="notification_incallservice_not_responding_body">La trucada feia servir l\'aplicació de telèfon que s\'inclou amb el dispositiu</string>
     <string name="notification_incallservice_not_responding_title">%s deixat de respondre</string>
     <string name="notification_incoming_call">%1$s trucada de %2$s</string>

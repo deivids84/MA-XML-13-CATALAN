@@ -43,6 +43,7 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
     <string name="air_space_exit">Tanca l\'espai</string>
     <string name="air_space_setting">Configuració de l\'espai</string>
     <string name="airspace_users_full">"No es poden crear més espais de treball"</string>
+    <string name="alwaysUsePrompt">Recorda la meva elecció</string>
     <string name="am">AM</string>
     <string name="appData">Aplicacions instal·lades</string>
     <string name="app_name">Component central de seguretat</string>
@@ -585,6 +586,7 @@ Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. E
     <string name="xspace_guide_description">"Tots els comptes
 mereixen la seva pròpia aplicació"</string>
     <string name="xspace_guide_title">Proveu les aplicacions Dual</string>
+    <string name="xspace_head">Aplicació dual</string>
     <string name="xspace_header">Aplicacions duals</string>
     <string name="xspace_install_complete">&lt;font&gt;S\'ha creat l\'aplicació dual amb èxit. &lt;/font&gt;&lt;font color=#0D84FF&gt;Obert ara&lt;/font&gt;.</string>
     <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>
@@ -598,6 +600,7 @@ mereixen la seva pròpia aplicació"</string>
     <string name="xspace_notification_button">Proveu</string>
     <string name="xspace_notification_error">Inicieu la sessio al WeChat dual i torneu-ho a provar</string>
     <string name="xspace_remove">"Suprimeix els comptes de les aplicacions dobles"</string>
+    <string name="xspace_resolver_activity_title">Seleccioneu l\'aplicació</string>
     <string name="xspace_setting_label">Configuració d\'aplicacions duals</string>
     <string name="xspace_settins">Estableix</string>
     <string name="xspace_start">Crear</string>

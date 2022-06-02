@@ -140,6 +140,7 @@
     <string name="adb_install_reject_notiy_desc">Pot permetre la instal·lació a través d\'USB a Opcions per a desenvolupadors</string>
     <string name="adb_login_xiaomi_account">Primer inicia la sessió al compte Mi</string>
     <string name="add_auto_task_desktop_icon">Afegeix una drecera a la pantalla d’inici</string>
+    <string name="add_bill_reminder_alarm">Estableix l\'avís de saldo del telèfon</string>
     <string name="add_done">S\'ha afegit correctament</string>
     <string name="add_game">Afegeix un joc</string>
     <string name="add_game_notification_summary">Toqueu per iniciar i augmentar la velocitat</string>
@@ -470,6 +471,7 @@
     <string name="app_manager_manage_space">Gestiona l\'espai</string>
     <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">Esborra les dades</string>
+    <string name="app_manager_mobile_slot">Dades mòbils (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Dades mòbils (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Dades mòbils (SIM 2)</string>
     <string name="app_manager_net_control_title">Restringeix l\'ús de dades</string>
@@ -585,10 +587,9 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_predict_widget_summary">Inicieu ràpidament aplicacions que és possible que necessiteu ara mateix</string>
     <string name="app_predict_widget_title">Suggeriments d\'aplicacions</string>
     <string name="app_running_tip_dialog_negative">Cancel·la</string>
-    <string name="app_running_tip_dialog_positive">D\'acord</string>
-    <string name="app_running_tip_dialog_text">Tanqueu %1$s per evitar que funcioni en segon pla. D’aquesta manera, accelereu el dispositiu i reduireu el consum d’energia.</string>
-    <string name="app_running_tip_dialog_title">Surt de l\'aplicació</string>
-    <string name="app_running_tip_uninstall">Desinstal·la aquesta aplicació</string>
+    <string name="app_running_tip_dialog_positive">Surt</string>
+    <string name="app_running_tip_dialog_text">Sembla que aquesta aplicació s\'està executant en segon pla. Podeu sortir de l\'aplicació per accelerar el dispositiu i reduir el consum d\'energia.</string>
+    <string name="app_running_tip_dialog_title">Surt de %1$s</string>
     <string name="app_settings_link">Configuració addicional a l\'aplicació</string>
     <string name="app_statusbar_audio_now">Enregistrant àudio</string>
     <string name="app_statusbar_camera_now">Fent fotos</string>
@@ -642,6 +643,9 @@ No perdreu cap dada d'aplicació."</string>
     <string name="applock_gulide_third_part">El compte se suprimirà quan tanqueu la sessió</string>
     <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
     <string name="applock_lock_all">Bloqueja-ho tot</string>
+    <string name="applock_lock_mode_locked">Quan el dispositiu està bloquejat</string>
+    <string name="applock_lock_mode_locked_or_exit">Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">Quan el dispositiu està bloquejat o en %d minut després de sortir de l\'aplicació</string>
     <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
     <string name="applock_mixtype_hidepwd_icon">Amaga</string>
     <string name="applock_mixtype_showpwd_icon">Espectacle</string>
@@ -928,8 +932,14 @@ No perdreu cap dada d'aplicació."</string>
     <string name="behavior_widget_read_write_external_storage">Arxius accedits</string>
     <string name="best_booster_status">La velocitat de joc és la millor disponible ara.</string>
     <string name="bg_network_exception_title">Connexió en segon pla restringida</string>
+    <string name="bill_arrears_character">Sembla que el saldo de la SIM %d és insuficient. Recarregueu ara per mantenir-vos connectats.</string>
+    <string name="bill_arrears_title">"La SIM %d no es pot connectar a la xarxa"</string>
     <string name="bill_limit_notification_text_format">Fitxa: %1$s | Saldo: %2$s CNY</string>
     <string name="bill_limit_notification_title">Saldo insuficient</string>
+    <string name="bill_remind">Avís de saldo del telèfon</string>
+    <string name="bill_reminder_summary">Recorda la recàrrega quan el saldo sigui inferior a %1s</string>
+    <string name="bill_traffic_reminder_instruction">Atenció</string>
+    <string name="bill_traffic_reminder_instruction_text">Els detalls reals dels plans proporcionats pels operadors de telefonia mòbil poden variar i es poden produir retards en la facturació. La informació proporcionada aquí és només per a la vostra referència.</string>
     <string name="bind_xiaomi_account_cancel">Cancel·la</string>
     <string name="bind_xiaomi_account_confirm">Afegeix</string>
     <string name="bind_xiaomi_account_dialog_summery">"Esteu a punt d'afegir el compte Mi %s. Si oblideu la vostra contrasenya, podeu utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
@@ -1091,6 +1101,10 @@ No perdreu cap dada d'aplicació."</string>
     <string name="clear_garbage">Esborra la brossa per alliberar espai</string>
     <string name="clear_immediately">Neteja-ho ara</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="click_to_charge_bill">Recàrrega</string>
+    <string name="click_to_set_carrier">Toqueu per definir</string>
+    <string name="click_to_set_personalized_reminder">Estableix els avisos</string>
+    <string name="click_to_set_traffic">Toqueu per definir</string>
     <string name="close">Tanca</string>
     <string name="close_callwait">Desactivat</string>
     <string name="cmcc_app_check_dialog_message">Reinicieu el dispositiu per completar la reparació.</string>
@@ -1099,7 +1113,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cmcc_app_check_dialog_title">Sistema reparat</string>
     <string name="commonly_used_func_card_title">Característiques comunes</string>
     <string name="commonly_used_func_edit_too_many_func">"No es poden afegir més elements"</string>
-    <string name="compatible_dialog_content">"Aquesta aplicació no és totalment compatible amb l'arquitectura de 64 bits. El seu ús pot reduir el rendiment del sistema i augmentar el consum d'energia."</string>
+    <string name="compatible_dialog_content">"Aquesta aplicació no és totalment compatible amb l'arquitectura de 64 bits. És possible que experimenteu problemes de rendiment i un augment del consum d'energia mentre l'utilitzeu."</string>
     <string name="compatible_dialog_more_info">Més informació</string>
     <string name="compatible_dialog_title">Atenció</string>
     <string name="comprehensive_protection_measures">Protecció integral</string>
@@ -1107,6 +1121,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="confirm_ai_allow_all_permission">Voleu canviar l\'estat del permís a \"Decideix per mi\" per a totes les aplicacions?</string>
     <string name="confirm_allow_all_permission">Vols permetre que totes les aplicacions facin servir aquesta funció?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">S\'està afegint el compte Mi</string>
+    <string name="confirm_close">Desactiva</string>
     <string name="confirm_fingerprint_msg">Verifica l\'empremta</string>
     <string name="confirm_leave">No, gràcies</string>
     <string name="confirm_open">Activa</string>
@@ -1140,7 +1155,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cta_dialog_negative">Surt</string>
     <string name="cta_dialog_positive">D\'acord</string>
     <string name="cta_dialog_title">Connexió a Internet</string>
-    <string name="cta_main_purpose">Us donem la benvinguda a Seguretat! Podeu utilitzar Seguretat i els seus mòduls (inclosos els components de seguretat de MIUI i els serveis del sistema) per alliberar espai d\'emmagatzematge, escanejar el dispositiu per detectar virus, controlar l\'ús de la bateria, optimitzar el dispositiu per a jocs, gestionar aplicacions, rebre avisos primerencs de terratrèmols i molt més.</string>
+    <string name="cta_main_purpose">"Us donem la benvinguda a Seguretat! Podeu utilitzar Seguretat i els seus mòduls (inclosos els components de seguretat de MIUI i els serveis del sistema) per alliberar espai d'emmagatzematge, escanejar el dispositiu per detectar virus, controlar l'ús de la bateria, optimitzar el dispositiu per a jocs, gestionar aplicacions, rebre avisos primerencs de terratrèmols i molt més."</string>
     <string name="cta_settings">Permeteu la connexió a Internet i accedir a la ubicació</string>
     <string name="current_network_state_not_need_diagnose">La connexió a Internet és normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Per utilitzar la llista de bloqueig i fer trucades a contactes d’emergència quan s’emeten avisos de terratrèmol</string>
@@ -1163,7 +1178,11 @@ No perdreu cap dada d'aplicació."</string>
     <string name="daily_limit_and_lock_screen">Avís d\'ús de dades</string>
     <string name="daily_limit_network_available_body">Toqueu per mostrar les estadístiques d\'ús de dades.</string>
     <string name="daily_limit_over_message">"Heu superat el límit de dades diari."</string>
+    <string name="daily_package_reminder_character">Establiu un límit diari d\'ús de dades per rebre un avís quan s\'arribi a aquest límit.</string>
     <string name="daily_pkg_traffic">Límit màxim de dades</string>
+    <string name="daily_remind_warning_text_tips">Avisa quan s\'assoleixi el límit diari</string>
+    <string name="daily_reminder_warning">Límit de dades diari</string>
+    <string name="daily_reminder_warning_necessary">Límit de dades diari (obligatori)</string>
     <string name="data_booster_desc">Desactiva altres ranures SIM per mantenir la connexió estable</string>
     <string name="data_booster_title">Estabilitza la connexió de dades</string>
     <string name="data_local_processing_and_storage">Dades emmagatzemades i processades localment</string>
@@ -1205,7 +1224,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="deep_power_save_item_title_lock_screen_time">Posa la pantalla a dormir</string>
     <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Programeu l\'hora d\'encesa i apagat del dispositiu</string>
-    <string name="default_condition_summary">Per exemple, \"La bateria és inferior a 20%\"</string>
+    <string name="default_condition_summary">Per exemple, \"La bateria és inferior al 20%\"</string>
     <string name="default_condition_title">Afegeix una condició</string>
     <string name="default_condition_title_continue">Afegeix una condició</string>
     <string name="default_result_summary">Per exemple, \"Desactiva el Mode avió\"</string>
@@ -1328,6 +1347,7 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="dual_setting_simcard2">SIM 2 </string>
     <string name="early_morning">Matí</string>
     <string name="edit_new_task_name">Introduïu el nom de la tasca</string>
+    <string name="edit_phone_num">Edita el número de telèfon de la SIM</string>
     <string name="eew_privacy_revoke_title">Retira el consentiment a la Política de privadesa d’Avís de terratrèmol</string>
     <string name="email">Correu electrònic</string>
     <string name="empty_app">No hi ha aplicacions</string>
@@ -1375,12 +1395,15 @@ targeta mèdica"</string>
     <string name="ew_arrive_text_tips">L\'onada sísmica ha arribat: %s</string>
     <string name="ew_button_confirm">D\'acord</string>
     <string name="ew_button_exit">"Es desacord"</string>
-    <string name="ew_china_version_first_start_network_msg"><Data>\"Aquesta funció us proporciona funcions d\'alerta de terratrèmol. Us notificarà sobre els propers terratrèmols i reproduirà el so d\'alerta. Podreu trobar el refugi més proper, trucar al vostre contacte d\'emergència i presentar la vostra targeta mèdica si és necessari. &lt;br&gt;. protegir la seva informació personal d\'acord amb les lleis, regulacions i polítiques de privacitat pertinents &lt;br&gt;per poder treballar normalment, aquesta funció requereix els següents permisos per tal de recollir la seva informació personal: &lt;br&gt;• informació de la ubicació: &lt;br&gt;per accedir a la seva ubicació i proporcionant advertències de terratrèmols precises. &lt;br&gt;Si no accepteu concedir aquests permisos ni compartir i penjar la vostra informació personal, no podreu utilitzar aquesta funció. Podeu optar per desactivar-la o no activar-la dels casos. &lt;br&gt;ha de llegir i acceptar la nostra &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\"&gt;política de privacitat&lt;/a&gt; abans d\'usar aquesta opció \".</Data></string>
+    <string name="ew_click_locate">Toqueu per obtenir informació sobre la ubicació</string>
     <string name="ew_close">Desactiva l\'alerta</string>
+    <string name="ew_close_tips">L\'avís de terratrèmol està desactivat</string>
     <string name="ew_close_warning">Desactiva</string>
     <string name="ew_concern_city">Ciutats afegides</string>
     <string name="ew_concern_date_empty">Mai</string>
     <string name="ew_concern_manage">Gestionar</string>
+    <string name="ew_contact_dialog_tips">Afegiu com a mínim un contacte d\'emergència.</string>
+    <string name="ew_contact_dialog_title">Atenció</string>
     <string name="ew_current_location">Ubicació actual</string>
     <string name="ew_emergency_allergy">Al·lèrgies</string>
     <string name="ew_emergency_basic_info">Informació bàsica</string>
@@ -1407,12 +1430,17 @@ targeta mèdica"</string>
     <string name="ew_emergency_title">Tarja sanitària</string>
     <string name="ew_first_start_network_title">Termes i condicions</string>
     <string name="ew_get_location">Ubica</string>
+    <string name="ew_global_signature">"Informació proporcionada per EEWS BMKG
+Suport tècnic de Xiaomi i ICL"</string>
+    <string name="ew_global_signature_template">"Informació proporcionada per %s
+Suport tècnic de Xiaomi i ICL"</string>
     <string name="ew_guide_law_agree">D\'acord</string>
     <string name="ew_guide_law_done">Entesos</string>
     <string name="ew_guide_law_exit">"No hi estic d'acord"</string>
     <string name="ew_guide_law_text">"Aquesta funció us proporciona una funcionalitat d’avís de terratrèmols. Heu d’entendre que la informació d’alerta de terratrèmols la proporciona una tercera agència d’alerta anticipada. Xiaomi no supervisa les agències de tercers i no té cap control sobre aquestes. Xiaomi no promet ni garanteix la precisió, la validesa i la puntualitat de la informació d’avís de terratrèmols ni garanteix que el servei d’alerta de terratrèmols satisfaci totes les vostres necessitats. Heu d’entendre que aquesta característica només es proporciona per a la vostra referència. Vostè és l'únic responsable dels riscos i conseqüències de les accions que realitzeu basant-se en la informació proporcionada per aquesta funció."</string>
     <string name="ew_guide_law_title">Descàrrec de responsabilitat</string>
     <string name="ew_guide_next_text">Següent</string>
+    <string name="ew_guide_open">Rebre avisos de terratrèmol</string>
     <string name="ew_guide_play_audio">Reprodueix el so d\'avís</string>
     <string name="ew_guide_play_audio_last">Reprodueix el so d\'avís (%ds)</string>
     <string name="ew_guide_start">Activa</string>
@@ -1426,7 +1454,7 @@ Xiaomi no promet ni garanteix l'exactitud, validesa i puntualitat de la informac
 Rebre informació d'avís de terratrèmols requereix que mantinguis el dispositiu connectat a la xarxa mòbil. Fallades de la línia de comunicació de tercers, problemes tècnics, fallades d'equips de xarxa o terminal, inestabilitat del sistema i altres esdeveniments de força major poden impedir que rebeu informació d'avís de terratrèmol. Xiaomi no es responsabilitza de les pèrdues ocasionades per aquests esdeveniments.
 Heu d'entendre que aquesta funció només es proporciona per a la vostra referència. L'advertència que rebeu pot arribar segons abans de l'inici d'un terratrèmol. Vostè és l'únic responsable dels riscos i conseqüències de les accions que realitzi en funció de la informació facilitada per aquesta funció."</string>
     <string name="ew_guide_tips_1">"Rebreu una notificació i un avís sonor dels propers terratrèmols previstos"</string>
-    <string name="ew_guide_tips_2">La informació i el so d’alerta s’actualitzaran durant el terratrèmol</string>
+    <string name="ew_guide_tips_2">La informació primerenca del terratrèmol i el so d\'avís s\'actualitzaran durant el terratrèmol</string>
     <string name="ew_guide_tips_3">"Podreu trobar el refugi més proper, trucar al vostre contacte d’emergència i presentar la vostra targeta mèdica si cal"</string>
     <string name="ew_guide_title">Veure una demostració</string>
     <string name="ew_info_agreement">Exempcions de responsabilitat</string>
@@ -1444,6 +1472,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="ew_list_receive_time_title">Hora d\'inici</string>
     <string name="ew_list_title">Avisos</string>
     <string name="ew_location_failed">Ubicació desconeguda</string>
+    <string name="ew_location_open">Els serveis d\'ubicació estan activats</string>
     <string name="ew_main_close_text">"Si desactiveu l'alerta, no podreu rebre informació actualitzada sobre aquest terratrèmol. Voleu desactivar-la de totes maneres?"</string>
     <string name="ew_main_close_title">Atenció</string>
     <string name="ew_main_contact_change">Canvia</string>
@@ -1493,7 +1522,9 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="ew_monitor_title">Voluntari de seguiment de terratrèmols</string>
     <string name="ew_monitor_title_spilt">"Seguiment de terratrèmols
 voluntari"</string>
+    <string name="ew_no_contact_tips">No hi ha contactes aquí</string>
     <string name="ew_not_support_area">"Els avisos no s'admeten en aquesta àrea"</string>
+    <string name="ew_open_tips">L\'avís de terratrèmol està activat</string>
     <string name="ew_push_message">Intensitat estimada: %s. Espereu una petita sacsejada.</string>
     <string name="ew_push_title">Avís de terratrèmol de %s</string>
     <string name="ew_safe_place_no_maps_tips">"No es pot cercar ara. Instal·leu primer Baidu Maps o Amap."</string>
@@ -1511,9 +1542,14 @@ voluntari"</string>
     <string name="ew_settings_choose_level_value_3">" (Vibració forta)"</string>
     <string name="ew_settings_choose_level_value_4">" (Vibració severa)"</string>
     <string name="ew_settings_push_tips">Els avisos sobre les zones situades fora de la vostra ubicació es presentaran només en forma de notificacions.</string>
+    <string name="ew_settings_set_level_summary">Rebre avisos sobre terratrèmols quan la seva intensitat sigui %s o superior</string>
+    <string name="ew_settings_set_level_title">Estableix el llindar d\'alerta de terratrèmols</string>
+    <string name="ew_sleep_mode_alert_content">"Per assegurar-vos que podeu rebre avisos primerencs de terratrèmol, MIUI desactivarà el mode de repòs. Les aplicacions en segon pla, NFC, Bluetooth, GPS, dades mòbils i Wi-Fi funcionaran normalment fins i tot quan esteu dormint. Voleu activar l'avís de terratrèmol?"</string>
+    <string name="ew_sleep_mode_alert_title">Avís de terratrèmol</string>
     <string name="ew_subscribe_area_title">Gestioneu les àrees afegides</string>
     <string name="ew_subscribe_city">Àrees afegides</string>
     <string name="ew_subscribe_search_hint">Cerca de zones</string>
+    <string name="ew_user_feedback">Comentaris</string>
     <string name="examination_score_100">Tot es veu bé!</string>
     <string name="examination_score_60_0">Escaneja-ho ara</string>
     <string name="examination_score_80_100">Es poden optimitzar alguns elements</string>
@@ -1533,6 +1569,7 @@ voluntari"</string>
     <string name="exit_dialog_homepage_optimise_message">"La puntuació del rendiment del dispositiu és inferior a 80 punts. Voleu optimitzar-lo?"</string>
     <string name="exit_dialog_release_memory_positive_button">Tanca</string>
     <string name="exit_dialog_release_memory_title"><Data>Accelereu el dispositiu &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Accelereu el dispositiu &lt;font color=#0099ff&gt;%s&lt;/font&gt;</Data></string>
     <string name="exit_dialog_release_storage_message">Més del 80% de l\'emmagatzematge al teu dispositiu està ple. Allibereu espai desinstal·lant aplicacions que mai utilitzeu.</string>
     <string name="exit_dialog_release_storage_message_new">Hi ha més d\'un %s d\'emmagatzematge al dispositiu ocupat. Allibereu espai desinstal·lant les aplicacions que mai no feu servir.</string>
     <string name="exit_dialog_release_storage_positive_button">Allibera espai</string>
@@ -1735,12 +1772,20 @@ voluntari"</string>
 1. Mentre jugueu, totes les trucades entrants a la targeta SIM sense servei de dades mòbils es rebutjaran automàticament.
 2. Veuràs notificacions sobre trucades perdudes i l'altra persona escoltarà un missatge d'àudio que indica que estàs ocupat en aquest moment.
 3. Aquesta funció només és compatible amb els operadors de telefonia mòbil de la Xina."</string>
+    <string name="function_auto_reject_detail_new">"Sobre aquesta característica:
+%1$d. Mentre jugueu, totes les trucades entrants a la targeta SIM sense servei de dades mòbils seran rebutjades automàticament.
+%2$d. Veureu notificacions sobre trucades perdudes i l'altra persona escoltarà un missatge d'àudio dient que esteu ocupat en aquest moment.
+%3$d. Aquesta funció només és compatible amb els operadors de telefonia mòbil a la Xina."</string>
     <string name="function_auto_reject_title">Rebutja les trucades VoLTE a targetes SIM sense servei de dades</string>
     <string name="function_close">Desactivat</string>
     <string name="function_gwsd_detail">"Sobre aquesta característica:
  1. Quan utilitzeu dades mòbils en una SIM de dades o en una targeta SIM regular connectada a una xarxa VoLTE, la connexió no es veurà interrompuda per trucades entrants fins que no us el prengueu.
  2. Quan aquesta característica estigui activada, l’altra persona no podrà escoltar els seus tons de trucada si no utilitzeu una targeta SIM habitual. Les trucades entrants es rebutjaran automàticament després de 7-10 segons d'inactivitat.
  3. Les targetes SIM de dades emeses per China Mobile i China Unicom són compatibles. Les targetes SIM habituals emeses per China Mobile, China Unicom i China Telecom són compatibles."</string>
+    <string name="function_gwsd_detail_new">"Sobre aquesta funció:
+ %1$d. Quan utilitzeu les dades mòbils en una SIM de dades o en una targeta SIM normal connectada a una xarxa VoLTE, les trucades entrants no interrompen la connexió fins que contesteu.
+ %2$d. Quan aquesta funció estigui activada, l'altra persona no podrà escoltar els tons de resposta a menys que utilitzeu una targeta SIM normal. Les trucades entrants es rebutjaran automàticament després de %3$d - %4$d segons d'inactivitat.
+ %5$d. Les targetes SIM de dades emeses per China Mobile i China Unicom són compatibles. Les targetes SIM regulars emeses per China Mobile, China Unicom i China Telecom són compatibles."</string>
     <string name="function_gwsd_title">"No permetis que les trucades entrants interrompin la connexió SIM de dades"</string>
     <string name="function_shield_auto_bright">Desactiva la lluminositat automàtica</string>
     <string name="function_shield_eye_shield">Desactiva el Mode lectura</string>
@@ -1774,7 +1819,6 @@ voluntari"</string>
     <string name="game_video_network_eror">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="game_wid_viewpoint_buttom">Feu una petita pausa.</string>
     <string name="gamebooster_lowbattery_notification_summary">Carregueu el dispositiu abans de desactivar-lo.</string>
-    <string name="gamebooster_lowbattery_notification_title">La bateria està per sota del 5%%</string>
     <string name="gamebooster_main_activity_back">Enrere</string>
     <string name="gamebooster_network_dialog_cn_message">"No es pot utilitzar Game Turbo quan no es permet que la seguretat es connecti a Internet i accedeixi a la seva ubicació. Voleu permetre-ho ara?"</string>
     <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
@@ -1783,6 +1827,7 @@ voluntari"</string>
     <string name="gamebox_app_not_find">Instal·leu l\'aplicació primer.</string>
     <string name="gamebox_brightness">Brillantor</string>
     <string name="gamebox_browser_not_find">Instal·leu primer Mi Browser</string>
+    <string name="gamebox_bullet_chat">Comentaris en pantalla</string>
     <string name="gamebox_collimator">Espiell</string>
     <string name="gamebox_display_1">Cap</string>
     <string name="gamebox_display_2">Saturat</string>
@@ -1880,8 +1925,14 @@ voluntari"</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">S\'eliminaran totes les dades d\'aplicacions i les aplicacions duals relacionades.</string>
     <string name="gb_dialog_game_uninstall_tips_title">Desinstal·la %s</string>
     <string name="gb_dialog_record_way_ai">Els enregistraments de la IA es desaran a la caixa de jocs i s’emmagatzemen durant 7 dies.</string>
+    <string name="gb_dialog_record_way_ai_new">Els enregistraments d\'IA es desen a la caixa de jocs i s\'emmagatzemen allà durant %d dies.</string>
     <string name="gb_dialog_record_way_finish">Fet</string>
     <string name="gb_dialog_record_way_manual">Graveu vídeos de fins a 30 segons de forma manual</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Enregistra %d-%d segons de vídeo durant la sessió de jocs manualment.</string>
+    <string name="gb_dialog_record_way_manual_new">Enregistra vídeos de fins a %d segons de durada manualment</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Augment del consum d\'energia i retard</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Aquesta característica pot provocar els problemes següents:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Conflictes amb altres enregistradors de pantalla</string>
     <string name="gb_dialog_record_way_setting_tips">Nota: L\'enregistrament de les sessions de joc requereix un consum més gran d\'energia que pot provocar un retard.</string>
     <string name="gb_dialog_record_way_title">Seleccioneu el mètode d\'enregistrament</string>
     <string name="gb_dialog_wlan_wifi_weak">460 ms</string>
@@ -1901,16 +1952,43 @@ voluntari"</string>
     <string name="gb_first_window_summary">Augmenta la velocitat i el rendiment en l\'àmbit del sistema</string>
     <string name="gb_first_window_title">Game Turbo</string>
     <string name="gb_game_end_toast">Reviseu els moments clau dels jocs</string>
+    <string name="gb_game_fill_desc">El contingut pot estar distorsionat en alguns casos</string>
     <string name="gb_game_macro_bubble_tips">Proveu combos</string>
     <string name="gb_game_macro_toast_tips">"Proveu combos!
 Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
+    <string name="gb_game_mode">Mode de visualització</string>
+    <string name="gb_game_mode_change">Canvieu entre els modes de visualització aquí</string>
+    <string name="gb_game_mode_change_btn_right">Reinicia</string>
+    <string name="gb_game_mode_change_message">Voleu reiniciar el joc per aplicar els canvis?</string>
+    <string name="gb_game_mode_change_new">Canvieu entre els dissenys aquí</string>
+    <string name="gb_game_mode_change_title">Reinicia el joc</string>
+    <string name="gb_game_mode_choose_game_area">Àrea activa</string>
+    <string name="gb_game_mode_choose_title">Seleccioneu el mode de visualització</string>
+    <string name="gb_game_mode_choose_title_new">Seleccioneu el disseny</string>
+    <string name="gb_game_mode_empty">Encara no hi ha jocs aquí</string>
+    <string name="gb_game_mode_fill">Emplena la pantalla</string>
+    <string name="gb_game_mode_fill_type">Emplena la pantalla</string>
+    <string name="gb_game_mode_new">Dissenys del joc</string>
+    <string name="gb_game_mode_ratio">Original</string>
+    <string name="gb_game_mode_ratio_type">Original</string>
+    <string name="gb_game_mode_recommend">" (Recomanat)"</string>
+    <string name="gb_game_mode_search">Cerca aplicacions</string>
+    <string name="gb_game_ratio_bottom">Inferior</string>
+    <string name="gb_game_ratio_center">Centre</string>
+    <string name="gb_game_ratio_desc_h">"L'àrea activa no es retallarà, poden aparèixer àrees negres"</string>
+    <string name="gb_game_ratio_desc_v">"L'àrea activa no es retallarà, poden aparèixer àrees negres"</string>
+    <string name="gb_game_ratio_left">Esquerra</string>
+    <string name="gb_game_ratio_right">Dreta</string>
+    <string name="gb_game_ratio_top">Superior</string>
     <string name="gb_game_time_toast">El temporitzador ja està disponible!</string>
     <string name="gb_game_video_bottom_tips">Reviseu els moments clau de les vostres sessions de joc a Game Turbo. Els vídeos se suprimiran automàticament al cap de 7 dies.</string>
+    <string name="gb_game_video_bottom_tips_new">Reviseu els moments clau de les vostres sessions de joc a Game Turbo. Els vídeos se suprimiran automàticament al cap de %d dies.</string>
     <string name="gb_game_video_item_tag">Moments clau</string>
     <string name="gb_game_video_page_delete_success">S\'ha suprimit correctament</string>
     <string name="gb_game_video_page_null">Enregistreu els moments clau de les vostres sessions de joc</string>
     <string name="gb_game_video_record_finish_tips">S\'ha desat el vídeo gravat manualment a Game Turbo</string>
     <string name="gb_game_video_save">Desa</string>
+    <string name="gb_game_video_save_tip">S\'ha desat correctament</string>
     <string name="gb_game_video_type_ai_record">Grava mitjançant AI</string>
     <string name="gb_game_video_type_manual">Manualment</string>
     <string name="gb_game_video_type_manual_record">Grava manualment</string>
@@ -1922,6 +2000,7 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_gpu_driver_update_app_tips">La versió actual està actualitzada</string>
     <string name="gb_have_signed">Registrat avui</string>
     <string name="gb_manual_record_dialog_del_video_message">Voleu suprimir els vídeos seleccionats de manera permanent?</string>
+    <string name="gb_manual_video_record_title">Enregistraments</string>
     <string name="gb_msg_completely_shielded">Amaga els missatges</string>
     <string name="gb_msg_completely_shielded_summary">Amaga</string>
     <string name="gb_msg_not_shielded_summary">Mostra</string>
@@ -1940,7 +2019,21 @@ alhora que redueix la freqüència de refresc i els límits de temperatura"</str
     <string name="gb_performance_mode">Mode de joc</string>
     <string name="gb_performance_tips">"El Mode rendiment millora el rendiment dels gràfics,
 però també augmenta el consum d'energia i permet que el dispositiu se sobreescalfi"</string>
+    <string name="gb_predownload_dialog_cancel">No, gràcies</string>
+    <string name="gb_predownload_dialog_checked">"No ho tornis a mostrar"</string>
+    <string name="gb_predownload_dialog_confirm">Activa</string>
+    <string name="gb_predownload_dialog_message_china"><Data>\"El contingut actualitzat d\'aquest joc es pot baixar en aquest dispositiu automàticament després de connectar-se a la Wi-Fi i apagar la pantalla. Així, podreu utilitzar la nova versió tan bon punt es publiqui.&lt;br&gt;&lt;br&gt;Llegiu i accepteu la &lt;a href=\"%1$s\"&gt;Declaració sobre actualitzacions en segon pla&lt;/a&gt; abans d\'utilitzar aquesta funció\".</Data></string>
+    <string name="gb_predownload_dialog_title">Les actualitzacions en segon pla ja estan disponibles</string>
+    <string name="gb_predownload_message">"Actualitza King of Glory, Game for Peace i altres jocs compatibles en segon pla mentre no utilitzeu aquest dispositiu"</string>
+    <string name="gb_predownload_noti_message">"Ja hi ha %2$1.2f GB de contingut actualitzat en aquest dispositiu. El podreu utilitzar tan bon punt es publiqui la nova versió."</string>
+    <string name="gb_predownload_noti_title">S\'ha actualitzat %s en segon pla correctament</string>
+    <string name="gb_predownload_title">Actualitzacions en segon pla</string>
     <string name="gb_shortcut_pref_title">Drecera a la pantalla d\'inici</string>
+    <string name="gb_shoulder_guide_message1">Moveu [L] a qualsevol posició funcional per utilitzar-lo mitjançant el disparador emergent</string>
+    <string name="gb_shoulder_guide_message2">L\'acció [1] s\'activa prement el botó. L\'acció [2] s\'activa deixant anar el botó.</string>
+    <string name="gb_shoulder_guide_tips1">Obriu la caixa d\'eines i configureu els activadors emergents</string>
+    <string name="gb_shoulder_guide_title1">Acció</string>
+    <string name="gb_shoulder_guide_title2">Seqüència</string>
     <string name="gb_shoulder_key">Botons d\'espatlla</string>
     <string name="gb_shoulder_key_add_show_btn">Mostra els botons virtuals durant els jocs</string>
     <string name="gb_shoulder_key_add_tips">Moveu els [L] i [R] a qualsevol posició funcional i utilitzeu-los mitjançant botons d\'espatlla</string>
@@ -1963,6 +2056,14 @@ però també augmenta el consum d'energia i permet que el dispositiu se sobreesc
     <string name="gb_shoulder_key_settings_summary">"Utilitzeu els dos botons d'espatlla per iniciar Game Turbo quan no estigueu jugant"</string>
     <string name="gb_shoulder_key_settings_title">Utilitzeu botons d\'espatlla per a Game Turbo</string>
     <string name="gb_shoulder_key_settings_title_new">Inici ràpid Game Turbo</string>
+    <string name="gb_shoulder_set_left_right">Configura [%s]</string>
+    <string name="gb_shoulder_set_title">Activeu els activadors emergents per configurar-los</string>
+    <string name="gb_shoulder_set_title2">Moveu[%s] a qualsevol posició funcional i feu-los servir mitjançant els activadors emergents</string>
+    <string name="gb_shoulder_single_trigger">Acció</string>
+    <string name="gb_shoulder_subsection_down">Pulsació</string>
+    <string name="gb_shoulder_subsection_trigger">Seqüència</string>
+    <string name="gb_shoulder_subsection_up">Alliberament</string>
+    <string name="gb_shoulder_update_left_right">Edita %s</string>
     <string name="gb_sign_gift">Registreu-vos per rebre recompenses</string>
     <string name="gb_sign_gift_button_text">Rebre</string>
     <string name="gb_sign_notification_summary">Juga a jocs sense retard de xarxa</string>
@@ -1970,6 +2071,7 @@ però també augmenta el consum d'energia i permet que el dispositiu se sobreesc
     <string name="gb_signed_gift_loading_fail">"No s'ha pogut carregar"</string>
     <string name="gb_signed_gift_loading_summary">Un moment…</string>
     <string name="gb_signed_title">Registrat aquest mes</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s restant</string>
     <string name="gb_sound_audition">Proveu-ho</string>
     <string name="gb_storage_game_dialog_message">"Podeu emmagatzemar jocs a Game Turbo automàticament. No apareixeran a la pantalla d'inici si activeu aquesta funció. Voleu activar-lo ara?"</string>
     <string name="gb_storage_game_uninstall">Desinstal·la jocs</string>
@@ -2009,8 +2111,6 @@ però també augmenta el consum d'energia i permet que el dispositiu se sobreesc
     <string name="gb_voice_changer_setting_realtime_subtitle">Comproveu com canvia la vostra veu en temps real</string>
     <string name="gb_voice_changer_setting_realtime_title">Comentaris en temps real</string>
     <string name="gb_voice_changer_setting_rights">Condicions del servei i política de privadesa</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Proveu el Canviador de veu ara
-per obtenir una prova gratuïta de 3 dies."</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Proveu el canviador de veu.
 Canvia entre diferents personatges i efectes especials."</string>
     <string name="gb_voice_changer_toast_window_open">S\'ha activat l\'efecte \"%s\"</string>
@@ -2035,32 +2135,33 @@ de les teves sessions de joc"</string>
     <string name="gb_wonderful_video_header_title">Avui</string>
     <string name="gb_wonderful_video_save_suc">Desat</string>
     <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
+    <string name="gb_xunyou_gift_type_one_new">Augment de %d dies de Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
+    <string name="gb_xunyou_gift_type_three_new">Augment de %d dies de Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
+    <string name="gb_xunyou_gift_type_two_new">Augment de %d dies de Xunyou</string>
     <string name="gd_app_edit_done">Fet</string>
-    <string name="gd_app_edit_title">Afegeix aplicacions</string>
     <string name="gd_app_edit_title_new">Edita les dreceres de la finestra flotant</string>
-    <string name="gd_setting_desc_action1">Obre la finestra flotant</string>
-    <string name="gd_setting_desc_action2">Utilitza una drecera</string>
     <string name="gd_setting_group_custom_gtb_apps">Jocs</string>
     <string name="gd_setting_group_custom_settings">Personalització</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicacions de vídeo</string>
-    <string name="gd_setting_group_smart_tool_box">Barra lateral</string>
     <string name="gd_setting_group_title_switch">Escenes</string>
     <string name="gd_setting_gtb">Mostra mentre es juga</string>
     <string name="gd_setting_gtb_desc">Característiques especials per als jocs</string>
     <string name="gd_setting_guide_one">Toqueu per obrir la finestra flotant</string>
-    <string name="gd_setting_guide_three">Llisqueu des de la vora per obrir les dreceres de jocs</string>
-    <string name="gd_setting_guide_two">Llisqueu des de la vora per obrir la caixa d’eines de vídeo</string>
     <string name="gd_setting_miui_dock">Mostra sempre</string>
-    <string name="gd_setting_shorthand">Notes ràpides</string>
     <string name="gd_setting_title">Barra lateral</string>
     <string name="gd_setting_vtb">Mostra durant la reproducció de vídeos</string>
     <string name="gd_setting_vtb_desc">Característiques especials per a la reproducció de vídeo</string>
+    <string name="gd_sidebar_edit_all_title">Totes les aplicacions</string>
+    <string name="gd_sidebar_edit_btn_close">Amaga</string>
+    <string name="gd_sidebar_edit_btn_expand">Més</string>
+    <string name="gd_sidebar_edit_quick_title">Dreceres</string>
     <string name="gd_sidebar_long_press_tips">Manteniu premut l\'indicador per moure\'l mentre sosteniu el dispositiu verticalment</string>
     <string name="gd_splite_screen_tips">"La pantalla dividida no admet finestres flotants"</string>
     <string name="gdpr_msg"><Data>\"Per ser capaç de detectar els riscos de seguretat i protegir les seves dades, hem de recollir la quantitat necessària d\'informació sobre el dispositiu. Llegir i acceptar la nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privacitat&lt;/a&gt; abans d\'utilitzar els nostres serveis. En cas que no ens permeten recopileu aquesta informació, encara podreu utilitzar aquesta aplicació, però algunes funcions no estaran disponibles per a vosaltres. \"</Data></string>
     <string name="get_detail_by_click">Toca per veure\'n els detalls</string>
+    <string name="get_phone_num_fail">Número de telèfon desconegut</string>
     <string name="get_sys_info">S\'està obtenint la informació…</string>
     <string name="global_wa_setting_alert_dialog_content">Podeu alliberar %s</string>
     <string name="global_wa_setting_alert_dialog_title">Netejador de WhatsApp</string>
@@ -2091,11 +2192,9 @@ de les teves sessions de joc"</string>
     <string name="gs_dialog_confirm_close_title">Desactiva</string>
     <string name="gs_forbid_autosync">Restringeix la sincronització en segon pla</string>
     <string name="gs_game_ai_record">Enregistra mitjançant la IA</string>
-    <string name="gs_game_ai_record_subtitle">Grava els moments clau de forma automàtica i genera vídeos amb destacats de la sessió. Els vídeos se suprimiran automàticament al cap de 7 dies. Podeu triar guardar-los definitivament després de cada sessió de jocs.</string>
     <string name="gs_game_disturb_msg">No molestis</string>
     <string name="gs_game_duration">Temps</string>
     <string name="gs_game_manual_record">Enregistra manualment</string>
-    <string name="gs_game_manual_record_subtitle">Utilitzeu la drecera flotant per gravar fins a 30 segons de vídeo alhora. Els vídeos se suprimiran automàticament al cap de 7 dies.</string>
     <string name="gs_game_manual_record_subtitle_child">Podeu trobar alguns problemes mentre utilitzeu aquesta funció:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">L\'enregistrament de les sessions de joc requereix un consum d’energia més elevat que pot provocar un retard.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">És possible que altres funcions d\'enregistrament de pantalla no funcionin correctament.</string>
@@ -2115,11 +2214,17 @@ de les teves sessions de joc"</string>
     <string name="gs_show_way_horizontal">Horitzontal</string>
     <string name="gs_show_way_vertical">Vertical</string>
     <string name="gs_sign_notification">Recordeu fer el registre cada dia a les 20 h</string>
+    <string name="gs_sign_notification_new">Recordeu que heu d\'entrar cada dia a les %d de la tarda</string>
     <string name="gs_slip_gamebox_detail">Utilitzeu el control lliscant o llisqueu des de la vora superior de la pantalla per fer aparèixer el tauler de dreceres</string>
+    <string name="gtb_after_acceleration">Després</string>
+    <string name="gtb_auto_memory_clean">Esborra la memòria automàticament</string>
+    <string name="gtb_before_acceleration">Abans</string>
+    <string name="gtb_brightness_adjust">Brillantor</string>
     <string name="gtb_brightness_dialog_right_btn">Continua</string>
     <string name="gtb_brightness_dialog_sub_message">* Podeu activar i desactivar aquesta funció a Configuració.</string>
     <string name="gtb_content_switch">Recomanacions de contingut</string>
     <string name="gtb_content_switch_summary">Rebeu recomanacions de contingut relacionat amb els jocs</string>
+    <string name="gtb_deep_garbage_cleaning">S\'està realitzant una neteja profunda…</string>
     <string name="gtb_dialog_btn_close">Tanca</string>
     <string name="gtb_dialog_btn_open">Encendre</string>
     <string name="gtb_dialog_hint_smart_5g">Podeu activar i desactivar aquesta funció a la configuració de Game Turbo &gt;.</string>
@@ -2131,8 +2236,11 @@ de les teves sessions de joc"</string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="gtb_dialog_summary_smart_5g">Sempre que Game Turbo detecti una xarxa 5G, pot connectar el vostre dispositiu a la millor xarxa disponible per reduir el retard de la xarxa. Vols activar aquesta funció ara?</string>
     <string name="gtb_dialog_title_smart_5g">Optimització de xarxa 5G</string>
+    <string name="gtb_dnd">No molestis</string>
     <string name="gtb_exit_game_to_gtb">Obre la caixa de jocs</string>
     <string name="gtb_exit_game_to_home">Torna a la pantalla d\'inici</string>
+    <string name="gtb_garbage_clean">Allibera emmagatzematge</string>
+    <string name="gtb_garbage_cleaned_tip">Allibera %1$s per augmentar el rendiment</string>
     <string name="gtb_guide_finish">Omet</string>
     <string name="gtb_guide_game_mode_tips">Seleccioneu el mode de joc preferit</string>
     <string name="gtb_guide_gtb_button_done">Fet</string>
@@ -2146,9 +2254,21 @@ de les teves sessions de joc"</string>
     <string name="gtb_guide_gtb_line_xspace">Accelereu el joc amb el nou Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Utilitzeu altres aplicacions mentre jugueu"</string>
     <string name="gtb_guide_small_window_app_title">Finestres flotants</string>
+    <string name="gtb_intelligent_garbage_clean">Allibera espai d\'emmagatzematge</string>
+    <string name="gtb_memory_clean">Esborra la memòria</string>
+    <string name="gtb_mode_normal">Normal</string>
+    <string name="gtb_mode_performance">Rendiment</string>
+    <string name="gtb_open_performance_mode_tip">El Mode rendiment millorarà la vostra experiència de joc alhora que augmentarà el consum d\'energia i escalfarà el dispositiu.</string>
+    <string name="gtb_phone_accelerate">Augmenta el rendiment</string>
+    <string name="gtb_realtime_performance_monitoring">Supervisa el rendiment</string>
+    <string name="gtb_screenrecord">Enregistra</string>
+    <string name="gtb_screenshot">Captura de pantalla</string>
+    <string name="gtb_screenshot_pinned">Captura de pantalla</string>
+    <string name="gtb_setting">Configuració</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bloqueja tots els serveis de comunicació a la SIM secundària durant les sessions de joc per mantenir la connexió estable i evitar canviar entre xarxes. La SIM secundària es desbloquejarà quan deixeu de jugar.</string>
     <string name="gtb_setting_item_summary_smart_5g">Sempre que Game Turbo detecti una xarxa 5G, pot connectar el vostre dispositiu a la millor xarxa disponible per reduir el retard de la xarxa</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Augmenteu la velocitat de connexió entre un 10% i un 20% quan estigueu connectat a routers Mi / Redmi</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Augmenta la velocitat de connexió en %1$s-%2$s quan està connectat als encaminadors Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Redueix la brillantor de la pantalla automàticament</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Bloqueja la SIM secundària</string>
     <string name="gtb_setting_item_title_smart_5g">Optimització de xarxa 5G</string>
@@ -2167,6 +2287,10 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="gtb_spring_festival_push_join">Unir-se</string>
     <string name="gtb_spring_festival_push_see">Mostra</string>
     <string name="gtb_spring_festival_shortcut_create">Crea una drecera a la pantalla d\'inici</string>
+    <string name="gtb_start_phone_accelerate">Accelera</string>
+    <string name="gtb_stop_accelerate">Atura</string>
+    <string name="gtb_timer">Temporitzador</string>
+    <string name="gtb_voice_changer">Canviador de veu</string>
     <string name="gtb_wlan_speed_tips">Utilitzant Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operador actual: "</string>
@@ -2219,6 +2343,7 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="ime_security_warning">%1$s pot registrar tot el que escriviu, incloses les contrasenyes i altra informació confidencial. L\'utilitzeu igualment?</string>
     <string name="in_delete">S\'està suprimint…</string>
     <string name="in_recover">S\'està restaurant…</string>
+    <string name="infinite_remind_warning_text_tips">Avisa quan s\'assoleix el límit mensual</string>
     <string name="info_and_call">Trucades i missatges</string>
     <string name="info_antispam_close">La llista de bloqueig està desactivada</string>
     <string name="info_antispam_phone">Bloqueja les trucades</string>
@@ -2233,6 +2358,8 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="input_celluar_data_quota_hint">Introduïu el límit de dades</string>
     <string name="input_cellular_data_warn_hint">Introduïu el límit d\'advertiment d\'ús de dades</string>
     <string name="input_password_hint_text">Introduïu la contrasenya</string>
+    <string name="input_phone_num_hint">Editeu el número de telèfon de la SIM</string>
+    <string name="input_title">Toqueu per entrar</string>
     <string name="input_traffic_pkg">Introduïu l\'ús de dades</string>
     <string name="input_used_hint">Introduïu l\'ús de dades</string>
     <string name="input_used_max_hint">Introduïu l\'ús de dades (menys de %s)</string>
@@ -2343,7 +2470,9 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
     <string name="main_daily_card_guide_dialog_ok">Estableix</string>
     <string name="main_daily_card_guide_dialog_summary">Podeu triar entre un pla diari, mensual o il·limitat. Voleu configurar ara el tipus de pla de dades?</string>
+    <string name="main_daily_card_guide_dialog_summary_new">S\'admeten plans de dades diaris, mensuals i il·limitats. Voleu establir el tipus de pla de dades?</string>
     <string name="main_daily_card_guide_dialog_title">Establiu el tipus de pla de dades</string>
+    <string name="main_daily_card_guide_dialog_title_new">Establiu el tipus de pla de dades</string>
     <string name="main_daily_package">Pla de dades diari</string>
     <string name="main_indicator_title">A l\'espera de l\'activació</string>
     <string name="main_leisure_remained">Dades restants en horari vall</string>
@@ -2409,6 +2538,8 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"Alliberat %s.
 Ara el dispositiu és %d%% més ràpid."</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Alliberat %s.
+El dispositiu és %s més ràpid ara."</string>
     <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
     <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Afegeix</string>
@@ -2431,6 +2562,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="menu_item_notification_antispam_text_avail">Llista de bloqueig</string>
     <string name="menu_item_notification_antispam_text_normal">Llista de bloqueig</string>
     <string name="menu_item_notification_optimize_text">%d%% ocupat</string>
+    <string name="menu_item_notification_optimize_text_new">%s ocupat</string>
     <string name="menu_item_notification_power_text">Energia</string>
     <string name="menu_item_notification_title">Mostra un menú a l\'àrea de notificacions</string>
     <string name="menu_item_shortcut_summary">Trieu quines funcions voleu a la pantalla d\'inici</string>
@@ -2451,12 +2583,14 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="menu_summary_garbage_cleanup">No hi ha brossa</string>
     <string name="menu_summary_garbage_cleanup_ex">Allibereu %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% d’espai d’emmagatzematge</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s d\'espai d\'emmagatzematge</string>
     <string name="menu_summary_networkassistants">Gestioneu el vostre pla de dades</string>
     <string name="menu_summary_networkassistants_2">Es va superar el límit</string>
     <string name="menu_summary_networkassistants_3">Resten dades suficients</string>
     <string name="menu_summary_networkassistants_4">S\'estan esgotant les dades</string>
     <string name="menu_summary_optimize_manage">Esborra la memòria</string>
     <string name="menu_summary_optimize_manage_1">Poseu el dispositiu %d%% més ràpid</string>
+    <string name="menu_summary_optimize_manage_1_new">Feu el dispositiu %s més ràpid</string>
     <string name="menu_summary_power_manager">L\'estalvi de bateria us allarga el temps entre càrregues</string>
     <string name="menu_summary_power_manager_1">Bateria completament carregada</string>
     <string name="menu_summary_power_manager_2">Resten %s</string>
@@ -2478,6 +2612,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="menu_wh_remove">Suprimeix de les excepcions</string>
     <string name="menu_white">Afegeix a excepcions</string>
     <string name="mi_ime_not_used">Utilitzeu un teclat autoritzat per Xiaomi</string>
+    <string name="mi_roaming">Mi Roaming</string>
     <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
     <string name="mi_service_traffic_detail">Detalls de Marc</string>
     <string name="mi_sim_link">"%1$s&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toqueu per carregar Mi Sim obert.&lt;/U&gt;&lt;/font&gt;"</string>
@@ -2541,6 +2676,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="month_february">Febrer</string>
     <string name="month_february_short">Febr.</string>
     <string name="month_february_shortest">febr.</string>
+    <string name="month_fix_remind_warning_text_tips">Avisa quan s\'esgotin les dades mensuals fixades</string>
     <string name="month_january">Gener</string>
     <string name="month_january_short">Gen.</string>
     <string name="month_january_shortest">gen.</string>
@@ -2562,6 +2698,9 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="month_october">Octubre</string>
     <string name="month_october_short">Oct.</string>
     <string name="month_october_shortest">oct.</string>
+    <string name="month_package_reminder_character">"L'ús dels avisos d'ús de dades amb plans de dades il·limitats encara requereix establir un límit de dades. Rebreu l'avís quan s'arribi a aquest límit."</string>
+    <string name="month_reminder_warning">Límit de dades mensual</string>
+    <string name="month_reminder_warning_necessary">Límit de dades mensual (obligatori)</string>
     <string name="month_september">Setembre</string>
     <string name="month_september_short">Set.</string>
     <string name="month_september_shortest">set.</string>
@@ -2667,9 +2806,12 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="no_game">"No s'han pogut trobar jocs"</string>
     <string name="no_open">Ara no</string>
     <string name="no_privacy_permission">No es requereix consentiment a la Política de privadesa</string>
+    <string name="no_sim_card_by_tips">Per poder definir el saldo del telèfon i els avisos d\'ús de dades, inseriu primer una targeta SIM.</string>
     <string name="noon">Migdia</string>
+    <string name="normal_package_usage_summary" formatted="false">%2s de %1s (%3s)</string>
+    <string name="not_closed">Continua</string>
     <string name="not_limited_brand">Sense límit</string>
-    <string name="not_set">Sense especificar</string>
+    <string name="not_set">Toqueu per definir</string>
     <string name="not_settled">No definida</string>
     <string name="not_support_root_summary">Permetre l\'accés d\'administrador per a aplicacions de tercers pot suposar riscos de seguretat i danyar el dispositiu. A causa d\'això, ja no proporcionem opcions per gestionar els permisos d\'accés d\'administrador.</string>
     <string name="not_support_root_title">Accés d\'administrador</string>
@@ -2685,6 +2827,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="notification_abnormal_consume_wakelock">El sistema es manté despert en segon pla</string>
     <string name="notification_antivirus_button_text">Escaneja</string>
     <string name="notification_antivirus_message">Escaneja ara per neutralitzar els riscos</string>
+    <string name="notification_bar">Notificació</string>
     <string name="notification_battery_consume_abnormal_title">Alt consum d\'energia</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Premeu per resoldre el problema</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s està esgotant la bateria</string>
@@ -2716,6 +2859,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="notification_link_cleaner_3002">Netegeu la brossa de WeChat</string>
     <string name="notification_link_cleaner_4000">Netegeu la brossa de QQ</string>
     <string name="notification_link_optimizemanage_1011">%d%% de la memòria està ocupada. Netegeu-la ara.</string>
+    <string name="notification_link_optimizemanage_1011_new">%s de memòria està ocupada. Esborreu-la ara.</string>
     <string name="notification_low_battery_need_charge">Connecteu el carregador</string>
     <string name="notification_low_battery_open_save_mode">Activa l\'estalvi de bateria</string>
     <string name="notification_low_battery_title">Queda menys del %s de bateria</string>
@@ -2732,6 +2876,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="notification_optimize_button_text">Neteja</string>
     <string name="notification_optimize_message">Netegeu la memòria per augmentar la velocitat</string>
     <string name="notification_optimize_title">%d%% de la memòria està ocupada</string>
+    <string name="notification_optimize_title_new">%s de la memòria està ocupada</string>
     <string name="notification_power_consume_issue_summary">Alt consum d\'energia</string>
     <string name="notification_power_consume_suggest_summary">Solucioneu problemes per estalviar bateria</string>
     <string name="notification_qq_clean_hint">La paperera alenteix el dispositiu</string>
@@ -2813,6 +2958,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="open_extreme_power_save_mode_title">Activa l\'estalvi de bateria extrem</string>
     <string name="open_game">Obre</string>
     <string name="open_now">Permet a l\'aplicació utilitzar les dades mòbils</string>
+    <string name="open_wlan_title">Permet que aquesta aplicació activi i desactivi la Wi-Fi</string>
+    <string name="operator_location_settings">Defineix l\'operador i la ubicació</string>
+    <string name="operator_location_settings_message">"No s'han pogut reconèixer l'operador i la ubicació. No es pot establir el saldo del telèfon i els avisos d'ús de dades ara."</string>
     <string name="operator_name_mi_mobile">Mi mòbil</string>
     <string name="operator_name_virtual_operator">Operador virtual</string>
     <string name="optimize_manage_title">Augment de velocitat</string>
@@ -3574,6 +3722,25 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="privacy_empty_location">"Avui no heu accedit a la ubicació"</string>
     <string name="privacy_empty_record">"Avui no heu gravat àudio"</string>
     <string name="privacy_empty_storage">"Avui no heu accedit a l'emmagatzematge"</string>
+    <string name="privacy_flares_behavior_recent">Comportament de l\'aplicació</string>
+    <string name="privacy_flares_capsule_current">%1s | Ara</string>
+    <string name="privacy_flares_capsule_recent">%1s | Recentment</string>
+    <string name="privacy_flares_current">Acció actual</string>
+    <string name="privacy_flares_current_detail_cam">Aquesta aplicació utilitza la càmera</string>
+    <string name="privacy_flares_current_detail_cam_loc">Aquesta aplicació utilitza la càmera i accedeix a la vostra ubicació</string>
+    <string name="privacy_flares_current_detail_cam_mic">Aquesta aplicació utilitza la càmera i el micròfon</string>
+    <string name="privacy_flares_current_detail_loc">Aquesta aplicació està accedint a la vostra ubicació</string>
+    <string name="privacy_flares_current_detail_mic">Aquesta aplicació utilitza el micròfon</string>
+    <string name="privacy_flares_current_detail_mic_loc">Aquesta aplicació utilitza el micròfon i accedeix a la vostra ubicació</string>
+    <string name="privacy_flares_current_detail_more">Aquesta aplicació utilitza un permís sensible</string>
+    <string name="privacy_flares_recent">Acció recent</string>
+    <string name="privacy_flares_recent_detail_cam">Aquesta aplicació ha utilitzat la càmera</string>
+    <string name="privacy_flares_recent_detail_cam_loc">Aquesta aplicació ha utilitzat la càmera i ha accedit a la vostra ubicació</string>
+    <string name="privacy_flares_recent_detail_cam_mic">Aquesta aplicació ha utilitzat la càmera i el micròfon</string>
+    <string name="privacy_flares_recent_detail_loc">Aquesta aplicació ha accedit a la vostra ubicació</string>
+    <string name="privacy_flares_recent_detail_mic">Aquesta aplicació ha utilitzat el micròfon</string>
+    <string name="privacy_flares_recent_detail_mic_loc">Aquesta aplicació ha utilitzat el micròfon i ha accedit a la vostra ubicació</string>
+    <string name="privacy_flares_recent_detail_more">Aquesta aplicació ha utilitzat un permís sensible</string>
     <string name="privacy_global_guide_permission_guide_text">"Rebreu una alerta a la barra d'estat quan les aplicacions gravin àudio o utilitzin la càmera. Per saber quina aplicació ho fa, toqueu l'alerta."</string>
     <string name="privacy_guide_permission_guide_text">Podeu rebre una alerta a la barra d\'estat quan les aplicacions accedeixen a la vostra ubicació, graven àudio o fan fotografies.</string>
     <string name="privacy_guide_permission_use_text">MIUI comptarà i mostrarà el nombre de vegades que una aplicació utilitza permisos delicats, com ara la ubicació, el contacte, l’historial de trucades i l’accés d’emmagatzematge, així com la gravació d’àudio. Podeu conèixer quantes vegades cada aplicació utilitza aquests permisos i determinar si heu d\'ajustar la configuració del permís.</string>
@@ -3628,7 +3795,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="privacy_prompt_traffic_adjust_message">"Aquesta característica ha de xifrar i enviar el IMEI del dispositiu, número de telèfon i informació de l'operador als servidors Mi amb la finalitat d'obtenir estadístiques d'ús de les dades del seu operador."</string>
     <string name="privacy_prompt_upload">Pujar</string>
     <string name="privacy_protect_summary">Protegiu les vostres dades personals</string>
-    <string name="privacy_protect_title">Privacitat</string>
+    <string name="privacy_protect_title">Protecció de la privadesa</string>
     <string name="privacy_provision_back">esquena</string>
     <string name="privacy_provision_more">Obteniu més informació sobre la protecció de la privadesa</string>
     <string name="privacy_provision_next">Pròxim</string>
@@ -3802,10 +3969,15 @@ Voleu retirar el consentiment?"</string>
     <string name="reject_usb_install">Instal·lació denegada de les següents aplicacions a través d\'USB</string>
     <string name="release_meminfo">S\'han alliberat %d MB</string>
     <string name="release_memory">Neteja la memòria cau</string>
+    <string name="reminder_once_month">Un cop al mes</string>
+    <string name="reminder_tips">Atenció</string>
+    <string name="reminder_type">Tipus d\'avís</string>
+    <string name="reminder_warning">Límit</string>
     <string name="renew_ip">Reintentar</string>
     <string name="renew_now">Renova</string>
     <string name="repair">Reparar</string>
     <string name="repair_loading_text">Un moment…</string>
+    <string name="repeat_type">Repeteix</string>
     <string name="repeated_marked_number_summary">"No bloquegeu una segona trucada des del mateix número informat en un termini de %d minuts"</string>
     <string name="repeated_marked_number_title">"No bloquegis trucades repetides des de números notificats"</string>
     <string name="replace_dns">Substitueix DNS automàticament</string>
@@ -3828,6 +4000,7 @@ Voleu retirar el consentiment?"</string>
     <string name="result_sms_title_antispam">Amenaçat per URLs delictius a sms</string>
     <string name="result_sms_title_auth">Hi ha el risc de fuites de SMS financera</string>
     <string name="result_wifi_header">S\'han detectat riscos de Wi-Fi</string>
+    <string name="resume">Restaura</string>
     <string name="risk_app_install_agree_button">Confieu en aquesta aplicació</string>
     <string name="risk_app_install_agree_checkbox">"Estic disposat a assumir tots els possibles riscos."</string>
     <string name="risk_app_install_agree_message">"Aquesta aplicació està desenvolupada per un tercer i pot violar les lleis i regulacions locals. Xiaomi no garanteix la disponibilitat, continuïtat i accessibilitat del contingut i serveis que ofereix aquesta aplicació. Vostè anirà a càrrec de qualsevol pèrdua o dany causat per l’ús d’aquesta aplicació."</string>
@@ -3921,6 +4094,7 @@ Voleu retirar el consentiment?"</string>
     <string name="select_app_title_default">Obre l\'aplicació</string>
     <string name="select_app_title_music">Reprodueix música</string>
     <string name="select_province_and_city">Seleccioneu la ubicació</string>
+    <string name="select_traffic_type_and_reminder_type">Toqueu per definir</string>
     <string name="send">Envia</string>
     <string name="send_msg_to_query">Envia un missatge de text per comprovar-ho</string>
     <string name="send_sms_title">Voleu permetre que %s enviï missatges?</string>
@@ -3950,6 +4124,7 @@ Voleu retirar el consentiment?"</string>
     <string name="settings_choice_no_notification">Desactivat</string>
     <string name="settings_image_camera_summary">Model de dispositiu, metadades, etc.</string>
     <string name="settings_location_subtitle_no">No hi ha informació d\'ubicació</string>
+    <string name="settings_negative_button_text">Ara no</string>
     <string name="settings_power_save_ontime_title">Horari</string>
     <string name="settings_privacy_revoke_desc">En desactivar l\'interruptor, retirareu el vostre consentiment a la Política de privadesa de seguretat.</string>
     <string name="settings_privacy_revoke_title">Retirada del consentiment</string>
@@ -3980,8 +4155,11 @@ Voleu retirar el consentiment?"</string>
     <string name="signal_exception_title">Senyal de xarxa feble</string>
     <string name="signed_rule">Regles</string>
     <string name="signed_rule_one">1. Reviseu d\'aquí a 10, 20 o 28 dies seguits cada mes per obtenir un augment de velocitat Xunyou durant 1, 2 o 3 dies, respectivament.</string>
+    <string name="signed_rule_one_new">%1$d. Registreu-vos %2$d, %3$d o %4$d dies seguits cada mes per obtenir un impuls xunyou per a %5$d, %6$d o %7$d dies respectivament.</string>
     <string name="signed_rule_three">"3. Els dies en què es realitza el registre s'anul·len al començament de cada mes. Els dies restants no es bolquen."</string>
+    <string name="signed_rule_three_new">"%1$d. Els dies en què efectueu el registre d'entrada s'anul·len a principis de cada mes. Els dies restants no s'han acabat."</string>
     <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
+    <string name="signed_rule_two_new">%d. Només podeu obtenir 1 augment de Xunyou al mes.</string>
     <string name="sim_car_absent__tip">Confirmeu el bloqueig de pantalla per desactivar el mode Perdut</string>
     <string name="sim_car_absent_intercept_action">Confirmeu el bloqueig de pantalla (%d)</string>
     <string name="sim_car_absent_intercept_action_last">Confirmeu el bloqueig de pantalla</string>
@@ -4343,6 +4521,7 @@ Voleu retirar el consentiment?"</string>
     <string name="st_summary_special_numbers">Bloqueja els números de telèfon marcats</string>
     <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
     <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números i específics</string>
+    <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
     <string name="st_title_addwhitelist">Afegeix a excepcions</string>
     <string name="st_title_adress">Afegeix ubicacions</string>
@@ -4428,6 +4607,8 @@ Voleu retirar el consentiment?"</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"La doble aplicació d'aquesta aplicació també es desinstal·larà."</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Totes les dades de l\'aplicació també se suprimiran si desinstal·leu l\'aplicació.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació doble?</string>
+    <string name="storage_app_public_desc">Ocupa %s, inclosos els fitxers generats a l\'emmagatzematge compartit</string>
+    <string name="storage_app_public_title">Fitxers compartits</string>
     <string name="storage_app_space_details_entry">Veure els detalls de l\'aplicació</string>
     <string name="storage_app_uninstall_app_dialog_msg">Totes les dades de l\'aplicació també se suprimiran si desinstal·leu l\'aplicació.</string>
     <string name="storage_app_uninstall_app_dialog_title">Desinstal·lar l’aplicació</string>
@@ -4450,6 +4631,16 @@ Per utilitzar aquest ^ 1, primer cal muntar-lo."</string>
     <string name="storage_dialog_unsupported">"Aquest dispositiu no és compatible amb ^ 1.
 
 Per utilitzar aquest ^ 1 amb aquest dispositiu, primer cal configurar-lo."</string>
+    <string name="storage_fbo_clear">Desfragmentació</string>
+    <string name="storage_fbo_des">"L'emmagatzematge intern pateix fragmentació, cosa que pot alentir significativament el dispositiu. La desfragmentació es realitza automàticament mentre no feu servir el dispositiu. Organitza físicament els fitxers en el nombre més petit de fragments reduint el retard."</string>
+    <string name="storage_fbo_number_tip">Fusionat el %1$s</string>
+    <string name="storage_fbo_tools">Optimització de l\'emmagatzematge</string>
+    <string name="storage_file_delete_tip">Voleu suprimir els elements seleccionats permanentment? Alguns d\'ells es poden tornar a carregar quan sigui necessari.</string>
+    <string name="storage_file_dialog_delete_title">Suprimeix els elements</string>
+    <string name="storage_file_list_btn">Suprimeix %1$s</string>
+    <string name="storage_file_list_form_default">Targeta SD</string>
+    <string name="storage_file_list_from">De %s</string>
+    <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">"No s'ha pogut formatar %1$s"</string>
     <string name="storage_format_success">S\'ha formatat %1$s correctament</string>
     <string name="storage_item_apk_name">APKs</string>
@@ -4459,12 +4650,18 @@ Per utilitzar aquest ^ 1 amb aquest dispositiu, primer cal configurar-lo."</stri
     <string name="storage_item_doc_name">Documents</string>
     <string name="storage_item_other_name">Altres</string>
     <string name="storage_item_picture_name">Imatges</string>
+    <string name="storage_item_system_data">Sistema</string>
     <string name="storage_item_system_name">Sistema</string>
     <string name="storage_item_video_name">Vídeo</string>
     <string name="storage_menu_mount">Muntanya</string>
     <string name="storage_mount_failure">"No s'ha pogut muntar %1$s"</string>
     <string name="storage_mount_success">S\'ha muntat %1$s amb èxit</string>
     <string name="storage_space_release_hint">Necessiteu més espai d’emmagatzematge?</string>
+    <string name="storage_system_log">Registres del sistema</string>
+    <string name="storage_system_log_tip">Els registres del sistema s\'esborraran automàticament quan sigui necessari</string>
+    <string name="storage_system_memory_expansion">Extensió de memòria</string>
+    <string name="storage_system_memory_expansion_tip">Amplia la RAM ocupant l\'emmagatzematge</string>
+    <string name="storage_system_other_tip">Dades necessàries perquè el sistema funcioni amb normalitat (la mida del fitxer pot canviar amb el temps)</string>
     <string name="storage_unmount_failure">"No es pot desmuntar %1$s"</string>
     <string name="storage_unmount_success">S\'ha descomptat %1$s correctament</string>
     <string name="storage_wizard_format_confirm_v2_action">Format ^ 1</string>
@@ -4556,6 +4753,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="superpower_dialog_massage">"L'estalvi de bateria Ultra restringeix la majoria de característiques que consumeixen energia i redueix les funcions del dispositiu fins deixar-ne només les bàsiques (com les trucades, els SMS i la connexió a la xarxa), per allargar al màxim la seva disponibilitat. Voleu activar l'estalvi d'energia Ultra?"</string>
     <string name="superpower_dialog_title">Estalvi de bateria Ultra</string>
     <string name="superpower_notification_new_title">Queda menys del %d%% de bateria</string>
+    <string name="superpower_notification_new_title_new">Queda menys del %s de bateria</string>
     <string name="superpower_notification_summary">Carregueu el dispositiu o activeu l\'estalvi de bateria Ultra</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
@@ -4713,6 +4911,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
     <string name="tc_web_correct_error">"No s'ha pogut calibrar"</string>
     <string name="ten_percent_total_pkg">%s (10%% de les dades mensuals)</string>
+    <string name="terms_and_conditions_content"><Data>\"Aquesta funció us proporciona una funcionalitat d\'avís de terratrèmols. Us notificarà sobre els propers terratrèmols i reproduirà un so d\'advertència. Podreu trobar el refugi més proper, trucar al vostre contacte d\'emergència i presentar la vostra targeta mèdica si cal. &lt;br&gt;Protegim la vostra informació personal d\'acord amb les lleis, regulacions i polítiques de privadesa pertinents &lt;br&gt;Per poder funcionar amb normalitat, aquesta funció requereix els permisos següents per recollir la vostra informació personal: &lt;br&gt;• Informació d\'ubicació: &lt;br&gt;Per accedir a la vostra ubicació i proporcionar avisos de terratrèmols precisos. &lt;br&gt;Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta funció. Podeu optar per desactivar-la o no activar-la en aquests casos. &lt;br&gt;Heu de llegir i acceptar la nostra &lt;a href=%s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta funció.\"</Data></string>
     <string name="tether_custom_dialog_title">Límit de dades mòbils</string>
     <string name="tether_limit_dialog_title">Límit de dades mòbils</string>
     <string name="tether_limit_value_custom">Personalitzat</string>
@@ -4780,6 +4979,8 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="timeshow_m">%dmin</string>
     <string name="timeshow_s">%ds</string>
     <string name="tips">Atenció</string>
+    <string name="tips_by_auto_close">Per poder definir el saldo del telèfon i els advertiments d\'ús de dades, heu de sincronitzar les estadístiques de l\'operador de telefonia automàticament. Voleu activar la sincronització?</string>
+    <string name="tips_by_reminder_function">"No podreu rebre avisos de saldo del telèfon ni d'ús de dades si desactiveu la sincronització automàtica."</string>
     <string name="tips_dialog_title">"No coneix el seu límit?"</string>
     <string name="tips_message">"Per veure els detalls del vostre pla, marqueu %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
@@ -4836,6 +5037,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="title_flow_rank">Ús de dades mòbils</string>
     <string name="title_flow_verify">Comparar saldo</string>
     <string name="title_flow_verify_failed">"No s'ha pogut ajustar per 5 dies consecutius"</string>
+    <string name="title_flow_verify_failed_new">"No s'ha pogut ajustar durant %d dies seguits"</string>
     <string name="title_garbage_clean">La mida de la memòria cau de les aplicacions ha assolit %s</string>
     <string name="title_garbage_less">La memòria cau de l\'aplicació és petita</string>
     <string name="title_garbage_lib">Actualitzacions automàtiques</string>
@@ -4929,6 +5131,8 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="top_game">Els millors jocs</string>
     <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
     <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
+    <string name="traffic_advanced_settings">Configuració avançada de trànsit</string>
+    <string name="traffic_alarm">Estableix l\'alarma</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Pla mensual canviat a %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Pla de dades actualitzat</string>
     <string name="traffic_alert_auto_modify_package_summary">"Ajustar automàticament paquet de dades d'acord amb la informació de l'operador"</string>
@@ -4964,6 +5168,9 @@ Dades extres en ús"</string>
     <string name="traffic_over_purchase_link">"Heu assolit el límit d’ús de dades mòbils del vostre pla.&lt;br/&gt;Si supereu el límit d'ús de dades del vostre pla, és possible que el vostre operador us cobri càrrecs addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toqueu per recarregar el saldo.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">"La targeta SIM no està instal·lada"</string>
     <string name="traffic_purchase_body">Toqueu per recarregar el saldo.</string>
+    <string name="traffic_remind">Avís d\'ús de dades</string>
+    <string name="traffic_remind_switch">Avís d\'ús de dades</string>
+    <string name="traffic_reminder_settings">Establiu un avís d\'ús de dades</string>
     <string name="traffic_setting_fragment_area">Local</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
@@ -4999,6 +5206,7 @@ Dades extres en ús"</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
+    <string name="turn_off_auto_correction">Desactivant la sincronització automàtica</string>
     <string name="two_address_choose_hint">%1$s i %2$s</string>
     <string name="type_face_condition_summary">Ajusta la mida del text i el pes de la lletra</string>
     <string name="unable_connect_internet">No hi ha connexió a internet</string>
@@ -5009,6 +5217,7 @@ Dades extres en ús"</string>
     <string name="uninstall_danagerous_desc">«%s» pot danyar el vostre dispositiu</string>
     <string name="uninstall_danagerous_msg">«%s» pot danyar el vostre dispositiu, reduir el rendiment o provocar reinicis.</string>
     <string name="uninstall_danagerous_title">Desinstal·lació d\'aplicacions malicioses</string>
+    <string name="unknown_operator">"Podeu trucar al %2$s per confirmar els detalls del vosre pla amb %1$s."</string>
     <string name="unknown_package">No esteu segur del vostre pla?</string>
     <string name="unlike">No, gràcies</string>
     <string name="unlimited_cellular_data_monthly">Pla il·limitat</string>

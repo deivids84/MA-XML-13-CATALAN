@@ -157,6 +157,7 @@
     <string name="low_battery_error_for_pad">"Queda menys de %s de bateria. Atureu i deseu la gravació per assegurar-vos que no es perdi."</string>
     <string name="low_battery_error_title">Bateria baixa</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
+    <string name="manage_external_storage">Accés a tots els fitxers</string>
     <string name="mark_point_list_title">Marques</string>
     <string name="material_clock_toggle_content_description">Seleccioneu AM o PM</string>
     <string name="material_hour_selection">Seleccioneu l’hora</string>
@@ -533,6 +534,7 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="sync_desc_state_complete">Sincronitzat amb el núvol: %1$s</string>
     <string name="tab_all">Tot</string>
     <string name="tab_apps">Aplicacions</string>
     <string name="tab_call">Trucades</string>

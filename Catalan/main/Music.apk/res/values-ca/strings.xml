@@ -195,6 +195,7 @@
     <string name="confirm_exit">Voleu desar els canvis?</string>
     <string name="connect_now">Connecta</string>
     <string name="connecting_apk">S\'està connectant…</string>
+    <string name="content_failed_to_load">"No s'ha pogut carregar el contingut"</string>
     <string name="copy">Copia</string>
     <string name="create_playlist">Crea una llista de reproducció</string>
     <string name="create_playlist_failure">"No s'ha pogut crear la llista de reproducció"</string>

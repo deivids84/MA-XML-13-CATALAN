@@ -789,6 +789,11 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="disable_cfb_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està ocupat."</string>
     <string name="disable_cfnrc_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està fora de cobertura."</string>
     <string name="disable_cfnry_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon no respon."</string>
+    <string name="disable_esim_dialog_summary">"La SIM %s s'activarà si desactiveu l'eSIM ara.
+Voleu desactivar l'eSIM de totes maneres?"</string>
+    <string name="disable_esim_dialog_title">S\'està desactivant l\'eSIM</string>
+    <string name="disable_esim_error_toast_message">"No s'ha pogut desactivar l'eSIM"</string>
+    <string name="disable_esim_progress_activating_message">S\'està desactivant l\'eSIM…</string>
     <string name="disable_fdn">Desactiva els NMP</string>
     <string name="disable_fdn_ok">Activa els NMP</string>
     <string name="disable_overlays">Desactiva les superposicions de maquinari</string>
@@ -872,6 +877,12 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="enable_disable_technology_news">Notícies de tecnologia</string>
     <string name="enable_dual_4g_if_dual_ct">Preferiu a les xarxes 4G per a les dues targetes SIM per utilitzar VoLTE a la SIM secundària quan hi ha instal·lades dues targetes SIM de China Telecom.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE requereix connectivitat 4G per a les dues ranures SIM. Voleu canviar al 4G dual?</string>
+    <string name="enable_esim_dialog_summary">"La SIM %s es desactivarà si activeu l'eSIM ara.
+Voleu activar l'eSIM de totes maneres?"</string>
+    <string name="enable_esim_dialog_title">S\'està activant l\'eSIM</string>
+    <string name="enable_esim_error_toast_message">"No s'ha pogut activar l'eSIM"</string>
+    <string name="enable_esim_progress_activating_message">S\'està activant l\'eSIM…</string>
+    <string name="enable_esim_title">Utilitza l\'eSIM</string>
     <string name="enable_fdn">Activa els NMP</string>
     <string name="enable_fdn_ok">Desactiva els NMP</string>
     <string name="enable_freeform_support">Activa les finestres de format lliure</string>
@@ -903,6 +914,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="enhanced_connectivity_summary">Activa la funció de connectivitat millorada.</string>
     <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (%d dígits)</string>
     <string name="enter_esim_manager">Gestiona l\'eSIM</string>
+    <string name="enter_esim_manager_title">Gestiona l\'eSIM</string>
     <string name="enter_input">Un missatge USSD ha de tenir entre %1$d i %2$d caràcters. Torneu-ho a provar.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de la SIM:</string>
@@ -916,7 +928,10 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="esim_goto_active">Activa</string>
     <string name="esim_inactive_message">eSIM inactiva</string>
     <string name="esim_inactive_notification_message">No s\'ha detectat cap targeta SIM. Toqueu per activar l\'eSIM.</string>
+    <string name="esim_inactive_notification_message_global">No s\'ha detectat cap targeta SIM. Toqueu per activar l\'eSIM.</string>
+    <string name="esim_inactive_notification_title_global">Doble SIM i xarxes mòbils</string>
     <string name="esim_inactive_settings_title">Doble SIM i xarxes mòbils</string>
+    <string name="esim_setting_title">Configuració de l\'eSIM</string>
     <string name="evening">Tarda</string>
     <string name="exception_error">Error de xarxa o de targeta SIM.</string>
     <string name="expand_button_title">Avançat</string>
@@ -957,6 +972,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_network_config_type1">Tipus de configuració de la xarxa :</string>
     <string name="fiveg_network_mode_title">Seleccioneu el mode de xarxa 5G</string>
     <string name="fiveg_network_title">Xarxes 5G</string>
+    <string name="fiveg_nrca_switch_summary">Utilitzeu l\'agregació d\'operadors 5G per a una millor connectivitat</string>
+    <string name="fiveg_nrca_switch_title">Agregació d\'operadors 5G</string>
     <string name="fiveg_plmn_info_list1">Llista d\'informació de PLMN :</string>
     <string name="fiveg_power_switch_summary">Fa que la connectivitat 5G consumeixi menys energia en certs escenaris</string>
     <string name="fiveg_power_switch_title">Estalvi de bateria 5G</string>
@@ -1539,6 +1556,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="new_pin2_label">Nou PIN2</string>
     <string name="new_pin_label">Nou PIN</string>
     <string name="night">Vespre</string>
+    <string name="no_active_esim_text">eSIM inactiva</string>
     <string name="no_application">Cap</string>
     <string name="no_change">No s\'han realitzat canvis.</string>
     <string name="no_checked_network">"No podreu connectar-vos a la xarxa mòbil i fer trucades. Voleu seleccioneu una altra xarxa?"</string>
@@ -1577,6 +1595,9 @@ Poseu-vos en contacte amb els vostres operadors"</string>
     <string name="nr_usaged_network_usaged">"Dades d’avui"</string>
     <string name="nr_usaged_operator">Operador</string>
     <string name="nr_usaged_used_time">Durada de l’ús</string>
+    <string name="nrca_need_reset">Reinicieu el dispositiu per aplicar els canvis</string>
+    <string name="nrca_switch_summary">Utilitzeu l\'agregació d\'operadors 5G per a una millor connectivitat</string>
+    <string name="nrca_switch_title">Utilitza l\'NRCA</string>
     <string name="number">Número</string>
     <string name="numerous_emergency_numbers_title">Números d\'emergència</string>
     <string name="obtain_location_information">Ubicació</string>
@@ -2080,6 +2101,7 @@ Interfície UT: %5$s"</string>
     <string name="send_keepalive_title">Envia mantenir-actiu</string>
     <string name="sensor_answer_summary">Porteu el telèfon a l’orella per respondre automàticament una trucada entrant</string>
     <string name="sensor_answer_title">Aixequeu per respondre</string>
+    <string name="set_esim_toast_phone_in_call">"No es pot realitzar aquesta acció durant les trucades"</string>
     <string name="set_primary_summary">Utilitzat per trucades sortints</string>
     <string name="set_primary_title">Selecciona com a compte principal</string>
     <string name="set_smsc_address_error">"No s'ha pogut establir el número"</string>
@@ -2130,6 +2152,7 @@ Interfície UT: %5$s"</string>
     <string name="sim_me_lock_disabled">Simlock està desactivat.</string>
     <string name="sim_ndp_dismiss_text">Desestima</string>
     <string name="sim_ndp_unlock_text">Desbloqueja</string>
+    <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_roaming_settings_summary">Connecta a xarxes de dades mòbils en itinerància</string>
     <string name="sim_roaming_settings_title">Itinerància Mi</string>
     <string name="sim_selection_required_pref">Selecció necessària</string>
@@ -2273,6 +2296,8 @@ Confirmeu la configuració predeterminada del compte de trucades."</string>
     <string name="supp_service_over_ut_precautions_roaming">Per utilitzar %s, assegureu-vos que les dades mòbils i la itinerància de dades estan activades. Podeu canviar-ho a la configuració de la xarxa mòbil.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Per utilitzar %1$s, assegureu-vos que les dades mòbils i la itinerància de dades estan activades per la SIM %2$d. Podeu canviar-ho a la configuració de la xarxa mòbil.</string>
     <string name="support_forbidden_fakecell">Nota: restringir la connexió a estacions base falses pot reduir el senyal a les zones amb una cobertura deficient.</string>
+    <string name="switch_cancel_btn_text">Cancel·la</string>
+    <string name="switch_confirm_btn_text">D\'acord</string>
     <string name="switch_dds_to_sub_alert">Canvieu les dades mòbils a la targeta SIM</string>
     <string name="switch_debug_menu">Configuració addicional de la xarxa</string>
     <string name="switch_off">Desactivat</string>
@@ -2400,6 +2425,8 @@ El període següent comença en %2$d dies (%3$s)"</string>
     <string name="undefined">Cap</string>
     <string name="unfold_close_camera_pref_summary">Desplegueu el dispositiu durant una videotrucada per desactivar la càmera</string>
     <string name="unfold_close_camera_pref_title">Desplega per desactivar la càmera</string>
+    <string name="unfold_show_bublle_pref_summary">Desplegueu el dispositiu durant les trucades per mostrar-les en finestres flotants</string>
+    <string name="unfold_show_bublle_pref_title">Desplega per minimitzar les trucades</string>
     <string name="unfold_speaker_pref_summary">Desplegueu el dispositiu durant una trucada per activar l\'altaveu</string>
     <string name="unfold_speaker_pref_title">Desplega per utilitzar l\'altaveu</string>
     <string name="unknown">Desconegut</string>

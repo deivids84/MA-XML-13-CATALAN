@@ -272,6 +272,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Aconseguit (%ds)</item>
         <item quantity="one">Aconseguit (%ds)</item>
@@ -859,6 +867,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="st_show_num_number">
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fragments</item>
+        <item quantity="one">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fragment</item>
     </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Activa el Mode concentració durant %d minuts</item>

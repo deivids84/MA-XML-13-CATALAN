@@ -36,6 +36,7 @@
     <string name="add_alarm">Afegiu alarma</string>
     <string name="add_clock">Afegiu rellotge</string>
     <string name="add_common_timer">Afegeix temporitzador</string>
+    <string name="add_new_sound">Afegeix un to de trucada</string>
     <string name="add_timer">Temporitzador freqüent</string>
     <string name="add_timer_dialog_title">Afegeix temporitzador</string>
     <string name="add_timezone_title">Afegiu zona horària</string>
@@ -64,6 +65,7 @@
     <string name="alarmclock_empty_text">Sense alarmes</string>
     <string name="alarmclock_silent_hint">S\'ha silenciat l\'alarma</string>
     <string name="alert">To de trucada</string>
+    <string name="alert_page_desc">Manteniu premut i llisqueu cap amunt per desactivar l\'alarma</string>
     <string name="alert_ringtone">To d\'alarma</string>
     <string name="alert_vibrate_enable_summary">Vibra quan s\'activa l\'alarma</string>
     <string name="alert_volume">Volum del to</string>
@@ -126,6 +128,7 @@
     <string name="common_timer_selector">Selecciona el temporitzador</string>
     <string name="confirm">Confirmeu</string>
     <string name="confirm_abort">Descarta</string>
+    <string name="confirm_remove_custom_ringtone">Si suprimiu aquest to de trucada, les alarmes i els temporitzadors que l\'utilitzin reproduiran el to de trucada predeterminat. Voleu suprimir-lo ara?</string>
     <string name="content_desc_keep_screen">Botó \"Mantenir a la pantalla\"</string>
     <string name="continue_operation">Continua</string>
     <string name="continue_step">Següent</string>
@@ -133,6 +136,7 @@
     <string name="control_set_alarm_with_existing">%s repetició</string>
     <string name="copy">Copia</string>
     <string name="current_stopwatch_time">Hora actual</string>
+    <string name="custom_ringtone_lost_permissions">"No es pot accedir a aquest so."</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
     <string name="day_concat">", "</string>
@@ -145,6 +149,7 @@
     <string name="delete_timer_item_title">Supressió de la tasca</string>
     <string name="delete_timezone_title">Suprimiu la zona horària</string>
     <string name="deskclock_sleep_no_disturbance">Rellotge - Gestionar l\'hora d\'anar a dormir - Mode no molestar</string>
+    <string name="device_sounds">Sons del dispositiu</string>
     <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
     <string name="dialog_legal_off_day">&lt;Data&gt;Sembla que esteu utilitzant les alarmes dels caps de setmana. Aquesta funció necessita connectar-se a Internet per funcionar amb normalitat. Abans d\'utilitzar aquesta funció, també heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d\'Usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;. Esteu d\'acord?&lt;/Data&gt;</string>
     <string name="dialog_legal_off_day_desc">"No es pot connectar el rellotge a Internet per actualitzar la informació sobre vacances. Les alarmes de vacances sonaran dissabte i diumenge."</string>
@@ -611,6 +616,7 @@
     <string name="tv_blank_list_show_text">Aquí no hi ha res encara. Cerqueu una ubicació per afegir-la al vostre rellotge mundial.</string>
     <string name="tv_world_clock_edit_title1">Ubicacions que es mostren a la Pantalla d\'inici</string>
     <string name="tv_world_clock_edit_title2">Altres ubicacions desades</string>
+    <string name="unknown_ringtone_title">Desconegut</string>
     <string name="unselect_all">Deseleccionar tot</string>
     <string name="upcoming_alarm">Següent alarma: %s</string>
     <string name="upcoming_alarm_hint">Ara podeu desactivar aquesta alarma</string>
@@ -643,6 +649,8 @@
     <string name="week_ringtone_recommend_desc">L\'alarma de natura reprodueix sons diferents segons la data. Voleu definir-la com a alarma predeterminada?</string>
     <string name="white_noise">Soroll ambiental</string>
     <string name="white_noise_guide_desc">Afegiu un so de fons per mantenir-vos concentrats</string>
+    <string name="white_noise_not_selected">No seleccionat</string>
+    <string name="white_noise_selected">Seleccionat</string>
     <string name="white_noise_selector">Selecciona el so</string>
     <string name="workday_alarm_clock">Alarma de dia laboral</string>
     <string name="worldclock_edit_label">Rellotge mundial</string>
@@ -664,4 +672,5 @@
     <string name="worldcolock_timezone_local">Mateixa a la hora local</string>
     <string name="xiaoai_ringtone_title">Tons de trucada IA Mi</string>
     <string name="yesterday">Ahir</string>
+    <string name="your_sounds">Els meus sons</string>
 </resources>
