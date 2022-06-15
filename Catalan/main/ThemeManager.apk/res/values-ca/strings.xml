@@ -46,6 +46,7 @@
     <string name="ad_app_is_downloading">S\'està baixant&#8230;</string>
     <string name="ad_begin_to_download_tip">S\'està iniciant la baixada…</string>
     <string name="ad_begin_to_install_tip">S\'està instal·lant…</string>
+    <string name="ad_close">S\'ha tancat aquest anunci</string>
     <string name="ad_closed_tip">"Veureu menys anuncis d’aquest tipus"</string>
     <string name="ad_details">Detalls</string>
     <string name="ad_download_download">Baixa</string>
@@ -97,6 +98,7 @@
     <string name="apply_not_support_aod">"La pantalla sempre en marxa no és compatible amb aquest dispositiu"</string>
     <string name="apply_not_support_in_second_space">"No es pot aplicar aquest element a Segon espai"</string>
     <string name="apply_not_support_maml_aod">"No es pot combinar la visualització permanent amb temes en aquest dispositiu"</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Aquest fons de pantalla s\'aplicarà a les pantalles de bloqueig interior i exterior i a les pantalles d\'inici.</string>
     <string name="apply_succeed">S\'ha aplicat correctament</string>
     <string name="apply_success_not_enable_aod">En primer lloc, activeu la Pantalla ambiental a la Configuració</string>
     <string name="apply_success_not_support_aod">"No es pot combinar la visualització permanent amb temes en aquest dispositiu. La resta de components d’aquest tema s’han aplicat amb èxit."</string>
@@ -150,6 +152,7 @@
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="close_custom_permission_warning_text">"Sense els permisos d'emmagatzematge, aquesta aplicació no podrà baixar elements ni personalitzar el dispositiu. Els voleu desactivar de totes maneres?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Sense permisos d'emmagatzematge, aquesta aplicació no podrà personalitzar el dispositiu. Voleu desactivar-ho de totes maneres?"</string>
     <string name="common_applying">S\'està aplicant…</string>
     <string name="common_downloading">S\'està baixant…</string>
     <string name="common_format_date_no_year">dd/MM</string>
@@ -184,6 +187,8 @@
     <string name="current_version">Versió actual: %1$s</string>
     <string name="current_version_incompatible">No compatible</string>
     <string name="custom_storage_permission_desc">Per poder canviar les preferències de personalització i desar els elements baixats, primer permeteu que aquesta funció accedeixi a l\'emmagatzematge. Podeu concedir aquest permís a Configuració &gt; Privadesa.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Per poder canviar les preferències de personalització, primer permeteu que aquesta funció accedeixi a l\'emmagatzematge. Podeu concedir aquest permís a Configuració.</string>
+    <string name="custom_widget">Ginys recomanats</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
     <string name="de_apply_icons">Icones de l\'aplicació</string>
@@ -379,6 +384,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Ara Temes no es pot utilitzar en aquest dispositiu. Si heu canviat el tema abans, ara podeu restaurar el tema per defecte. No podreu tornar a canviar el tema després d'això."</string>
     <string name="fold_restore_default_theme_dialog_disagree">No gràcies</string>
     <string name="fold_restore_default_theme_dialog_title">Restaura el tema per defecte</string>
+    <string name="fold_sensor_video_wallpaper_group">Fons de pantalla dinàmics per a dispositius plegables</string>
     <string name="font_compat_dialog_buy_confirm">Compra</string>
     <string name="font_compat_dialog_buy_content">És possible que algunes aplicacions no admetin tipus de lletra de tercers. Aquest problema de compatibilitat se solucionarà mitjançant una propera actualització del sistema. Voleu comprar aquest tipus de lletra de totes maneres?</string>
     <string name="font_compat_dialog_cancel">Cancel·la</string>
@@ -642,6 +648,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
     <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'acord</string>
     <string name="mtrl_picker_date_header_title">Seleccioneu una data</string>
     <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
@@ -663,6 +670,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció d’un dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'entrada de text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
+    <string name="mtrl_timepicker_confirm">D\'acord</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Aquest to de trucada s\'aplicarà a les dues targetes SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">El to de trucada s\'aplica a les dues targetes SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">D\'acord</string>
@@ -816,6 +824,7 @@ Tots els elements de personalització que s'utilitzen actualment en aquest dispo
     <string name="privacy_phone_logoff_theme_service_detail_title">Llegiu i accepteu la \"Declaració sobre la cancel·lació dels serveis de temes\" abans de cancel·lar els nostres serveis.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Esteu a punt de cancel·lar els serveis de Temes."</string>
     <string name="privacy_phone_read_and_write_storage">Accés a l’emmagatzematge</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Accés a l\'emmagatzematge</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"He llegit i accepto la \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Declaració sobre la cancel·lació dels serveis de temes&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>\"He llegit i accepto la \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Declaració sobre la retirada del consentiment a la política de privadesa de temes&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Tots els temes, fons de pantalla, fons de pantalla dinàmics, tipus de lletra, icones i tons de trucada baixats a aquest dispositiu.</string>
@@ -1055,6 +1064,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="resource_search_color_hint_purple">Lila</string>
     <string name="resource_search_color_hint_red">Vermell</string>
     <string name="resource_search_color_hint_yellow">Groc</string>
+    <string name="resource_search_history">Historial de cerques</string>
     <string name="resource_search_list_empty">"No s'ha trobat res."</string>
     <string name="resource_see_more">Mostrar-ho tot</string>
     <string name="resource_select">Selecciona</string>
@@ -1134,6 +1144,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="send">Envia</string>
     <string name="server_internal_error">S\'ha produït un error en el servidor. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="set_as_colorring">Estableix com a to de trucada personalitzat</string>
+    <string name="set_calling">Estableix</string>
     <string name="set_color_ring_back_tone">Estableix un to de trucada personalitzat</string>
     <string name="set_home_wallpaper_failed">"%s. No es pot aplicar el fons de la pantalla d'inici."</string>
     <string name="set_wallpaper_group_success">S\'ha aplicat el fons de pantalla %1$s</string>
@@ -1217,6 +1228,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Per accedir a IMEI i proporcionar serveis de descàrrega</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Accediu a l\'ID del dispositiu per identificar el dispositiu</string>
     <string name="system_cta_runtime_perm_desc_storage">Per utilitzar els elements emmagatzemats al dispositiu per personalitzar i desar els elements comprats</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Per canviar les preferències de personalització</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Per utilitzar els elements emmagatzemats al dispositiu per personalitzar i desar els elements comprats</string>
     <string name="system_precust">Preinstal·lat</string>
     <string name="tag_ad">Anunci</string>
@@ -1352,6 +1364,16 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="title_system_audio_resource">Tons del sistema</string>
     <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>
     <string name="to_activate_the_account">Activeu el vostre Compte Mi ara</string>
+    <string name="toast_both_all_apply_failured">"No s'ha pogut aplicar a la pantalla d'inici o de bloqueig"</string>
+    <string name="toast_both_all_apply_success">S\'ha aplicat correctament a les pantalles d\'inici i de bloqueig</string>
+    <string name="toast_home_apply_failured">"No s'ha pogut aplicar a la pantalla d'inici"</string>
+    <string name="toast_home_apply_success">S\'ha aplicat correctament a la pantalla d\'inici</string>
+    <string name="toast_lockscreen_apply_failured">"No s'ha pogut aplicar a la pantalla de bloqueig"</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">"S'ha aplicat correctament a la pantalla d'inici. No s'ha pogut aplicar a la pantalla de bloqueig."</string>
+    <string name="toast_lockscreen_apply_success">S\'ha aplicat correctament a la pantalla de bloqueig</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">"S'ha aplicat correctament a la pantalla de bloqueig. No s'ha pogut aplicar a la pantalla d'inici."</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">"No s'ha pogut aplicar"</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">S\'ha aplicat correctament</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="trans_wallpaper_offline_notice">"Els fons de pantalla transparents no estan disponibles"</string>

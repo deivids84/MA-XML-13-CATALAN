@@ -127,11 +127,6 @@
         <item>Gestioneu els dispositius associats al vostre compte Mi</item>
         <item>Gestió dels dispositius;Els meus dispositius;Dispositius;Llista de dispositius;Compte Mi;Compte</item>
     </string-array>
-    <string-array name="settings_search_payment_information">
-        <item>Informació de pagament</item>
-        <item>Consulteu i gestioneu la informació de pagament</item>
-        <item>Paga;Pagament;Forma de pagament;Compte Mi;Compte</item>
-    </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Política de privadesa</item>
         <item>Veure la política de privadesa del meu compte</item>

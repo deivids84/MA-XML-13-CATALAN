@@ -28,7 +28,9 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_device_info">Mostra els detalls del dispositiu</string>
+    <string name="about_mi_account">Sobre el Compte Mi</string>
     <string name="accept">Permet</string>
+    <string name="access_denied_info">Massa intents. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="access_token_expired_warning">El compte Weibo ha caducat</string>
     <string name="access_token_invalid_warning">El compte Weibo no és vàlid</string>
     <string name="account">Compte</string>
@@ -95,8 +97,11 @@
     <string name="agreement_and_privacy">Termes i condicions</string>
     <string name="am">AM</string>
     <string name="app_name">Compte Mi</string>
+    <string name="area_code_no_search_result">"No s'han pogut trobar resultats"</string>
+    <string name="area_code_search_hint">Cerca país o regió</string>
     <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar-la més tard</string>
     <string name="authorize_title">Autorització</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"L'emplenament automàtic d'inici de sessió no és compatible amb versions amb marca d'aigua"</string>
     <string name="bind_facebook">Connecteu el vostre compte de Facebook</string>
     <string name="bind_google">Connecteu el vostre compte de Google</string>
     <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar la sessió al vostre compte Mi la pròxima vegada.</string>
@@ -117,6 +122,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="change_password">Canvia la contrasenya</string>
     <string name="change_phone_number">Canvia el número de telèfon</string>
     <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
+    <string name="check_apk_update">Comprova si hi ha actualitzacions</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="cloud_description_closed">Ocupat | Sincronització desactivada</string>
@@ -177,6 +183,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està associat amb el compte Mi %2$s. Si continueu, ja no s’associarà amb el compte Mi %3$s. Voleu continuar?</string>
     <string name="continue_action">Continua</string>
     <string name="copy">Copia</string>
+    <string name="copy_link">Copia l\'URL</string>
     <string name="copy_to_clipboard_successful">S\'ha copiat correctament</string>
     <string name="date_picker_lunar">Calendari Tradicional Xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
@@ -240,6 +247,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="find_device_title">Troba el dispositiu</string>
     <string name="find_device_unknown_error">"No es pot obtenir l'estat del dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="find_equipment">Cerca dispositiu</string>
+    <string name="find_new_apk_version">Actualització disponible</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -261,6 +269,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="google_login">Inicia la sessió amb Google</string>
     <string name="goto_accept">D’acord</string>
     <string name="guest_account_label">Compte de convidat Mi</string>
+    <string name="has_no_new_version">Actualitzat</string>
     <string name="health_action_activate">Activa</string>
     <string name="health_action_install">Instal·la</string>
     <string name="health_action_update">Actualitza</string>
@@ -283,11 +292,16 @@ Envieu aquest codi al supervisor."</string>
     <string name="kr_permission_phone_desc">Per protegir el vostre compte</string>
     <string name="kr_permission_sms_desc">Per obtenir codis de verificació automàtics</string>
     <string name="kr_permission_storage_desc">Per desar diagnòstics</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basat en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per a Android</string>
     <string name="loading_micloud_sync_data">Un moment…</string>
     <string name="login_3rd_app_with_system_account">Inicia la sessió a %s</string>
     <string name="login_check_find_device">Obtenint la informació de seguretat del dispositiu…</string>
     <string name="login_check_find_device_failed_title">"No s'ha pogut comprovar la informació de seguretat del dispositiu"</string>
     <string name="login_find_device_bind">Aquest dispositiu està associat a un identificador de compte Mi (%s) existent.</string>
+    <string name="login_notification_button_text">Inicia la sessió</string>
+    <string name="login_notification_desc">Gaudiu dels serveis al núvol, de l\'espai d\'emmagatzematge familiar i molt més</string>
+    <string name="login_notification_title">Inicieu la sessió al compte Mi</string>
     <string name="login_with_other">Més opcions</string>
     <string name="logout_account">Tanca la sessió</string>
     <string name="logout_failed">"No s'ha pogut tancar la sessió"</string>
@@ -295,7 +309,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="mi_finance">Les meves finances</string>
     <string name="mi_finance_info">Bonificacions per a usuaris nous</string>
     <string name="mi_health">Xiaomi Health</string>
-    <string name="mi_member">La meva comunitat</string>
+    <string name="mi_member">Comunitat Xiaomi</string>
     <string name="mi_vip_info">Mostra els privilegis</string>
     <string name="midnight">Nit</string>
     <string name="mipay">Paga</string>
@@ -379,6 +393,11 @@ Envieu aquest codi al supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">"No activeu la sincronització amb el núvol"</string>
     <string name="my_device_title">Dispositiu actual</string>
     <string name="need_install_wechat">Instal·leu primer WeChat</string>
+    <string name="network_error">S\'ha produït un error de xarxa.</string>
+    <string name="network_error_hint">Comproveu l\'URL i torneu-ho a provar, o copieu-lo i obriu-lo al navegador.</string>
+    <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+    <string name="network_timeout_info">"No s’ha pogut connectar a la xarxa. Torneu-ho a provar."</string>
+    <string name="new_version">Nova versió</string>
     <string name="night">Vespre</string>
     <string name="no_account_or_forget_password">Voleu crear un compte o heu oblidat la contrasenya?</string>
     <string name="no_install">No està instal · lat</string>
@@ -412,6 +431,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="operator_unicom">Xina Unicom</string>
     <string name="operator_unicom_agreement">Serveis de verificacions proporcionats per China Unicom</string>
     <string name="optional_permissions">Permisos opcionals</string>
+    <string name="page_load_failed">"No es pot obrir la pàgina"</string>
     <string name="passport_Resend">Reenvia</string>
     <string name="passport_access_denied">S\'ha denegat l\'accés</string>
     <string name="passport_account_hint_text">Adreça de correu/Número de telèfon/ID del Compte Mi</string>
@@ -614,6 +634,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_talkback_switch_voice_captcha">Canvia a codi de verificació de veu</string>
     <string name="passport_talkback_voice_captcha">Reprodueix el codi de verificació de veu</string>
     <string name="passport_ticket_login_select_sim_card">Seleccioneu targeta SIM</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d : %2$s</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Cancel·la</string>
     <string name="passport_title_reg">Crea un compte</string>
     <string name="passport_trust_device">Afegeix aquest dispositiu a dispositius verificats</string>
@@ -664,6 +686,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="permission_write_external_storage">Accedir i desar elements a l’emmagatzematge</string>
     <string name="personal_info_desc">Foto, sobrenom i molt més</string>
     <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
+    <string name="phone_register">Utilitza el número de telèfon</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
@@ -671,6 +694,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="privacy_policy_reject_confirm_title">"No es pot utilitzar el Compte Mi"</string>
     <string name="privacy_policy_update_msg">La política de privadesa del Compte Mi s\'ha actualitzat:&lt;br/&gt;%1$s&lt;br/&gt;Llegiu i accepteu la nova versió de la &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
     <string name="privacy_policy_update_title">Política de privadesa actualitzada</string>
+    <string name="progressbar_title">S’està comprovant si hi ha problemes de seguretat…</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>
@@ -769,6 +793,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="system_ad_summary">"Activeu aquesta funció per permetre mostrar un nombre reduït d’anuncis a les aplicacions del sistema. Aquests anuncis ens ajuden a desenvolupar i millorar els nostres productes i serveis. Podeu optar per desactivar aquesta funció en qualsevol moment. Gràcies pel vostre suport! "</string>
     <string name="system_ad_switch">Anuncis en aplicacions del sistema</string>
     <string name="system_ad_switch_failed">"No s'ha pogut aplicar la configuració"</string>
+    <string name="system_error_info">El sistema està ocupat. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="talkback_scan_barcode">Escaneja el codi QR</string>
     <string name="temporary_not_available">"Aquesta funció encara no està disponible."</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'Aixecament de la Llei Marcial</string>
@@ -831,10 +856,13 @@ Envieu aquest codi al supervisor."</string>
     <string name="two_factor_auth_need_code_summary">"Veureu un codi en altres dispositius Mi connectats. Introduïu aquest codi en un dispositiu nou per iniciar la sessió."</string>
     <string name="two_factor_auth_summary">"Quan intenteu iniciar la sessió en un dispositiu nou o en una ubicació nova, se us notificarà en els altres dispositius connectats. Haureu de confirmar si autoritzeu aquests intents d'inici de sessió."</string>
     <string name="unbind_sns_description">"Després de desconnectar aquest compte, no podreu utilitzar la informació del vostre compte de %s per iniciar la sessió al vostre compte Mi."</string>
+    <string name="unknown_error_info">Error desconegut</string>
     <string name="unlock_help_notice">"Ajuda:
 1. Si heu oblidat la vostra contrasenya, aneu a id.mi.com per restablir-la.
 2. Si no podeu restablir la contrasenya o algú ha bloquejat el vostre dispositiu, aneu a i.mi.com per desbloquejar-la.
 3. El número de desbloqueig: %s"</string>
+    <string name="update_apk_version_later">Ara no</string>
+    <string name="update_apk_version_now">Actualitza</string>
     <string name="update_email_address_dialog_message">Heu de verificar la vostra identitat abans de poder actualitzar el correu electrònic.</string>
     <string name="update_email_address_dialog_title">Actualitza el correu</string>
     <string name="update_phone_notice">Canvia la configuració de seguretat</string>
@@ -862,5 +890,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
     <string name="weixin_login">Inicieu la sessió amb WeChat</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha una actualització disponible</string>
     <string name="yesterday">Ahir</string>
 </resources>
