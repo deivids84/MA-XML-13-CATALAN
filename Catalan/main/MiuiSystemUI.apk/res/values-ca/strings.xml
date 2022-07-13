@@ -774,6 +774,9 @@ Si reprens l'ús de les dades, es poden aplicar càrrecs."</string>
     <string name="device_locked_without_biometric_face">"No es pot desbloquejar aquest dispositiu amb dades de cara quan utilitzeu un bloqueig de pantalla de tercers"</string>
     <string name="device_locked_without_biometric_finger">"No es pot desbloquejar aquest dispositiu amb empremtes digitals quan utilitzeu un bloqueig de pantalla de tercers"</string>
     <string name="device_services">Serveis per a dispositius</string>
+    <string name="dialog_forget_password_cancel">Cancel·lar</string>
+    <string name="dialog_forget_password_message">Si heu oblidat el codi PUK, podeu desactivar aquest eSIM per no perdre l\'accés al vostre dispositiu. Després d\'això, podeu posar-vos en contacte amb el vostre operador per obtenir ajuda.</string>
+    <string name="dialog_forget_password_ok">Inutilitzar</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Després de reiniciar, no podreu iniciar aquesta aplicació fins que desbloquegeu el vostre dispositiu."</string>
     <string name="disable_carrier_button_text">Desactiva l\'eSIM</string>
     <string name="disable_overlays">Desactiveu la superposició de l\'HW</string>
@@ -913,6 +916,7 @@ Introduïu el PIN per desbloquejar."</string>
     <string name="force_rtl_layout_all_locales_summary">Forceu la direcció del disseny de la pantalla al RTL per a tots els locals</string>
     <string name="forced_resizable_secondary_display">És possible que l\'aplicació no funcioni en una pantalla secundària.</string>
     <string name="forget_password_string">Contrasenya oblidada</string>
+    <string name="forget_password_string_for_esim"><u></u>de codi PUK oblidat</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -1968,6 +1972,7 @@ Si teniu dubtes, poseu-vos en contacte amb %2$s."</string>
     <string name="quick_settings_inversion_label">Inverteix els colors</string>
     <string name="quick_settings_location_label">Ubicació</string>
     <string name="quick_settings_location_off_label">Ubicació desactivada</string>
+    <string name="quick_settings_low_battery_toast_text">"No es pot utilitzar la llanterna. La bateria és massa baixa."</string>
     <string name="quick_settings_media_device_label">Dispositiu multimèdia</string>
     <string name="quick_settings_mic_label">Accés al micròfon</string>
     <string name="quick_settings_more_settings">Més configuracions</string>
@@ -2290,6 +2295,7 @@ Es pot sobreescalfar si:
     <string name="tile_unavailable">No disponible</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
     <string name="time_unit_just_now">Ara mateix</string>
+    <string name="tip_close_flares">"No rebreu notificacions sobre el comportament de l'aplicació durant aquesta sessió"</string>
     <string name="title_convert_fbe">S\'està convertint al xifratge basat en fitxers…</string>
     <string name="title_usb_accessory">Accessori USB</string>
     <string name="today">Avui</string>

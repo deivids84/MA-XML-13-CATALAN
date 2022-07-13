@@ -66,7 +66,7 @@
     <string name="miservice_notification_open_feedback_title">Presentació de \"Serveis i comentaris;\"</string>
     <string name="miservice_notification_scan_content">Utilitza Scanner per traduir paraules i frases</string>
     <string name="miservice_notification_scan_title">Tradueix en un tancar i obrir d\'ulls</string>
-    <string name="miui_feedback_answer_detail_community">Podeu trobar respostes a les vostres preguntes a la Comunitat Mi</string>
+    <string name="miui_feedback_answer_detail_community">Podeu trobar respostes a les vostres preguntes a la comunitat Xiaomi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="miui_feedback_answer_detail_feedback_result">Gràcies pels vostres comentaris!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Us va ser útil aquesta informació?</string>
@@ -157,15 +157,6 @@ Correu electrònic: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_title">Comentaris</string>
     <string name="miui_feedback_main_withdraw">Retirar</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Si continua, retirarà el seu consentiment a la Política de Privacitat de %1$s. La informació personal ja recollida i retinguda s'eliminarà en el termini específic d'acord amb les lleis i regulacions aplicables, llevat que es requereixi el contrari. Atès que %2$s presta els seus serveis basats en la recopilació de la informació personal necessària, la seva retirada del consentiment es mantindrà com a neda a acceptar %3$s serveis. Retirar el consentiment ara?"</string>
-    <string name="miui_guide_accessibility_image_desc">Imatge</string>
-    <string name="miui_guide_clear_db_service">\"Serveis i comentaris\" està esborrant la memòria cau d\'idiomes…</string>
-    <string name="miui_guide_footer_desc">"La Guia per a principiants està dissenyada per ajudar-vos a obtenir més informació sobre el vostre dispositiu i MIUI. Algunes imatges i vídeos de la guia s'han creat només per a finalitats de referència i poden diferir del producte real. Les funcions descrites en aquesta guia poden variar en funció del model de dispositiu, de la versió MIUI i de l'entorn d'ús."</string>
-    <string name="miui_guide_item_complete">Completat</string>
-    <string name="miui_guide_item_new">Nou</string>
-    <string name="miui_guide_item_progress">Completat %1$d/%2$d</string>
-    <string name="miui_guide_menu_privacy">Política de privadesa</string>
-    <string name="miui_guide_top_bar_sub_title">Apreneu què pot fer MIUI</string>
-    <string name="miui_guide_top_bar_title">"Guia per a principiants"</string>
     <string name="miui_main_back">Enrere</string>
     <string name="miui_main_bottom_bar_feedback">Comentaris</string>
     <string name="miui_main_bottom_bar_guide">"Guia per a principiants"</string>
@@ -280,7 +271,7 @@ Correu electrònic: service.jp@xiaomi.com"</string>
     <string name="permission_china_version_msg">&lt;Data&gt;Abans d\'utilitzar \"Serveis i comentaris\", debeu llegir i acceptar el nostre &lt;a href=%1$s&gt;Acord d\'Usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt;. Aquesta aplicació també necessita connectar-se a internet per funcionar amb normalitat.&lt;/Data&gt;</string>
     <string name="permission_complete">Fet</string>
     <string name="permission_contacts_info">Accés a la informació del compte</string>
-    <string name="permission_contacts_introduce">Per iniciar sessió amb el Compte Mi</string>
+    <string name="permission_contacts_introduce">Per iniciar la sessió amb el compte Xiaomi</string>
     <string name="permission_device_info">Accediu a la informació del dispositiu</string>
     <string name="permission_device_introduce">Per determinar el període de garantia limitat</string>
     <string name="permission_exit">Surt</string>

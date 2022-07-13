@@ -123,6 +123,7 @@
     <string name="content_desc_activity_main_add_city">Afegeix una ciutat</string>
     <string name="content_desc_activity_main_add_city_manage">Gestiona les ciutats</string>
     <string name="content_desc_activity_main_more_settings">Més configuracions</string>
+    <string name="content_desc_activity_main_page">Pàgina %1$d de %2$d</string>
     <string name="content_desc_back_button">Enrere</string>
     <string name="content_desc_city_manage_del">Suprimeix</string>
     <string name="content_desc_close_button">Tanca</string>
@@ -324,7 +325,7 @@
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Massa alta</string>
     <string name="permission_device_info">Informació del dispositiu</string>
-    <string name="permission_device_introduce">Per reconèixer la identificació de dispositiu basada en el model de dispositiu i l\'IMEI, i proporcionar serveis localitzats en funció de les preferències d\'idioma</string>
+    <string name="permission_device_introduce">Per reconèixer dispositius basats en el model de dispositiu i proporcionar serveis localitzats basats en preferències d\'idioma</string>
     <string name="permission_exit">Surt</string>
     <string name="permission_privacy">Política de privadesa (obligatòria)</string>
     <string name="permission_select_all">Selecciona-ho tot</string>

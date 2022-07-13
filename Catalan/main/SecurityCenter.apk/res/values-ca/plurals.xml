@@ -484,6 +484,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">Introduïu almenys %d caràcters</item>
         <item quantity="one">Introduïu almenys %d caràcter</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">Resten %d dies abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
         <item quantity="one">Resta %d dia abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>

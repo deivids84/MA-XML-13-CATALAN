@@ -169,6 +169,8 @@ dd/MM"</string>
     <string name="midnight">Nit</string>
     <string name="mini_time">Rellotge petit</string>
     <string name="minimalist_clock">Rellotge simple</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
@@ -183,6 +185,8 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
+    <string name="miuix_indexer_collect">Coŀleccions</string>
+    <string name="miuix_indexer_selected">%sseleccionat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -307,7 +311,7 @@ dd/MM"</string>
     <string name="select_notification_notify_style">Selecciona efecte de notificació</string>
     <string name="send">Envia</string>
     <string name="share">Compartir</string>
-    <string name="share_to_community">Comparteix a Mi Comunitat</string>
+    <string name="share_to_community">Comparteix-ho amb la comunitat Xiaomi</string>
     <string name="show_battery">Mostrar estat de la bateria</string>
     <string name="show_battery_status">Mostreu l\'estat de la bateria</string>
     <string name="show_lunar">Mostra el calendari tradicional xinès</string>
@@ -323,7 +327,7 @@ alguna cosa meravellosa"</string>
     <string name="step_component_info_active_tip">El recompte de passes és a càrrec de Xiaomi Health. Accepta els termes i condicions de Xiaomi Health per a continuar.</string>
     <string name="step_component_info_desc">El recompte de passes es convertirà en trofeu quan aconsegueixis la teva meta. El recompte de passes és a càrrec de Xiaomi Health.</string>
     <string name="step_component_info_tip">El recompte de passes és a càrrec de Xiaomi Health. Instal·la o actualitza Xiaomi Health i accepta els seus termes i condicions per a continuar.</string>
-    <string name="step_to_image_community">Trobeu més a Comunitat Mi</string>
+    <string name="step_to_image_community">Més informació a La Comunitat Xiaomi</string>
     <string name="summary">"Per a reduir el consum de bateria, els elements no es mostraran quan el teu dispositiu estigui a les fosques per molta estona."</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>

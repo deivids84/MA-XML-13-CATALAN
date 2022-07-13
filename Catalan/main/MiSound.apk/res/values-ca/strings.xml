@@ -117,7 +117,7 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
-    <string name="four_note">La prova trigarà uns 3 minuts a completar-se.</string>
+    <string name="four_note">La prova trigarà uns %d minuts a completar-se.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -274,7 +274,7 @@
     <string name="music_audio_effect_settings">Configuració d\'àudio</string>
     <string name="music_audio_visual_wake_lock">Mantingues la pantalla encesa</string>
     <string name="music_audio_visual_wake_lock_summary">"No apaguis la pantalla mentre es mostrin efectes visuals"</string>
-    <string name="music_below_thirty_years">Fins als 30 anys</string>
+    <string name="music_below_thirty_years">Fins a %d anys</string>
     <string name="music_customized_sound_summary">Personalitzeu el volum segons la vostra percepció auditiva</string>
     <string name="music_customized_sound_title">Ajust de volum</string>
     <string name="music_delete">Elimineu</string>
@@ -363,10 +363,10 @@
     <string name="music_sound_num">Presets personalitzats %s</string>
     <string name="music_sound_sample">Presets del sistema</string>
     <string name="music_sure_to_delete_sound_msg">Voleu suprimir els prestabliments seleccionats?</string>
-    <string name="music_thirty_to_sixty_years">30--60 anys</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d anys</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
-    <string name="music_upper_sixty_years">Més de 60 anys</string>
+    <string name="music_upper_sixty_years">Més de %d anys</string>
     <string name="name">Nom</string>
     <string name="night">Vespre</string>
     <string name="noon">Migdia</string>

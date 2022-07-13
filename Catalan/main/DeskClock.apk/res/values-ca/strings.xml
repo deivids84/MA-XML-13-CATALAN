@@ -671,6 +671,8 @@
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">Mateixa a la hora local</string>
     <string name="xiaoai_ringtone_title">Tons de trucada IA Mi</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"Rellotge és una aplicació del sistema. No podreu comprovar l'hora, configurar alarmes ni utilitzar altres funcions del rellotge després de desinstal·lar l'aplicació."</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Voleu desinstal·lar el Rellotge?</string>
     <string name="yesterday">Ahir</string>
     <string name="your_sounds">Els meus sons</string>
 </resources>

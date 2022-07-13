@@ -46,8 +46,8 @@
     <string name="add_field">Afegeix un altre camp</string>
     <string name="add_field_toast">No hi ha més camps per afegir.</string>
     <string name="add_new_account">Afegeix un nou compte</string>
-    <string name="add_xiaomi_account_dialog_btn">Utilitzeu el Compte Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">Feu còpia de seguretat dels contactes al seu Compte Mi per accedir-hi des de qualsevol lloc!</string>
+    <string name="add_xiaomi_account_dialog_btn">Utilitza el compte Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Feu una còpia de còpia de casa dels vostres contactes al vostre compte Xiaomi per accedir-hi des de qualsevol lloc.</string>
     <string name="add_xiaomi_account_dialog_title">Trieu compte</string>
     <string name="afternoon">Tarda</string>
     <string name="aggregation_suggestion_edit_dialog_message">Canviar a edició del contacte del mateix nom? La informació introduïda fins al moment es copiarà.</string>
@@ -685,7 +685,7 @@ Motiu: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
     <string name="import_to_xiaomi_account_progress_finish">Contactes importats!</string>
     <string name="import_to_xiaomi_account_progress_message">S\'està important…</string>
-    <string name="import_to_xiaomi_account_title">Importa a Compte Mi</string>
+    <string name="import_to_xiaomi_account_title">Importa al compte Xiaomi</string>
     <string name="import_vcard_dialog_message">Importar vCard?</string>
     <string name="importing_sim_contacts_miui">Importa contactes de la targeta SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes…</string>
@@ -694,6 +694,11 @@ Motiu: \"%s\""</string>
     <string name="importing_vcard_finished_title">S\'ha acabat d\'importar vCard %s</string>
     <string name="insertContactDescription">Crea contacte</string>
     <string name="invalidContactMessage">"No existeix el contacte"</string>
+    <string name="invisible_mode_dialog_cancel">Cancel·lar</string>
+    <string name="invisible_mode_dialog_to_close">Apagar</string>
+    <string name="invisible_mode_title">"Ets d'incògnit"</string>
+    <string name="invisible_mode_unable_connect_camera">Desactiva el mode d\'incògnit per poder utilitzar la càmera. Apagar ara?</string>
+    <string name="invisible_mode_unable_get_location">Desactiva el mode d\'incògnit per poder utilitzar els serveis d\'ubicació i importar contactes d\'altres dispositius via Bluetooth. Apagar ara?</string>
     <string name="item_offical">Oficial</string>
     <string name="keep_local">"Mantén local"</string>
     <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del dispositiu"</string>
@@ -954,9 +959,9 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="pref_key_sim_manage">Configura la targeta SIM</string>
     <string name="pref_key_sim_manage1">Configura SIM 1</string>
     <string name="pref_key_sim_manage2">Configura SIM 2</string>
-    <string name="pref_summary_import_from_account">Transferència de contactes des de comptes de Google i Exchange al meu Compte Mi</string>
+    <string name="pref_summary_import_from_account">Transferir contactes dels comptes de Google i d\'Exchange al meu Compte Xiaomi</string>
     <string name="pref_title_account_import">Importa contactes</string>
-    <string name="pref_title_import_from_account">Importa a Compte Mi</string>
+    <string name="pref_title_import_from_account">Importa al compte Xiaomi</string>
     <string name="preference_contacts">Contactes</string>
     <string name="preference_contacts_filter">Configura llistes de contactes</string>
     <string name="preference_contacts_more">Organitza els contactes</string>

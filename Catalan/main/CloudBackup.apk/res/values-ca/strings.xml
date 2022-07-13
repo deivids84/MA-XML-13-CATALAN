@@ -133,7 +133,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_back_up_opening">Un moment…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Millora</string>
     <string name="cloud_back_up_subscribe_vip_discription">Aconseguiu més espai d\'emmagatzematge, còpies diàries i molt més.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Millora el Compte Mi</string>
+    <string name="cloud_back_up_subscribe_vip_title">Actualitza el compte Xiaomi</string>
     <string name="cloud_back_up_task">Còpia en curs…</string>
     <string name="cloud_backup">Còpies de seguretat</string>
     <string name="cloud_backup_derail_size_summary">Mida: %s</string>
@@ -143,7 +143,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_frequence_every_7_day">Fes una còpia de seguretat cada %d dies</string>
     <string name="cloud_backup_detail_frequence_every_day">Fes una còpia de seguretat cada dia</string>
     <string name="cloud_backup_detail_header_msg">"Ara podeu fer una còpia de seguretat de la disposició de la pantalla d'inici, les aplicacions, la configuració del sistema i les dades de WeChat del vostre dispositiu. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toqueu per obtenir més informació.&lt;/a&gt;&lt;/font&gt;"</string>
-    <string name="cloud_backup_detail_local_backup_size">Mida de la còpia de seguretat: %s</string>
+    <string name="cloud_backup_detail_local_backup_size">Mida de la còpia de seguretat estimada: %s</string>
     <string name="cloud_backup_detail_manage">Gestiona les còpies de seguretat</string>
     <string name="cloud_backup_detail_no_time">No hi ha cap registre de còpia de seguretat</string>
     <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
@@ -347,7 +347,7 @@ Envieu aquest codi al tècnic."</string>
     <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="network_timeout_info">"No s’ha pogut connectar a la xarxa. Torneu-ho a provar."</string>
     <string name="night">Vespre</string>
-    <string name="no_account">No heu iniciat sessió al Compte Mi.</string>
+    <string name="no_account">No heu iniciat la sessió al compte Xiaomi.</string>
     <string name="no_backup">No hi ha còpies de seguretat al Núvol Xiaomi.</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>

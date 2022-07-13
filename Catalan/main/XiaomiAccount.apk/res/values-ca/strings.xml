@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_device_info">Mostra els detalls del dispositiu</string>
-    <string name="about_mi_account">Sobre el Compte Mi</string>
+    <string name="about_mi_account">Quant al compte Xiaomi</string>
     <string name="accept">Permet</string>
     <string name="access_denied_info">Massa intents. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="access_token_expired_warning">El compte Weibo ha caducat</string>
@@ -40,7 +40,7 @@
     <string name="account_bind_secure_phone_title">Afegeix un número de telèfon</string>
     <string name="account_bind_settings">Comptes</string>
     <string name="account_crop_user_avatar">Escapça la foto</string>
-    <string name="account_empty_user_name">Introduïu el vostre nom d\'usuari del compte Mi</string>
+    <string name="account_empty_user_name">Introduïu el nom d\'usuari del vostre compte Xiaomi</string>
     <string name="account_error_all_space_user_name">"El nom no pot contenir només espais"</string>
     <string name="account_error_invalid_user_name">"El nom no pot contenir &lt;, &gt;, /"</string>
     <string name="account_error_longer_user_name">"El nom no pot superar els 20 caràcters"</string>
@@ -73,8 +73,8 @@
     <string name="account_user_details">Informació personal</string>
     <string name="account_user_email">Correu de recuperació</string>
     <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">Identificador del compte Mi</string>
-    <string name="account_user_id_show">Compte Mi: %s</string>
+    <string name="account_user_id">Identificador del compte Xiaomi</string>
+    <string name="account_user_id_show">Compte Xiaomi: %s</string>
     <string name="account_user_name">Nom</string>
     <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
     <string name="account_user_other_info">Més fonts</string>
@@ -96,7 +96,7 @@
     <string name="afternoon">Tarda</string>
     <string name="agreement_and_privacy">Termes i condicions</string>
     <string name="am">AM</string>
-    <string name="app_name">Compte Mi</string>
+    <string name="app_name">Compte Xiaomi</string>
     <string name="area_code_no_search_result">"No s'han pogut trobar resultats"</string>
     <string name="area_code_search_hint">Cerca país o regió</string>
     <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar-la més tard</string>
@@ -104,14 +104,14 @@
     <string name="auto_fill_not_sport_on_water_mark_version">"L'emplenament automàtic d'inici de sessió no és compatible amb versions amb marca d'aigua"</string>
     <string name="bind_facebook">Connecteu el vostre compte de Facebook</string>
     <string name="bind_google">Connecteu el vostre compte de Google</string>
-    <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar la sessió al vostre compte Mi la pròxima vegada.</string>
+    <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar la sessió al vostre compte Xiaomi la propera vegada.</string>
     <string name="bind_sina_weibo">Connecteu el compte Sina Weibo</string>
     <string name="bind_sns_description">Inicieu sessió amb %s</string>
     <string name="bind_weibo_description">Afegiu els vostres amics de Sina Weibo</string>
     <string name="bind_weixin">Connecteu el vostre compte WeChat</string>
     <string name="binded">Connectat</string>
-    <string name="binded_description" formatted="false">"%s s'ha connectat al vostre compte Mi.
-Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
+    <string name="binded_description" formatted="false">"%s s'ha connectat al vostre compte Xiaomi.
+Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="button_agree">D\'acord</string>
     <string name="button_close">Tanca</string>
     <string name="button_refuse">"No estic d'acord"</string>
@@ -180,7 +180,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="confirm_phone_number_dialog_message">El codi de verificació s\'enviarà a %s.</string>
     <string name="confirm_phone_number_dialog_title">Confirmeu el número de telèfon</string>
     <string name="confirm_unbind">Voleu desconnectar aquest compte?</string>
-    <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està associat amb el compte Mi %2$s. Si continueu, ja no s’associarà amb el compte Mi %3$s. Voleu continuar?</string>
+    <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està associat amb el compte Xiaomi %2$s. Ja no s\'associarà amb el compte Xiaomi %3$s si continueu. Continuar?</string>
     <string name="continue_action">Continua</string>
     <string name="copy">Copia</string>
     <string name="copy_link">Copia l\'URL</string>
@@ -192,7 +192,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="delete_bank_card_title">Atenció</string>
     <string name="delete_device_btn">Elimina</string>
     <string name="delete_device_failed">"No es pot eliminar el dispositiu"</string>
-    <string name="delete_device_notice">"Un cop eliminat el dispositiu, es traurà automàticament del compte Mi. No podreu utilitzar aquest dispositiu per accedir a les fotos, missatges o altre contingut emmagatzemat al vostre compte."</string>
+    <string name="delete_device_notice">"Després de suprimir el dispositiu, es donarà de baixa automàticament del compte Xiaomi. No podreu utilitzar aquest dispositiu per accedir a les fotos, als missatges o a altres continguts emmagatzemats al compte."</string>
     <string name="deny">Denega</string>
     <string name="device_delete_success_message">"Si no heu iniciat la sessió en aquest dispositiu, canvieu la contrasenya immediatament."</string>
     <string name="device_delete_success_title">Sessió tancada</string>
@@ -207,16 +207,16 @@ Envieu aquest codi al supervisor."</string>
     <string name="early_morning">Matí</string>
     <string name="empty_device_list_notice">No hi ha dispositius</string>
     <string name="enable">Configuració</string>
-    <string name="ep_unsupported">"No es pot iniciar la sessió al compte Mi al dispositiu"</string>
+    <string name="ep_unsupported">"No es pot iniciar la sessió al compte Xiaomi del dispositiu"</string>
     <string name="eras_bc">a.C.</string>
-    <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
+    <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Xiaomi.</string>
     <string name="error_invalid_bind_address">L\'adreça de correu que heu introduït no és vàlida.</string>
     <string name="evening">Tarda</string>
-    <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre compte Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat amb un altre compte Xiaomi.</string>
     <string name="exit">Surt</string>
     <string name="expand_button_title">Avançat</string>
     <string name="facebook_login">Inicieu la sessió amb Facebook</string>
-    <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
+    <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat amb un altre compte Xiaomi</string>
     <string name="family_share">Compartir en família</string>
     <string name="find_device">Troba el dispositiu</string>
     <string name="find_device_access_denied">"No es pot obtenir l'estat, s'ha denegat l'accés"</string>
@@ -225,7 +225,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="find_device_bad_response_error">S\'ha produït un error de servidor. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="find_device_clear_data">Esborra les dades</string>
     <string name="find_device_close">Desactivat</string>
-    <string name="find_device_error_password_not_confirmed">"No es pot desactivar Troba el dispositiu. Torneu a introduir la contrasenya del compte Mi."</string>
+    <string name="find_device_error_password_not_confirmed">"No es pot desactivar El dispositiu Cerca. Torneu a introduir la contrasenya del compte Xiaomi."</string>
     <string name="find_device_error_password_recently_changed">"Heu canviat la contrasenya en els darrers %d dies. No es pot desactivar la cerca del dispositiu ara per motius de seguretat."</string>
     <string name="find_device_interrupted">L\'acció es va interrompre, espereu un minut o dos i torneu-ho a intentar</string>
     <string name="find_device_io_error">"No es pot connectar a la xarxa"</string>
@@ -264,11 +264,11 @@ Envieu aquest codi al supervisor."</string>
     <string name="get_back_pwd">Restabliment de la contrasenya</string>
     <string name="get_device_list_failed">"No es poden obtenir els dispositius"</string>
     <string name="get_identity_auth_url_failed">"No s'ha pogut verificar l'identificador"</string>
-    <string name="get_phone_bind_exceed_limit">"Podeu associar fins a tres comptes Mi amb un número de telèfon. No es poden afegir comptes nous."</string>
+    <string name="get_phone_bind_exceed_limit">"Podeu associar fins a 3 comptes Xiaomi amb un número de telèfon. No es poden afegir comptes nous."</string>
     <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
     <string name="google_login">Inicia la sessió amb Google</string>
     <string name="goto_accept">D’acord</string>
-    <string name="guest_account_label">Compte de convidat Mi</string>
+    <string name="guest_account_label">Compte de convidat Xiaomi</string>
     <string name="has_no_new_version">Actualitzat</string>
     <string name="health_action_activate">Activa</string>
     <string name="health_action_install">Instal·la</string>
@@ -286,7 +286,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="input_new_pwd">Introduïu una nova contrasenya</string>
     <string name="io_error_title">Confirmeu la vostra xarxa</string>
     <string name="just_a_second">Un moment…</string>
-    <string name="kr_license_desc">Heu d’acceptar el nostre Acord d’usuari i la nostra Política de privadesa abans d’utilitzar els serveis del Compte Mi i Xiaomi Cloud.</string>
+    <string name="kr_license_desc">Heu d\'acceptar el nostre Acord d\'Usuari i la nostra Política de privadesa abans d\'utilitzar els serveis del Compte Xiaomi i xiaomi Cloud.</string>
     <string name="kr_permission_contacts_desc">Per accedir a la informació de contacte</string>
     <string name="kr_permission_desc">Permisos necessaris</string>
     <string name="kr_permission_phone_desc">Per protegir el vostre compte</string>
@@ -298,10 +298,10 @@ Envieu aquest codi al supervisor."</string>
     <string name="login_3rd_app_with_system_account">Inicia la sessió a %s</string>
     <string name="login_check_find_device">Obtenint la informació de seguretat del dispositiu…</string>
     <string name="login_check_find_device_failed_title">"No s'ha pogut comprovar la informació de seguretat del dispositiu"</string>
-    <string name="login_find_device_bind">Aquest dispositiu està associat a un identificador de compte Mi (%s) existent.</string>
+    <string name="login_find_device_bind">Aquest dispositiu està associat amb un identificador de compte Xiaomi existent (%s).</string>
     <string name="login_notification_button_text">Inicia la sessió</string>
     <string name="login_notification_desc">Gaudiu dels serveis al núvol, de l\'espai d\'emmagatzematge familiar i molt més</string>
-    <string name="login_notification_title">Inicieu la sessió al compte Mi</string>
+    <string name="login_notification_title">Inicia la sessió al teu compte Xiaomi</string>
     <string name="login_with_other">Més opcions</string>
     <string name="logout_account">Tanca la sessió</string>
     <string name="logout_failed">"No s'ha pogut tancar la sessió"</string>
@@ -388,7 +388,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
-    <string name="multi_user_not_show_sync_activity_message_1">"Sembla que esteu utilitzant el vostre compte Mi en el primer espai."</string>
+    <string name="multi_user_not_show_sync_activity_message_1">"Sembla que utilitzeu el vostre primer espai del compte Xiaomi."</string>
     <string name="multi_user_not_show_sync_activity_message_2">"En aquest cas, totes les dades se sincronitzaran al vostre segon espai. Per evitar-ho, no activeu la sincronització amb el núvol."</string>
     <string name="multi_user_not_show_sync_activity_title">"No activeu la sincronització amb el núvol"</string>
     <string name="my_device_title">Dispositiu actual</string>
@@ -412,16 +412,16 @@ Envieu aquest codi al supervisor."</string>
     <string name="not_set">Sense definir</string>
     <string name="notify_bind_security_phone">Afegiu un telèfon de recuperació</string>
     <string name="notify_complete_security_info">Afegiu informació de recuperació</string>
-    <string name="notify_network_restricted_content_bg_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
-    <string name="notify_network_restricted_content_hidden_state">"L’activitat en segon pla del compte Mi està restringida. Toqueu per permetre-ho."</string>
-    <string name="notify_network_restricted_content_mobile_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
-    <string name="notify_network_restricted_title">"El compte Mi no s'ha pogut connectar a la xarxa"</string>
+    <string name="notify_network_restricted_content_bg_network">"L'accés a Internet del compte Xiaomi està restringit. Toca per permetre-ho."</string>
+    <string name="notify_network_restricted_content_hidden_state">"L'activitat en segon pla del compte Xiaomi està restringida. Toca per permetre-ho."</string>
+    <string name="notify_network_restricted_content_mobile_network">"L'accés a Internet del compte Xiaomi està restringit. Toca per permetre-ho."</string>
+    <string name="notify_network_restricted_title">"El compte Xiaomi no s'ha pogut connectar a la xarxa"</string>
     <string name="notify_verify_again_security_phone">Confirma</string>
     <string name="notify_verify_security_phone">Telèfon</string>
     <string name="oauth_get_scopes_failed">"No s'ha pogut obtenir la informació del compte"</string>
     <string name="oauth_getting_scopes">S\'està verificant el compte…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtindrà els permisos següents:&lt;br&gt; &lt;br&gt; %3$s</string>
-    <string name="oauth_title">Inicia la sessió amb el compte Mi</string>
+    <string name="oauth_title">Inicia la sessió amb el compte Xiaomi</string>
     <string name="ok">D\'acord</string>
     <string name="operator_mobile">China Mobile</string>
     <string name="operator_mobile_agreement">Serveis de verificacions proporcionats per China Mobile</string>
@@ -434,9 +434,9 @@ Envieu aquest codi al supervisor."</string>
     <string name="page_load_failed">"No es pot obrir la pàgina"</string>
     <string name="passport_Resend">Reenvia</string>
     <string name="passport_access_denied">S\'ha denegat l\'accés</string>
-    <string name="passport_account_hint_text">Adreça de correu/Número de telèfon/ID del Compte Mi</string>
+    <string name="passport_account_hint_text">Correu electrònic/número de telèfon/Identificador del compte Xiaomi</string>
     <string name="passport_account_identity_title">Verifiqueu la vostra identitat</string>
-    <string name="passport_account_label">Compte Mi</string>
+    <string name="passport_account_label">Compte Xiaomi</string>
     <string name="passport_account_name">"Compte: %1$s "</string>
     <string name="passport_account_not_activated">"El compte no s'ha activat"</string>
     <string name="passport_account_not_actived">"El vostre compte no s'ha activat"</string>
@@ -463,14 +463,14 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_completed">Finalitza</string>
     <string name="passport_confirm_login">Inicia la sessió</string>
     <string name="passport_confirm_recycle_account">Sí</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Sembla&lt;/font&gt; que el numero %s ha estat reciclat pel vostre operador i hi ha un Compte Mi associat. És aquest el vostre compte?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Sembla&lt;/font&gt; el nombre %s ha estat reciclat pel vostre operador i hi ha un compte Xiaomi associat. Aquest compte és teu?"</string>
     <string name="passport_continue">Continua</string>
     <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
     <string name="passport_copy_message_vcode">Copia el codi</string>
     <string name="passport_delete_account">Tanca la sessió</string>
     <string name="passport_downlink_reg">Número de telèfon</string>
     <string name="passport_email">Adreça de correu</string>
-    <string name="passport_email_or_id_hint_text">Adreça de correu/ID del Compte Mi</string>
+    <string name="passport_email_or_id_hint_text">Identificador del compte de correu electrònic/Xiaomi</string>
     <string name="passport_email_reg_success_summary">%1$s ha estat vinculat amb el vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la vostra contrasenya.</string>
     <string name="passport_error_auth_fail">La sessió ha expirat, torneu a iniciar-la més tard</string>
     <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
@@ -500,7 +500,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_error_verify_activator_phone_title">"No s'ha pogut verificar el número de telèfon"</string>
     <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
     <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restablir la vostra contrasenya.</string>
-    <string name="passport_first_login_prompt">El meu compte es crearà automàticament quan utilitzeu un número de telèfon per primera vegada.</string>
+    <string name="passport_first_login_prompt">El compte Xiaomi es crearà automàticament quan utilitzeu un número de telèfon per primera vegada.</string>
     <string name="passport_forget_password"><u>Heu oblidat la contrasenya</u></string>
     <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
     <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
@@ -513,11 +513,11 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_getting_verify_code">Obtenint</string>
     <string name="passport_google_login">Inicia la sessió amb el compte de Google utilitzat anteriorment?</string>
     <string name="passport_google_login_agree">Compte de Google</string>
-    <string name="passport_google_login_disagree">Compte Mi</string>
-    <string name="passport_google_login_failed">"No s'ha pogut iniciar la sessió amb Google. Inicieu la sessió al vostre compte de Mi directament."</string>
+    <string name="passport_google_login_disagree">Compte Xiaomi</string>
+    <string name="passport_google_login_failed">"No s'ha pogut iniciar la sessió amb Google. Inicia la sessió directament al teu compte Xiaomi."</string>
     <string name="passport_i_know">Ho tinc</string>
     <string name="passport_identification_expired">El codi de verificació ha caducat, torneu a començar</string>
-    <string name="passport_imei_permission_denied_message">"Sol·licitem permís per obtenir l’IMEI del vostre dispositiu. El compte Mi utilitza l'IMEI per identificar el dispositiu des del qual entreu/us registreu, per mantenir el vostre compte Mi segur."</string>
+    <string name="passport_imei_permission_denied_message">"Us demanem permís per obtenir l'IMEI del vostre dispositiu. El compte Xiaomi utilitza IMEI per identificar el dispositiu en què inicieu la sessió / registreu-vos, per ajudar a mantenir el vostre compte Xiaomi segur."</string>
     <string name="passport_imei_permission_denied_title">Permís per consultar l\'IMEI</string>
     <string name="passport_input_captcha_hint">Introduïu el codi</string>
     <string name="passport_input_password_for_login">Aquest número està associat a un compte existent, introduïu la vostra contrasenya</string>
@@ -537,17 +537,17 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_login_other_account">Un altre compte</string>
     <string name="passport_login_other_phone">Utilitzeu un altre compte</string>
     <string name="passport_login_other_way">Altres maneres d\'iniciar la sessió</string>
-    <string name="passport_login_prompt">Tots els serveis Mi. Un compte Mi.</string>
+    <string name="passport_login_prompt">Tots els serveis Xiaomi. Un compte Xiaomi.</string>
     <string name="passport_login_recycle_account_no">No</string>
     <string name="passport_login_recycle_account_yes">Sí</string>
-    <string name="passport_login_title">Inicieu la sessió al vostre compte de Mi</string>
+    <string name="passport_login_title">Inicia la sessió al teu compte Xiaomi</string>
     <string name="passport_login_using_other_ways">Altres maneres d’iniciar la sessió</string>
     <string name="passport_message_dialog_title">SMS amb codis de verificació</string>
     <string name="passport_new_user_register">Crea un compte</string>
     <string name="passport_next">Següent</string>
     <string name="passport_no">No</string>
     <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
-    <string name="passport_password_phone_login">Inicieu la sessió mitjançant el compte Mi</string>
+    <string name="passport_password_phone_login">Inicia la sessió amb el compte Xiaomi</string>
     <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
     <string name="passport_phone_num_hint_text">Número de telèfon</string>
     <string name="passport_phone_ticket_login">Inicia la sessió amb SMS</string>
@@ -567,15 +567,15 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_quick_login_step2_title">Verificació en 2 passos</string>
     <string name="passport_quick_login_title">Introduïu la contrasenya</string>
     <string name="passport_quick_register">Registreu-vos</string>
-    <string name="passport_quick_register_notice"><u>\"No teniu cap compte Mi? Creeu-ne un.\"</u></string>
+    <string name="passport_quick_register_notice"><u>\"No tens un compte Xiaomi? Crea\'n un</u></string>
     <string name="passport_re_get_verify_code">Torneu a obtenir el codi</string>
     <string name="passport_re_register">Registreu-vos de nou</string>
-    <string name="passport_recycle_account_prompt">És aquest el vostre compte Mi?</string>
+    <string name="passport_recycle_account_prompt">És aquest el teu compte Xiaomi?</string>
     <string name="passport_recycle_login_other_account">"No són meus. En faré servir un de diferent."</string>
     <string name="passport_reg_btn_using_other_phone">Utilitzeu un número de telèfon alternatiu</string>
     <string name="passport_reg_failed">"No es pot configurar el compte"</string>
     <string name="passport_reg_new_account">Crea un compte</string>
-    <string name="passport_reg_prompt">"No teniu cap compte Mi? Creeu-ne un de franc."</string>
+    <string name="passport_reg_prompt">"No tens un compte Xiaomi? Crea'n un de forma gratuïta."</string>
     <string name="passport_reg_recycle_account_no">No</string>
     <string name="passport_reg_recycle_account_yes">Sí</string>
     <string name="passport_reg_success">S\'ha creat el compte</string>
@@ -608,7 +608,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_reset_password_title">Restableix la contrasenya</string>
     <string name="passport_restart">Comença de nou</string>
     <string name="passport_restart_register_prompt">Es pot requerir un altre missatge de verificació per crear el compte.</string>
-    <string name="passport_restart_register_title">Crea un Compte Mi</string>
+    <string name="passport_restart_register_title">Crear un compte Xiaomi</string>
     <string name="passport_retry">Torna-ho a provar</string>
     <string name="passport_select_reg_ways_title">Altres maneres de registrar-vos</string>
     <string name="passport_select_the_login_account">Seleccioneu el compte per iniciar la sessió</string>
@@ -622,20 +622,18 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_setting">S\'està configurant…</string>
     <string name="passport_skip_login">Omet</string>
     <string name="passport_skip_register">Omet el registre</string>
-    <string name="passport_skip_setup_account_msg">Per iniciar la sessió al meu compte, podeu utilitzar els serveis de Xiaomi Cloud. Eviteu aquest pas de totes maneres?</string>
-    <string name="passport_skip_setup_account_title">El meu compte i Xiaomi Cloud</string>
+    <string name="passport_skip_setup_account_msg">Iniciar la sessió al compte Xiaomi us permet utilitzar els serveis Xiaomi Cloud. Voleu saltar aquest pas de totes maneres?</string>
+    <string name="passport_skip_setup_account_title">Compte Xiaomi i Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Enviat</string>
     <string name="passport_sms_verification_code_login">Inicia la sessió mitjançant SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Inicieu la sessió o creeu un compte mitjançant SMS</string>
     <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
-    <string name="passport_sync_account_data_failed_warning">Ara s\'està sincronitzant la informació del vostre compte, podeu iniciar la sessió mitjançant el vostre identificador del compte Mi. Si voleu iniciar la sessió mitjançant el telèfon o el correu electrònic, espereu fins que la informació estigui totalment sincronitzada.</string>
+    <string name="passport_sync_account_data_failed_warning">La informació del vostre compte s\'està sincronitzant ara, podeu iniciar la sessió amb l\'identificador del compte Xiaomi. Si voleu iniciar la sessió amb el telèfon o el correu electrònic, espereu fins que la informació estigui completament sincronitzada.</string>
     <string name="passport_talkback_image_captcha">Codi de verificació d’imatge</string>
     <string name="passport_talkback_switch_image_captcha">Canvia a codi de verificació d’imatge</string>
     <string name="passport_talkback_switch_voice_captcha">Canvia a codi de verificació de veu</string>
     <string name="passport_talkback_voice_captcha">Reprodueix el codi de verificació de veu</string>
     <string name="passport_ticket_login_select_sim_card">Seleccioneu targeta SIM</string>
-    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d : %2$s</string>
-    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Cancel·la</string>
     <string name="passport_title_reg">Crea un compte</string>
     <string name="passport_trust_device">Afegeix aquest dispositiu a dispositius verificats</string>
@@ -651,12 +649,12 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_uplink_sms_sending">S\'està enviant el missatge de pagament…</string>
     <string name="passport_uplink_suggest_dialog_msg">"No s'ha pogut rebre el codi. Voleu utilitzar un SMS d’enllaç ascendent de pagament?"</string>
     <string name="passport_uplink_suggest_dialog_title">Atenció</string>
-    <string name="passport_use_generated_pwd_message">Assegureu-vos de recordar la vostra contrasenya. Podeu utilitzar-la per iniciar la sessió a altres serveis Mi.</string>
+    <string name="passport_use_generated_pwd_message">Assegureu-vos de recordar la contrasenya. Podeu utilitzar-lo per iniciar la sessió en altres serveis Xiaomi.</string>
     <string name="passport_use_generated_pwd_title">Recordeu la vostra contrasenya</string>
     <string name="passport_user_agreement">Acord d\'usuari</string>
     <string name="passport_user_agreement_link"><Data>\"He llegit i accepto de Xiaomi &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;de Privacitat Política de&lt;/a&gt;\".</Data></string>
     <string name="passport_user_agreement_required">Acord d\'usuari (obligatori)</string>
-    <string name="passport_user_id_notice">El vostre ID del Compte Mi és %s.</string>
+    <string name="passport_user_id_notice">L\'identificador del compte Xiaomi és %s.</string>
     <string name="passport_user_reg_region">País/regió</string>
     <string name="passport_user_reg_region_warning">"No podreu canviar el país/regió un cop s'hagi creat el compte."</string>
     <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
@@ -690,29 +688,29 @@ Envieu aquest codi al supervisor."</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
-    <string name="privacy_policy_reject_confirm_msg">"No podreu seguir utilitzant el Compte Mi tret que accepteu la nova versió de la seva Política de privadesa. Esteu d'acord amb la nova &lt;a href=%1$s&gt;Política de privadesa&lt;/a&gt; del Compte Mi?"</string>
-    <string name="privacy_policy_reject_confirm_title">"No es pot utilitzar el Compte Mi"</string>
-    <string name="privacy_policy_update_msg">La política de privadesa del Compte Mi s\'ha actualitzat:&lt;br/&gt;%1$s&lt;br/&gt;Llegiu i accepteu la nova versió de la &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
+    <string name="privacy_policy_reject_confirm_msg">"No podreu continuar utilitzant el compte Xiaomi tret que accepteu la nova versió de la seva Política de privadesa. Esteu d'acord amb la&lt;/a&gt; política de privadesa &lt;a href=%1$s&gt;del compte Xiaomi actualitzada ara?"</string>
+    <string name="privacy_policy_reject_confirm_title">"No es pot utilitzar el compte Xiaomi"</string>
+    <string name="privacy_policy_update_msg">S\'ha actualitzat la política de privadesa del compte Xiaomi:&lt;br/&gt;%1$s&lt;br/&gt;Llegiu i accepteu la nova versió de &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
     <string name="privacy_policy_update_title">Política de privadesa actualitzada</string>
     <string name="progressbar_title">S’està comprovant si hi ha problemes de seguretat…</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>
     <string name="push_notification_content">Obtén el codi de verificació</string>
-    <string name="push_notification_title">Heu iniciat la sessió al vostre compte Mi en un dispositiu desconegut</string>
-    <string name="push_notify_dialog_message">"S'utilitza un dispositiu desconegut per iniciar la sessió al vostre compte de Mi. Introduïu aquest codi de verificació al dispositiu. Si no fos així, canvieu la contrasenya del compte Mi de seguida. No divulgueu el codi de verificació a altres persones."</string>
+    <string name="push_notification_title">Heu iniciat la sessió al vostre compte Xiaomi en un dispositiu desconegut</string>
+    <string name="push_notify_dialog_message">"S'utilitza un dispositiu desconegut per iniciar la sessió al vostre compte Xiaomi. Introduïu aquest codi de verificació al dispositiu. Si no heu estat vosaltres, canvieu la contrasenya del compte Xiaomi immediatament. No revelar el codi de verificació a altres persones."</string>
     <string name="push_notify_dialog_title">Verificació del compte</string>
-    <string name="pwd_width_phone_number_or_mail_num">"La contrasenya no pot contenir el vostre número de telèfon, correu electrònic ni l'identificador del compte Mi"</string>
+    <string name="pwd_width_phone_number_or_mail_num">"La contrasenya no pot contenir el número de telèfon, el correu electrònic o l'identificador del compte Xiaomi"</string>
     <string name="recycle_phone_notification_msg">Sembla que el vostre número de telèfon s’ha reciclat. Toqueu per actualitzar.</string>
-    <string name="recycle_phone_notification_title">Risc de seguretat del Compte Mi</string>
+    <string name="recycle_phone_notification_title">Risc de seguretat del compte Xiaomi</string>
     <string name="removing_account">S\'està tancant la sessió…</string>
     <string name="replace_binded_phone">Substitueix el telèfon</string>
     <string name="request_open_permission">Permisos necessaris</string>
-    <string name="request_use_camera_message">"Voleu permetre que el Compte Mi accedeixi a la càmera del telèfon?"</string>
+    <string name="request_use_camera_message">"Voleu permetre que el compte Xiaomi accedeixi a la càmera del telèfon?"</string>
     <string name="request_use_camera_title">Accés a la càmera</string>
-    <string name="request_use_gallery_message">Voleu permetre que el Compte Mi accedeixi a la Galeria?</string>
+    <string name="request_use_gallery_message">Voleu permetre que el compte Xiaomi accedeixi a la Galeria?</string>
     <string name="request_use_gallery_title">Accés a la Galeria</string>
-    <string name="request_use_writing_clipboard_message">Per copiar l\'identificador del Compte Mi, permeteu que el Compte Mi desi elements al porta-retalls.</string>
+    <string name="request_use_writing_clipboard_message">Per copiar l\'identificador del compte Xiaomi, permeteu que el compte Xiaomi desi elements al porta-retalls.</string>
     <string name="resend_active_email">Reenvia</string>
     <string name="resend_email_reach_limit_message">"Heu sol·licitat massa correus electrònics de verificació. Assegureu-vos que el correu electrònic de verificació no estigui a la carpeta de correu brossa de la safata d'entrada."</string>
     <string name="resend_email_reach_limit_title">"No es pot enviar el correu"</string>
@@ -721,28 +719,28 @@ Envieu aquest codi al supervisor."</string>
     <string name="restart_phone_bind_message">Es pot trigar un temps a rebre el SMS. Voleu començar de nou de totes maneres?</string>
     <string name="restart_phone_bind_title">Canvia el telèfon de recuperació</string>
     <string name="revoke_privacy_policy">Retirada del consentiment</string>
-    <string name="revoke_privacy_policy_instructions">"Si continueu, retirareu el vostre consentiment a la Política de privadesa del Compte Mi. Deixarem de recollir la vostra informació personal. La informació personal que ja s'ha recopilat i conservat se suprimirà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que s'exigeix el contrari. Com que el Compte Mi proporciona els seus serveis basats en la recollida de la informació personal necessària, la retirada del consentiment es considerarà una negativa a acceptar els serveis del Compte Mi. Voleu retirar el consentiment?"</string>
+    <string name="revoke_privacy_policy_instructions">"Si continueu, retirareu el vostre consentiment a la Política de privadesa del compte Xiaomi. Deixarem de recopilar la seva informació personal. La informació personal ja recollida i retinguda s'eliminarà en el termini específic d'acord amb les lleis i regulacions aplicables, llevat que es requereixi el contrari. Atès que el Compte Xiaomi proporciona els seus serveis basats en la recopilació de la informació personal necessària, la vostra retirada del consentiment es mantindrà com a neda a acceptar els serveis del Compte Xiaomi. Retirar el consentiment ara?"</string>
     <string name="revoke_privacy_policy_title">Retirada del consentiment</string>
     <string name="risky_pwd_not_allow">"La contrasenya nova no és segura. Estableix-ne una de diferent."</string>
     <string name="same_new_and_old_pwd">La contrasenya nova ha de ser diferent de l\'anterior</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
-    <string name="scan_barcode_title">Per iniciar la sessió al compte Mi, escanegeu el codi QR</string>
+    <string name="scan_barcode_title">Per iniciar la sessió al vostre compte Xiaomi, escanegeu el codi QR</string>
     <string name="search_account_security">Seguretat del compte</string>
     <string name="search_account_security_desc">Configuració del compte</string>
     <string name="search_account_security_key_words">Canvia el telèfon,Canvia el correu electrònic,Protecció del compte,Comptes,Sina Weibo,QQ,Autorització,Dispositius</string>
-    <string name="search_account_security_path">Configuració/Compte Mi/Seguretat del compte</string>
-    <string name="search_app_name">Compte Mi</string>
+    <string name="search_account_security_path">Configuració/Seguretat del compte/compte Xiaomi</string>
+    <string name="search_app_name">Compte Xiaomi</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="search_mi_account">Compte Mi</string>
-    <string name="search_mi_account_desc">Compte Mi</string>
+    <string name="search_mi_account">Compte Xiaomi</string>
+    <string name="search_mi_account_desc">Compte Xiaomi</string>
     <string name="search_mi_account_key_words">Xiaomi Cloud,Configuració del compte,Informació sobre Mi Pay,Tanca la sessió</string>
-    <string name="search_mi_account_path">Configuració/Compte Mi</string>
+    <string name="search_mi_account_path">Configuració/Compte Xiaomi</string>
     <string name="search_user_detail">Informació personal</string>
     <string name="search_user_detail_bottom_key_words">Canvia els ingressos,Canvia l’educació,Canvia l’ubicació,Canvia la regió</string>
     <string name="search_user_detail_desc">Informació personal</string>
-    <string name="search_user_detail_path">Configuració/Compte Mi/Informació personal</string>
+    <string name="search_user_detail_path">Configuració/Compte Xiaomi/Informació personal</string>
     <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto del perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el sexe</string>
     <string name="select_all">Selecciona-ho tot</string>
     <string name="self_account_info">Informació personal</string>
@@ -855,7 +853,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="two_factor_auth_need_code">Introduïu el codi</string>
     <string name="two_factor_auth_need_code_summary">"Veureu un codi en altres dispositius Mi connectats. Introduïu aquest codi en un dispositiu nou per iniciar la sessió."</string>
     <string name="two_factor_auth_summary">"Quan intenteu iniciar la sessió en un dispositiu nou o en una ubicació nova, se us notificarà en els altres dispositius connectats. Haureu de confirmar si autoritzeu aquests intents d'inici de sessió."</string>
-    <string name="unbind_sns_description">"Després de desconnectar aquest compte, no podreu utilitzar la informació del vostre compte de %s per iniciar la sessió al vostre compte Mi."</string>
+    <string name="unbind_sns_description">"Després de desconnectar aquest compte, no podreu utilitzar la informació del compte %s per iniciar la sessió al vostre compte Xiaomi."</string>
     <string name="unknown_error_info">Error desconegut</string>
     <string name="unlock_help_notice">"Ajuda:
 1. Si heu oblidat la vostra contrasenya, aneu a id.mi.com per restablir-la.
@@ -868,20 +866,22 @@ Envieu aquest codi al supervisor."</string>
     <string name="update_phone_notice">Canvia la configuració de seguretat</string>
     <string name="update_phone_number_notice_message">Abans d’actualitzar el número de telèfon, heu de verificar la vostra identitat.</string>
     <string name="used_cloud_storage_info">S\'ha utilitzat %s</string>
+    <string name="user_agreement_network_permission_msg">Necessitem connectar-nos a Internet per poder proporcionar-li els serveis necessaris.</string>
+    <string name="user_agreement_use_account_msg">El compte Xiaomi us permet accedir a tots els serveis proporcionats per Xiaomi.</string>
     <string name="user_avatar_update_title">Canvia la foto de perfil</string>
     <string name="user_avatar_uploading">Un moment…</string>
-    <string name="user_instruction_all_purpose">Us donem la benvinguda al Compte Mi! Podeu utilitzar el vostre compte per accedir als serveis que ofereix Xiaomi i les seves empreses afiliades, com ara Mi.com, Xiaomi Cloud i GetApps. Podeu obtenir Mi Coins, comprar béns virtuals i gaudir de serveis de valor afegit que inclouen jocs, temes i llibres electrònics.</string>
+    <string name="user_instruction_all_purpose">Benvinguts al compte Xiaomi! Podeu utilitzar el vostre compte per accedir als serveis proporcionats per Xiaomi i les seves empreses afiliades, com ara Mi.com, Xiaomi Cloud i GetApps. Vostè pot obtenir Mi Monedes, comprar béns virtuals, i gaudir de serveis de valor afegit, incloent jocs, temes i llibres electrònics.</string>
     <string name="user_instruction_tip">Per poder iniciar la sessió, llegiu i accepteu els termes i condicions.</string>
-    <string name="user_license_with_3rd_app"><Data>\"En iniciar la sessió amb el meu compte Mi, confirmo que he llegit i acceptat &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;.\"</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de China Mobile&lt;/a&gt;.\"</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa&lt;/a&gt;del compte Mi.\"</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;.\"</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de China Unicom&lt;/a&gt;.\"</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;de Privacitat Política de&lt;/a&gt;\".</Data></string>
-    <string name="user_license_without_3rd_app"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;de Privacitat Política de&lt;/a&gt;\".</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Condicions dels serveis de verificació de la Xina Mobile&lt;/a&gt;\".</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Condicions de eSurfing serveis de verificació de compte de&lt;/a&gt;\".</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Condicions de la Xina Unicom serveis de verificació de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_with_3rd_app"><Data>\"En iniciar la sessió amb el meu compte Xiaomi, confirmo que he llegit i acceptat &lt;a href=%1$s&gt;&lt;/a&gt; de l\'Acord d\'Usuari i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt; i la&lt;/a&gt; de l\'Acord d\'Usuari &lt;a href=%3$s&gt;del Compte Xiaomi i &lt;a href=%4$s&gt;política de privadesa&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_with_3rd_app_mobile"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;&lt;/a&gt;&lt;/a&gt;de política de privadesa de l\'Acord d\'Usuari i &lt;a href=%2$s&gt;, la&lt;/a&gt; política de privadesa &lt;a href=%3$s&gt;de l\'Acord d\'Usuari del Compte Xiaomi i &lt;a href=%4$s&gt;&lt;/a&gt;, així com &lt;a href=%5$s&gt;termes i condicions dels serveis de verificació de la Xina Mobile&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;&lt;/a&gt; de la política de privadesa de l\'Acord d\'Usuari i &lt;a href=%2$s&gt;&lt;/a&gt; i la&lt;/a&gt; política de privadesa &lt;a href=%3$s&gt;de l\'acord d\'usuari  del compte Xiaomi i &lt;a href=%4$s&gt;&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_with_3rd_app_telcom"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;&lt;/a&gt; de l\'Acord d\'Usuari i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt;, la política de privadesa &lt;a href=%3$s&gt;de l\'acord d\'usuari del compte Xiaomi&lt;/a&gt; i la política de privadesa&lt;/a&gt;&lt;a href=%4$s&gt;, així com &lt;a href=%5$s&gt;termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_with_3rd_app_unicom"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;&lt;/a&gt; de l\'Acord d\'Usuari i &lt;a href=%2$s&gt;política de privacitat&lt;/a&gt;,&lt;/a&gt; de l\'acord d\'usuari &lt;a href=%3$s&gt;del compte Xiaomi i&lt;/a&gt;de política de privadesa &lt;a href=%4$s&gt;, així com &lt;a href=%5$s&gt;termes i condicions dels serveis de verificació de China Unicom&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"He llegit i acceptat l\'acord d\'usuari &lt;a href=%1$s&gt;del compte Xiaomi&lt;/a&gt; i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_without_3rd_app"><Data>\"He llegit i acceptat l\'acord d\'usuari &lt;a href=%1$s&gt;del compte Xiaomi&lt;/a&gt; i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_without_3rd_mobile"><Data>\"He llegit i acceptat l\'acord d\'usuari &lt;a href=%1$s&gt;del compte xiaomi&lt;/a&gt; i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt;, així com &lt;a href=%3$s&gt;termes i condicions dels serveis de verificació mòbil de la Xina&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_without_3rd_telcom"><Data>\"He llegit i acceptat l\'acord d\'usuari &lt;a href=%1$s&gt;del compte Xiaomi&lt;/a&gt; i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt;, així com &lt;a href=%3$s&gt;termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;</Data>\".</string>
+    <string name="user_license_without_3rd_unicom"><Data>\"He llegit i acceptat l\'acord d\'usuari &lt;a href=%1$s&gt;del compte xiaomi&lt;/a&gt; i la política de privadesa &lt;a href=%2$s&gt;&lt;/a&gt;, així com &lt;a href=%3$s&gt;termes i condicions dels serveis de verificació d\'Unicom de la Xina&lt;/a&gt;</Data>\".</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="vip_account_settings">Configuració VIP</string>

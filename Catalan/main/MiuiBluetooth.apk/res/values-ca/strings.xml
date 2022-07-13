@@ -155,7 +155,7 @@ Consulteu Configuració per obtenir més informació."</string>
     <string name="fast_connect_new_feture_title">"Què hi ha de nou"</string>
     <string name="fast_connect_nzbt_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="fast_connect_reset_common">Restableix aquest dispositiu per poder-lo emparellar</string>
-    <string name="fast_connect_same_account_content">Els dispositius Bluetooth es poden sincronitzar amb el vostre Compte Mi i connectar-se sense emparellar-se en altres dispositius.</string>
+    <string name="fast_connect_same_account_content">Els dispositius Bluetooth es poden sincronitzar amb el vostre compte Xiaomi i connectar-se sense aparellar-los en altres dispositius.</string>
     <string name="fast_connect_same_accout_devices_connecting">Connexió mitjançant Núvol Xiaomi…</string>
     <string name="fast_connect_same_accout_devices_title">"Heu connectat %1$s a altres dispositius"</string>
     <string name="fast_connect_same_accout_ok">Entesos</string>
@@ -177,7 +177,9 @@ Protocol de connexió més ràpid."</string>
     <string name="get_target_info">Obteniu informació de destinació</string>
     <string name="goto_package">Obre %1$s</string>
     <string name="headset_battery_fw_failed">Primer carrega el teu dispositiu</string>
+    <string name="headset_battery_low">Bateria baixa, si us plau recarrega</string>
     <string name="headset_connect_device">Connecteu el dispositiu</string>
+    <string name="headset_connect_timeout">Temps d\'estada de la connàntia, torneu-ho a provar</string>
     <string name="headset_device_check_failed">"No s'han pogut comprovar les actualitzacions"</string>
     <string name="headset_device_donot_move">Mantingueu el dispositiu a prop</string>
     <string name="headset_device_enter_upgrade_failed">"No s'ha pogut iniciar l'actualització"</string>
@@ -207,6 +209,7 @@ Protocol de connexió més ràpid."</string>
     <string name="headset_loss_notify_summary">Sembla que almenys un dels auriculars no es troba a la caixa de càrrega. Feu una ullada al voltant!</string>
     <string name="headset_loss_notify_summary1">"Sembla que els auriculars no estan a l’estoig. Poseu'ls-hi de nou per deixar-los carregar."</string>
     <string name="headset_loss_notify_title">Falta l\'alerta dels auriculars</string>
+    <string name="headset_not_in_case">Auriculars no en cas, torneu-ho a provar</string>
     <string name="headset_read_fw_state">"No s'ha pogut obtenir informació sobre les actualitzacions"</string>
     <string name="headset_update_failed">"No s'ha pogut actualitzar"</string>
     <string name="headset_update_ok">Fet</string>

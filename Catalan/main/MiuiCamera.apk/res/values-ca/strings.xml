@@ -573,7 +573,6 @@ i ajusta les preferències automàticament"</string>
     <string name="custom_tint_color_select">Personalitzar colors</string>
     <string name="custom_tint_color_sky_blue">Blau</string>
     <string name="custom_tint_color_sky_cyan">Cian</string>
-    <string name="custom_watermark_contains_senstive_words">"Les marques d'aigua no poden contindre termes restringits (%1$s)"</string>
     <string name="custom_watermark_tips">Aquest text apareixerà com la segona línia de la marca d\'aigua. Pot contenir fins a 18 lletres o 14 caràcters xinesos.</string>
     <string name="custom_watermark_tips_gen2">Fins a %1$d caràcters xinesos o %2$d lletres com a màxim.</string>
     <string name="custom_watermark_too_many_words">El text que heu introduït és massa llarg</string>

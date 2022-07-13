@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">To de trucada per defecte (%1$s)</string>
     <string name="android_ringtone_silent">Cap</string>
     <string name="android_ringtone_unknown">To de trucada desconegut</string>
+    <string name="app_continuity_channel_name">Ajustos de la disposició de l\'aplicació</string>
     <string name="application_cannot_open_alipay_health_code">"No s'ha pogut obrir el codi sanitari d'Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"No s'ha pogut obrir el codi de pagament d'Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"No s'ha pogut obrir l'escàner d'Alipay"</string>
@@ -104,6 +105,10 @@
     <string name="customer_location_judgment">Xina</string>
     <string name="cut">Retalla</string>
     <string name="dance">Dansa</string>
+    <string name="dark_mode_enable">Activa</string>
+    <string name="dark_mode_suggest_message">Podeu canviar al mode fosc automàticament al capvespre per obtenir una experiència de visualització més còmoda</string>
+    <string name="dark_mode_suggest_title">"S'està fent fosc"</string>
+    <string name="dark_mode_suggest_toast">El mode fosc s\'activarà automàticament a la posta de sol i s\'apagarà a la sortida del sol a partir d\'ara</string>
     <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="daydream">Somni despert</string>
     <string name="default_device_name">Dispositiu desconegut</string>
@@ -117,6 +122,7 @@
     <string name="dewdrops">Rosada del matí</string>
     <string name="digitaluniverse">Univers digital (estèreo)</string>
     <string name="disable_nfc">Desactivat NFC per a la càrrega sense fils</string>
+    <string name="disable_nfc_haptic_reverse">S\'ha desactivat l\'NFC i la vibració per a la càrrega sense fil inversa</string>
     <string name="disable_nfc_reverse">Desactivat NFC per a la càrrega sense fils inversa</string>
     <string name="dock_tip_floatwindow">Manteniu premuda la barra i arrossegueu-la fins a la vora de la pantalla per accedir a la vista de pantalla dividida.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Arrossegueu la barra horitzontalment per canviar les posicions de les dues finestres de l\'aplicació.</string>
@@ -129,6 +135,7 @@
     <string name="enable_livetalk_title">Activa el paquet de recàrrega</string>
     <string name="enable_midrop">Activa</string>
     <string name="enable_nfc">Ja no està carregant. NFC torna a estar actiu.</string>
+    <string name="enable_nfc_haptic_reverse">S\'ha aturat la càrrega inversa. L\'NFC i la vibració han tornat a activar-se.</string>
     <string name="enable_nfc_reverse">Ja no s\'inverteix la càrrega. NFC torna a estar actiu.</string>
     <string name="expect">Emoció</string>
     <string name="fadein">Esvair-se en</string>
@@ -146,6 +153,7 @@
     <string name="flip_screen_camera_tip">Gireu el dispositiu per utilitzar la càmera</string>
     <string name="flute">Flauta</string>
     <string name="fm_record_smaple_prefix_miui">Enregistrament d\'FM</string>
+    <string name="fold_small_not_split">"La pantalla dividida no és compatible amb la pantalla exterior"</string>
     <string name="force_exit_message">Tancament forçat %1$s</string>
     <string name="force_exit_skip_message">"No es pot tancar %1$s perquè ho necessita el sistema."</string>
     <string name="fourhours">2 hores</string>
@@ -153,8 +161,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ara no</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ves a la Configuració</string>
     <string name="fp_nav_center_action_choose_dlg_title">Premeu ràpid per accedir a l\'escriptori</string>
-    <string name="freeform_exchange_tip">Deixeu-ho per obrir l\'aplicació</string>
-    <string name="freeform_exchange_tip2">Arrossegueu-ho a la cantonada per cancel·lar-ho</string>
+    <string name="freeform_exchange_tip">Obre la finestra flotant en mode de pantalla completa</string>
     <string name="frenchchic">Chic</string>
     <string name="frequent_email">Correu electrònic d\'ús freqüent</string>
     <string name="frequent_phrases">Frases freqüents</string>
@@ -194,6 +201,7 @@
     <string name="incomingmessage">Missatge entrant</string>
     <string name="internal_livetalk_enable">S\'estan utilitzant paquets de recàrrega per a trucades nacionals</string>
     <string name="international_livetalk_enable">S\'estan utilitzant paquets de recàrrega per a trucades internacionals</string>
+    <string name="kb_reset_toast">Restabliment de teclat correctament</string>
     <string name="key_btn_ok">D\'acord</string>
     <string name="key_btn_space">Espai</string>
     <string name="keyboard_connect_failed">"No s'ha pogut connectar el teclat. Torneu-lo a adjuntar."</string>
@@ -213,6 +221,8 @@
     <string name="ks_screenshot">Captura de pantalla (pantalla sencera)</string>
     <string name="kungfu">Kung-fú</string>
     <string name="leisure">Oci</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Telèfon Lenovo</string>
     <string name="livetalk_not_enable">Recàrrega de paquet desactivat</string>
     <string name="location_usage_restricted_body">Premeu per permetre-ho.</string>
     <string name="location_usage_restricted_title">Ubicació restringida en segon pla</string>
@@ -222,6 +232,7 @@
     <string name="lockscreen_access_pattern_start">S\'ha iniciat el patró</string>
     <string name="lockscreen_carrier_customized">Servei limitat</string>
     <string name="lollipop">Piruleta</string>
+    <string name="magic_window_toast">Multiplicador d\'aplicacions habilitat.</string>
     <string name="makewishes">Desig d\'aniversari</string>
     <string name="maml_component_customization_title">Configuració</string>
     <string name="martix">Matriu</string>
@@ -241,6 +252,7 @@
     <string name="miui">miui</string>
     <string name="miui_device_name">Android</string>
     <string name="miui_forbid_poweroff_when_device_locked">"No es pot apagar, el dispositiu està bloquejat."</string>
+    <string name="miui_landscape_compat_toast">"No pot ser adequat plegar el dispositiu mentre utilitzeu l'aplicació en horitzontal, es recomana utilitzar-la en vertical"</string>
     <string name="miui_multiwindow_not_support_cvw">"No es pot ajustar la mida de la finestra d'aquesta aplicació"</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s no admet finestres flotants"</string>
     <string name="miui_multiwindow_not_support_split">"%1$s no admet la pantalla dividida"</string>
@@ -258,10 +270,18 @@
     <string name="monet">Estany de lliris</string>
     <string name="morning">Matí</string>
     <string name="mountainspring">Font de muntanya</string>
+    <string name="mw_guide_dialog_button_confirm">Ho tinc</string>
+    <string name="mw_guide_dialog_message">"Sembla que aquesta aplicació no admet finestres paral·leles. En lloc d'això, s'ha canviat a una altra disposició compatible."</string>
+    <string name="mw_guide_dialog_title">"Les finestres paral·leles no són compatibles"</string>
     <string name="nearby_share">Compartició Nearby</string>
     <string name="notice_audition">Sons de la natura</string>
     <string name="notification_channel_hotspot">Notificació de punt d\'accés</string>
     <string name="notificationxylophone">Notificació (Xilòfon)</string>
+    <string name="nps_ContentText">Feu clic per comprovar els detalls</string>
+    <string name="nps_ContentTitle">A la recerca del GPS</string>
+    <string name="nps_description">notificació d\'estat gps</string>
+    <string name="nps_mock_description">s\'està utilitzant la ubicació virtual, cal reiniciar la restauració</string>
+    <string name="nps_monitor_name">Ubicació GPS</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 minuts</string>
@@ -321,11 +341,15 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">Reinicia</string>
     <string name="relaunch_dialog_alwaysUsePrompt">Recorda la meva elecció</string>
     <string name="relaunch_dialog_button_cancel">Cancel·la</string>
-    <string name="relaunch_dialog_button_confirm">D\'acord</string>
-    <string name="relaunch_dialog_message">"No es pot ajustar la mida de la finestra mentre utilitzeu l'aplicació. Podeu reiniciar l'aplicació per ajustar la mida de la finestra, però es perdran les dades de l'aplicació generades durant aquesta sessió. Voleu reiniciar-la igualment?"</string>
-    <string name="relaunch_dialog_title">Voleu reiniciar «%s»?</string>
+    <string name="relaunch_dialog_button_confirm">Reinicia</string>
+    <string name="relaunch_dialog_message">Aquesta aplicació només es pot canviar de mida després d\'un reinici. Tots els canvis no desats es perdran si reinicieu l\'aplicació ara. Voleu reiniciar-la igualment?</string>
+    <string name="relaunch_dialog_title">Voleu reiniciar «%s» ara?</string>
+    <string name="relaunch_fold_notification_content">És possible que aquesta aplicació no es mostri correctament en aquesta pantalla. Reinicieu l\'aplicació per ajustar les disposicions.</string>
+    <string name="relaunch_notification_title">Reinicia \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">És possible que aquesta aplicació no es mostri correctament en aquesta pantalla. Reinicieu l\'aplicació per ajustar les disposicions.</string>
     <string name="remain">Restant: %s</string>
     <string name="replace">Substituir…</string>
     <string name="resolver_app_recommend_flag">Recomanat</string>
@@ -341,6 +365,11 @@
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
     <string name="samsung_phone">Telèfon Samsung</string>
+    <string name="sc_notification_warning_content">"Si l'aplicació no es mostra correctament, podeu restaurar la vista predeterminada o canviar les preferències de visualització de l'aplicació a Configuració."</string>
+    <string name="sc_notification_warning_restore">Restaura</string>
+    <string name="sc_notification_warning_settings">Configuració</string>
+    <string name="sc_notification_warning_title">Preferències de visualització de l\'aplicació</string>
+    <string name="sc_relaunch_dialog_message">És possible que aquesta aplicació no es mostri correctament en aquesta pantalla. Reinicieu l\'aplicació per ajustar les disposicions.</string>
     <string name="scanning_device_tips">S\'estan cercant dispositius propers… Assegureu-vos que l’altre dispositiu estigui en mode descobert.</string>
     <string name="screen_button_notification_text">Per activar-los premeu Inici i el botó d\'encesa simultàniament.</string>
     <string name="screen_button_notification_title">Els botons de navegació estan desactivats</string>
@@ -373,6 +402,7 @@
     <string name="set_password_action">Estableix una contrasenya</string>
     <string name="set_password_message">Estableix una contrasenya per utilitzar aquesta funció.</string>
     <string name="set_password_title">Estableix una contrasenya</string>
+    <string name="shortcut_no_support_on_pc_mode">"Aquest gest no és compatible amb el mode PC"</string>
     <string name="shutdown_confirm_title">Voleu apagar el dispositiu ara?</string>
     <string name="shutdown_progress">S\'està apagant…</string>
     <string name="silence_mode">Mode silenci</string>
@@ -446,6 +476,9 @@
     <string name="talk_back_water_mark_string2">Mantingueu premut «Volum +» i «Volum -» durant 3 segons per desactivar-lo</string>
     <string name="throwing_print">Imprimir</string>
     <string name="throwing_screen">Emet</string>
+    <string name="tip_close_screen_phone">Canvia a mans lliures o plegueu el dispositiu per utilitzar l\'altaveu integrat</string>
+    <string name="tip_for_phone_and_camera">Plegueu el dispositiu per utilitzar l\'altaveu integrat o la càmera frontal</string>
+    <string name="tip_use_front_camera">Plegueu el dispositiu per utilitzar la càmera frontal</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">No molestis</string>
     <string name="total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
@@ -459,6 +492,7 @@
     <string name="unknown_caller">Trucada desconeguda</string>
     <string name="unrecognized_manufacture">Desconegut</string>
     <string name="unrecognized_model">Dispositiu desconegut</string>
+    <string name="unreplace_freeform_count_max">"No es poden obrir més finestres flotants"</string>
     <string name="user_authentication_failed">ERROR D\'AUTENTICACIÓ -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">S\'està canviant a Espai per a nens…</string>
     <string name="user_switching_dialog_switch_out_kid_space">S\'està abandonant el Espai per a nens…</string>

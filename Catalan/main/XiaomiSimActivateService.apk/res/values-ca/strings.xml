@@ -216,6 +216,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
     <string name="sim_activate_failed">"No s'ha pogut activar el servei"</string>
+    <string name="sim_activate_notificat_channel">Notificacions d\'activació</string>
     <string name="sim_activate_prepare">Activeu el servei</string>
     <string name="sim_activated_failed_msg">"No s'ha pogut activar el servei. Toqueu per tornar-ho a provar."</string>
     <string name="sim_unactivated_feature_title">"\"%s\" no s'ha activat"</string>

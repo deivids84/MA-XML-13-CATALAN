@@ -30,6 +30,8 @@
     <string name="access_non_personal_data">Si retireu el consentiment per a l\'accés i l\'ús de dades no personals del vostre dispositiu, els serveis del Carrusel de fons de pantalla es desactivaran i totes les dades recollides s\'eliminaran dins del termini especificat a les lleis i regulacions aplicables.</string>
     <string name="accessibility_enabled">S\'ha activat l\'accessibilitat.</string>
     <string name="actionbar_button_up_description">Enrere</string>
+    <string name="activate_esim_tips">"No s'ha pogut activar. Torneu-ho a provar."</string>
+    <string name="activating_esim_tips">S\'està activant…</string>
     <string name="address_dialing_introduction">Podeu utilitzar aquesta aplicació per fer trucades, veure l\'historial de trucades i gestionar els contactes.</string>
     <string name="afternoon">Tarda</string>
     <string name="agree">D\'acord</string>
@@ -273,11 +275,15 @@
     <string name="other_settings_ad_enable_summary">Rebeu anuncis personalitzats segons les dades del comportament</string>
     <string name="other_settings_auto_update">Actualització automàtica</string>
     <string name="other_settings_auto_update_summary">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
+    <string name="other_settings_auto_update_summary_v1">Permet que MIUI seleccioni el millor moment per baixar i instal·lar actualitzacions. El dispositiu es reiniciarà automàticament per aplicar els canvis.</string>
     <string name="other_settings_enhanced_lockscreen">Carrusel de fons de pantalla</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Mirada per Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Política de privadesa</string>
     <string name="other_settings_enhanced_lockscreen_summary">Obteniu imatges i històries que es lliuraran a la pantalla de bloqueig diàriament. %1$s i %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Acord de llicència d\'usuari final</string>
+    <string name="other_settings_get_apps">Actualitza les aplicacions automàticament</string>
+    <string name="other_settings_get_apps_summary">"Actualitza les aplicacions del sistema i de tercers partners a través de GetApps per poder utilitzar les seves últimes funcions.
+Pots desactivar les actualitzacions automàtiques a Configuració &gt; &gt; automàtica de GetApps."</string>
     <string name="other_settings_location">Ubicació</string>
     <string name="other_settings_location_summary">Permet que les aplicacions i els llocs web accedeixin a la informació d’ubicació per oferir serveis basats en la ubicació</string>
     <string name="other_settings_quality_service">Permisos MIUI Daemon</string>

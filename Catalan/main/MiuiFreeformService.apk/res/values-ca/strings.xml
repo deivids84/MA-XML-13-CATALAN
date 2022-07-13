@@ -31,6 +31,7 @@
     <string name="afternoon">Tarda</string>
     <string name="am">AM</string>
     <string name="app_name">Finestres flotants</string>
+    <string name="bottom_bar_smallwindow_drag_text">Arrossegueu aquí per ancorar</string>
     <string name="bottom_bar_smallwindow_text">Allibera per fixar</string>
     <string name="clearable_edittext_clear_description">Clar</string>
     <string name="close">Tanca</string>
@@ -70,6 +71,7 @@
     <string name="friday_shortest">dv.</string>
     <string name="fullscreen_slide_to_small_freeform">Minimitza una aplicació</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Feu lliscar el dit des de la part inferior de la pantalla fins a l\'extrem superior dret</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Llisca des de la part inferior fins a la vora superior de la pantalla</string>
     <string name="how_to_close_or_fullscreen_freeform">Tancar finestres flotants o canviar a mode de pantalla completa</string>
     <string name="how_to_drop_down_to_fullscreen">Canvia a mode de pantalla completa</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Mantingues premut i tira cap avall la barra d\'acció d\'una finestra flotant</string>

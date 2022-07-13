@@ -702,6 +702,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="data_enable_summary">Permet que aquest dispositiu utilitzi dades mòbils</string>
     <string name="data_enable_warning">Permetre utilitzar sempre dades mòbils pot generar despeses addicionals fora del pla del vostre operador. Voleu connectar-vos de totes maneres?</string>
     <string name="data_enabled">Dades mòbils</string>
+    <string name="data_interruption_remind">"Sembla que l'entorn de xarxa no és fiable. Per millorar la connexió, permeteu que el dispositiu utilitzi dades mòbils durant les trucades VoLTE a la SIM secundària."</string>
     <string name="data_plan">Plans de dades mòbils</string>
     <string name="data_usage_disable_mobile">Voleu desactivar les dades mòbils?</string>
     <string name="data_usage_ota">Actualitzacions del sistema</string>
@@ -1131,6 +1132,11 @@ Encara podeu fer trucades d\'emergència.\"</string>
     <string name="ivr_type_ct_2">Client de China Telecom</string>
     <string name="ivr_type_settings">Configuració del pla de dades</string>
     <string name="ivr_type_settings_hint">Introduïu el codi del vostre pla de dades</string>
+    <string name="jp_sb_label_ndp">"L'USIM d'altres carreres s'insereix
+a l'espera d'introduir el codi de desbloqueig"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">El codi de desbloqueig entrada és inferior a 8 dígits o més de 16 dígits</string>
+    <string name="jp_sb_unlock_failed">Error de verificació del codi de desbloqueig.</string>
+    <string name="jp_sb_unlock_success">Desbloqueja el codi amb èxit.</string>
     <string name="jump_to_mobile_network_setting">Configuració de la xarxa mòbil</string>
     <string name="keep_screen_on">Mantén-la activa</string>
     <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
@@ -1229,6 +1235,7 @@ Encara podeu fer trucades d\'emergència.\"</string>
     <string name="location">Àrea</string>
     <string name="lodgings_disable">Allotjaments desactivats</string>
     <string name="lodgings_enable">Allotjaments activats</string>
+    <string name="low_battery_flash_when_ring_button_tip">"No es pot utilitzar flash quan es sona a causa de la bateria baixa"</string>
     <string name="main_netcheck_summary">Prova la connexió per a problemes de xarxa</string>
     <string name="maintenance_disable">Manteniment desactivat</string>
     <string name="maintenance_enable">Manteniment activat</string>
@@ -1471,7 +1478,7 @@ Encara podeu fer trucades d\'emergència.\"</string>
     <string name="msim_setting_sim_info_editor_title">Edita la informació de la SIM</string>
     <string name="msim_sim_lock">Bloquejada</string>
     <string name="msim_sim_radio_off">Desactivat</string>
-    <string name="msim_switch_data_conn_toast">S\'han bescanviat les targetes SIM. El tipus de xarxa ha canviat. Consulteu informació addicional a targes SIM i xarxes mòbils del menú de configuració.</string>
+    <string name="msim_switch_data_conn_toast">Targetes SIM intercanviades. El tipus de xarxa ha canviat.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">La ranura de la SIM 2 només admet xarxes GSM. S\' ha canviat el tipus de xarxa preferit per aquesta ranura a \"Només xarxes 2G\".</string>
     <string name="mtn_simlock_emergency">Emergència</string>
     <string name="mtn_simlock_text_tip">La targeta SIM inserida no compleix el requisit. Heu d\'inserir una targeta SIM requerida pel contracte abans d\'utilitzar el telèfon. Per obtenir més informació, poseu-vos en contacte amb el vostre operador local.</string>

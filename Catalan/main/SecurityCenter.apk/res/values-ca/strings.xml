@@ -182,11 +182,20 @@
     <string name="antispam_notificaiton_type_show_none">Mai</string>
     <string name="antispam_notification_setting_title">Notificacions</string>
     <string name="antispam_xpace_text">Canvieu al primer espai per establir una llista de bloqueig</string>
+    <string name="antivirus_antidefraud_risk_desc">Aquesta aplicació està classificada com una aplicació de frau financer pel Centre Nacional Antifrau. Desinstal·leu-lo per evitar possibles riscos.</string>
+    <string name="antivirus_antidefraud_risk_type">Frau financer</string>
+    <string name="antivirus_antidefraud_risk_type_label">Frau financer i riscos de seguretat</string>
     <string name="antivirus_browser_check">Consulteu els llocs web al navegador Mi</string>
     <string name="antivirus_browser_check_summary">Consulteu els llocs web del navegador Mi automàticament i rebreu avisos sobre possibles riscos</string>
     <string name="antivirus_choose_engine_dialog_title">Trieu les definicions</string>
     <string name="antivirus_choose_engine_settings">Configuració de la definició de virus</string>
     <string name="antivirus_choose_engine_title">Definicions</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Ignorar</string>
+    <string name="antivirus_detect_apps_dialog_content">%s està classificada com una aplicació de frau financer pel Centre Nacional Antifrau. Aquesta aplicació comporta riscos substancials per a la seguretat.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Desinstal·lar</string>
+    <string name="antivirus_detect_apps_noti_message">Aquesta aplicació planteja riscos per a la seguretat</string>
+    <string name="antivirus_detect_apps_noti_title">Diverses aplicacions, inclosa %s , poden suposar riscos per a la seguretat</string>
+    <string name="antivirus_detect_single_app_noti_title">%s poden suposar riscos per a la seguretat</string>
     <string name="antivirus_longtime_no_update">Sembla que les definicions de virus són velles. Les actualitzacions regulars ajuden a obtenir millors resultats d\'escaneig. Vols que Seguretat es connecti a Internet i actualitzi les definicions de virus?</string>
     <string name="antivirus_longtime_no_update1">Sembla que les definicions de virus són velles. Les actualitzacions regulars ajuden a obtenir millors resultats d\'escaneig. Actualitzeu les definicions i torneu-ho a provar.</string>
     <string name="antivirus_main_activity_back">Enrere</string>
@@ -198,6 +207,7 @@
     <string name="antivirus_monitored_app_empty">"No s'han pogut trobar aplicacions de pagament compatibles"</string>
     <string name="antivirus_monitored_tips">Comproveu l\'entorn de pagament de possibles riscos automàticament</string>
     <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
+    <string name="antivirus_not_remind_for_app">"No tornis a avisar sobre aquesta aplicació"</string>
     <string name="antivirus_not_wlan">"No esteu connectat a wifi. L’ús de dades mòbils pot generar tarifes addicionals. Continuar de totes maneres?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Puja noms i detalls d\'aplicacions</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Per detectar i neutralitzar els virus de manera més eficaç, penjarem els noms i les propietats dels paquets de les aplicacions per escanejar-los mitjançant un motor en núvol."</string>
@@ -560,6 +570,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_predict_dialog_message">AI suggerirà aplicacions que és possible que necessiteu en aquest moment</string>
     <string name="app_predict_dialog_success">S\'ha afegit a la pantalla d\'inici correctament</string>
     <string name="app_predict_folder_name">Cerca</string>
+    <string name="app_predict_folder_tips">Suggeriments basats en els teus hàbits d\'ús</string>
     <string name="app_predict_go_shop_search_app">Cerca a GetApps</string>
     <string name="app_predict_guide_button">Afegeix</string>
     <string name="app_predict_guide_message">AI suggerirà aplicacions que és possible que necessiteu en aquest moment</string>
@@ -582,6 +593,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_predict_setting_switch_message">Rebeu suggeriments d\'aplicacions en funció dels vostres hàbits d\'ús</string>
     <string name="app_predict_setting_switch_title">Personalitzeu els suggeriments</string>
     <string name="app_predict_setting_title">Suggeriments d\'aplicacions</string>
+    <string name="app_predict_settings_train_tip">Optimitza la precisió dels suggeriments automàticament</string>
     <string name="app_predict_widget_experience_now">Proveu-ho</string>
     <string name="app_predict_widget_name_2x4">Suggeriments d\'aplicacions</string>
     <string name="app_predict_widget_summary">Inicieu ràpidament aplicacions que és possible que necessiteu ara mateix</string>
@@ -965,6 +977,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="boot_time_day_tomorrow">Activa demà a les %1$s</string>
     <string name="bottom_func_guide_default_text">Més característiques</string>
     <string name="bottom_notice_title">Feu lliscar el dit cap amunt per obrir la caixa d’eines</string>
+    <string name="bottomsheet_action_expand_halfway">Expandeix a mig camí</string>
     <string name="btn_back">Enrere</string>
     <string name="btn_finish_diagnostic">D\'acord</string>
     <string name="btn_start_diagnostic">Prova de xarxa</string>
@@ -982,6 +995,11 @@ No perdreu cap dada d'aplicació."</string>
     <string name="btn_text_quick_save_power">Refreda</string>
     <string name="btn_text_quick_scan">Escaneja</string>
     <string name="btn_text_stop">Atura</string>
+    <string name="bubble_app_empty_page">"No s'han pogut trobar aplicacions que admetin bombolles de conversa en aquest dispositiu"</string>
+    <string name="bubble_app_manage">Administra les bombolles de conversa</string>
+    <string name="bubble_notification">Bombolles de conversa</string>
+    <string name="bubble_notification_switch">Mostra les bombolles de conversa</string>
+    <string name="bubble_notification_switch_desc">Quan una aplicació de missatgeria en una finestra flotant estigui amagada a la vora de la pantalla, mostra els missatges entrants en bombolles</string>
     <string name="button_background_connection">Permet</string>
     <string name="button_block_calls_from_cantacts">Desbloca</string>
     <string name="button_block_calls_from_strangers">Desbloca</string>
@@ -1073,6 +1091,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cetus_invisible_mode_warn_location">"Esteu d’incògnit. Els permisos d'ubicació estan suspesos."</string>
     <string name="cetus_invisible_mode_warn_open">El mode d\'incògnit suspèn els permisos de micròfon, càmera i ubicació relacionats amb totes les aplicacions. Voleu activar-lo ara?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Esteu d’incògnit. Els permisos de micròfon estan suspesos."</string>
+    <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">El límit de caràcters ha superat %1$d de %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Entesos</string>
     <string name="charge_high_temp_warning_dialog_text">Sembla que el port de càrrega s\'ha sobreescalfat. Desconnecteu el carregador i deixeu que el port es refredi abans de tornar a carregar.</string>
     <string name="charge_high_temp_warning_text">Desconnecteu el carregador i deixeu que la bateria es refredi</string>
@@ -1085,6 +1105,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="charging_text_battery_full_time">"Última càrrega "</string>
     <string name="charging_text_battery_nearly_full">Quasi carregada</string>
     <string name="charging_text_battery_perfect">Càrrega completa</string>
+    <string name="chip_text">Text del xip</string>
     <string name="choose">Trieu</string>
     <string name="choose_gs_show_way">Seleccioneu l\'orientació de la pàgina d\'inici</string>
     <string name="clean_immediately">Esborra</string>
@@ -1100,6 +1121,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cleaned">Esborrat</string>
     <string name="clear_garbage">Esborra la brossa per alliberar espai</string>
     <string name="clear_immediately">Neteja-ho ara</string>
+    <string name="clear_text_end_icon_content_description">Esborra el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="click_to_charge_bill">Recàrrega</string>
     <string name="click_to_set_carrier">Toqueu per definir</string>
@@ -1362,6 +1384,7 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="enable_network">Primer activa la xarxa</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
+    <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarda</string>
     <string name="every_day">Cada dia</string>
     <string name="ew_alert_arrive_location">L’onada sísmica va arribar a %s</string>
@@ -1623,6 +1646,7 @@ voluntari"</string>
     <string name="exo_track_surround_7_point_1">So envoltant 7.1</string>
     <string name="exo_track_unknown">Desconegut</string>
     <string name="expand_button_title">Avançat</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="extreme_power_save_mode_card_summary">Activa l\'estalvi extrem de bateria quan la bateria està baixa per reduir el consum.</string>
     <string name="extreme_power_save_mode_title">Estalvi extrem de bateria</string>
     <string name="face_unlock_be_on_the_screen">Manteniu el dispositiu davant de la cara</string>
@@ -1762,6 +1786,8 @@ voluntari"</string>
     <string name="free_time_traffic_settings">Límit de dades en hora vall</string>
     <string name="free_time_traffic_title">Introduir límit de dades en hora vall</string>
     <string name="free_traffic_settings">Configuració d\'ús de dades en hora vall</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Toca una aplicació a la barra lateral per obrir-la en una finestra flotant.
+· Arrossega una aplicació al centre de la pantalla per obrir-la en una finestra flotant o al costat per utilitzar la pantalla dividida."</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -1956,14 +1982,11 @@ voluntari"</string>
     <string name="gb_game_macro_bubble_tips">Proveu combos</string>
     <string name="gb_game_macro_toast_tips">"Proveu combos!
 Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
-    <string name="gb_game_mode">Mode de visualització</string>
-    <string name="gb_game_mode_change">Canvieu entre els modes de visualització aquí</string>
     <string name="gb_game_mode_change_btn_right">Reinicia</string>
     <string name="gb_game_mode_change_message">Voleu reiniciar el joc per aplicar els canvis?</string>
     <string name="gb_game_mode_change_new">Canvieu entre els dissenys aquí</string>
     <string name="gb_game_mode_change_title">Reinicia el joc</string>
     <string name="gb_game_mode_choose_game_area">Àrea activa</string>
-    <string name="gb_game_mode_choose_title">Seleccioneu el mode de visualització</string>
     <string name="gb_game_mode_choose_title_new">Seleccioneu el disseny</string>
     <string name="gb_game_mode_empty">Encara no hi ha jocs aquí</string>
     <string name="gb_game_mode_fill">Emplena la pantalla</string>
@@ -1981,6 +2004,7 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_game_ratio_right">Dreta</string>
     <string name="gb_game_ratio_top">Superior</string>
     <string name="gb_game_time_toast">El temporitzador ja està disponible!</string>
+    <string name="gb_game_tips_restart">La partida es reiniciarà per aplicar els canvis</string>
     <string name="gb_game_video_bottom_tips">Reviseu els moments clau de les vostres sessions de joc a Game Turbo. Els vídeos se suprimiran automàticament al cap de 7 dies.</string>
     <string name="gb_game_video_bottom_tips_new">Reviseu els moments clau de les vostres sessions de joc a Game Turbo. Els vídeos se suprimiran automàticament al cap de %d dies.</string>
     <string name="gb_game_video_item_tag">Moments clau</string>
@@ -2012,6 +2036,7 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_new_feature">Nova característica</string>
     <string name="gb_not_support_on_device">"Aquesta aplicació no es pot utilitzar a la pantalla externa"</string>
     <string name="gb_operat_frequently">No tan ràpid!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>\"No es pot canviar al mode equilibrat en Game Turbo quan el mode de rendiment de tot el sistema està encès. Pots canviar la configuració de la bateria a Seguretat.&lt;br&gt;&lt;a href=\"#\"&gt;&lt;/a&gt;de Seguretat Oberta \"</Data></string>
     <string name="gb_performance_balance">Equilibrada</string>
     <string name="gb_performance_balance_tips">"El mode equilibrat estàlvia energia
 alhora que redueix la freqüència de refresc i els límits de temperatura"</string>
@@ -2327,6 +2352,7 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular avui</string>
     <string name="i_know">Entesos</string>
+    <string name="icon_content_description">Icona del diàleg</string>
     <string name="ignore_special_app">Excloeu del vostre pla les dades que utilitzen les aplicacions seleccionades</string>
     <string name="image_protect_auto_del">%s intenta suprimir imatges</string>
     <string name="image_protect_del_pic_tips">Notificar sobre imatges suprimides 删除 图片 时 提醒</string>
@@ -2392,6 +2418,7 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="item_mms">Filtra els missatges no desitjats</string>
     <string name="item_system_auto_download">Baixa actualitzacions automàticament</string>
     <string name="item_usb_debug">Depuració USB</string>
+    <string name="item_view_role_description">Pestanya</string>
     <string name="item_virus_lib">Actualitza automàticament les definicions de virus</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_callwait">Notificació de trucada en espera</string>
@@ -2532,6 +2559,20 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="mark_sell_time_setting">Bloqueja els números que hagin estat notificats com a telemàrquetings un determinat nombre de vegades</string>
     <string name="mark_time_setting_dialog_title">Notifica aquest número</string>
     <string name="marked_by_user">"L'heu marcat com a "</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o PM</string>
+    <string name="material_hour_selection">Selecciona l\'hora</string>
+    <string name="material_hour_suffix">"%1$s en punt"</string>
+    <string name="material_minute_selection">Selecciona els minuts</string>
+    <string name="material_minute_suffix">%1$s minuts</string>
+    <string name="material_slider_range_end">Final de l\'interval,</string>
+    <string name="material_slider_range_start">Inici de l\'interval,</string>
+    <string name="material_timepicker_am">SÓC</string>
+    <string name="material_timepicker_clock_mode_description">Canvia al mode de rellotge per a l\'entrada d\'hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecciona l\'hora</string>
+    <string name="material_timepicker_text_input_mode_description">Canvia al mode d\'entrada de text per a l\'entrada de temps.</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">Alliberats %s</string>
     <string name="memory_clean_memory_size_tip">Memòria Cau</string>
@@ -2710,10 +2751,44 @@ El dispositiu és %s més ràpid ara."</string>
     <string name="more_settings">Més</string>
     <string name="morning">Matí</string>
     <string name="mtp_ptp_mode_summary">MTP o PTP està actiu</string>
+    <string name="mtrl_badge_numberless_content_description">Notificació nova</string>
+    <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d notificacions noves</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_title">Selecciona la data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+    <string name="mtrl_picker_invalid_format">El format no és vàlid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Ús: %1$s</string>
+    <string name="mtrl_picker_invalid_range">L\'interval no és vàlid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navega a l\'any %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora de l\'abast: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici : %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de finalització</string>
+    <string name="mtrl_picker_range_header_title">Selecciona l\'interval</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici: data de finalització</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_text_input_date_hint">Datar</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalització</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canvia al mode d\'entrada del calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca per canviar a seleccionar un dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'entrada de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca per canviar a la selecció d\'un any</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="na_main_card_ad_subtitle">Moltes dades, trucades gratuïtes, tarifes baixes</string>
     <string name="na_main_card_ad_text">Busqueu un pla que us convingui</string>
     <string name="na_main_card_ad_title">Promoció de la targeta Mi Fan</string>
     <string name="na_main_card_title_sim">"Fitxa "</string>
+    <string name="na_open_at_once">Activa</string>
+    <string name="na_query_and_correction">Comprovar i calibrar el balanç</string>
+    <string name="na_query_and_correction_msg">"Podeu consultar i calibrar el saldo del compte i les estadístiques de dades mòbils enviant un SMS gratuït al vostre operador de telefonia mòbil. Aquests missatges estan xifrats.
+els missatges de consulta de Balanç no s'emmagatzemen a Missatgeria i no es mostraran.
+Podeu desactivar l'opció \"Ajusta automàticament les estadístiques d'ús de dades\" en qualsevol moment."</string>
     <string name="na_text_checking">"Prova: "</string>
     <string name="name">Nom</string>
     <string name="nd_result_button_optimize">Optimitza</string>
@@ -3016,6 +3091,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
     <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
     <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="password_type">Canvia la contrasenya</string>
     <string name="password_type_underline"><u>Canvieu la contrasenya</u></string>
     <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
@@ -4371,6 +4447,10 @@ Voleu retirar el consentiment?"</string>
     <string name="sp_sos_title">SOS d’emergència</string>
     <string name="sp_system_security_title">Seguretat del sistema</string>
     <string name="sp_toast_removed_from_sign_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Cancel·lar</string>
+    <string name="sp_unshelf_dialog_content">"%s no ha superat les proves de seguretat de GetApps. L'ús de pagaments des de l'aplicació pot provocar pèrdues financeres. Pagar de totes maneres?"</string>
+    <string name="sp_unshelf_dialog_continue_pay">Pagar</string>
+    <string name="sp_unshelf_dialog_title">Riscos detectats</string>
     <string name="sp_website_scan_summary">Navegació web segura</string>
     <string name="sp_website_scan_title">Consulteu els llocs web</string>
     <string name="special_number_group">Bloqueja els números notificats</string>
@@ -4631,9 +4711,9 @@ Per utilitzar aquest ^ 1, primer cal muntar-lo."</string>
     <string name="storage_dialog_unsupported">"Aquest dispositiu no és compatible amb ^ 1.
 
 Per utilitzar aquest ^ 1 amb aquest dispositiu, primer cal configurar-lo."</string>
-    <string name="storage_fbo_clear">Desfragmentació</string>
-    <string name="storage_fbo_des">"L'emmagatzematge intern pateix fragmentació, cosa que pot alentir significativament el dispositiu. La desfragmentació es realitza automàticament mentre no feu servir el dispositiu. Organitza físicament els fitxers en el nombre més petit de fragments reduint el retard."</string>
-    <string name="storage_fbo_number_tip">Fusionat el %1$s</string>
+    <string name="storage_fbo_clear">Actualització de l\'emmagatzematge FBO</string>
+    <string name="storage_fbo_des">"L'emmagatzematge intern pateix de fragmentació, cosa que pot alentir significativament el dispositiu. L'actualització de l'emmagatzematge FBO funciona automàticament mentre no utilitzeu el dispositiu. Organitza físicament els fitxers en el menor nombre de fragments que redueixen el retard."</string>
+    <string name="storage_fbo_number_tip">Processat el %1$s</string>
     <string name="storage_fbo_tools">Optimització de l\'emmagatzematge</string>
     <string name="storage_file_delete_tip">Voleu suprimir els elements seleccionats permanentment? Alguns d\'ells es poden tornar a carregar quan sigui necessari.</string>
     <string name="storage_file_dialog_delete_title">Suprimeix els elements</string>

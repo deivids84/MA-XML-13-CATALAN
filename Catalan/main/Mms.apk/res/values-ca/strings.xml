@@ -319,9 +319,9 @@ afegits a la llista de bloqueig"</string>
     <string name="favorite_at_time">Afegit a preferits al: %1s</string>
     <string name="fdn_check_failure">Només pots enviar missatges als números de marcatge fix</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary"><b>Mi Message permet enviar missatges a altres usuaris de Mi Message per internet sense haver d\'incórrer en càrrecs.</b>. Per activar aquest servei és necessari enviar un missatge SMS. El vostre operador us cobrarà per aquest missatge. Llegiu i accepteu el nostre <font color="#B3000000"><a href="http://url1">Acord d\'usuari</a></font> i la nostra <font color="#B3000000"><a href="http://url2">Política de privadesa</a></font> abans d’utilitzar aquesta funció.</string>
+    <string name="feature_mx_summary">&lt;b&gt;El meu missatge us permet enviar missatges a altres usuaris de Mi Message a internet sense incórrer en càrrecs&lt;/b&gt;. Per activar aquest servei es requereix un missatge SMS sortint. El vostre transportista us cobrarà per aquest missatge. Llegiu i accepteu el nostre&lt;/a&gt;&lt;/font&gt; de &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;l\'Acord d\'Usuari i la política de privadesa &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;abans&lt;/a&gt;&lt;/font&gt; d\'utilitzar aquesta funció.</string>
     <string name="feature_smart_sms">Missatgeria Intel·ligent</string>
-    <string name="feature_smart_sms_summary"><b>La Missatgeria Intel·ligent proporciona un reconeixement de l\'identificador del remitent i menús intel ligents.</b>\". Yulore proporciona en part la missatgeria intel·ligent. Llegiu i accepteu la \"<font color="#B3000000"><a href="http://url3">Política de privadesa</a></font> de Yulore abans d’utilitzar aquesta funció.</string>
+    <string name="feature_smart_sms_summary"><b>La missatgeria intel·ligent proporciona reconeixement d\'identificadors de remitent i menús intel·ligents</b>\". La missatgeria intel·ligent és proporcionada en part per Yulore. Llegiu i accepteu la política de privadesa \"<font color="#B3000000"><a href="http://url3">\" de Yulore</a></font> abans d\'utilitzar aquesta funció.</string>
     <string name="festival_sms_loading">S\'està carregant&#8230;</string>
     <string name="file_create_time">Creat:</string>
     <string name="file_size">Mida:</string>
@@ -353,7 +353,7 @@ afegits a la llista de bloqueig"</string>
     <string name="ft_cfs_dialog_content">"No es poden entregar els fitxers mitjançant RCS. Voleu enviar un enllaç en un missatge de text?"</string>
     <string name="ft_cfs_dialog_title">Transferència de fitxers alternativa</string>
     <string name="go_close">Configuració</string>
-    <string name="google_message_promo_content">Xiaomi recomana actualitzar Google a Missatges. Instal·leu-la ara per compartir fotografies d’alta qualitat, xatejar per Wi-Fi i molt més. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Més informació</a></font></string>
+    <string name="google_message_promo_content">Xiaomi recomana actualitzar a Missatges de Google. Instal·leu ara per obtenir l\'ús compartit de fotos d\'alta qualitat, xatejar a Wi-Fi i molt més. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Més informació</a></font></string>
     <string name="google_message_promo_title">Actualitzeu l\'aplicació de missatgeria</string>
     <string name="group_already_kicked_hint">"No es poden enviar els missatges. No ets membre d'aquest xat de grup."</string>
     <string name="group_member_is_composing">Escrivint…</string>
@@ -1200,6 +1200,7 @@ Mireu els recomanats!"</string>
     <string name="status_unread">No llegit</string>
     <string name="stick">Fixa</string>
     <string name="stick_conversation">Fixa la conversa actual</string>
+    <string name="sticked">S\'ha fixat correctament</string>
     <string name="sticked_conversation">La conversa ja està fixada</string>
     <string name="storage_dialog_attachments">Adjunts en l\'MMS:</string>
     <string name="storage_dialog_available_space">Espai disponible:</string>
@@ -1332,6 +1333,7 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
     <string name="title_allow_network_access">Actualitza la informació automàticament</string>
     <string name="title_collapse_sp_messages">Grup de notificacions</string>
     <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
+    <string name="title_not_show_read_mms_perm_req">Permisos necessaris</string>
     <string name="title_pref_cm_smart_sms">SMS Intel·ligents de China Mobile</string>
     <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
     <string name="title_show_list_avatar">Mostra fotos de perfil</string>
@@ -1354,6 +1356,7 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
     <string name="toast_not_show_email_perm_req">Permet que Missatgeria accedeixi al correu electrònic per utilitzar aquesta funció</string>
     <string name="toast_not_show_location_perm_req">Permet que Missatgeria accedeixi a la ubicació per utilitzar aquesta funció</string>
     <string name="toast_not_show_microphone_perm_req">Permetre que la missatgeria faci servir el micròfon per poder utilitzar aquesta funció</string>
+    <string name="toast_not_show_read_mms_perm_req">Per poder veure els missatges rebuts, heu de donar permís a Missatgeria per llegir SMS i MMS. Podeu concedir aquest permís a Configuració.</string>
     <string name="toast_not_show_send_sms_perm_req">Per poder utilitzar aquesta funció, primer permeteu que aquesta aplicació enviï missatges.</string>
     <string name="toast_not_show_storage_perm_req">Permetre que la missatgeria accedeixi a l’emmagatzematge per poder utilitzar aquesta funció</string>
     <string name="toast_not_show_write_contacts_perm_req">Permet que Missatgeria editi els contactes per utilitzar aquesta funció</string>
@@ -1387,6 +1390,7 @@ Intents realitzats: %s"</string>
     <string name="unknown_sender">Remitent desconegut</string>
     <string name="unstick">Allibera</string>
     <string name="unstick_conversation">Allibera la conversa actual</string>
+    <string name="unsticked">No s\'ha captat correctament</string>
     <string name="unsticked_conversation">Conversa alliberada</string>
     <string name="unsubscribe">Cancel·la la subscripció</string>
     <string name="unsupported_media_format">El format %1$s no està suportat.</string>

@@ -84,4 +84,8 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">caràcters %d per sobre del límit</item>
+        <item quantity="one">caràcter %d per sobre del límit</item>
+    </plurals>
 </resources>

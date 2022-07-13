@@ -113,6 +113,7 @@
     <string name="at_least_one">Selecciona almenys una categoria</string>
     <string name="auth_fail_warning">Sessió expirada. Inicieu la sessió de nou.</string>
     <string name="auto_interval">Automàtic</string>
+    <string name="back">Esquena</string>
     <string name="back_icon_content_description">Enrere</string>
     <string name="bind_sign_in_title">Afegeix Compte Mi</string>
     <string name="cancel">Cancel·leu</string>
@@ -148,6 +149,7 @@
     <string name="clear_text_end_icon_content_description">Neteja el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
+    <string name="close_country_code_content_description">Suprimeix el codi de país</string>
     <string name="close_gallery">Desactiva</string>
     <string name="collect_diagnosis_log">Recopila els registres</string>
     <string name="comment_pop_cancel">Ara no</string>
@@ -229,8 +231,10 @@
     <string name="detail_no_more_recomm">No hi ha més elements a mostrar.</string>
     <string name="detail_no_net">"No s'ha pogut connectar a la xarxa."</string>
     <string name="detail_outer_menu_icon">Menú</string>
+    <string name="detail_recomm_excellent">Hotels destacats</string>
     <string name="detail_recomm_fail">"No s'han pogut obtenir recomanacions"</string>
     <string name="detail_recomm_load_tip">Coincideixen amb els vostres interessos…</string>
+    <string name="detail_recomm_personal">Recomanable</string>
     <string name="detail_share_moment">Moments</string>
     <string name="detail_share_qq">QQ</string>
     <string name="detail_share_qzone">Qzone</string>
@@ -273,6 +277,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="external_storage_permission">Accés a l’emmagatzematge</string>
     <string name="external_storage_permission_summary">Per seleccionar fons de pantalla personalitzats i desar els elements baixats</string>
+    <string name="facebook_login_btn_content_description">Inicia la sessió amb Facebook</string>
     <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
     <string name="favor_list_no_data">Aquí no hi ha cap element.</string>
     <string name="favor_list_title">Preferits</string>
@@ -297,6 +302,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="get_ph_ticket">Obté el codi</string>
     <string name="get_phone_bind_exceed_limit">"Podeu associar fins a tres comptes Mi amb un número de telèfon. No es poden afegir comptes nous."</string>
     <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
+    <string name="google_login_btn_content_description">Inicia la sessió amb Google</string>
     <string name="goto_confirm">Configuració</string>
     <string name="goto_sign_up">Crea un compte</string>
     <string name="header_help">Ajuda</string>
@@ -332,8 +338,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="lks_cta_summary1">El Carrusel de fons de pantalla ofereix les funcions següents:</string>
     <string name="lks_cta_summary2">"1. Fons de pantalla actualitzats automàticament&lt;br&gt;2. Imatges i històries noves que es mostren a la pantalla de bloqueig&lt;br&gt;3. Opcions de personalització&lt;br&gt;Aquesta funció s'ha de connectar a Internet per funcionar amb normalitat.&lt;br&gt;&lt;br&gt;Per oferir serveis addicionals, és possible que demanem permís per accedir i desar elements a l'emmagatzematge d'aquest dispositiu. Llegiu i accepteu el nostre &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acord d'usuari&lt;/font&gt;&lt;/a&gt; i la &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privadesa&lt;/font&gt;&lt;/a&gt; abans de continuar."</string>
     <string name="lks_cta_title">Termes i condicions</string>
-    <string name="lks_data_warning_toast_1">"Esteu utilitzant dades mòbils per cercar fons de pantalla.
-Això pot generar costos addicionals."</string>
+    <string name="lks_data_warning_toast_1">"Esteu utilitzant dades mòbils per navegar pels fons de pantalla.
+Això pot generar tarifes addicionals."</string>
     <string name="lks_dislike">"No m'agrada"</string>
     <string name="lks_left_net_deny">La connexió de xarxa està restringida</string>
     <string name="lks_left_net_error">"No s'ha pogut connectar a la xarxa."</string>
@@ -341,25 +347,25 @@ Això pot generar costos addicionals."</string>
     <string name="lks_left_top_notice_refresh">Toqueu per visualitzar els nous elements</string>
     <string name="lks_logo_desc2">Fons de pantalla nous cada dia</string>
     <string name="lks_logo_desc_search">Fons de pantalla nous diàriament</string>
-    <string name="lks_loop_icon_ask_cancle">Cancel·la</string>
-    <string name="lks_loop_icon_ask_dlg">Activa la presentació de diapositives de la pantalla de bloqueig per obtenir imatges i històries noves que s\'envien diàriament a la pantalla de bloqueig.</string>
+    <string name="lks_loop_icon_ask_cancle">Cancel·lar</string>
+    <string name="lks_loop_icon_ask_dlg">Activa la presentació de diapositives bloqueja la pantalla per obtenir imatges i històries fresques que es lliurin a la pantalla bloquejada diàriament.</string>
     <string name="lks_loop_icon_ask_ok">Activa</string>
-    <string name="lks_loop_icon_ask_title">Presentació de diapositives a la pantalla de bloqueig</string>
-    <string name="lks_loop_icon_close_cancle">Cancel·la</string>
-    <string name="lks_loop_icon_close_dlg">La presentació de diapositives de la pantalla de bloqueig es desactivarà si configureu aquesta imatge com a pantalla de bloqueig. Voleu establir-la com a pantalla de bloqueig?</string>
-    <string name="lks_loop_icon_close_ok">D\'acord</string>
+    <string name="lks_loop_icon_ask_title">Bloqueja la presentació de diapositives de la pantalla</string>
+    <string name="lks_loop_icon_close_cancle">Cancel·lar</string>
+    <string name="lks_loop_icon_close_dlg">La presentació de diapositives de la pantalla bloquejada s\'apagarà si definiu aquesta imatge com a pantalla bloquejada. S\'ha definit com a pantalla bloquejada ara?</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
     <string name="lks_loop_icon_close_title">Atenció</string>
-    <string name="lks_loop_icon_dlg_title">Presentació de diapositives a la pantalla de bloqueig</string>
-    <string name="lks_loop_icon_open_dlg">La presentació de diapositives a la pantalla de bloqueig està activada i ofereix imatges i històries noves a la pantalla de bloqueig diàriament.</string>
-    <string name="lks_loop_icon_open_ok">Entesos</string>
+    <string name="lks_loop_icon_dlg_title">Bloqueja la presentació de diapositives de la pantalla</string>
+    <string name="lks_loop_icon_open_dlg">La presentació de diapositives de la pantalla bloquejada està activada i ofereix imatges i històries fresques a la pantalla bloquejada diàriament.</string>
+    <string name="lks_loop_icon_open_ok">Ho tinc</string>
     <string name="lks_more_pics_coming_toast">Noves imatges estan en camí</string>
-    <string name="lks_new_user_help_anime">Llisqueu el dit cap amunt per veure més del Carrusel de fons de pantalla</string>
+    <string name="lks_new_user_help_anime">Fes lliscar el dit cap amunt per veure més de Wallpaper Carousel</string>
     <string name="lks_no_network">"No s'ha pogut connectar a la xarxa"</string>
-    <string name="lks_please_reload">Actualitza</string>
-    <string name="lks_retry">Torna-ho a provar</string>
+    <string name="lks_please_reload">Recarregar</string>
+    <string name="lks_retry">Torneu</string>
     <string name="lks_subscription_toast">S\'ha canviat correctament el fons de pantalla</string>
-    <string name="lks_to_history">Historial</string>
-    <string name="lks_to_setting">Configuració del Carrusel de fons de pantalla</string>
+    <string name="lks_to_history">Història</string>
+    <string name="lks_to_setting">Configuració del carrusel de fons de pantalla</string>
     <string name="llks_add_cate">Subscriviu-vos a %s</string>
     <string name="llks_auto_switch_wp">Subscriviu-vos a les categories que us agradin</string>
     <string name="llks_display_error">Permisos necessaris</string>
@@ -417,6 +423,7 @@ Això pot generar costos addicionals."</string>
     <string name="look_str">Popular</string>
     <string name="main_fragment_title_discover">Descobreix</string>
     <string name="main_fragment_title_home">Recomana</string>
+    <string name="main_fragment_title_home_excellent">Hotels destacats</string>
     <string name="main_fragment_title_search">Destacats</string>
     <string name="main_fragment_title_user">Configuració</string>
     <string name="manage">Gestiona</string>
@@ -718,6 +725,7 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Llisqueu cap amunt per actualitzar</string>
     <string name="pull_to_refresh_refreshing_label">S\'està actualitzant…</string>
     <string name="pull_to_refresh_release_label">Deixeu anar per refrescar</string>
+    <string name="qq_login_btn_content_description">Inicia la sessió amb QQ</string>
     <string name="recommend_switch_desc">Rebreu recomanacions de contingut en funció de les vostres preferències</string>
     <string name="recommend_switch_dlg_close">Desactiva</string>
     <string name="recommend_switch_dlg_desc">"Si desactiveu aquesta funció, no podreu rebre recomanacions en funció de les vostres preferències."</string>
@@ -1058,6 +1066,8 @@ mm"</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="weibo_login_btn_content_description">Inicieu la sessió amb Weibo</string>
+    <string name="weixin_login_btn_content_description">Inicia la sessió amb WeChat</string>
     <string name="wlan_download">Actualitza només per la Wi-Fi</string>
     <string name="wlan_download_cn">Actualitza només per la Wi-Fi</string>
     <string name="wm_storage_left">"Disponible: "</string>

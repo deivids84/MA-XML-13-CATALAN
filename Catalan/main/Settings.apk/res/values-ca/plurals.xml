@@ -316,6 +316,10 @@
         <item quantity="other">%d agents de confiança actius</item>
         <item quantity="one">1 agent de confiança actiu</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Com a màxim %d processos</item>
+        <item quantity="one">Com a màxim %d procés</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicacions han utilitzat memòria durant les últimes %2$s</item>
         <item quantity="one">1 aplicació ha utilitzat memòria durant les últimes %2$s</item>
@@ -495,6 +499,26 @@ Per obtenir més informació sobre aquest certificat, contacta amb l'administrad
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicacions poden mostrar notificacions</item>
         <item quantity="one">%d aplicació pot mostrar notificacions</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Després de %d minuts</item>
+        <item quantity="one">Després de %d minut</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">bits/mostra de %d</item>
+        <item quantity="one">%d bit/mostra</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segon</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d suggeriments</item>

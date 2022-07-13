@@ -578,8 +578,8 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
 - Missatges de text
 - Emmagatzematge"</string>
     <string name="request_all_permission_title">Es requereixen permisos</string>
-    <string name="restore_data_to_device_content">"Els vostres elements es van sincronitzar amb Xiaomi Cloud.
-Inicieu la sessió al vostre compte de Mi per restaurar-los."</string>
+    <string name="restore_data_to_device_content">"Els vostres elements s'han sincronitzat amb Xiaomi Cloud.
+inicieu la sessió al vostre compte Xiaomi per restaurar-los."</string>
     <string name="restore_data_to_device_title">Restaure els elements en aquest dispositiu</string>
     <string name="revoke">Retirar el consentiment</string>
     <string name="revoke_agree">Retirada del consentiment</string>
@@ -636,7 +636,7 @@ Allibereu almenys %s."</string>
     <string name="sender_finish_title">S\'ha transferit correctament</string>
     <string name="sender_scanning_code">Col·loqueu la imatge al marc</string>
     <string name="sender_scanning_connecting">S\'està connectant amb un dispositiu nou…</string>
-    <string name="set_new_device_account">Sincronitza amb el compte Mi</string>
+    <string name="set_new_device_account">Sincronitza amb el compte Xiaomi</string>
     <string name="set_new_device_lock">Estableix el bloqueig de pantalla</string>
     <string name="set_new_device_more">Més configuracions del sistema…</string>
     <string name="set_new_device_navigationbar">Estableix la navegació del sistema</string>

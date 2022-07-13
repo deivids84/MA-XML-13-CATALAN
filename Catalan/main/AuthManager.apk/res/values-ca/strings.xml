@@ -306,14 +306,14 @@
     <string name="permdesc_get_account">Voleu permetre que %1$s accedeixi a tots els comptes emmagatzemats en aquest dispositiu?</string>
     <string name="permdesc_location">Voleu permetre que %1$s accedeixi a la informació d\'ubicació?</string>
     <string name="permdesc_location_background">Voleu permetre que %1$s accedeixi a la informació d\'ubicació en segon pla?</string>
-    <string name="permdesc_microphone">Voleu permetre que %1$s utilitzi el micròfon per enregistrar àudio i fer trucades?</string>
+    <string name="permdesc_microphone">Vols permetre que %1$s utilitzi el micròfon per gravar àudio i fer trucades?</string>
     <string name="permdesc_nearby_devices">Voleu permetre que %1$s descobreixi i es connecti als dispositius propers?</string>
     <string name="permdesc_process_outgoing_call">Voleu permetre que %1$s respongui i finalitzi les trucades?</string>
     <string name="permdesc_read_calendar">Voleu permetre que %1$s accedeixi i editi els esdeveniments del calendari?</string>
     <string name="permdesc_read_call_log">Voleu permetre que %1$s accedeixi a l\'historial de trucades?</string>
     <string name="permdesc_read_contacts">Voleu permetre que %1$s accedeixi als contactes?</string>
     <string name="permdesc_read_mms">Voleu permetre que %1$s llegeixi missatges multimèdia?</string>
-    <string name="permdesc_read_phone_state">Voleu permetre que %1$s accedeixi a l\'estat del dispositiu i a la informació de la xarxa mòbil?</string>
+    <string name="permdesc_read_phone_state">Vols permetre que %1$s accedeixi a l\'estat del dispositiu i a la informació de la xarxa mòbil?</string>
     <string name="permdesc_read_sms">Voleu permetre que %1$s llegeixi o enviï missatges de text i multimèdia?</string>
     <string name="permdesc_read_storage">Voleu permetre que %1$s accedir als fitxers i fotos d\'aquest dispositiu?</string>
     <string name="permdesc_recognition">Voleu permetre que %1$s accedeixi a la informació de la vostra activitat?</string>
@@ -347,6 +347,7 @@
     <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
     <string name="pm">PM</string>
     <string name="pp_privacy_lab_operator_introduction">Atenció</string>
+    <string name="precise_location_title">Localització precisa</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="real_location_off">La ubicació aproximada està activada</string>
     <string name="real_location_on">La ubicació aproximada està desactivada</string>
