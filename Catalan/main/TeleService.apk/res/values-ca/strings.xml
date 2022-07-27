@@ -394,7 +394,7 @@ Taxa de mostreig"</string>
     <string name="callFailed_normal_unspecified">Normal, sense especificar</string>
     <string name="callFailed_number_changed">Número canviat</string>
     <string name="callFailed_number_unreachable">No es pot connectar amb aquest número</string>
-    <string name="callFailed_only_digital_information_bearer_available">Només està disponible la capacitat de la portadora de informació digital restringida</string>
+    <string name="callFailed_only_digital_information_bearer_available">Només està disponible la capacitat de la portadora d\'informació digital restringida</string>
     <string name="callFailed_operator_determined_barring">L\'operador va determinar la restricció</string>
     <string name="callFailed_otasp_provisioning_in_process">No es pot fer la trucada perquè s\'està duent a terme el proveïment del dispositiu.</string>
     <string name="callFailed_outOfService">La xarxa mòbil no està disponible</string>
@@ -1061,6 +1061,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
     <string name="help_feedback_label">Ajuda i comentaris</string>
     <string name="help_label">Ajuda i comentaris</string>
+    <string name="hide_stk_name">Eines USIM</string>
     <string name="home">Pàgina inicial de la configuració</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="ime_security_warning">Aquest mètode d\'entrada pot ser capaç de recopilar tot el text que escriviu, incloses les dades personals com contrasenyes i números de targetes de crèdit. Prové de l\'aplicació %1$s. Voleu utilitzar aquest mètode d\'entrada?</string>
@@ -1574,6 +1575,8 @@ Poseu-vos en contacte amb els vostres operadors"</string>
     <string name="no_vm_number">Número de bústia de veu perdut</string>
     <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
     <string name="no_voip">"La trucada SIP no és compatible"</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">"No es pot fer trucades. El servei de veu HD no està registrat per a la SIM %d (Xina Broadnet)."</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"No es pot fer trucades. El servei de veu HD no està registrat per a la SIM Broadnet de la Xina."</string>
     <string name="no_wifi_available">Heu d’estar connectat a una xarxa Wi-Fi per a trucades SIP (utilitzeu la configuració de la xarxa i sense fils).</string>
     <string name="noon">Migdia</string>
     <string name="not_a_valid_port">El número de port ha d’estar entre %1$d i %2$d.</string>

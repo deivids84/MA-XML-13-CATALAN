@@ -57,6 +57,8 @@
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="default_device_name">Dispositiu desconegut</string>
+    <string name="device_list_all">Tots els dispositius</string>
+    <string name="device_list_more">Més</string>
     <string name="device_offline">L\'altre dispositiu està fora de línia. Comenceu de nou.</string>
     <string name="device_status_failed">"No s'ha pogut enviar"</string>
     <string name="device_status_sending">S\'està enviant…</string>
@@ -91,10 +93,14 @@
     <string name="friday_shortest">dv.</string>
     <string name="functions_are_being_developed">Aquesta funció estarà disponible en breu. Estigueu atents!</string>
     <string name="global_main_purpose">Us donem la benvinguda a l\'Editor de captures de pantalla! Podeu utilitzar aquesta aplicació per retallar i editar les vostres captures de pantalla. Aquesta aplicació s\'ha de connectar a Internet per poder funcionar amb normalitat.</string>
+    <string name="global_pad">La meva tauleta</string>
+    <string name="global_pc">El meu portàtil</string>
+    <string name="global_phone">El meu telèfon</string>
     <string name="help">"No trobeu dispositius?"</string>
     <string name="help_content">"Si no trobeu el dispositiu que necessiteu, demaneu a l'altra persona que activi Mi Share."</string>
     <string name="image_decode_failed">"No s'ha pogut descodificar la imatge"</string>
     <string name="image_not_found">"No s'ha pogut trobar la imatge"</string>
+    <string name="lenovo_phone">Telèfon Lenovo</string>
     <string name="loading_text_format" formatted="false">Eliminant informació privada de les fotos (%d/%d)…</string>
     <string name="long_screenshot_error">No s\'ha pogut fer la captura de pantalla. Torneu-ho a provar.</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer
@@ -190,6 +196,8 @@ una captura de pantalla de desplaçament"</string>
     <string name="partial_screenshot_save_successful">Desat correctament</string>
     <string name="partial_screenshot_share">Comparteix</string>
     <string name="pc_device_model_name">Ordinador</string>
+    <string name="pc_redmi_device_model_name">Portàtil Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Portàtil Xiaomi</string>
     <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_doodle">Gargot</string>
     <string name="photo_editor_font_default">Mi Lanting (Regular)</string>

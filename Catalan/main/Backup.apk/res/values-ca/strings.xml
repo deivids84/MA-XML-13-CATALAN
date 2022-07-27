@@ -82,6 +82,8 @@
     <string name="backup_hint_pad">Manteniu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
     <string name="backup_new">Noves:</string>
+    <string name="backup_notice_content">"Les còpies de seguretat no s'encriptaran, la qual cosa significa que les aplicacions de tercers poden accedir-hi o temperar-les. També poden sorgir altres riscos de seguretat. Assegureu-vos d'emmagatzemar els elements amb còpia de seguretat en un entorn ben protegit."</string>
+    <string name="backup_notice_title">Atenció</string>
     <string name="backup_notification_title">\"Còpia de seguretat\" està funcionant…</string>
     <string name="backup_progress">S\'està fent una còpia de seguretat…</string>
     <string name="backup_report">Mostra els detalls</string>
@@ -110,6 +112,8 @@
     <string name="cancel_moving_dialog_message">Voleu aturar la importació?</string>
     <string name="cancel_moving_dialog_title">Atura la importació</string>
     <string name="cancel_restore">Atura</string>
+    <string name="category_contacts">Contactes</string>
+    <string name="category_message_contacts">Missatgeria i Contactes</string>
     <string name="check_privacy_policy">Mostra la Política de privadesa</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="click_soft_ap_to_link">Seleccioneu un punt d\'accés per connectar-vos</string>
@@ -317,7 +321,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="local_main_backup_time">Última còpia de seguretat: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Xifra els elements de la còpia de seguretat mitjançant el Compte Mi</string>
-    <string name="local_main_encrypt_backup_title">Xifra les còpies de seguretat</string>
+    <string name="local_main_encrypt_backup_title">Verifiqueu el compte per restaurar els elements</string>
     <string name="local_main_latest_backup_time_loading">Un moment…</string>
     <string name="local_no_backup">Sense còpies de seguretat.</string>
     <string name="local_no_backup_data">Encara no hi ha còpies de seguretat</string>
@@ -546,6 +550,8 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="permission_read_storage_global">Accés a l\'emmagatzematge</string>
     <string name="permission_read_write_storage">Per poder fer una còpia de còpia de casa dels elements, permeteu que aquesta funció accedeixi primer a l\'emmagatzematge.</string>
     <string name="permission_read_write_sys_app">Per poder fer una còpia de seguretat i restaurar missatges, contactes i historial de trucades, permeteu que aquesta funció accedeixi primer a aquests elements.</string>
+    <string name="permission_read_write_sys_app1">Permeteu que aquesta funció accedeixi als vostres missatges i contactes per poder fer còpies de seguretat i restaurar aquests elements.</string>
+    <string name="permission_read_write_sys_app2">Permeteu que aquesta funció accedeixi als vostres contactes per poder fer còpies de seguretat i restaurar aquests elements.</string>
     <string name="permission_related">Permisos</string>
     <string name="permission_restore_calendar">Per restaurar esdeveniments de calendari</string>
     <string name="permission_restore_calendar_desc">Per poder restaurar els esdeveniments del calendari, permeteu que aquesta aplicació primer editi els esdeveniments del calendari.</string>

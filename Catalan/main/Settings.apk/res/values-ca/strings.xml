@@ -573,6 +573,7 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="allow_mock_location_summary">Permet ubicacions fictícies</string>
     <string name="allow_oaid_used">Utilitzeu ID virtual</string>
     <string name="allow_oaid_used_desc">"MIUI no proporcionarà un ID virtual (OAID) a les aplicacions instal·lades. Pot ser que algunes funcions de recomanació personal no funcionin correctament."</string>
+    <string name="allow_ongoing_title">Permet notificacions permanents</string>
     <string name="allow_overlay_description">Permet que aquesta aplicació es mostri a la part superior d’altres aplicacions que feu servir. Aquesta aplicació podrà veure on toqueu o canvieu el que es mostra a la pantalla.</string>
     <string name="allow_sound_title">Permet reproduir so</string>
     <string name="allow_vibrate_title">Permet vibrar</string>
@@ -1949,6 +1950,7 @@ Si instal·leu un certificat CA, el propietari del certificat podria accedir a l
     <string name="captions_category_title">Subtítols</string>
     <string name="capture_system_heap_dump_title">Sistema de captura de bolcat de la pila</string>
     <string name="capturing_system_heap_dump_message">Sistema de captura de bolcat de la pila</string>
+    <string name="card_holder_header_title">Cartera</string>
     <string name="card_main_hbassistant_title">Sobre vermell;Paquet vermell;Diners</string>
     <string name="cards_passes_lower">targetes &amp; passis</string>
     <string name="cards_passes_sentence">Targetes &amp; passis</string>
@@ -2101,7 +2103,7 @@ Si instal·leu un certificat CA, el propietari del certificat podria accedir a l
     <string name="color_game_led_color_title">Color clar</string>
     <string name="color_game_led_end_time">Fi</string>
     <string name="color_game_led_feature_off">Apagat</string>
-    <string name="color_game_led_feature_on">Sobre</string>
+    <string name="color_game_led_feature_on">Activat</string>
     <string name="color_game_led_freq_title">Freqüència de parpelleig</string>
     <string name="color_game_led_game_mode_summary">Mostra els efectes dels jocs quan Game Turbo estigui activat</string>
     <string name="color_game_led_game_mode_title">Ús per al Game Turbo</string>
@@ -5487,7 +5489,7 @@ Continueu per accedir a la configuració addicional."</string>
     <string name="mobile_data_always_on">Mantingueu sempre les dades mòbils en</string>
     <string name="mobile_data_always_on_summary">Mantingueu sempre actives les dades mòbils, fins i tot quan la Wi-Fi estigui activa (per a un canvi ràpid de xarxa).</string>
     <string name="mobile_data_ap_mode_disabled">No disponible durant el mode avió</string>
-    <string name="mobile_data_connection_active">Contigu</string>
+    <string name="mobile_data_connection_active">Connectat</string>
     <string name="mobile_data_disable_message">No tindràs accés a les dades ni a Internet a través de %s. Internet només estarà disponible per Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">el teu transportista</string>
     <string name="mobile_data_disable_title">Desactivar les dades mòbils?</string>
@@ -5605,7 +5607,7 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
     <string name="mqs_privacy_dialog_content">Sembla que s’han produït errors recentment al dispositiu. Podeu penjar registres per ajudar-nos a localitzar i solucionar aquest problema. Els registres poden contenir la vostra informació personal, inclosa la informació sobre la vostra ubicació. Voleu penjar-lo ara?</string>
     <string name="mqs_privacy_dialog_title">Carregant registres</string>
     <string name="mr_button_content_description">Repartiment</string>
-    <string name="mr_cast_button_connected">Repartiment. Contigu</string>
+    <string name="mr_cast_button_connected">Emet. Connectat</string>
     <string name="mr_cast_button_connecting">Repartiment. Connectar</string>
     <string name="mr_cast_button_disconnected">Repartiment. Desconnectat</string>
     <string name="mr_cast_dialog_title_view_placeholder">No hi ha informació disponible</string>
@@ -5892,7 +5894,7 @@ Es substitueix a %2$s com a aplicació de pagament predeterminada."</string>
     <string name="nfc_secure_settings_title">Requereix el desbloqueig del dispositiu per NFC</string>
     <string name="nfc_secure_toggle_summary">Permet l\'ús de nFC només quan la pantalla estigui desbloquejada</string>
     <string name="nfc_setting_off">Apagat</string>
-    <string name="nfc_setting_on">Sobre</string>
+    <string name="nfc_setting_on">Activat</string>
     <string name="night">Vespre</string>
     <string name="night_display_activation_off_custom">Desactiva-ho fins a %1$s</string>
     <string name="night_display_activation_off_manual">Desactiva-ho ara</string>
@@ -7061,7 +7063,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="saved_wifi_delete">Elimina</string>
     <string name="scan_list_label">Resultats de l\'escaneig:</string>
     <string name="scanning_status_text_off">Apagat</string>
-    <string name="scanning_status_text_on">Sobre</string>
+    <string name="scanning_status_text_on">Activat</string>
     <string name="scanning_status_text_wifi_off_ble_off">Tant l\'escaneig per Wi-Fi com per Bluetooth estan desactivats</string>
     <string name="scanning_status_text_wifi_off_ble_on">L’escaneig per Bluetooth està activat, l’escaneig per Wi-Fi està desactivat</string>
     <string name="scanning_status_text_wifi_on_ble_off">L’escaneig per Wi-Fi està activat i l’escaneig per Bluetooth està desactivat</string>
@@ -7184,7 +7186,7 @@ Per utilitzar la fixació d'aplicacions: \u0009
 2.\u0009visió general oberta \u0009
 3.\u0009Toca la icona de l'aplicació a la part superior de la pantalla i, després, toca \"Ancorar\""</string>
     <string name="screen_pinning_switch_off_text">Apagat</string>
-    <string name="screen_pinning_switch_on_text">Sobre</string>
+    <string name="screen_pinning_switch_on_text">Activat</string>
     <string name="screen_pinning_title">Fixació d\'aplicacions</string>
     <string name="screen_pinning_unlock_none">Bloqueja el dispositiu en anul·lar la fixació</string>
     <string name="screen_pinning_unlock_password">Demana el codi PIN per anul·lar el fixat</string>
@@ -7843,7 +7845,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="shoulder_key_sound_text_sword">Espasa</string>
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Apagat</string>
-    <string name="shoulder_key_switch_status_open">Sobre</string>
+    <string name="shoulder_key_switch_status_open">Activat</string>
     <string name="show_all_anrs">Mostra totes ANRs</string>
     <string name="show_all_anrs_summary">Mostra el diàleg \"Aplicació que no respon\" per a les aplicacions en segon pla</string>
     <string name="show_all_apps">Mostra l\'ús total del dispositiu</string>
@@ -9459,8 +9461,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="virtual_sim_global_description">Connexió a xarxes de dades sense targeta SIM</string>
     <string name="virtual_sim_global_title">Servei de dades mòbils</string>
     <string name="virtual_sim_title">Xarxa de dades en itinerància</string>
-    <string name="virtual_surround_sound_switch_summary">"Enriqueix la profunditat de so per a la reproducció d'àudio i vídeo en auriculars (aquesta funció no funcionarà quan es reprodueixi %.1f àudio)"</string>
-    <string name="virtual_surround_sound_switch_title">So immersiu</string>
+    <string name="virtual_surround_sound_switch_summary">Enriqueix la profunditat de so per a la reproducció d\'àudio i vídeo en auriculars</string>
+    <string name="virtual_surround_sound_switch_summary_global">"Enriqueix la profunditat de so per a la reproducció d'àudio i vídeo en auriculars. Aquesta característica no funcionarà quan l'LDAC estigui activat."</string>
+    <string name="virtual_surround_sound_switch_title">Efectes de so immersius</string>
     <string name="virus_scan">Cerca virus</string>
     <string name="virus_scan_app_continue">Reanomenar l\'exploració</string>
     <string name="virus_scan_app_finish">Fet</string>
@@ -9513,7 +9516,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
     <string name="voip_assistant_settings">Assistent de VoIP</string>
     <string name="voip_assistant_settings_off">Apagat</string>
-    <string name="voip_assistant_settings_on">Sobre</string>
+    <string name="voip_assistant_settings_on">Activat</string>
     <string name="voip_assistant_settings_summary">Enregistra trucades VoIP i utilitza l\'optimització de la empremta de veu</string>
     <string name="volte_5G_limited_text">"Això també desactiva la connexió 5G.
 Durant una trucada de veu, no podeu utilitzar Internet i és possible que algunes aplicacions no funcionin."</string>
@@ -9843,7 +9846,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_connect_frequency">Freqüència de la Wi-Fi:</string>
     <string name="wifi_connected_low_quality">Baixa qualitat</string>
     <string name="wifi_connected_mac_randomization">Aleatorització MAC connectada</string>
-    <string name="wifi_connected_no_internet">Contigu. No hi ha internet.</string>
+    <string name="wifi_connected_no_internet">Connectat. Sense internet.</string>
     <string name="wifi_connected_to_message">Connectat a %1$s</string>
     <string name="wifi_connecting">S\'està connectant…</string>
     <string name="wifi_connecting_to_message">Connexió amb %1$s</string>
@@ -10005,7 +10008,7 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_hotspot_on_local_only_subtext">L\'aplicació està compartint contingut. Per compartir la connexió a Internet, desactiva el punt d\'accés i torna\'l a activar</string>
     <string name="wifi_hotspot_password_title">Contrasenya punt d\'accés</string>
     <string name="wifi_hotspot_switch_off_text">Apagat</string>
-    <string name="wifi_hotspot_switch_on_text">Sobre</string>
+    <string name="wifi_hotspot_switch_on_text">Activat</string>
     <string name="wifi_hotspot_tethering_on_subtext">S\'està compartint la connexió a Internet d’aquest telèfon mitjançant el punt d\'accés</string>
     <string name="wifi_hotspot_title">Voleu iniciar la sessió?</string>
     <string name="wifi_in_airplane_mode">En mode d\'avió</string>

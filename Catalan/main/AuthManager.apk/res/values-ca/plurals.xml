@@ -13,20 +13,20 @@
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">En mitja hora</item>
-        <item quantity="other">En mitja hora</item>
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">d\'aquí a %d min</item>
+        <item quantity="one">d\'aquí a 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>

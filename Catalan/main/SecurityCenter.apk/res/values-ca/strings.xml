@@ -6,6 +6,12 @@
     <string name="HIPS_Perm_CallLog_Desc">Escriure i suprimir l’historial de trucades</string>
     <string name="HIPS_Perm_Call_Desc">Trucar directament als números de telèfon</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar i suprimir contactes</string>
+    <string name="HIPS_Perm_External_READ_FILES">Accedir a fitxers i documents</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Accés a fitxers i documents emmagatzemats en aquest dispositiu</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Accés a fitxers d\'àudio</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Accés a cançons i altres fitxers d\'àudio emmagatzemats en aquest dispositiu</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Accés a fotos i vídeos</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Accés a les fotos i vídeos emmagatzemats en aquest dispositiu</string>
     <string name="HIPS_Perm_External_Storage">Accediu i guardeu elements a l’emmagatzematge</string>
     <string name="HIPS_Perm_External_Storage_Desc">Accediu i deseu fitxers i fotos a l’emmagatzematge intern</string>
     <string name="HIPS_Perm_External_Storage_Group">Gestioneu els permisos d\'emmagatzematge</string>
@@ -148,6 +154,9 @@
     <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
     <string name="add_to_whitelist_button">Excepcions d\'itinerància de dades</string>
     <string name="add_whitelist">Afegeix a excepcions</string>
+    <string name="added_game_notification_summary">Comenceu a jugar ara</string>
+    <string name="added_game_notification_title">%s ara és a Game Turbo</string>
+    <string name="added_game_start_game">Juga</string>
     <string name="address">Adreça</string>
     <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
     <string name="adjust_sms_cmd"><u>Ajusteu la plantilla SMS de calibratge</u></string>
@@ -190,8 +199,10 @@
     <string name="antivirus_choose_engine_dialog_title">Trieu les definicions</string>
     <string name="antivirus_choose_engine_settings">Configuració de la definició de virus</string>
     <string name="antivirus_choose_engine_title">Definicions</string>
-    <string name="antivirus_detect_apps_dialog_cancel">Ignorar</string>
-    <string name="antivirus_detect_apps_dialog_content">%s està classificada com una aplicació de frau financer pel Centre Nacional Antifrau. Aquesta aplicació comporta riscos substancials per a la seguretat.</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Entesos</string>
+    <string name="antivirus_detect_apps_dialog_content_text">Aquesta aplicació pot comportar riscos per a la seguretat de la vostra informació personal.</string>
+    <string name="antivirus_detect_apps_dialog_message">Si el personal d\'atenció al client, les autoritats o les persones que coneixeu us demanen que utilitzeu aquesta aplicació, <Data>&lt;font color=#F22424&gt;verifiqueu la seva identitat abans de continuar&lt;/font&gt;.</Data></string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">Els permisos sol·licitats per aquesta aplicació estaven restringits. Podeu gestionar els permisos aquí: %s.</string>
     <string name="antivirus_detect_apps_dialog_uninstall">Desinstal·lar</string>
     <string name="antivirus_detect_apps_noti_message">Aquesta aplicació planteja riscos per a la seguretat</string>
     <string name="antivirus_detect_apps_noti_title">Diverses aplicacions, inclosa %s , poden suposar riscos per a la seguretat</string>
@@ -914,8 +925,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="battery_status_unknown">Error desconegut</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="beauty_fc_assistant">Assistent de càmera frontal</string>
-    <string name="beauty_fc_assistant_summary">Utilitza la llum d’emplenament i embelleix amb la càmera frontal</string>
-    <string name="beauty_fc_assistant_summary_new">Mostra les opcions d\'embellir i omplir la llum mentre s\'utilitza la càmera frontal</string>
+    <string name="beauty_fc_assistant_summary_common">Utilitzeu funcions addicionals amb la càmera frontal</string>
+    <string name="beauty_fc_auto_brightness">Ajusta automàticament la brillantor de la llum de farciment</string>
     <string name="beauty_fc_fill_lamp">Llum d’emplenament</string>
     <string name="beauty_fc_fill_lamp_new">Llum d\'ompliment frontal</string>
     <string name="beauty_fc_light">Omple la brillantor de la llum</string>
@@ -951,7 +962,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="bill_remind">Avís de saldo del telèfon</string>
     <string name="bill_reminder_summary">Recorda la recàrrega quan el saldo sigui inferior a %1s</string>
     <string name="bill_traffic_reminder_instruction">Atenció</string>
-    <string name="bill_traffic_reminder_instruction_text">Els detalls reals dels plans proporcionats pels operadors de telefonia mòbil poden variar i es poden produir retards en la facturació. La informació proporcionada aquí és només per a la vostra referència.</string>
+    <string name="bill_traffic_reminder_instruction_text">Els mètodes de facturació i els estàndards de càlcul de dades de diferents operadors poden variar. També es poden produir retards en la facturació. Les estadístiques d\'ús que es proporcionen aquí són només per a la vostra referència.</string>
     <string name="bind_xiaomi_account_cancel">Cancel·la</string>
     <string name="bind_xiaomi_account_confirm">Afegeix</string>
     <string name="bind_xiaomi_account_dialog_summery">"Esteu a punt d'afegir el compte Mi %s. Si oblideu la vostra contrasenya, podeu utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
@@ -997,6 +1008,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="btn_text_stop">Atura</string>
     <string name="bubble_app_empty_page">"No s'han pogut trobar aplicacions que admetin bombolles de conversa en aquest dispositiu"</string>
     <string name="bubble_app_manage">Administra les bombolles de conversa</string>
+    <string name="bubble_mode_barrage_switch_tips">Activeu aquesta funció per mostrar les bombolles de conversa per a les aplicacions minimitzades com a comentaris a la pantalla</string>
+    <string name="bubble_mode_barrage_tips">Les bombolles de conversa per a les aplicacions minimitzades es mostraran com a comentaris a la pantalla</string>
     <string name="bubble_notification">Bombolles de conversa</string>
     <string name="bubble_notification_switch">Mostra les bombolles de conversa</string>
     <string name="bubble_notification_switch_desc">Quan una aplicació de missatgeria en una finestra flotant estigui amagada a la vora de la pantalla, mostra els missatges entrants en bombolles</string>
@@ -1080,6 +1093,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="card_uninstall_button_text">Gestiona</string>
     <string name="card_uninstall_summary">Desinstal·leu les aplicacions que s\'utilitzen poc per alliberar espai d\'emmagatzematge</string>
     <string name="card_uninstall_title_1">Desinstal·leu les aplicacions que s\'utilitzen poc</string>
+    <string name="category_no_scoped">Altres aplicacions</string>
+    <string name="category_scoped">Aplicacions compatibles</string>
     <string name="cd_back">Enrere</string>
     <string name="cellular_data_auto_check">Comproveu automàticament</string>
     <string name="cellular_package_daily_input">Retorn</string>
@@ -1267,9 +1282,16 @@ Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de
     <string name="device_manager_apply_step_3">Assegureu-vos de què enteneu tots els possibles riscos abans de continuar. Voleu activar l\'administrador del dispositiu per a aquesta aplicació?</string>
     <string name="dialog_app_roaming_message">"%1$s no pot utilitzar les dades mòbils en itinerància. Quan estigueu en itinerància a l'estranger, només les aplicacions que heu afegit a les excepcions poden utilitzar les dades mòbils."</string>
     <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
+    <string name="dialog_btn_delete_icon">Suprimeix</string>
+    <string name="dialog_btn_no_create_icon">Cancel·la</string>
+    <string name="dialog_btn_yes_create_icon">Afegeix</string>
     <string name="dialog_change_package_type_summary">Si modifiqueu el pla de dades es restaurarà la configuració del control de l\'ús de dades (per exemple, límit de dades) als seus valors per defecte. Voleu canviar ara el pla de dades?</string>
     <string name="dialog_change_package_type_title">S\'està canviant el tipus de pla de dades</string>
     <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar-se. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració &gt; Aplicacions.</string>
+    <string name="dialog_msg_create_icon_content">Voleu afegir una drecera a la pantalla d\'inici?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">"No ho tornis a mostrar"</string>
+    <string name="dialog_msg_delete_icon_content">Seguretat us permet netejar les escombraries del dispositiu, trobar i neutralitzar virus, estalviar bateria, gestionar els permisos i molt més.</string>
+    <string name="dialog_msg_delete_icon_title">Voleu suprimir aquesta drecera de la pantalla d\'inici?</string>
     <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
     <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
     <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
@@ -1371,6 +1393,48 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="edit_new_task_name">Introduïu el nom de la tasca</string>
     <string name="edit_phone_num">Edita el número de telèfon de la SIM</string>
     <string name="eew_privacy_revoke_title">Retira el consentiment a la Política de privadesa d’Avís de terratrèmol</string>
+    <string name="eletric_card_key_1">Trucades</string>
+    <string name="eletric_card_key_2">Missatges</string>
+    <string name="eletric_card_key_3">Aplicacions</string>
+    <string name="eletric_card_key_4">Navegació web</string>
+    <string name="eletric_card_key_5">Emetent</string>
+    <string name="eletric_card_one_identification_risk_app">Avisa sobre aplicacions poc fiables</string>
+    <string name="eletric_card_one_identification_risk_app_summary">Rebre advertiments i restringir els permisos automàticament quan es detectin riscos</string>
+    <string name="eletric_card_one_identification_risk_mms">Detecta riscos en els missatges entrants</string>
+    <string name="eletric_card_one_identification_risk_mms_summary">"Comprova si hi ha riscos en funció del número de telèfon del remitent i dels URL adjunts"</string>
+    <string name="eletric_card_one_identification_risk_screen">Amaga els elements privats</string>
+    <string name="eletric_card_one_identification_risk_screen_summary">"No mostris notificacions ni aplicacions privades en monitors externs mentre emets"</string>
+    <string name="eletric_card_status_bg_content_disable">Desactivat</string>
+    <string name="eletric_card_status_bg_content_enable">Activat</string>
+    <string name="eletric_card_summary_1">Comprova les trucades entrants per als riscos de seguretat</string>
+    <string name="eletric_card_summary_2">Detecta riscos en els missatges entrants</string>
+    <string name="eletric_card_summary_3">Avisa sobre aplicacions poc fiables</string>
+    <string name="eletric_card_summary_4">Notifica sobre llocs de risc</string>
+    <string name="eletric_card_summary_5">Amaga els elements privats</string>
+    <string name="eletric_card_two_identification_risk_app">Alerta sobre operacions arriscades</string>
+    <string name="eletric_card_two_identification_risk_app_summary">Rebre advertiments en fer transaccions financeres després de trucades o missatges sospitosos</string>
+    <string name="eletric_card_two_identification_risk_mms">Avisa sobre els codis de verificació reenviats</string>
+    <string name="eletric_card_two_identification_risk_mms_summary">Rebre advertiments quan els codis de verificació es reenviïn a les aplicacions de xarxes socials</string>
+    <string name="eletric_group_title_one_identification_risk_app">Restringeix els permisos automàticament</string>
+    <string name="eletric_group_title_one_identification_risk_app_summary">Restringeix els permisos automàticament quan es detectin riscos a les aplicacions</string>
+    <string name="eletric_group_title_one_identification_risk_mms">Protegeix els missatges</string>
+    <string name="eletric_group_title_one_identification_risk_mms_summary">Rebre notificacions sobre possibles riscos en missatges enviats des de números desconeguts</string>
+    <string name="eletric_group_title_one_identification_risk_screen">Amaga les notificacions</string>
+    <string name="eletric_group_title_one_identification_risk_screen_summary">"Les notificacions no es mostraran en monitors externs mentre s'emet"</string>
+    <string name="eletric_group_title_two_identification_risk_app">Rebre advertiments sobre riscos financers</string>
+    <string name="eletric_group_title_two_identification_risk_app_summary">Rebre advertiments quan es faci una transacció financera després de trucades o missatges sospitosos</string>
+    <string name="eletric_group_title_two_identification_risk_mms">Rebre advertiments quan es reenviïn els codis de verificació</string>
+    <string name="eletric_group_title_two_identification_risk_mms_summary">"Rebreu un advertiment quan els codis de verificació dels missatges es reenvien a les xarxes socials"</string>
+    <string name="eletric_group_title_two_identification_risk_screen">Amaga les aplicacions privades</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">L\'emissió es posarà en pausa si canvieu a Alipay, WeChat, la Galeria o Missatgeria</string>
+    <string name="eletric_group_two_identification_risk_app">Alerta sobre operacions financeres arriscades</string>
+    <string name="eletric_group_two_identification_risk_mms">Protecció del codi de verificació</string>
+    <string name="eletric_identification_unfamiliar_numbers">Identifica números desconeguts</string>
+    <string name="eletric_identification_unfamiliar_numbers_summary">Mostra els tipus de trucada per a números desconeguts basats en els comentaris dels usuaris</string>
+    <string name="eletric_key_protect_electric_announcement">Protecció antifrau</string>
+    <string name="eletric_risk_call_identification">Protegeix les trucades</string>
+    <string name="eletric_risk_call_identification_announcement">Rebre notificacions sobre possibles riscos en rebre trucades de números desconeguts</string>
+    <string name="eletric_status_protecting">Activat</string>
     <string name="email">Correu electrònic</string>
     <string name="empty_app">No hi ha aplicacions</string>
     <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
@@ -1382,6 +1446,7 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="empty_title_root_apps">Cap aplicació té accés root</string>
     <string name="enable_extreme_power_save_mode">Estalvi extrem de bateria</string>
     <string name="enable_network">Primer activa la xarxa</string>
+    <string name="enable_notification_title">Voleu permetre que %1$s utilitzi les notificacions?</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="error_icon_content_description">Error</string>
@@ -1937,6 +2002,11 @@ voluntari"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibra durant la matança del joc</string>
     <string name="gb_audition_instruction">Mantingueu premut per enregistrar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Utilitzeu auriculars per obtenir un millor efecte</string>
+    <string name="gb_beauty_cold_light">Fred</string>
+    <string name="gb_beauty_face">Embelleix</string>
+    <string name="gb_beauty_light">Llum de farciment</string>
+    <string name="gb_beauty_nature_light">Natural</string>
+    <string name="gb_beauty_warm_light">Càlid</string>
     <string name="gb_collimator_color">Color</string>
     <string name="gb_collimator_size">Mida</string>
     <string name="gb_collimator_style">Tipus</string>
@@ -2037,6 +2107,9 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_not_support_on_device">"Aquesta aplicació no es pot utilitzar a la pantalla externa"</string>
     <string name="gb_operat_frequently">No tan ràpid!</string>
     <string name="gb_performace_guide_disable_desc"><Data>\"No es pot canviar al mode equilibrat en Game Turbo quan el mode de rendiment de tot el sistema està encès. Pots canviar la configuració de la bateria a Seguretat.&lt;br&gt;&lt;a href=\"#\"&gt;&lt;/a&gt;de Seguretat Oberta \"</Data></string>
+    <string name="gb_performace_switch_toast">S\'ha canviat al Mode rendiment. És possible que el dispositiu s\'escalfi i consumeixi més energia.</string>
+    <string name="gb_performace_tips_button">Canvia</string>
+    <string name="gb_performace_tips_title">Canvieu al Mode rendiment per obtenir una millor experiència</string>
     <string name="gb_performance_balance">Equilibrada</string>
     <string name="gb_performance_balance_tips">"El mode equilibrat estàlvia energia
 alhora que redueix la freqüència de refresc i els límits de temperatura"</string>
@@ -2049,7 +2122,7 @@ però també augmenta el consum d'energia i permet que el dispositiu se sobreesc
     <string name="gb_predownload_dialog_confirm">Activa</string>
     <string name="gb_predownload_dialog_message_china"><Data>\"El contingut actualitzat d\'aquest joc es pot baixar en aquest dispositiu automàticament després de connectar-se a la Wi-Fi i apagar la pantalla. Així, podreu utilitzar la nova versió tan bon punt es publiqui.&lt;br&gt;&lt;br&gt;Llegiu i accepteu la &lt;a href=\"%1$s\"&gt;Declaració sobre actualitzacions en segon pla&lt;/a&gt; abans d\'utilitzar aquesta funció\".</Data></string>
     <string name="gb_predownload_dialog_title">Les actualitzacions en segon pla ja estan disponibles</string>
-    <string name="gb_predownload_message">"Actualitza King of Glory, Game for Peace i altres jocs compatibles en segon pla mentre no utilitzeu aquest dispositiu"</string>
+    <string name="gb_predownload_message_new">Actualitza els jocs compatibles automàticament mentre no feu servir el dispositiu</string>
     <string name="gb_predownload_noti_message">"Ja hi ha %2$1.2f GB de contingut actualitzat en aquest dispositiu. El podreu utilitzar tan bon punt es publiqui la nova versió."</string>
     <string name="gb_predownload_noti_title">S\'ha actualitzat %s en segon pla correctament</string>
     <string name="gb_predownload_title">Actualitzacions en segon pla</string>
@@ -2529,6 +2602,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="managed_user_title">Totes les aplicacions de feina</string>
     <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
     <string name="manual_input_traffic">Establir ús de dades</string>
+    <string name="manual_item_create_icon_title">Drecera de la pantalla d\'inici</string>
     <string name="manual_item_white_list_summary">Eviteu que s\'optimitzin les aplicacions seleccionades</string>
     <string name="manual_item_white_list_title">Escaneja excepcions</string>
     <string name="mark_agent">Bloqueja les agències notificades</string>
@@ -2782,7 +2856,7 @@ El dispositiu és %s més ràpid ara."</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="na_main_card_ad_subtitle">Moltes dades, trucades gratuïtes, tarifes baixes</string>
     <string name="na_main_card_ad_text">Busqueu un pla que us convingui</string>
-    <string name="na_main_card_ad_title">Promoció de la targeta Mi Fan</string>
+    <string name="na_main_card_ad_title">Promoció de la targeta Xiaomi Fan</string>
     <string name="na_main_card_title_sim">"Fitxa "</string>
     <string name="na_open_at_once">Activa</string>
     <string name="na_query_and_correction">Comprovar i calibrar el balanç</string>
@@ -3077,6 +3151,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="other_exception_summary">"No tens connexió d'internet"</string>
     <string name="other_exception_title">Comprovar altres errors</string>
     <string name="other_milink_connect">"No es pot emetre. S'està emetent des d'una altra funció."</string>
+    <string name="over_package_reminder_type">Quan s\'esgota el pla de dades</string>
     <string name="package_change_notification_summary">Tocar per saber més.</string>
     <string name="package_change_notification_title">Ajustar límit de dades automàticament</string>
     <string name="package_setted_error_notification_summary">Toqueu per veure els detalls d\'ús de dades.</string>
@@ -3223,6 +3298,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permission_instruction_get_accounts">Aquest permís permet a les aplicacions accedir a la llista de comptes emmagatzemats al dispositiu. Aquesta llista pot contenir tots els vostres comptes personals creats per aplicacions instal·lades, així com els comptes de plataformes de xarxes socials i eines de comunicació.</string>
     <string name="permission_instruction_install_shortcuts">Aquest permís permet a les aplicacions crear dreceres de pantalla inicial.</string>
     <string name="permission_instruction_install_unknown_source">Aquest permís permet a les aplicacions instal·lar altres aplicacions al dispositiu. Les aplicacions malicioses utilitzen aquest permís per instal·lar aplicacions sense la vostra confirmació.</string>
+    <string name="permission_instruction_media_audio">Aquest permís permet que les aplicacions accedeixin a cançons i altres fitxers d\'àudio emmagatzemats en aquest dispositiu. Aquests elements poden contenir informació personal.</string>
+    <string name="permission_instruction_media_files">Aquest permís permet que les aplicacions accedeixin a fitxers i documents emmagatzemats en aquest dispositiu. Aquests elements poden contenir informació personal.</string>
     <string name="permission_instruction_modify_audio_settings">Aquest permís permet a les aplicacions modificar la configuració d\'àudio (per exemple, ajustar el volum sense la vostra confirmació). És possible que no pugueu ajustar el volum en algunes aplicacions tret que els doneu aquest permís.</string>
     <string name="permission_instruction_nfc">Aquest permís permet que les aplicacions es comuniquin amb targetes i dispositius NFC.</string>
     <string name="permission_instruction_notification_adjustment">Aquest permís permet a les aplicacions proporcionar notificacions adaptatives més personalitzades i diversificades.</string>
@@ -3234,6 +3311,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permission_instruction_read_calllog">Aquest permís permet a les aplicacions accedir a l\'historial de trucades, que poden contenir informació detallada sobre les trucades entrants i sortints. Aquest permís també permet a les aplicacions desar registres de l\'historial de trucades. Les aplicacions malicioses poden utilitzar aquest permís per compartir el vostre historial de trucades amb tercers o utilitzar el vostre historial de trucades per frau.</string>
     <string name="permission_instruction_read_clipboard">Aquest permís permet a les aplicacions llegir qualsevol contingut que copieu, que pot incloure informació privada (per exemple, detalls del compte, números de targeta bancària i contrasenyes).</string>
     <string name="permission_instruction_read_contacts">Aquest permís permet a les aplicacions accedir a la informació de contacte emmagatzemada al dispositiu. Aquesta informació pot contenir la freqüència de la vostra comunicació amb contactes específics mitjançant trucades, correus electrònics i altres mètodes. Aquest permís també permet a les aplicacions desar contactes. Les aplicacions malicioses poden utilitzar aquest permís per compartir contactes sense el vostre consentiment.</string>
+    <string name="permission_instruction_read_media_pic">Aquest permís permet que les aplicacions accedeixin a fotos i vídeos emmagatzemats en aquest dispositiu. Aquests elements poden contenir informació personal.</string>
     <string name="permission_instruction_read_notify_sms">Aquest permís permet a les aplicacions llegir missatges de text de notificació emmagatzemats al dispositiu o a la targeta SIM.</string>
     <string name="permission_instruction_read_phone_state">"Aquest permís permet a les aplicacions accedir al vostre número de telèfon, IMEI, IMSI i altres identificadors de dispositiu. Normalment, les aplicacions utilitzen aquest permís per determinar si es reenvien les trucades. Si feu servir un identificador de dispositiu virtual, les aplicacions no podran accedir als identificadors de dispositiu reals."</string>
     <string name="permission_instruction_read_sms">Aquest permís permet a les aplicacions llegir tots els missatges de text i multimèdia emmagatzemats al dispositiu o a la targeta SIM. Aquests missatges poden contenir contrasenyes, dades del compte bancari i altra informació personal.</string>
@@ -3242,6 +3320,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permission_instruction_record_audio">"Aquest permís permet a les aplicacions utilitzar el micròfon per gravar àudio. Recordeu que aquest permís permet a les aplicacions enregistrar qualsevol cosa, incloses les vostres converses amb altres persones. El millor és permetre que les aplicacions utilitzin aquest permís només mentre les feu servir."</string>
     <string name="permission_instruction_running_background">Aquest permís permet que les aplicacions funcionin en segon pla. En fer-ho, les aplicacions poden recopilar dades i proporcionar serveis. Recordeu que aquestes activitats augmenten el consum d\'energia.</string>
     <string name="permission_instruction_running_exceed_data">Aquest permís permet a les aplicacions ignorar els límits d’ús de dades mòbils.</string>
+    <string name="permission_instruction_scoped">Un nou mecanisme de protecció d\'emmagatzematge us permet controlar millor com les aplicacions compatibles utilitzen els permisos d\'emmagatzematge</string>
     <string name="permission_instruction_send_mms">Aquest permís permet a les aplicacions enviar missatges multimèdia, cosa que pot generar despeses addicionals. Les aplicacions malicioses poden utilitzar aquest permís per enviar missatges de pagament sense el vostre consentiment.</string>
     <string name="permission_instruction_send_payment_sms">Aquest permís permet a les aplicacions enviar missatges de text de pagament.</string>
     <string name="permission_instruction_send_sms">Aquest permís permet a les aplicacions enviar missatges de text, cosa que pot generar tarifes addicionals. Les aplicacions malicioses poden utilitzar aquest permís per enviar missatges de pagament sense el vostre consentiment.</string>
@@ -3315,6 +3394,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_battery_chargefull_time">Fins a la càrrega completa</string>
     <string name="power_center_battery_detail">Detalls</string>
     <string name="power_center_battery_duration">Temps restant</string>
+    <string name="power_center_battery_duration_screen_on">Temps de pantalla restant</string>
     <string name="power_center_battery_hardware">Maquinari %s</string>
     <string name="power_center_battery_health_poor_tip">La bateria no sembla que estigui gaire bé. Feu-la revisar en un servei tècnic autoritzat.</string>
     <string name="power_center_battery_health_summary">Carregueu i descarregueu completament el dispositiu %1$d-%2$d vegades per millorar l\'exactitud de les estadístiques de salut de la bateria</string>
@@ -3334,6 +3414,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_consume_fast">Bateria drenant</string>
     <string name="power_center_dialog_msg_bottom">Podeu augmentar la durada de la bateria fins a %1$dh %2$dmin. Voleu activar l\'estalvi de bateria?</string>
     <string name="power_center_dialog_msg_title">Activeu-lo per obtenir %1$s de temps extra. Es realitzaran les accions següents per estalviar bateria:</string>
+    <string name="power_center_dialog_msg_title_screen_on">"Tindreu %1$s de temps de pantalla si activeu aquesta funció. Aquestes són les mesures per estalviar bateria:"</string>
     <string name="power_center_dialog_msg_top">Quan l\'estalvi bateria estigui activat, MIUI realitzarà les optimitzacions següents:</string>
     <string name="power_center_hints_scan_danger_result">Podeu corregir ara mateix problemes de bateria</string>
     <string name="power_center_list_item_auto_brightness">Ajusta la lluminositat de la pantalla automàticament</string>
@@ -3442,6 +3523,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_idle">Telèfon inactiu</string>
     <string name="power_main_battery_last_day_hour">%1$s d %2$s h restants</string>
     <string name="power_main_battery_last_hour_minute">%1$s h %2$s min restants</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s de temps de pantalla restant</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Activa per afegir %1$s %2$s de temps de pantalla</string>
     <string name="power_off_warning_button_ok">Ho tinc</string>
     <string name="power_off_warning_message">La bateria és baixa. El dispositiu s\'apagarà d\'aquí a %d segons. Connecteu el carregador.</string>
     <string name="power_off_warning_notification_title">A punt d’apagar</string>
@@ -4023,6 +4106,7 @@ Voleu retirar el consentiment?"</string>
     <string name="quite_all_string">Cancel·la</string>
     <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
     <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
+    <string name="reach_warning_reminder_type">Quan s\'arriba al límit de dades</string>
     <string name="read_all_sms">Tot llegit</string>
     <string name="read_and_write_clipboard">Accediu i guardeu elements al porta-retalls</string>
     <string name="read_clipboard_ai_action_desc">Rebeu notificacions sempre que es permeti o restringeixi l\'accés</string>
@@ -4045,6 +4129,7 @@ Voleu retirar el consentiment?"</string>
     <string name="reject_usb_install">Instal·lació denegada de les següents aplicacions a través d\'USB</string>
     <string name="release_meminfo">S\'han alliberat %d MB</string>
     <string name="release_memory">Neteja la memòria cau</string>
+    <string name="reminder_click_to_close_tips">Podeu activar i desactivar els avisos d\'ús de dades a Seguretat &gt; Ús de dades &gt; Configuració.</string>
     <string name="reminder_once_month">Un cop al mes</string>
     <string name="reminder_tips">Atenció</string>
     <string name="reminder_type">Tipus d\'avís</string>
@@ -4134,6 +4219,14 @@ Voleu retirar el consentiment?"</string>
     <string name="scan_open_shut_down_password_title">Confirmació de l’aturada</string>
     <string name="scan_status_risk">Arriscat</string>
     <string name="scan_status_safe">Segur</string>
+    <string name="screen_share_protection_negative_button">"No comparteixis"</string>
+    <string name="screen_share_protection_summary">"L'aplicació que utilitzeu ara conté la vostra informació personal que pot ser visible per a altres persones si compartiu la pantalla. Voleu compartir-la de totes maneres?"</string>
+    <string name="screen_share_protection_title">Atenció</string>
+    <string name="screen_share_protection_warning_icon_title">Protecció antifrau</string>
+    <string name="screen_share_protection_warning_positive_button">Comparteix</string>
+    <string name="screen_share_warning_button">Entesos</string>
+    <string name="screen_share_warning_summary">"Les notificacions entrants no es mostraran a la pantalla compartida."</string>
+    <string name="screen_share_warning_title">"Les notificacions no es mostraran"</string>
     <string name="screenrecord_not_find">Instal·leu l\'última versió de la Gravadora de Pantalla i torneu-ho a provar.</string>
     <string name="sd_eject">Desmuntem la targeta SD</string>
     <string name="sd_eject_summary">Desmuntem la targeta SD per eliminar-la de forma segura</string>
@@ -4701,6 +4794,8 @@ Voleu retirar el consentiment?"</string>
     <string name="storage_clear_cache_large">Allibera %s</string>
     <string name="storage_clear_more_tools">Més eines de neteja</string>
     <string name="storage_clear_video">Esborra la memòria cau de vídeo</string>
+    <string name="storage_compact_warning">Ajustant diversos permisos</string>
+    <string name="storage_compact_warning_desc">"Aquesta aplicació no admet l'ajustament dels permisos per a fotos, vídeos, àudio, fitxers o documents individualment."</string>
     <string name="storage_deepclean_entry">Neteja a fons</string>
     <string name="storage_dialog_unmountable">"Això ^ 1 està danyat.
 
@@ -4730,7 +4825,7 @@ Per utilitzar aquest ^ 1 amb aquest dispositiu, primer cal configurar-lo."</stri
     <string name="storage_item_doc_name">Documents</string>
     <string name="storage_item_other_name">Altres</string>
     <string name="storage_item_picture_name">Imatges</string>
-    <string name="storage_item_system_data">Sistema</string>
+    <string name="storage_item_system_data">Fitxers del sistema</string>
     <string name="storage_item_system_name">Sistema</string>
     <string name="storage_item_video_name">Vídeo</string>
     <string name="storage_menu_mount">Muntanya</string>
@@ -4868,6 +4963,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="system_anti_fraud_dialog_message">Protecció antifrau</string>
     <string name="system_anti_fraud_dialog_title">Avís antifrau</string>
     <string name="system_anti_fraud_dialog_title2">Avís antifrau</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Evita el frau digital</string>
     <string name="system_app">Aplicacions del sistema</string>
     <string name="system_app_permission_instruction">Aquesta aplicació necessita els permisos següents per oferir els serveis bàsics del sistema. La gestió dels permisos està restringida per a aquesta aplicació, ja que canviar l\'estat dels permisos provocarà anomalies en el funcionament del sistema.</string>
     <string name="system_application">Aplicacions del sistema</string>

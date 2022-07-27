@@ -303,7 +303,7 @@
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="qs_control_big_tile_state_closed">Desactivat</string>
     <string name="qs_control_big_tile_state_closing">S\'està desactivant…</string>
-    <string name="qs_control_big_tile_state_connected">Contigu</string>
+    <string name="qs_control_big_tile_state_connected">Connectat</string>
     <string name="qs_control_big_tile_state_connecting">Connexió…</string>
     <string name="qs_control_big_tile_state_disconnected">No connectat</string>
     <string name="qs_control_big_tile_state_disconnecting">S\'està desconnectant…</string>

@@ -135,6 +135,7 @@
     <string name="dlg_hide_message">S\'està ocultant…</string>
     <string name="dlg_info_creating_message">S\'està creant la imatge…</string>
     <string name="dlg_info_save_to_gallery_message">S\'està desant la imatge a la Galeria…</string>
+    <string name="dlg_info_save_to_local_message">S\'està desant…</string>
     <string name="dlg_message_password_reset">"Les contrasenyes de les notes ocultes es canviaran per contrasenyes de protecció de privadesa que funcionen pels missatges, les fotos, i les carpetes ocultes"</string>
     <string name="dlg_message_set_password">La contrasenya de protecció de privadesa funciona amb els missatges, les fotos i les carpetes ocultes</string>
     <string name="dlg_message_use_privacy_password">Utilitzeu una contrasenya de protecció de privadesa. Funciona amb els missatges, les fotos i les carpetes ocultes.</string>
@@ -595,6 +596,8 @@
     <string name="permission_phone_state_desc">Per deixar de gravar notes de veu durant les trucades</string>
     <string name="permission_read_contact_desc">Associació de les notes creades durant les trucades amb contactes</string>
     <string name="permission_storage_desc">Per guardar notes com a imatges</string>
+    <string name="permission_storage_desc_new_v12">Per afegir imatges a les notes i desar notes com a imatges</string>
+    <string name="permission_storage_desc_pad_new_v12">Per afegir imatges a les notes i desar notes com a imatges</string>
     <string name="permission_storage_desc_pad_v12">Per afegir imatges a notes i desar notes com a imatges</string>
     <string name="permission_storage_desc_v12">Per afegir imatges a notes i desar notes com a imatges</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recollirà els vostres enregistraments de veu i el vostre identificador de dispositiu per transcriure l\'àudio i crear notes de veu. Apreneu més a la &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
@@ -680,6 +683,9 @@
     <string name="save_to_gallery_failure_message">"No s'ha pogut desar"</string>
     <string name="save_to_gallery_icon_name">Desa a la Galeria</string>
     <string name="save_to_gallery_success_message">Desat amb èxit</string>
+    <string name="save_to_local_failure_message">"No s'ha pogut desar"</string>
+    <string name="save_to_local_icon_name">Desa</string>
+    <string name="save_to_local_success_message">S\'ha desat correctament</string>
     <string name="search">Notes</string>
     <string name="search_hint">Cercar notes</string>
     <string name="search_keyword_notes">Notes;Anotació</string>
@@ -688,6 +694,7 @@
     <string name="search_path_notes">Aplicacions del sistema/Notes</string>
     <string name="search_setting_description">Escrigui les seves notes</string>
     <string name="select_account_prompt">Sincronitzar notes</string>
+    <string name="select_up_limit_toast">Seleccioneu fins a %d elements</string>
     <string name="send">Envia</string>
     <string name="set_alarm_description">Estableix alarma</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>

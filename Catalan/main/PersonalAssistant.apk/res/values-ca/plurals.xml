@@ -152,9 +152,49 @@
         <item quantity="other">%s elements seleccionats</item>
         <item quantity="one">%s element seleccionat</item>
     </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
     <plurals name="pa_express_settings_title_2">
         <item quantity="other">"Heu afegit %d números de telèfon"</item>
         <item quantity="one">"Heu afegit %d número de telèfon"</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d paquets abandonats</item>
+        <item quantity="one">%d paquet abandonat</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d paquets pendents de recollida</item>
+        <item quantity="one">%d paquet pendent de recollida</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d paquets cancel·lats</item>
+        <item quantity="one">%d paquet cancel·lat</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">%d paquets per lliurar</item>
+        <item quantity="one">%d paquet per lliurar</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d paquets amb problemes</item>
+        <item quantity="one">%d paquet amb problemes</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d paquets en trànsit</item>
+        <item quantity="one">%d paquet en trànsit</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">"No s'han pogut lliurar %d paquets"</item>
+        <item quantity="one">"No s'ha pogut lliurar %d paquet"</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d paquets lliurats</item>
+        <item quantity="one">%d paquet lliurat</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">Voleu suprimir %d elements seleccionats ara?</item>
+        <item quantity="one">Voleu suprimir %d element seleccionat ara?</item>
     </plurals>
     <plurals name="pa_stock_display_list_label">
         <item quantity="other">%1$d empreses al giny</item>

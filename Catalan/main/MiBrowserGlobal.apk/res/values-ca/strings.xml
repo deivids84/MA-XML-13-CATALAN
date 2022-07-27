@@ -361,11 +361,9 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="branch_app_suggestion">Recomanat</string>
     <string name="branch_apps">Aplicacions</string>
     <string name="branch_contacts">Contactes</string>
-    <string name="branch_function_search_for_more">La cerca millorada us permet trobar elements a Configuració, Contactes, Missatgeria i molt més.</string>
     <string name="branch_give_relevant_permissions">Concediu a Navegador Mi els permisos pertinents a Configuració</string>
     <string name="branch_grant_permission">Permisos requerits</string>
     <string name="branch_local_search_settings">Configuració de cerca local</string>
-    <string name="branch_new_function">Nova característica</string>
     <string name="branch_search_guide_privacy">\"Branch Metrics Inc. proporciona aquesta funció. Compartirem la teva ubicació, les consultes buscades i l\'identificador de Google Ads amb ells. Llegeix i accepta els\"<a href="http://url1"><font color="#B3000000">Termes i condicions</font></a> i la<a href="http://url2"><font color="#B3000000">Política de privadesa</font></a> abans de continuar.</string>
     <string name="branch_search_in_browser">Cerca \"%1$s\" al Navegador</string>
     <string name="branch_setting">Configuració</string>
@@ -379,7 +377,6 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
     <string name="btn_agree">Acceptar</string>
     <string name="btn_cancel">Cancel·la</string>
-    <string name="btn_confirm">Ho tinc</string>
     <string name="camera_permission_name">Utilitza la càmera</string>
     <string name="can_not_send_with_too_many">"No es poden enviar molts elements alhora"</string>
     <string name="cancel">Cancel·leu</string>
@@ -582,6 +579,7 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="continue_reading">Continua llegint</string>
     <string name="copy">Copia</string>
     <string name="copy_url">Copia l\'URL</string>
+    <string name="core_functions_of_browser">Funcions bàsiques al vostre abast</string>
     <string name="could_not_load_data">"No s'ha pogut carregar les dades, actualitzeu i proveu-ho de nou"</string>
     <string name="crash_page_button">Proveu-ho de nou</string>
     <string name="crash_page_description">Alguna cosa ha fallat en mostrar aquesta pàgina web.</string>
@@ -786,6 +784,7 @@ Envia aquest codi al supervisor."</string>
     <string name="encrypt_success">S\'ha ocultat amb èxit</string>
     <string name="encrypting">S\'està xifrant…</string>
     <string name="end_user_license">Contracte de llicència d\'usuari final</string>
+    <string name="enter_bookmark">Marcadors</string>
     <string name="enter_developer_mode">Entra al mode programador</string>
     <string name="enter_incongnito_mode">Entreu el mode incògnit</string>
     <string name="enter_news_by_pull_down">Deixa anar per a obrir la font de continguts</string>
@@ -1127,6 +1126,7 @@ Envia aquest codi al supervisor."</string>
     <string name="go_me">Perfil</string>
     <string name="go_supermarket_button">Vés</string>
     <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
+    <string name="go_to_tab">Pestanyes</string>
     <string name="gold_medals">Medalles d\'or</string>
     <string name="google_bookmarks">Google</string>
     <string name="googlepay_anonymous_merge_dialog_agree">Inicia la sessió</string>
@@ -1638,7 +1638,6 @@ Voleu sortir d'aquesta pàgina?"</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·leu</string>
     <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
     <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
-    <string name="need_provide_permissions">"Haureu de concedir els permisos pertinents per poder utilitzar aquesta funció."</string>
     <string name="net_error">Error de xarxa</string>
     <string name="net_error__button_text">Torneu</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Connecta a aquesta xarxa</string>
@@ -1845,6 +1844,7 @@ Voleu sortir d'aquesta pàgina?"</string>
     <string name="per_month">Al mes</string>
     <string name="permission_agree_service">"He llegit i acceptat tot els següents termes i condicions."</string>
     <string name="permission_alert_window">Permet que Navegador mostri finestres flotants per poder utilitzar aquesta funció.</string>
+    <string name="permission_allow">Permet</string>
     <string name="permission_contacts">Contactes</string>
     <string name="permission_deeplink_tip_title">Voleu permetre que aquesta pàgina obri %s?</string>
     <string name="permission_dialog_msg_camera">%s vol utilitzar la vostra càmera</string>
@@ -1868,9 +1868,11 @@ Voleu sortir d'aquesta pàgina?"</string>
     <string name="permission_open_location">Primer permet a Navegador Mi que accedeixi a la teva ubicació a Configuració.</string>
     <string name="permission_open_mic">Primer permet a Navegador Mi que accedeixi al micròfon a Configuració.</string>
     <string name="permission_open_storage">Primer permet a Navegador Mi que accedeixi a l\'emmagatzematge intern a Configuració.</string>
+    <string name="permission_request_contacts">Aquesta funció requereix permís per accedir als contactes per poder funcionar amb normalitat.</string>
     <string name="permission_service">Termes i condicions</string>
     <string name="permission_sound_toast_message">Reproduint àudio…</string>
     <string name="permission_storage">Emmagatzematge</string>
+    <string name="permission_to_open">Configuració</string>
     <string name="permission_unknown">S\'ha produït un error.</string>
     <string name="permission_use">Permisos</string>
     <string name="permisssion_not_ask_again">"No m'ho tornis a preguntar"</string>
@@ -2741,6 +2743,8 @@ Proveu de modificar la paraula clau?"</string>
     <string name="search_trending_new">Nova</string>
     <string name="search_trending_title">Popular</string>
     <string name="search_tupian">Imatge</string>
+    <string name="search_using_traceless_mode">Mode d\'incògnit</string>
+    <string name="search_with_browser">Cerca amb el Navegador Mi</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Baixa-ho a la Botiga d\'Aplicacions</string>
@@ -2793,6 +2797,7 @@ Proveu de modificar la paraula clau?"</string>
     <string name="share_page_text">Mireu el que he compartit: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Mireu que he compartit: %1$s</string>
     <string name="shear_plate_permission_name">Accediu o deseu elements al porta-retalls</string>
+    <string name="shortcut_function">Dreceres</string>
     <string name="shortcuts_boost_speed">Augment de velocitat</string>
     <string name="shortcuts_cleanup_cache">Netejador</string>
     <string name="shortcuts_cleanup_memory">Esborra la memòria cau</string>

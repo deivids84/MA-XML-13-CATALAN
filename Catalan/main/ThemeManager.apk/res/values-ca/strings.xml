@@ -149,6 +149,7 @@
     <string name="classification_more_understand_you">Seleccioneu la categoria preferida</string>
     <string name="clear_text_end_icon_content_description">Neteja el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="clock">Instal·la el rellotge</string>
     <string name="close">Tanca</string>
     <string name="close_custom_permission_warning_text">"Sense els permisos d'emmagatzematge, aquesta aplicació no podrà baixar elements ni personalitzar el dispositiu. Els voleu desactivar de totes maneres?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Sense permisos d'emmagatzematge, aquesta aplicació no podrà personalitzar el dispositiu. Voleu desactivar-ho de totes maneres?"</string>
@@ -455,6 +456,7 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="incompatible_dialog_message">"Aquest tema encara no és totalment compatible amb aquesta versió de MIUI. És possible que algunes pàgines no funcionin correctament."</string>
     <string name="incompatible_dialog_ok">D\'acord</string>
     <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
+    <string name="install_clock">"Encara no heu instal·lat el rellotge. Voleu baixar-lo ara?"</string>
     <string name="install_failed">"No s'ha pogut instal·lar"</string>
     <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>

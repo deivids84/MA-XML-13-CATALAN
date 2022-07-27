@@ -137,14 +137,14 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Personalitzat</item>
-        <item>Targeta Mi Fan</item>
+        <item>Targeta Xiaomi Fan</item>
         <item>Targeta Xiao Tiansheng</item>
         <item>Targeta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Personalitzat</item>
         <item>Mòbil Mi</item>
-        <item>Targeta Mi Fan</item>
+        <item>Targeta Xiaomi Fan</item>
         <item>Targeta Tianshen</item>
         <item>Targeta Tencent</item>
     </string-array>

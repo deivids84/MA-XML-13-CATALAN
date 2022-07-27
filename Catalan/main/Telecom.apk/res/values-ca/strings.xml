@@ -391,6 +391,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
     <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
+    <string name="fraud_toast_message">Podeu gestionar el desviament de trucades a Configuració</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>

@@ -98,6 +98,14 @@ disponible només avui"</item>
         <item quantity="other">"Avui has vist %d minuts"</item>
         <item quantity="one">"Avui has vist %d minut"</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">S\'ha compartit correctament. Heu guanyat %d punts.</item>
+        <item quantity="one">S\'ha compartit correctament. Heu guanyat %d punt.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">S\'ha subscrit correctament. Heu guanyat %d punts.</item>
+        <item quantity="one">S\'ha subscrit correctament. Heu guanyat %d punt.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">Guanya %d punts!</item>
         <item quantity="one">Guanya %d punt!</item>

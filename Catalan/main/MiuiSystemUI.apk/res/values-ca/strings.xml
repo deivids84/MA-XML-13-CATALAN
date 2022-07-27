@@ -1415,6 +1415,8 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Repetir</string>
     <string name="miui_notification_menu_title_not_allow">Rebutja</string>
     <string name="miui_notification_menu_unfold">Marca com a important</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Voleu restringir les notificacions permanents per a «%1$s» ara?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restringeix les notificacions permanents</string>
     <string name="miui_screen_rotation_freeze_message">Orientació de pantalla bloquejada en mode horitzontal</string>
     <string name="miui_snooze_always_float">"No ho amaguis"</string>
     <string name="miui_snooze_cancel">Cancel·la</string>

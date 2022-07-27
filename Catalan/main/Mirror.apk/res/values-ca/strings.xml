@@ -32,6 +32,8 @@
     <string name="afternoon">Tarda</string>
     <string name="am">AM</string>
     <string name="app_name">MIUI+ Beta</string>
+    <string name="app_no_storage_permission">Permeteu que %1$s accedeixi a l\'emmagatzematge a Configuració &gt; Aplicacions &gt; %2$s &gt; Primers permisos</string>
+    <string name="app_opened_in_new_window">S\'ha obert aquesta aplicació en una finestra nova</string>
     <string name="cancel">Cancel·la</string>
     <string name="cast_mcc_tips_button_cancel">Ignora</string>
     <string name="cast_mcc_tips_button_ok">Configuració</string>
@@ -195,7 +197,6 @@ Tanqueu aquesta pàgina i torneu-ho a provar."</string>
     <string name="pad_mirror_device_locked_tips_3">Feu doble toc per activar-la</string>
     <string name="pad_mirror_disconnect_tips_1">S\'ha perdut la connexió</string>
     <string name="pad_mirror_disconnect_tips_2">Assegureu-vos que la Wi-Fi i el Bluetooth estiguin activats als dos dispositius i torneu-ho a provar.</string>
-    <string name="pad_settings_bluetooth_enable_summary">Activeu el Bluetooth per poder trobar dispositius a prop. Voleu activar-lo ara?</string>
     <string name="pad_settings_bluetooth_enable_title">Activeu el Bluetooth</string>
     <string name="pad_settings_connect_pad_group">Treballeu amb la vostra tauleta</string>
     <string name="pad_settings_connect_pc_group">Treballeu amb el vostre ordinador</string>
@@ -206,7 +207,6 @@ Tanqueu aquesta pàgina i torneu-ho a provar."</string>
     <string name="pad_settings_handoff_device_title">Dispositiu connectat</string>
     <string name="pad_settings_handoff_disable">Desactivat</string>
     <string name="pad_settings_handoff_disconnect">No connectat</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Activeu el Bluetooth per trobar dispositius a prop</string>
     <string name="pad_settings_handoff_enable_disconnect">Mantingueu els dispositius a prop els uns dels altres amb el Bluetooth activat</string>
     <string name="pad_settings_handoff_p2p_summary">Connecteu-vos al punt d\'accés portàtil amb un sol toc</string>
     <string name="pad_settings_handoff_p2p_title">Punt d\'accés</string>
@@ -214,11 +214,11 @@ Tanqueu aquesta pàgina i torneu-ho a provar."</string>
     <string name="pad_settings_handoff_video_title">Vídeos</string>
     <string name="pad_settings_handoff_wps_summary">Visualitzeu, editeu i deseu documents mentre canvieu entre dispositius</string>
     <string name="pad_settings_handoff_wps_title">Documents</string>
-    <string name="pad_settings_pad_handoff_summary">Utilitzeu la transferència amb aplicacions, porta-retalls, vídeos i altres elements de l\'altre dispositiu associat al vostre compte Mi</string>
+    <string name="pad_settings_pad_handoff_summary">Utilitzeu la transferència amb aplicacions, porta-retalls, vídeos i altres elements de l\'altre dispositiu associat al vostre Compte Xiaomi</string>
     <string name="pad_settings_pc_history_title">Historial de connexions</string>
     <string name="pad_settings_pc_trusted_title">Connecta\'t automàticament</string>
     <string name="pad_settings_pc_use_tile">Quant a aquesta característica</string>
-    <string name="pad_settings_phone_handoff_summary">Utilitzeu la transferència amb aplicacions, porta-retalls, vídeos i altres elements de l\'altre dispositiu associat al vostre compte Mi</string>
+    <string name="pad_settings_phone_handoff_summary">Utilitzeu la transferència amb aplicacions, porta-retalls, vídeos i altres elements de l\'altre dispositiu associat al vostre Compte Xiaomi</string>
     <string name="pad_settings_phone_handoff_title">Transferència</string>
     <string name="pcmode_not_support_multi_window">"El mode PC no admet mostrar diverses finestres."</string>
     <string name="pm">PM</string>
@@ -246,6 +246,7 @@ Tanqueu aquesta pàgina i torneu-ho a provar."</string>
     <string name="screen_num_over_limit">"No es poden obrir més finestres"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
+    <string name="settings_bluetooth_enable_summary">Activeu el Bluetooth per poder trobar dispositius a prop. Voleu activar-lo ara?</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
     <string name="settings_connect_summary1">Baixeu i instal·leu MIUI+ Beta a l\'ordinador: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Escaneja el codi QR a la pantalla de l\'ordinador amb el dispositiu mòbil. Podeu utilitzar diverses aplicacions del sistema (per exemple, escàner, càmera, navegador Mi) per fer-ho.</string>
@@ -260,6 +261,7 @@ Tanqueu aquesta pàgina i torneu-ho a provar."</string>
     <string name="settings_feature_dnd_summary">Silencia les notificacions quan el dispositiu està connectat a un ordinador</string>
     <string name="settings_feature_dnd_title">No molestis</string>
     <string name="settings_feature_intro">Quant a aquesta funció</string>
+    <string name="settings_handoff_enable_bluetooth">Activeu el Bluetooth per trobar dispositius a prop</string>
     <string name="settings_history">Historial de connexions</string>
     <string name="settings_history_clear">Neteja</string>
     <string name="settings_history_clear_dialog_title">Voleu netejar l\'historial de connexions ara?</string>

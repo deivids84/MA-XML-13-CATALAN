@@ -633,6 +633,8 @@
     <string name="scanHistory_close">Desactiva</string>
     <string name="scanHistory_isOpen">Voleu començar a fer el seguiment de l’historial d’elements escanejats?</string>
     <string name="scanHistory_open">Activa</string>
+    <string name="scan_document_top_tip">Escaneja un document físic i crea un PDF</string>
+    <string name="scan_document_top_tip_second">Escaneja diversos documents i crea un PDF</string>
     <string name="scan_form">Taula d\'escaneig</string>
     <string name="scan_form_top_tip">Escaneja, desa i edita taules</string>
     <string name="scan_general_top_tip">Reconèixer plantes, persones i productes</string>

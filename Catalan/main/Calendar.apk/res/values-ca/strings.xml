@@ -801,7 +801,7 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="user_notice_message">"Al utilitzar aquest producte, accepteu les %1$s i %2$s de Xiaomi. Algunes característiques requereixen connexió a Internet, accés a localització, contactes i SMS per funcionar correctament."</string>
     <string name="user_notice_title">Avís</string>
     <string name="v7_preference_off">APAGAT</string>
-    <string name="v7_preference_on">SOBRE</string>
+    <string name="v7_preference_on">ACTIVAT</string>
     <string name="view_details">Veure en detall</string>
     <string name="view_event_calendar_label">Calendari:</string>
     <string name="view_event_organizer_label">Organitzador:</string>

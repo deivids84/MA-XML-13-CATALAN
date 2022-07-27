@@ -47,6 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">obté la ubicació precisa (basada en el GPS i en la xarxa)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Connexió als dispositius propers</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descobrir i connectar-se als dispositius propers</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Descobriu i connecteu-vos a dispositius propers mitjançant Bluetooth i Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Obtenir informació del dispositiu</string>
     <string name="HIPS_Perm_PhoneID_Desc">accés al número de telèfon, IMEI i IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accès al número de telèfon i a l\'estat del dispositiu</string>
@@ -314,7 +315,7 @@
     <string name="permdesc_read_contacts">Voleu permetre que %1$s accedeixi als contactes?</string>
     <string name="permdesc_read_mms">Voleu permetre que %1$s llegeixi missatges multimèdia?</string>
     <string name="permdesc_read_phone_state">Vols permetre que %1$s accedeixi a l\'estat del dispositiu i a la informació de la xarxa mòbil?</string>
-    <string name="permdesc_read_sms">Voleu permetre que %1$s llegeixi o enviï missatges de text i multimèdia?</string>
+    <string name="permdesc_read_sms">Voleu permetre que %1$s llegeixi missatges de text i multimèdia?</string>
     <string name="permdesc_read_storage">Voleu permetre que %1$s accedir als fitxers i fotos d\'aquest dispositiu?</string>
     <string name="permdesc_recognition">Voleu permetre que %1$s accedeixi a la informació de la vostra activitat?</string>
     <string name="permdesc_send_sms">Voleu permetre que %1$s enviï missatges de text?</string>

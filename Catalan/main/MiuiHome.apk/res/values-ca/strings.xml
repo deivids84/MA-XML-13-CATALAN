@@ -518,6 +518,7 @@
     <string name="midnight">Nit</string>
     <string name="minus_one_screen">Volta d\'aplicacions</string>
     <string name="miui_screen_config_title">Configuració de la Pantalla d\'Inici</string>
+    <string name="miui_widget_menu_replace_text">Canvia</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>

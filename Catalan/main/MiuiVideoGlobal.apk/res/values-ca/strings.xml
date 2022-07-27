@@ -259,6 +259,8 @@ Mi Video està llest per actualitzar-se.
 Actualitzeu l'aplicació ara per veure les nostres noves funcions interessants.
 Mi Video Team"</string>
     <string name="description">Descripció</string>
+    <string name="desktop_widget_local_media">Fitxers multimèdia</string>
+    <string name="desktop_widget_new">Nou</string>
     <string name="detail_select_source">Seleccioneu la font de reproducció</string>
     <string name="diagnosis_log_send_failed">"No ha estat possible enviar els registres. Prova-ho de nou."</string>
     <string name="diagnosis_log_sent_format">"Els registres han estat enviats correctament.
@@ -513,6 +515,7 @@ Envia aquest codi al supervisor."</string>
     <string name="galleryplus_notification_linkvideo_title4">Centenars de vídeos, gratuïts per un temps limitat</string>
     <string name="galleryplus_notification_linkvideo_title5">Reprodueix els teus programes preferits de forma gratuïta</string>
     <string name="galleryplus_notification_try_now_btn">Prova-ho ara</string>
+    <string name="galleryplus_notification_type_link_video">Canviant a vídeos locals</string>
     <string name="galleryplus_online_cta">Mi Vídeo necessita connectar-se a Internet per funcionar correctament. Estàs d\'acord?</string>
     <string name="galleryplus_online_cta_agree">D\'acord</string>
     <string name="galleryplus_online_cta_disagree">"No accepto"</string>
@@ -619,6 +622,7 @@ Aquesta operació no afectarà les imatges de la galeria."</string>
     <string name="incentive_exchange">Redimir</string>
     <string name="incentive_exchange_code">Codi</string>
     <string name="incentive_exchange_code_copy">Copiar</string>
+    <string name="incentive_exchange_code_copy_and_start">Utilitza</string>
     <string name="incentive_exchange_details">Detalls</string>
     <string name="incentive_exchange_details_current">Total de la comanda</string>
     <string name="incentive_exchange_details_total">Balança</string>
@@ -644,6 +648,9 @@ Aquesta operació no afectarà les imatges de la galeria."</string>
     <string name="incentive_task_title_novice">Per a nouvinguts</string>
     <string name="incentive_task_to_get">Començar</string>
     <string name="incentive_task_to_login">Inicia la sessió</string>
+    <string name="incentive_toast_share_success_new">S\'ha compartit correctament</string>
+    <string name="incentive_toast_subscribe_success_new">S\'ha subscrit correctament</string>
+    <string name="incentive_ui_tab_earn_credits">Punts</string>
     <string name="incentive_view_all_prizes">Veure totes les recompenses</string>
     <string name="incentive_view_details">Detalls</string>
     <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
@@ -1054,6 +1061,7 @@ per a la millor experiència de visualització</string>
     <string name="notification_recall_desc">Mi Video pot notificar-te vídeos populars i les teves subscripcions.</string>
     <string name="notification_recall_title">Activa les notificacions</string>
     <string name="notification_tool">Caixa d\'eines</string>
+    <string name="notification_type_channel_music">Reproducció de música</string>
     <string name="notify_apk_installed">S\'ha baixat correctament</string>
     <string name="offline_notification_text">Toqueu per obrir l\'anunci</string>
     <string name="offline_notification_title">Mireu l\'anunci que heu desat sense connexió</string>

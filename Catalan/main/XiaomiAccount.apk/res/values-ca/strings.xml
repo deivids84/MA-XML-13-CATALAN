@@ -66,6 +66,7 @@
  El vostre ID: %s"</string>
     <string name="account_token_expired_title">"No s'ha pogut autenticar"</string>
     <string name="account_user_avatar">Foto del perfil</string>
+    <string name="account_user_avatar_activity_not_found">"No s'ha pogut obrir la Galeria"</string>
     <string name="account_user_avatar_from_album">Selecciona una foto</string>
     <string name="account_user_avatar_from_camera">Fes una foto</string>
     <string name="account_user_base_info">Informació personal</string>
@@ -123,10 +124,19 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="change_phone_number">Canvia el número de telèfon</string>
     <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="check_apk_update">Comprova si hi ha actualitzacions</string>
+    <string name="child_account_system_ad_disable_hint">Aquesta característica no està disponible per als comptes secundaris</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="cloud_description_closed">Ocupat | Sincronització desactivada</string>
     <string name="cloud_description_normal">Ocupat</string>
+    <string name="cloud_member">Afiliació</string>
+    <string name="cloud_member_status_expired">Caducat</string>
+    <string name="cloud_member_status_expired_soon">Caduca aviat</string>
+    <string name="cloud_member_status_non_vip">Actualitza</string>
+    <string name="cloud_member_vipname_free">Gratuït</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Prèmium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service_status_backup_not_open">La còpia de seguretat està desactivada</string>
     <string name="cloud_service_status_cloud_not_open">Desactivat</string>
     <string name="cloud_service_status_storage_full">L\'emmagatzematge està ple</string>
@@ -217,6 +227,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="expand_button_title">Avançat</string>
     <string name="facebook_login">Inicieu la sessió amb Facebook</string>
     <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat amb un altre compte Xiaomi</string>
+    <string name="family_service">Serveis familiars</string>
     <string name="family_share">Compartir en família</string>
     <string name="find_device">Troba el dispositiu</string>
     <string name="find_device_access_denied">"No es pot obtenir l'estat, s'ha denegat l'accés"</string>

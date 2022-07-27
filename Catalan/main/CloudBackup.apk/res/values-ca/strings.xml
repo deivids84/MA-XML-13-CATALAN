@@ -143,6 +143,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_frequence_every_7_day">Fes una còpia de seguretat cada %d dies</string>
     <string name="cloud_backup_detail_frequence_every_day">Fes una còpia de seguretat cada dia</string>
     <string name="cloud_backup_detail_header_msg">"Ara podeu fer una còpia de seguretat de la disposició de la pantalla d'inici, les aplicacions, la configuració del sistema i les dades de WeChat del vostre dispositiu. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toqueu per obtenir més informació.&lt;/a&gt;&lt;/font&gt;"</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Feu una còpia de seguretat de la disposició de la pantalla d'inici, de la llista d'aplicacions i de la configuració del sistema. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toqueu per obtenir més informació&lt;/a&gt;&lt;/font&gt;."</string>
     <string name="cloud_backup_detail_local_backup_size">Mida de la còpia de seguretat estimada: %s</string>
     <string name="cloud_backup_detail_manage">Gestiona les còpies de seguretat</string>
     <string name="cloud_backup_detail_no_time">No hi ha cap registre de còpia de seguretat</string>
