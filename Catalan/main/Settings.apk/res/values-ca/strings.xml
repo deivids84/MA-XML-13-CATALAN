@@ -57,6 +57,8 @@
     <string name="accelerometer_summary_off">Canvia automàticament l\'orientació en girar el telèfon</string>
     <string name="accelerometer_summary_on">Canvia automàticament l\'orientació en girar el telèfon</string>
     <string name="accelerometer_title">Gira la pantalla automàticament</string>
+    <string name="accept_new_connection">Permet noves connexions</string>
+    <string name="accept_new_connection_detail">S\'han desactivat les noves connexions bluetooth des del centre de control</string>
     <string name="access_control_app_entry_multiple">Obre %s</string>
     <string name="access_control_app_entry_single">Obre l\'aplicació</string>
     <string name="access_control_need_password">"s'ha protegit %s
@@ -1755,6 +1757,7 @@ Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius
     <string name="bt_absVolume_open_dialog_title">Atenció</string>
     <string name="bt_absVolume_pre_title">Volum absolut</string>
     <string name="bt_absVolume_summary">"Mantingueu el volum dels dispositius Bluetooth i del telèfon estrictament coherents. Podeu activar i desactivar aquesta funció quan el contingut multimèdia no es reprodueix en segon pla."</string>
+    <string name="bt_always_show_icon">Mostra sempre la icona de Bluetooth a la barra d\'estat</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive oferirà una reproducció d\'alta qualitat i reduirà la latència d\'àudio per a jocs i vídeo alhora que augmentarà el consum d\'energia. La reproducció potser tartamudeja a causa de les limitacions del maquinari Bluetooth i les interferències ambientals.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Voleu canviar a aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Solucioneu problemes d’àudio</string>
@@ -2320,8 +2323,6 @@ toca \"Esborrar i convertir…\" per continuar."</string>
     <string name="copyable_slice_toast">%1$s s\'ha copiat al porta-retalls.</string>
     <string name="copyright">Copyright</string>
     <string name="copyright_title">Drets d\'autor</string>
-    <string name="corner_assistant_gesture_summary">Feu lliscar el ratolí cap amunt des de la part inferior esquerra o a la part inferior dreta per despertar Google Assistant</string>
-    <string name="corner_assistant_gesture_title">Feu lliscar el dit cap amunt per la cantonada per Google Assistant</string>
     <string name="country_name">%s (sistema)</string>
     <string name="create">Crea</string>
     <string name="creating_new_user_dialog_message">Creació d\'usuari nou…</string>
@@ -3896,7 +3897,7 @@ L'àrea on podeu confirmar el bloqueig de pantalla es mourà cap a la dreta."</s
     <string name="gxzw_quick_open_slow_summary">Manteniu premuda la icona de l\'empremta per obrir el menú de dreceres. Feu lliscar el dit per fer servir una drecera.</string>
     <string name="gxzw_quick_open_slow_title">Premeu i manteniu</string>
     <string name="gxzw_quick_open_title">Dreceres</string>
-    <string name="gxzw_vibrate_summary">Vibra mentre es reprodueix l\'animació de desbloqueig de l\'empremta</string>
+    <string name="gxzw_vibrate_summary">"La vibració no es produirà quan no s'ha seleccionat cap animació d'empremta"</string>
     <string name="gxzw_vibrate_title">Vibra mentre es desbloqueja</string>
     <string name="handy_mode">Disposició per a una sola mà</string>
     <string name="handy_mode_enable">Operació amb una mà</string>
@@ -5304,6 +5305,7 @@ no podràs revertir aquesta acció."</string>
     <string name="miheadset_ok_device">D\'acord</string>
     <string name="miheadset_openAnc">Cancel·lació de soroll</string>
     <string name="miheadset_openAnc2">Cancel·lació de soroll</string>
+    <string name="miheadset_open_closeAnc">Cancel·lació de soroll activada/desactivada</string>
     <string name="miheadset_play_pause">Reprodueix/Pausa</string>
     <string name="miheadset_plus">Pujar el volum</string>
     <string name="miheadset_preferences">Preferències</string>

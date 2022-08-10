@@ -113,6 +113,7 @@
     <string name="adblock_rules_updated_toast">S\'ha actualitzat amb èxit</string>
     <string name="adblock_websites_settings_empyt_hint">"No heu bloquejat cap lloc."</string>
     <string name="adblock_websites_settings_title">Llocs bloquejats</string>
+    <string name="add">Afegeix</string>
     <string name="add_bookmark_group">Afegeix un grup</string>
     <string name="add_bookmarks">Marcadors</string>
     <string name="add_bookshelf_popup_text">Afegit a la prestatgeria</string>
@@ -129,6 +130,7 @@
     <string name="add_shortcut">Afegeix una drecera</string>
     <string name="add_shortcut_success">S\'ha afegit la drecera</string>
     <string name="add_to_bookmark">Marcadors</string>
+    <string name="add_to_desktop">Afegeix a la pantalla d\'inici</string>
     <string name="add_to_quicklink">Pàgina d\'inici</string>
     <string name="add_to_trust_device">Aquest dispositiu és de confiança</string>
     <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
@@ -447,12 +449,14 @@ Desactiva per a deixar de sincronitzar."</string>
     <string name="choose_to_signin">Sí</string>
     <string name="choose_to_signup">"No, crearé un altre"</string>
     <string name="choosertitle_sharevia">Comparteix mitjançant</string>
+    <string name="clear">Neteja</string>
     <string name="clear_history">Neteja l\'historial</string>
     <string name="clear_most_visited">Historial recent</string>
     <string name="clear_search_history">Neteja l\'historial</string>
     <string name="clear_transfer_summary">Esborreu els indicadors de configuració del sistema perquè pugueu tornar a transferir-los</string>
     <string name="clear_transfer_title">Esborra els indicadors de transferència</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
+    <string name="cleared_garbage">S\'han netejat %d MB de la paperera</string>
     <string name="click_always">Toca \"Sempre\"</string>
     <string name="click_to_refresh">Aquí es va aturar l\'última vegada, toqueu per refrescar</string>
     <string name="clip_dialog_title">Voleu obrir l\'URL copiat?</string>
@@ -650,6 +654,8 @@ Envia aquest codi al supervisor."</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Només un segon…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Allibera-ho per actualitzar</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Reproduir</string>
+    <string name="doc_viewer_label">Lector (Navegador Mi)</string>
+    <string name="doc_viewer_open_out_file_prompt">Per obrir i veure un fitxer rebut de fonts externes, aquesta aplicació primer ha de crear una còpia del fitxer. Voleu continuar?</string>
     <string name="document_download_background_btn">Baixa en segon pla</string>
     <string name="document_download_cancel_btn">Cancel·leu</string>
     <string name="document_download_failed">"No s'ha pogut baixar"</string>
@@ -910,6 +916,7 @@ Envia aquest codi al supervisor."</string>
     <string name="file_type">Format: %s</string>
     <string name="filename_empty_alert_message">Introduïu un nom de fitxer</string>
     <string name="filename_illegal_alert_message">S\'ha eliminat un caràcter no vàlid del nom de fitxer</string>
+    <string name="find_garbage">S\'han trobat %d MB de brossa</string>
     <string name="find_new_version">NOVA ACTUALITZACIÓ DISPONIBLE</string>
     <string name="find_on_page_cancel">Cancel·leu</string>
     <string name="find_on_page_hint">Cerca a la pàgina</string>
@@ -995,6 +1002,9 @@ Envia aquest codi al supervisor."</string>
     <string name="general__end_page_same_authors">El mateix autor</string>
     <string name="general__end_page_summary">Resum: %s</string>
     <string name="general__exempt_30_minute_ad">Mira un petit vídeo, lliure de fins a 30 minuts de publicitat</string>
+    <string name="general__fiction_horz_slide_to_see_title_page">Llisqueu per començar a llegir</string>
+    <string name="general__fiction_slide_menu">Capítols</string>
+    <string name="general__fiction_slide_up_to_see_title_page">Llisqueu cap amunt per començar a llegir</string>
     <string name="general__make_purchase_hint">Una bonificació és igual a una moneda. Les bonificacions són vàlides durant 15 dies i s\'utilitzaran abans de les monedes per desbloquejar capítols.</string>
     <string name="general__make_purchase_rule_reminder">Atenció</string>
     <string name="general__make_purchase_total">Import total: %1$d = %2$s + %3$s</string>
@@ -1301,6 +1311,7 @@ Envia aquest codi al supervisor."</string>
     <string name="menu_title_pause_all">Atura-ho tot</string>
     <string name="menu_title_resume_all">Inicia-ho tot</string>
     <string name="messenger_send_button_text">Enviar</string>
+    <string name="mi_browser_clean_up_garbage">El Navegador Mi està netejant la paperera…</string>
     <string name="midi_permission_name">Controlar dispositius MIDI</string>
     <string name="midnight">Nit</string>
     <string name="mint_games">Jocs populars</string>
@@ -1710,6 +1721,7 @@ Voleu sortir d'aquesta pàgina?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Multimèdia</string>
+    <string name="notification_category_stickcard">StickCard</string>
     <string name="notification_download_completed">S\'ha baixat amb èxit</string>
     <string name="notification_download_failed">"No s'ha pogut baixar."</string>
     <string name="notification_wechat_expired_empty">WeChat ja ha suprimit aquests vídeo clips</string>
@@ -2063,6 +2075,7 @@ Voleu sortir d'aquesta pàgina?"</string>
     <string name="phone_hint">Número de telèfon</string>
     <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
     <string name="phone_number">Número de telèfon</string>
+    <string name="phone_very_clean">No hi ha brossa</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="pick_file">Trieu fitxers</string>
     <string name="ping_test_title">Retràs de xarxa</string>
@@ -2981,6 +2994,7 @@ Proveu de modificar la paraula clau?"</string>
     <string name="subscribe_success">T\'hi has subscrit correctament</string>
     <string name="subscription_status_error">"No s'ha pogut subscriure"</string>
     <string name="subscriptions_title">Gestiona la teva subscripció</string>
+    <string name="successfully_added">S\'ha afegit correctament</string>
     <string name="suggest_access_appstore">Botiga d\'Aplicacions Mi</string>
     <string name="suggest_access_btn_install">Instal·leu</string>
     <string name="suggest_access_btn_open">Obre</string>

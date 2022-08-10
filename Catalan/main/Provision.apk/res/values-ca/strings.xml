@@ -165,7 +165,8 @@
     <string name="locale_picker_other_locale_title">Més regions</string>
     <string name="locale_picker_title">Seleccioneu la configuració regional</string>
     <string name="location_content">D’acord amb la llei, els transportistes mòbils poden obtenir la informació de localització dels dispositius mòbils per complir els requisits de les agències de rescat d’emergència (parcs de bombers i la policia) que persegueixen finalitats de seguretat i rescat d’emergència.</string>
-    <string name="location_introduction">Els serveis de localització ofereixen una varietat de serveis basats en la ubicació en funció de la informació de la vostra ubicació.</string>
+    <string name="location_introduction">Els serveis d\'ubicació utilitzen el posicionament per proporcionar serveis específics de la ubicació.</string>
+    <string name="location_introduction_qcom">Els serveis d\'ubicació utilitzen el posicionament per proporcionar serveis específics d\'ubicació. Quan el dispositiu utilitza els serveis d\'ubicació, el mòdul QCC es connectarà a la xarxa per accelerar el procés de posicionament.</string>
     <string name="location_location">Les agències de rescat d’emergència poden obtenir la vostra ubicació actual a petició</string>
     <string name="lockscreen_introduction">El Carrusel de fons de pantalla us permet obtenir imatges noves entregades diàriament a la pantalla de bloqueig.</string>
     <string name="member_exclusive_medal">Insígnia de membre</string>

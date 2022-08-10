@@ -47,6 +47,15 @@
     <string name="btn_recall_text_ok_timer">Retirar</string>
     <string name="camera">Càmera</string>
     <string name="cancel">Cancel·la</string>
+    <string name="cancel_mi_drive">Cancel·la els serveis</string>
+    <string name="cancel_mi_drive_alert_description">"Esborra tots els elements de Mi Drive per poder cancel·lar els serveis. Seguiu aquests passos per esborrar els elements:&lt;br /&gt;1. A la pàgina d'inici de Mi Drive, manteniu premut un element per fer que aparegui el botó \"Selecciona-ho tot\". Utilitzeu aquest botó per seleccionar fins a 200 fitxers alhora i suprimir-los.&lt;br /&gt;2. Un cop hàgiu suprimit tots els elements, esborreu tots els fitxers de Elements suprimits recentment."</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Us recomanem que feu una còpia de seguretat dels elements abans de suprimir-los. Per fer-ho, visiteu i.mi.com, feu clic a Mi Drive i descarregueu-los a un ordinador.&lt;br /&gt;2. Tingueu en compte que els elements esborrats d'Elements suprimits recentment no es poden recuperar després."</string>
+    <string name="cancel_mi_drive_confirm_button">Cancel·la els serveis</string>
+    <string name="cancel_mi_drive_confirm_description">"Si continueu, cancel·lareu els serveis de Mi Drive. Deixarem de recopilar la vostra informació personal i la ja recopilada i conservada se suprimirà en el termini especificat d'acord amb les lleis i regulacions aplicables, tret que sigui necessari el contrari."</string>
+    <string name="cancel_mi_drive_confirm_hint">"La cancel·lació dels serveis de Mi Drive no afectarà l'ús d'altres productes i serveis Xiaomi. Si voleu suprimir el vostre compte Xiaomi, podeu fer-ho &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;aquí&lt;/a&gt;&lt;/font&gt;."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Els elements següents se suprimiran permanentment després de la cancel·lació dels serveis:&lt;/font&gt;&lt;br /&gt;1. Tots els elements de Mi Drive, inclosos, entre d\'altres, documents, fitxers privats i elements suprimits.&lt;br /&gt;2. Permisos del dispositiu, configuració i altre contingut desat a la memòria cau.&lt;br /&gt;3. Historial de pujades i baixades de Mi Drive.</string>
+    <string name="cancel_mi_drive_success">Serveis cancel·lats correctament</string>
+    <string name="cancel_mi_drive_title">Cancel·la els serveis</string>
     <string name="category_document">Documents</string>
     <string name="category_document_title">Documents</string>
     <string name="category_file">Fitxers</string>
@@ -390,8 +399,16 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="preview">Previsualització</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_recall_alert_description">"Esborreu tots els elements de Mi Drive per poder retirar el consentiment. Seguiu aquests passos per esborrar els elements:&lt;br /&gt;1. A la pàgina d'inici de Mi Drive, manteniu premut un element per fer que aparegui el botó \"Selecciona-ho tot\". Utilitzeu aquest botó per seleccionar fins a 200 fitxers alhora i suprimir-los.&lt;br /&gt;2. Un cop hàgiu suprimit tots els elements, esborreu tots els fitxers d'Elements suprimits recentment."</string>
+    <string name="privacy_recall_alert_reminder_card_summary">"1. Us recomanem que feu una còpia de seguretat dels elements abans de suprimir-los. Per fer-ho, visiteu i.mi.com, feu clic a Mi Drive i descarregueu-los a un ordinador.&lt;br /&gt;2. Tingueu en compte que els elements esborrats d'Elements suprimits recentment no es poden recuperar després."</string>
+    <string name="privacy_recall_confirm_button">Retira el consentiment</string>
+    <string name="privacy_recall_confirm_description">"Si continueu, retirareu el consentiment a la Política de privadesa de Mi Drive. Deixarem de recopilar la vostra informació personal i la ja recopilada i conservada se suprimirà en el termini especificat d'acord amb les lleis i regulacions aplicables, tret que sigui necessari el contrari."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Els següents elements se suprimiran definitivament després de la retirada del consentiment:&lt;/font&gt;&lt;br /&gt;1. Tots els elements de Mi Drive, inclosos, entre d\'altres, documents, fitxers privats i elements suprimits.&lt;br /&gt;2. Permisos del dispositiu, configuració i altre contingut de la memòria cau.&lt;br /&gt;3. Historial de pujades i baixades de Mi Drive.</string>
     <string name="privacy_recall_dialog_msg">"Si continueu, retirareu el vostre consentiment a la Política de privadesa de Mi Drive. La informació personal que ja s'ha recopilat i conservat s'eliminarà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que s'exigeix el contrari. Com que Mi Drive ofereix els seus serveis basats en la recollida de la informació personal necessària, la retirada del consentiment es considerarà una negativa a acceptar els serveis de Mi Drive. Retirar el consentiment ara?"</string>
     <string name="privacy_recall_dialog_title">Retirada del consentiment</string>
+    <string name="privacy_recall_success">Consentiment retirat correctament</string>
+    <string name="privacy_recall_title">Retirada del consentiment</string>
+    <string name="privacy_recalling">S’està retirant el consentiment…</string>
     <string name="privacy_update_dialog_msg">La política de privadesa de Mi Drive s\'ha actualitzat:&lt;br/&gt;%1$s&lt;br/&gt;Llegiu i accepteu la nova versió de &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
     <string name="privacy_update_dialog_title">Política de privadesa actualitzada</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Sortida</string>
@@ -402,6 +419,8 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="private_empty_sub_desc">Proveu de moure fitxers aquí o pengeu-los directament.</string>
     <string name="private_folder_name">Arxius privats</string>
     <string name="ptp_ai_recommend_empty_page">Aquí no es genera cap PDF automàtic</string>
+    <string name="query_quota_exception">S\'ha produït un error del servidor. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="query_quota_searching">Un segon…</string>
     <string name="recent_file">Recents</string>
     <string name="recent_jump_to_privacy_fail_notice">Aquest fitxer és privat. Torneu a la pàgina inicial i tireu cap avall per veure\'l.</string>
     <string name="refresh_label_pull_to_refresh">Tira avall per recarregar</string>
@@ -409,6 +428,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="refresh_label_refreshing">S\'està actualitzant&#8230;</string>
     <string name="refresh_label_release_to_refresh">Deixeu anar per actualitzar</string>
     <string name="release_enter_private">Allibera per veure fitxers privats</string>
+    <string name="reminder_card_title">Atenció</string>
     <string name="remove_success">S\'ha eliminat correctament</string>
     <string name="rename_ext_confirm_dialog_desc">Si canvieu el tipus de fitxer, el fitxer pot ser inutilitzable</string>
     <string name="rename_file_select_error">"No es pot canviar el nom de diversos elements"</string>

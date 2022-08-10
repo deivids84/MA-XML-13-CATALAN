@@ -72,6 +72,8 @@ Per entendre perfectament els vostres drets com a usuari, així com les formes e
     <string name="account_setting_message_body_load_head_only">Només capçalera</string>
     <string name="account_setting_message_body_load_text">Només cos</string>
     <string name="account_settings_action">Configuració del compte</string>
+    <string name="account_settings_background_attachments_security_summary">Comprova els fitxers adjunts que contenen paquets d\'instal·lació per detectar riscos de seguretat</string>
+    <string name="account_settings_background_attachments_security_title">Comprova els fitxers adjunts per detectar riscos</string>
     <string name="account_settings_background_attachments_summary">Baixa adjunts fent servir la WLAN</string>
     <string name="account_settings_background_attachments_summary_inter">Download attachments using Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Baixeu els fitxers adjunts automàticament</string>
@@ -277,6 +279,10 @@ de l'IMAP"</string>
     <string name="attachment_unknown">fitxer %s</string>
     <string name="attachment_video">Vídeo</string>
     <string name="attachments_header">Adjunts</string>
+    <string name="attachments_security_alert_install_message">Aquest fitxer adjunt és un paquet d\'instal·lació. Assegureu-vos de confiar en la font abans d\'obrir-lo. Voleu instal·lar-lo ara?</string>
+    <string name="attachments_security_alert_install_title">Atenció</string>
+    <string name="attachments_security_alert_message">Aquest missatge conté un paquet d\'instal·lació. Assegureu-vos de confiar en la font abans d\'obrir-lo.</string>
+    <string name="attachments_security_install">Instal·la</string>
     <string name="attendee_needed">Afegeix un convidat com a mínim.</string>
     <string name="auto_advance_help_title">Després de suprimir un missatge, veure…</string>
     <string name="auto_advance_label">Suprimir flux del missatge</string>
@@ -359,6 +365,7 @@ de l'IMAP"</string>
     <string name="click_to_reload">Prem la pantalla per a refrescar</string>
     <string name="close">Tanca</string>
     <string name="close_custom_folder">Amaga les subcarpetes</string>
+    <string name="close_tips">Tanca el recordatori</string>
     <string name="collapse_recipient_details">Mostrar menys dades del destinatari</string>
     <string name="compose">Redacta</string>
     <string name="compose_add_attachment_permission_denied">"No es pot reenviar el correu electrònic. Es requereixen permisos per accedir a l’emmagatzematge extern."</string>
@@ -650,6 +657,7 @@ de l'IMAP"</string>
     <string name="folder_junk_name_en2">Correu brossa</string>
     <string name="folder_junk_name_en3">Correu brossa</string>
     <string name="folder_junk_name_en4">Brossa</string>
+    <string name="folder_junk_name_en5">Correu brossa</string>
     <string name="folder_list_current_account">Compte actual</string>
     <string name="folder_list_display_all">Mostrar totes les carpetes</string>
     <string name="folder_list_display_only_import">Mostrar només les carpetes importants</string>
@@ -930,6 +938,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="message_decode_error">"No s'ha pogut desxifrar el missatge"</string>
     <string name="message_discarded">Esborrany descartat</string>
     <string name="message_invite_accept">Sí</string>
+    <string name="message_invite_calendar_download_prompt">Baixeu el Calendari per poder utilitzar aquesta funció</string>
     <string name="message_invite_calendar_view">Veure en el calendari</string>
     <string name="message_invite_decline">No</string>
     <string name="message_invite_end_time">Hora d\'acabament</string>

@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Accés a la Galeria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi als elements de la vostra Galeria</string>
     <string name="HIPS_Perm_AudioRecorder">Enregistrar àudio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">enregistra àudio i trucades telefòniques</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
     <string name="HIPS_Perm_AutoStart_Desc">inici automàtic</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Canviar la connectivitat Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">edició de contactes</string>
     <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers de l’emmagatzematge intern</string>
     <string name="HIPS_Perm_External_Storage_Desc">"afegir i eliminar fitxers en l'emmagatzematge intern del dispositiu"</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Enregistrament d’àudio i realització de trucades</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">enregistrar àudio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Iniciar aplicacions en segon pla automàticament</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Accés a esdeveniments del calendari</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Accés i edició de l\'historial de trucades</string>
@@ -47,7 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">obté la ubicació precisa (basada en el GPS i en la xarxa)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Connexió als dispositius propers</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descobrir i connectar-se als dispositius propers</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Descobriu i connecteu-vos a dispositius propers mitjançant Bluetooth i Wi-Fi</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobriu i connecteu-vos a dispositius propers mitjançant Bluetooth i Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Obtenir informació del dispositiu</string>
     <string name="HIPS_Perm_PhoneID_Desc">accés al número de telèfon, IMEI i IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accès al número de telèfon i a l\'estat del dispositiu</string>
@@ -307,7 +307,7 @@
     <string name="permdesc_get_account">Voleu permetre que %1$s accedeixi a tots els comptes emmagatzemats en aquest dispositiu?</string>
     <string name="permdesc_location">Voleu permetre que %1$s accedeixi a la informació d\'ubicació?</string>
     <string name="permdesc_location_background">Voleu permetre que %1$s accedeixi a la informació d\'ubicació en segon pla?</string>
-    <string name="permdesc_microphone">Vols permetre que %1$s utilitzi el micròfon per gravar àudio i fer trucades?</string>
+    <string name="permdesc_microphone">Voleu permetre que %1$s utilitzi el micròfon per enregistrar àudio?</string>
     <string name="permdesc_nearby_devices">Voleu permetre que %1$s descobreixi i es connecti als dispositius propers?</string>
     <string name="permdesc_process_outgoing_call">Voleu permetre que %1$s respongui i finalitzi les trucades?</string>
     <string name="permdesc_read_calendar">Voleu permetre que %1$s accedeixi i editi els esdeveniments del calendari?</string>

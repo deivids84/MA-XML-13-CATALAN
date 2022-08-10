@@ -107,13 +107,15 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
-    <string name="free_send_net_booster_busniess">Obteniu un augment de velocitat de Xunlei gratuït</string>
-    <string name="free_send_net_booster_busniess_tip">Toqueu per rebre-ho</string>
+    <string name="free_send_net_booster_busniess">Proveu Game Turbo gratuïtament</string>
+    <string name="free_send_net_booster_busniess_tip">Millora la vostra experiència de joc i guanyeu un aspecte de joc. Aquesta oferta només està disponible avui!</string>
     <string name="free_send_net_booster_tip">Gaudiu de jocs fluids amb l\'augment gratuït de la velocitat de la xarxa.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="game_booster">Accelerador de velocitat dels jocs</string>
+    <string name="gamebooster_dialog_recover">Renova</string>
+    <string name="gamebooster_dialog_start_booster">Inicia</string>
     <string name="gamebooster_network_dialog_message">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunes funcions no estan disponibles"</string>
@@ -305,7 +307,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
     <string name="net_booster_expire_notification">La sessió d’augment de la velocitat de la xarxa està a punt d’acabar</string>
     <string name="net_booster_overdue_notification">La sessió d\'augment de la velocitat de la xarxa està a punt d’acabar</string>
-    <string name="net_booster_overdue_notification_tip">La sessió d\'augment de la velocitat de la xarxa acabarà aviat. Voleu renovar la sessió?</string>
+    <string name="net_booster_overdue_notification_tip">La sessió d\'augment de la velocitat de la xarxa va finalitzar. És possible que comenceu a experimentar retards de xarxa. Voleu renovar la sessió ara?</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="night">Vespre</string>
     <string name="no_network">"No es pot connectar a la xarxa"</string>
@@ -318,6 +320,8 @@
     <string name="pc_activity_title">Optimització de la bateria</string>
     <string name="pm">pm</string>
     <string name="pm_lable_name">Quant a l\'accés d\'administrador</string>
+    <string name="power_center_battery_duration_screen_on">Temps de pantalla restant</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s de temps de pantalla restant</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy_declare_dialog_title">Condicions del servei</string>
     <string name="privacy_prompt_traffic_purchase_message">"El número de telèfon i els detalls de l'operadora seran xifrats i penjats als servidors de Mi per obtenir més informació sobre les opcions de compra de dades."</string>

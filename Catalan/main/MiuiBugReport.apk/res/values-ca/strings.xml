@@ -552,6 +552,7 @@ Envia aquest codi al supervisor."</string>
     <string name="phone_auto_login_register_with_local_number">Crea un compte</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="please_agree_protocal">Si us plau, accepteu el protocol</string>
+    <string name="please_download_gallery">si us plau, baixeu la galeria</string>
     <string name="pm">p. m.</string>
     <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum MIUI"</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>

@@ -196,6 +196,9 @@
     <string name="help_content">"Si no trobes el dispositiu que necessites, demana a l’altra persona que activi Mi Share."</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="hs_guide_dialog_button_confirm">Entesos</string>
+    <string name="hs_guide_dialog_message">"Aquesta aplicació encara no s'ha optimitzat per al nou mode horitzontal. En lloc d'això, s'ha canviat a un disseny compatible diferent."</string>
+    <string name="hs_guide_dialog_title">Atenció</string>
     <string name="icelatte">Gelat amb llet</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Col·loqueu el dit en el botó Inici</string>
     <string name="incomingmessage">Missatge entrant</string>

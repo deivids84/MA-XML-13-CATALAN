@@ -303,8 +303,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="kr_permission_phone_desc">Per protegir el vostre compte</string>
     <string name="kr_permission_sms_desc">Per obtenir codis de verificació automàtics</string>
     <string name="kr_permission_storage_desc">Per desar diagnòstics</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basat en SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per a Android</string>
     <string name="loading_micloud_sync_data">Un moment…</string>
     <string name="login_3rd_app_with_system_account">Inicia la sessió a %s</string>
     <string name="login_check_find_device">Obtenint la informació de seguretat del dispositiu…</string>
@@ -671,6 +669,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
     <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
     <string name="passport_vcode_sms_send_prompt">Envia el codi de verificació a %s</string>
+    <string name="passport_vcode_what_app_send_prompt">El codi de verificació de WhatsApp es lliurarà al telèfon de recuperació &lt;font color=#1F93FF&gt;%s&lt;/font&gt;</string>
     <string name="passport_verification_failed">"No s'ha pogut verificar el compte"</string>
     <string name="passport_verify">Verifica</string>
     <string name="passport_verifying_activator_phone">S\'està verificant la seguretat del telèfon…</string>
@@ -877,8 +876,15 @@ Envieu aquest codi al supervisor."</string>
     <string name="update_phone_notice">Canvia la configuració de seguretat</string>
     <string name="update_phone_number_notice_message">Abans d’actualitzar el número de telèfon, heu de verificar la vostra identitat.</string>
     <string name="used_cloud_storage_info">S\'ha utilitzat %s</string>
-    <string name="user_agreement_network_permission_msg">Necessitem connectar-nos a Internet per poder proporcionar-li els serveis necessaris.</string>
+    <string name="user_agreement_device_permission_desc">Per garantir la seguretat de l\'entorn d\'inici de sessió</string>
+    <string name="user_agreement_device_permission_title">Accés a la informació del dispositiu</string>
+    <string name="user_agreement_must_permission_msg">Permisos obligatoris (s\'utilitzen per a les funcions i serveis bàsics d\'aquesta aplicació)</string>
+    <string name="user_agreement_network_permission_msg">Aquesta aplicació s\'ha de connectar a Internet i requereix els permisos següents per poder funcionar amb normalitat:</string>
+    <string name="user_agreement_permission_summary_msg">El compte Xiaomi us permet accedir a tots els serveis que ofereix Xiaomi. Aquesta aplicació s\'ha de connectar a Internet i requereix els permisos següents per poder funcionar amb normalitat:</string>
     <string name="user_agreement_use_account_msg">El compte Xiaomi us permet accedir a tots els serveis proporcionats per Xiaomi.</string>
+    <string name="user_agreement_wifi_permission_title">Activar i desactivar la Wi-Fi</string>
+    <string name="user_agreement_wlan_permission_desc">Per comprovar si hi ha problemes de seguretat a l\'entorn d\'inici de sessió</string>
+    <string name="user_agreement_wlan_permission_title_china">Activar i desactivar la Wi-Fi</string>
     <string name="user_avatar_update_title">Canvia la foto de perfil</string>
     <string name="user_avatar_uploading">Un moment…</string>
     <string name="user_instruction_all_purpose">Benvinguts al compte Xiaomi! Podeu utilitzar el vostre compte per accedir als serveis proporcionats per Xiaomi i les seves empreses afiliades, com ara Mi.com, Xiaomi Cloud i GetApps. Vostè pot obtenir Mi Monedes, comprar béns virtuals, i gaudir de serveis de valor afegit, incloent jocs, temes i llibres electrònics.</string>

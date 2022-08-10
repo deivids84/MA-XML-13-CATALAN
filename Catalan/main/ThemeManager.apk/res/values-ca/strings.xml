@@ -458,6 +458,8 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
     <string name="install_clock">"Encara no heu instal·lat el rellotge. Voleu baixar-lo ara?"</string>
     <string name="install_failed">"No s'ha pogut instal·lar"</string>
+    <string name="install_gallery_content">"Encara no heu instal·lat la Galeria. Voleu baixar-la ara?"</string>
+    <string name="install_gallery_title">Instal·la la Galeria</string>
     <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">To de retorn de trucada</string>

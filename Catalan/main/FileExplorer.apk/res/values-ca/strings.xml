@@ -35,6 +35,7 @@
     <string name="ad_download">Baixada</string>
     <string name="add_private">Fa que els fitxers siguin privats</string>
     <string name="add_private_files">Afegiu fitxers</string>
+    <string name="add_to_widget">Afegeix al giny</string>
     <string name="added_category">Afegit</string>
     <string name="afternoon">Tarda</string>
     <string name="aggree_desc">Permeteu a aquesta aplicació connectar-se a Internet i atorgar els permisos obligatoris enumerats anteriorment.</string>
@@ -157,6 +158,7 @@
     <string name="delete_folder">Voleu suprimir-ho ara?</string>
     <string name="des_hide_pwd">Amaga la contrasenya</string>
     <string name="des_show_pwd">Mostra la contrasenya</string>
+    <string name="dialog_keep_choice">Recorda la meva selecció</string>
     <string name="dialog_select_type">Seleccioneu el tipus</string>
     <string name="dialog_type_audio">Àudio</string>
     <string name="dialog_type_image">Imatges</string>
@@ -736,6 +738,7 @@
     <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
     <string name="tip">Atenció</string>
+    <string name="tips_add_to_widget">Podeu afegir fins a %d fitxers a aquest giny. Si afegiu més fitxers, se substituiran els afegits anteriorment.</string>
     <string name="title_app_tags">Aplicacions</string>
     <string name="title_expire_video">A punt d\'expirar</string>
     <string name="title_recent">Recent</string>
@@ -780,6 +783,14 @@
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="widget_add_files">Afegeix fitxer</string>
+    <string name="widget_added_fail_content">%1$s ja és a la pantalla d\'inici</string>
+    <string name="widget_added_fail_tips">"No s'ha pogut afegir"</string>
+    <string name="widget_added_success_content">S\'ha afegit %1$s a la pantalla d\'inici</string>
+    <string name="widget_added_success_tips">S\'ha afegit correctament</string>
+    <string name="widget_choose_file">Toqueu per afegir fitxers</string>
+    <string name="widget_choose_fragment_title">Seleccioneu el tipus de fitxer</string>
+    <string name="widget_finish">Fet</string>
     <string name="wifi_state">Estat de la Wi-Fi</string>
     <string name="withdraw">Retira</string>
     <string name="withdraw_consent">Retirada del consentiment</string>

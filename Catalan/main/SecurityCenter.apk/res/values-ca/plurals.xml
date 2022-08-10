@@ -244,6 +244,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%d missatges</item>
         <item quantity="one">%d missatge</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">La vostra subscripció a Game Turbo caducarà en %d dies.</item>
+        <item quantity="one">La vostra subscripció a Game Turbo caducarà en %d dia.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">La vostra subscripció a Game Turbo caducarà en %d dies. Renova ara per gaudir d\'un joc sense fissures.</item>
+        <item quantity="one">La vostra subscripció a Game Turbo caducarà en %d dia. Renova ara per gaudir d\'un joc sense fissures.</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d persones estan jugant</item>
         <item quantity="one">%1$d persona està jugant</item>
@@ -489,8 +497,8 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="one">%d notificació nova</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Resten %d dies abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
-        <item quantity="one">Resta %d dia abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
+        <item quantity="other">La sessió d\'augment de velocitat de la xarxa finalitzarà en %d dia. És possible que comenceu a experimentar retards de xarxa. Voleu renovar la sessió ara?</item>
+        <item quantity="one">La sessió d\'augment de velocitat de la xarxa finalitzarà en %d dia. És possible que comenceu a experimentar retards de xarxa. Voleu renovar la sessió ara?</item>
     </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicacions"</item>

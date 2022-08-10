@@ -221,7 +221,12 @@
     <string name="indices_title_chance_of_rain">Probabilitat de pluja</string>
     <string name="indices_title_feel">Sensació tèrmica</string>
     <string name="indices_title_pressure">Pressió</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">Velocitat del vent</string>
+    <string name="indices_wind_direction_east">E</string>
+    <string name="indices_wind_direction_north">N</string>
+    <string name="indices_wind_direction_south">S</string>
+    <string name="indices_wind_direction_west">O</string>
     <string name="information_settings_title">Informació meteorològica</string>
     <string name="international_details_uv_index_title">Índex UV</string>
     <string name="location_provider_btn_text">Activa els serveis d’ubicació</string>
@@ -373,6 +378,8 @@
     <string name="search_menu_title">Cerca</string>
     <string name="select_show_city">Selecciona la ubicació</string>
     <string name="send">Envia</string>
+    <string name="setting_notification_manager">Notificacions</string>
+    <string name="setting_used_to_push_reminder">Rebre alertes i avisos meteorològics</string>
     <string name="settings">Configuració</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera (atm)</string>
     <string name="settings_atmospheric_pressure_default">2</string>

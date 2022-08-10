@@ -184,8 +184,8 @@
     <string name="cw_added_fav_no_pic">Aquí no hi ha cap element.</string>
     <string name="cw_added_toast">Aquest element s\'ha afegit abans.</string>
     <string name="cw_adding">S\'està afegint (%1$d)</string>
-    <string name="cw_album_no_pic">"No es poden trobar imatges al dispositiu"</string>
-    <string name="cw_album_no_right">Permet al Carrusel de fons de pantalla accedir a la galeria</string>
+    <string name="cw_album_no_pic">Aquí encara no hi ha res</string>
+    <string name="cw_album_no_right">Permisos necessaris</string>
     <string name="cw_all_folder">Imatges recents</string>
     <string name="cw_batch_all_added_tip">"No es poden afegir elements que s'han afegit abans."</string>
     <string name="cw_batch_part_tip_fail">S\'han afegit alguns elements</string>
@@ -196,7 +196,7 @@
     <string name="cw_delete">Suprimeix</string>
     <string name="cw_delete2">Suprimeix (%d)</string>
     <string name="cw_deleting">Suprimeix (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Galeria</string>
+    <string name="cw_local_pic">Seleccioneu les imatges</string>
     <string name="cw_my_fav">Preferits</string>
     <string name="cw_permission_tip">Permet que el Carrusel de fons de pantalla accedeixi a l\'emmagatzematge a Configuració &gt; Configuració d\'aplicacions.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Entesos</string>
@@ -223,7 +223,7 @@
     <string name="detail_menu_history">Historial</string>
     <string name="detail_menu_home">Vés a la pàgina d\'inici</string>
     <string name="detail_menu_setting">Configuració de l\'aplicació</string>
-    <string name="detail_menu_settingbtn_save">Desa a la galeria</string>
+    <string name="detail_menu_settingbtn_save">Desa</string>
     <string name="detail_menu_settingbtn_setting">Configuració</string>
     <string name="detail_menu_settingbtn_share">Comparteix</string>
     <string name="detail_menu_wall">"Fons de pantalla d’avui"</string>
@@ -433,16 +433,16 @@ Això pot generar tarifes addicionals."</string>
     <string name="mishop_login_other">Un altre compte</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segon rellotge</string>
-    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
+dd/MM"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -774,7 +774,7 @@ mm"</string>
     <string name="saturday_shortest">ds.</string>
     <string name="save_hdpicture_in_favor">Mostra imatges en alta definició a \"Preferits\"</string>
     <string name="save_picture_success">Desat</string>
-    <string name="save_to_album">Desat a la galeria amb èxit</string>
+    <string name="save_to_album">S\'ha desat correctament</string>
     <string name="save_to_album_fail">"No s'ha pogut desar"</string>
     <string name="scribe_btn_ok">Subscriure’s</string>
     <string name="scribe_title1">Subscriviu-vos al Carrusel de fons de pantalla</string>
@@ -786,7 +786,7 @@ mm"</string>
     <string name="see_more">Mostra\'n més</string>
     <string name="see_more_content">Mostra\'n més</string>
     <string name="select_package">Seleccioneu una versió</string>
-    <string name="select_photo_album">Seleccioneu l\'àlbum</string>
+    <string name="select_photo_album">Seleccioneu les imatges</string>
     <string name="select_picture">Seleccioneu les imatges</string>
     <string name="select_picture_des">Afegiu les vostres fotos i les imatges en línia a la barreja per fer-les aparèixer automàticament a la presentació de diapositives.</string>
     <string name="send">Envia</string>

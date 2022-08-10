@@ -36,6 +36,14 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Voleu suprimir %d baixades?</item>
+        <item quantity="one">Voleu suprimir %d baixada?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">S\'han suprimit %s baixades correctament</item>
+        <item quantity="one">S\'ha suprimit %s baixada correctament</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>

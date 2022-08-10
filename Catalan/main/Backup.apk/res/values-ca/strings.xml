@@ -82,7 +82,7 @@
     <string name="backup_hint_pad">Manteniu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
     <string name="backup_new">Noves:</string>
-    <string name="backup_notice_content">"Les còpies de seguretat no s'encriptaran, la qual cosa significa que les aplicacions de tercers poden accedir-hi o temperar-les. També poden sorgir altres riscos de seguretat. Assegureu-vos d'emmagatzemar els elements amb còpia de seguretat en un entorn ben protegit."</string>
+    <string name="backup_notice_content">"Les vostres còpies de seguretat no s'encriptaran, la qual cosa significa que les aplicacions de tercers poden accedir-hi o manipular-les. També poden sorgir altres riscos de seguretat. Assegureu-vos d'emmagatzemar els elements amb còpia de seguretat en un entorn ben protegit."</string>
     <string name="backup_notice_title">Atenció</string>
     <string name="backup_notification_title">\"Còpia de seguretat\" està funcionant…</string>
     <string name="backup_progress">S\'està fent una còpia de seguretat…</string>

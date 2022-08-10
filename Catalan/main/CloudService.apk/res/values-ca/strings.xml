@@ -417,7 +417,7 @@
     <string name="micloud_space_soundrecorder_detail">Gestiona gravacions emmagatzemades al dispositiu</string>
     <string name="micloud_space_soundrecorder_title">Gravacions</string>
     <string name="micloud_storage_detail">Detalls</string>
-    <string name="micloud_storage_family_quota">Compartir en família</string>
+    <string name="micloud_storage_family_quota">Espai compartit</string>
     <string name="micloud_storage_full_tip">L’emmagatzematge està ple</string>
     <string name="micloud_storage_normal_tip">Queden %s</string>
     <string name="micloud_storage_share_family">Compartir en família</string>

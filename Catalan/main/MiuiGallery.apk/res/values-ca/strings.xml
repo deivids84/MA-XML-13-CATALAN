@@ -238,6 +238,9 @@ Connecteu el carregador i apagueu la pantalla perquè apareguin els records."</s
     <string name="assistant_page_discovery">Descobreix</string>
     <string name="assistant_page_label">Records</string>
     <string name="assistant_page_server_error">Comproveu la vostra configuració de xarxa</string>
+    <string name="assistant_today_of_year_function_closed_tip">Activa</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Retrocés en el temps</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Inicia</string>
     <string name="associate_face_album">Trieu un àlbum</string>
     <string name="authorize_to_device_failed">"No ha estat possible autoritzar"</string>
     <string name="authorize_watch_on_tv_failed">"No s'ha pogut autoritzar per a veure en la TV"</string>
@@ -593,6 +596,7 @@ Connecteu el carregador i apagueu la pantalla perquè apareguin els records."</s
     <string name="crop_label">Fotos retallades</string>
     <string name="cta_agreement_declare"><Data>Per entendre completament els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.</Data></string>
     <string name="cta_network_declare">Per sincronitzar fotos i vídeos amb Xiaomi Cloud, aquesta aplicació ha de connectar-se a Internet.</string>
+    <string name="cta_screenthrow_declare">"Per poder emetre la pantalla d'aquest dispositiu a monitors externs, aquesta aplicació s'ha de connectar a Internet."</string>
     <string name="custom_select_title_deselect_all">Desselecciona-ho tot</string>
     <string name="custom_select_title_quickly_share">Comparteix</string>
     <string name="custom_select_title_select_all">Seleccioneu-ho tot</string>
@@ -832,6 +836,7 @@ Feu més fotos als vostres amics!"</string>
     <string name="face_name_input">Introduïu el nom</string>
     <string name="face_recommend">Recomanacions</string>
     <string name="fail_hint">"No s'ha pogut completar l'operació"</string>
+    <string name="fail_reason_migrate">Processament d\'elements… Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="fail_to_pick_email">L\'adreça de correu electrònica no és vàlida</string>
     <string name="fail_to_sync_album">"No s'ha pogut sincronitzar l'àlbum. Comproveu la connexió de dades i proveu-ho de nou."</string>
     <string name="family_member_invitation_text">Un altre membre de la família</string>
@@ -1104,6 +1109,8 @@ disponibles"</string>
     <string name="home_page_empty_action">Fes una foto</string>
     <string name="home_page_empty_action_new">Importa des d\'un dispositiu antic</string>
     <string name="home_page_label">Fotos</string>
+    <string name="home_sdcard_op_tip_msg">"No s'ha pogut completar aquesta acció per a totes les imatges seleccionades. Desmunteu i torneu a muntar la targeta SD."</string>
+    <string name="home_sdcard_tip_msg">Sembla que la targeta SD és només de lectura. Desmunteu-la i torneu-la a muntar a Configuració &gt; Quant al telèfon &gt; Emmagatzematge.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Ometre</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">D\'acord</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Tot</string>
@@ -1598,6 +1605,8 @@ per personalitzar Galeria"</string>
     <string name="ocr_save_to_note">Desa</string>
     <string name="ocr_save_to_note_new">Desa a Notes</string>
     <string name="ocr_send">Comparteix</string>
+    <string name="ocr_switch_hint">Reconeix el text que es mostra a les imatges per poder seleccionar-lo o prendre mesures</string>
+    <string name="ocr_switch_title">Reconèixer el text de les imatges</string>
     <string name="ocr_text_copied">Copiat correctament</string>
     <string name="ocr_text_copied_selected">S\'ha copiat correctament</string>
     <string name="ocr_text_link">URL</string>
@@ -1969,7 +1978,7 @@ per personalitzar Galeria"</string>
     <string name="projection_cancel">Cancel·leu</string>
     <string name="projection_checkbox_text">Recorda aquesta pantalla</string>
     <string name="projection_device_connection_failed">"No es pot connectar el projector"</string>
-    <string name="projection_local_mobile">Aquest telèfon</string>
+    <string name="projection_local_mobile">Aquest dispositiu</string>
     <string name="projection_multi_title">Dispositius</string>
     <string name="projection_screen_project_in_screening">"Ara esteu utilitzant el vostre dispositiu per fer càstings"</string>
     <string name="projection_single_title">Emet a %s</string>

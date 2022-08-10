@@ -703,6 +703,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="data_enable_warning">Permetre utilitzar sempre dades mòbils pot generar despeses addicionals fora del pla del vostre operador. Voleu connectar-vos de totes maneres?</string>
     <string name="data_enabled">Dades mòbils</string>
     <string name="data_interruption_remind">"Sembla que l'entorn de xarxa no és fiable. Per millorar la connexió, permeteu que el dispositiu utilitzi dades mòbils durant les trucades VoLTE a la SIM secundària."</string>
+    <string name="data_interruption_remind_for_t">"Sembla que l'entorn de xarxa no és fiable. Per millorar la connexió, permeteu que el dispositiu utilitzi dades mòbils durant les trucades VoLTE a la SIM secundària."</string>
     <string name="data_plan">Plans de dades mòbils</string>
     <string name="data_usage_disable_mobile">Voleu desactivar les dades mòbils?</string>
     <string name="data_usage_ota">Actualitzacions del sistema</string>
@@ -2230,6 +2231,9 @@ Confirmeu la configuració predeterminada del compte de trucades."</string>
     <string name="smart_forwarding_settings_menu">Desviament intel·ligent</string>
     <string name="smart_forwarding_settings_menu_summary">"Quan no es pot accedir a un número, desvia sempre les trucades a l'altre número"</string>
     <string name="smart_multinetwork_acceleration_title">Acceleració de xarxa intel·ligent</string>
+    <string name="smart_switch_dual_sim_prompt">Connectar-se a una xarxa de dades mòbils mitjançant la SIM %1$s pot generar costos de dades addicionals. Establiu un límit d\'ús de dades per evitar costos addicionals.</string>
+    <string name="smart_switch_dual_sim_summary">Canvia entre les targetes SIM de dades automàticament en funció de la qualitat de la connexió de xarxa i l\'estat del dispositiu</string>
+    <string name="smart_switch_dual_sim_title">Canvia entre targetes SIM de dades</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Assegureu-vos que el número que introduïu sigui correcte. En cas contrari, no podreu enviar ni rebre SMS. Poseu-vos en contacte amb el vostre operador per confirmar el vostre número de SMSC."</string>
     <string name="speed_label_fast">Ràpid</string>
