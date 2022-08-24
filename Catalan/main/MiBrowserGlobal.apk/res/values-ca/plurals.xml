@@ -466,6 +466,10 @@
         <item quantity="other">%d cançons populars</item>
         <item quantity="one">%d cançó popular</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d pestanyes</item>
+        <item quantity="one">%d pestanya</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d elements seleccionats</item>
         <item quantity="one">%1$d element seleccionat</item>

@@ -788,9 +788,11 @@
     <string name="widget_added_fail_tips">"No s'ha pogut afegir"</string>
     <string name="widget_added_success_content">S\'ha afegit %1$s a la pantalla d\'inici</string>
     <string name="widget_added_success_tips">S\'ha afegit correctament</string>
+    <string name="widget_choose_document_please">Seleccioneu el document</string>
     <string name="widget_choose_file">Toqueu per afegir fitxers</string>
     <string name="widget_choose_fragment_title">Seleccioneu el tipus de fitxer</string>
     <string name="widget_finish">Fet</string>
+    <string name="widget_name">Fitxers visualitzats recentment</string>
     <string name="wifi_state">Estat de la Wi-Fi</string>
     <string name="withdraw">Retira</string>
     <string name="withdraw_consent">Retirada del consentiment</string>

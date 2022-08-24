@@ -1892,7 +1892,9 @@ Si teniu dubtes, poseu-vos en contacte amb %2$s."</string>
     <string name="quick_settings">Configuració ràpida</string>
     <string name="quick_settings_autobrightness_label">Brillantor automàtica</string>
     <string name="quick_settings_batterysaver_label">Estalvi de bateria</string>
+    <string name="quick_settings_bluetooth_connected_tip">Connectat mitjançant Bluetooth correctament</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius aparellats disponibles</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Tots els dispositius Bluetooth romandran desconnectats avui</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d dispositius)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth desactivat</string>

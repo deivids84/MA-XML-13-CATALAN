@@ -995,6 +995,9 @@ Toqueu \"%1$s\", i després seleccioneu \"%2$s\"."</string>
     <string name="preference_smart_group_title">Grups intel·ligents</string>
     <string name="preference_tone_title">Tons</string>
     <string name="preference_yellowpage_function_setting">Configuració de pàgines grogues</string>
+    <string name="presentation_payphone">Telèfon de pagament</string>
+    <string name="presentation_private">Número privat</string>
+    <string name="presentation_unknown">Número desconegut</string>
     <string name="previous">Anterior</string>
     <string name="privacy_password_message1">La contrasenya de protecció de privadesa funciona per a missatges, fotos, notes i carpetes ocultes.</string>
     <string name="privacy_password_message2">Utilitzeu la contrasenya de protecció de privadesa. Funciona per a missatges, fotos, notes i carpetes ocultes.</string>
@@ -1351,6 +1354,7 @@ Trieu una de les següents opcions:"</string>
     <string name="video_chat">Vídeoxat</string>
     <string name="viewContactDesription">Veure contacte</string>
     <string name="viewContactTitle">Dades de contacte</string>
+    <string name="view_more_call_logs">Mostra més</string>
     <string name="view_updates_from_group">Veure actualitzacions</string>
     <string name="voicemail">Bústia de veu</string>
     <string name="websiteLabelsGroup">Pàgina web</string>

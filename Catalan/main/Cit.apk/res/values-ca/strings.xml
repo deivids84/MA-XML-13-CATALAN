@@ -58,6 +58,7 @@ Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon princip
 3.El sistema desarà la foto automàticament després de la captura
 4.La foto que heu fet s'ha de mostrar a la pantalla, toqueu Aprovar per completar la prova."</string>
     <string name="cit_camera_otp_download_title">Prova de descàrrega OTP de la càmera</string>
+    <string name="cit_camera_rearsub">Prova de la subcàmera en curs, espereu....</string>
     <string name="cit_charger_test_tips_pd">El dispositiu actual ha de provar USB_PD</string>
     <string name="cit_cust_img_version">Consulta la informació de la versió cust</string>
     <string name="cit_dial_emergencycall">Marca 112</string>

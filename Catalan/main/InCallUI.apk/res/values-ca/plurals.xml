@@ -44,6 +44,46 @@
         <item quantity="other">Penjant en %1$s s…</item>
         <item quantity="one">Penjant en %1$s s…</item>
     </plurals>
+    <plurals name="call_log_day_in">
+        <item quantity="other">Aquest número us va trucar fa %1$s dies</item>
+        <item quantity="one">Aquest número us va trucar fa %1$s dia</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Vau trucar a aquest número fa %1$s dies</item>
+        <item quantity="one">Vau trucar a aquest número fa %1$s dia</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Aquest número us va trucar fa %1$s h</item>
+        <item quantity="one">Aquest número us va trucar fa %1$s h</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Vau trucar a aquest número fa %1$s h</item>
+        <item quantity="one">Vau trucar a aquest número fa %1$s h</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Aquest número us va trucar fa %1$s min</item>
+        <item quantity="one">Aquest número us va trucar fa %1$s min</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Vau trucar a aquest número fa %1$s min</item>
+        <item quantity="one">Vau trucar a aquest número fa %1$s min</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Aquest número us va trucar fa %1$s mesos</item>
+        <item quantity="one">Aquest número us va trucar fa %1$s mes</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Vau trucar a aquest número fa %1$s mesos</item>
+        <item quantity="one">Vau trucar a aquest número fa %1$s mes</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Aquest número us va trucar fa %1$s anys</item>
+        <item quantity="one">Aquest número us va trucar fa %1$s any</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Vau trucar a aquest número fa %1$s anys</item>
+        <item quantity="one">Vau trucar a aquest número fa %1$s any</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">S\'han enregistrat %d trucades.</item>
         <item quantity="one">S\'ha enregistrat %d trucada.</item>

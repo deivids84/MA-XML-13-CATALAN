@@ -1057,6 +1057,8 @@ disponibles"</string>
     <string name="functions_are_being_developed">Aquesta funció estarà disponible en breu. Estigueu atents!</string>
     <string name="gallery_setting">Configuració</string>
     <string name="gallery_sync_disable_toast">La sincronització de la galeria està desactivada</string>
+    <string name="gallery_uninstall_description_content">"Galeria és una aplicació del sistema que us permet veure, gestionar i sincronitzar fotos i vídeos en tots els dispositius connectats. Si desinstal·leu la Galeria, perdreu els elements que hàgiu fet privats i altres funcions relacionades amb la visualització i la selecció d'elements de la Galeria deixaran d'estar disponibles. Voleu desinstal·lar-la de totes maneres?"</string>
+    <string name="gallery_uninstall_description_title">Voleu desinstal·lar la Galeria?</string>
     <string name="generate_story_summary">"Fes prou fotos, connecta el carregador i desactiva la pantalla per fer que apareguin els records. Les memòries ja generades no desapareixeran si desactiveu aquesta funció."</string>
     <string name="generate_story_title">Records</string>
     <string name="get_album_info_in_process">"S'estan obtenint els detalls de l'àlbum compartit…"</string>

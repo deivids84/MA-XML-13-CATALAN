@@ -32,6 +32,7 @@
     <string name="afternoon">Tarda</string>
     <string name="am">a. m.</string>
     <string name="audio_record_des">Per transmetre àudio des del dispositiu mòbil a monitors externs</string>
+    <string name="cast_image_des">Tutorial per emetre</string>
     <string name="casting_tips">Emetent…</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="close">Tanca</string>

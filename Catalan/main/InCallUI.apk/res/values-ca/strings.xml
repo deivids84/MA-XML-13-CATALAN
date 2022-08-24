@@ -75,6 +75,8 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="call_button_tools_text">Característiques</string>
     <string name="call_contacts_deny_permission_msg">"Vau negar el permís de lectura de contactes, no es pot mostrar informació de contactes."</string>
     <string name="call_description_recording">S\'està enregistrant…</string>
+    <string name="call_log_short_in">Aquest número us ha trucat ara mateix</string>
+    <string name="call_log_short_out">Heu trucat a aquest número ara mateix</string>
     <string name="call_not_support_high_frequency_click">"No toqueu aquest botó amb tanta freqüència"</string>
     <string name="call_progress_info_call_forwarding">Aquesta trucada s\'ha reenviat</string>
     <string name="call_progress_info_call_rejected">L’altra persona ara està ocupada. Torneu a trucar més tard.</string>

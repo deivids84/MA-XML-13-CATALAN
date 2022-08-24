@@ -85,6 +85,7 @@
     <string name="cookies_content_two">"Decidiu si voleu que els nostres proveïdors de contingut de tercers de confiança utilitzin galetes per personalitzar les recomanacions de contingut i anuncis en funció dels vostres interessos."</string>
     <string name="cookies_title">Contingut personalitzat i galetes</string>
     <string name="copy">Copia</string>
+    <string name="create_shortcut">Drecera a la Pantalla d\'inici</string>
     <string name="data_traffic_enable_dialog_title">"Si ara no esteu connectats a la Wi-Fi, el dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar costos addicionals de l’operador."</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>

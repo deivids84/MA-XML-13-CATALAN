@@ -48,6 +48,9 @@
     <string name="autofill_save_sub_message">"Pots veure i gestionar les teves contrasenyes a Configuració &gt; Contrasenyes &amp; Seguretat &gt; %s."</string>
     <string name="autofill_save_title">Deseu les contrasenyes automàticament</string>
     <string name="autofill_service_name">Gestioneu contrasenyes</string>
+    <string name="back_double_tap">Doble toc enrere</string>
+    <string name="back_tap">Toc enrere</string>
+    <string name="back_triple_tap">Triple toc enrere</string>
     <string name="battery_authentic_failed_button">Ho tinc</string>
     <string name="battery_authentic_failed_title">Atenció</string>
     <string name="beep">Bip</string>
@@ -79,6 +82,7 @@
     <string name="candy">Caramels</string>
     <string name="carousel">Carrusel</string>
     <string name="celesta">Celesta</string>
+    <string name="change_brightness">Ajusta la brillantor</string>
     <string name="child">Infància</string>
     <string name="childhood">Infància</string>
     <string name="chimes">Carilló</string>
@@ -87,6 +91,7 @@
     <string name="citylight">Llums de la ciutat</string>
     <string name="clank">Clank</string>
     <string name="close">Desactivat</string>
+    <string name="close_app">Tanca l\'aplicació actual</string>
     <string name="configure_input_methods">Configura els mètodes d\'entrada</string>
     <string name="confirm_cancel_task_files">Voleu cancel·lar l\'enviament de fitxers a %1$s?</string>
     <string name="confirm_cancel_task_images">Voleu cancel·lar l\'enviament d\'imatges a %1$s?</string>
@@ -129,6 +134,10 @@
     <string name="dock_tip_splitscreen_landscape_float">Manteniu premut i arrossegueu cap avall per canviar a una finestra flotant.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Arrossegueu la barra verticalment per canviar les posicions de les dues finestres de l\'aplicació.</string>
     <string name="dock_tip_splitscreen_portrait_float">Manteniu premut i arrossegueu cap al costat esquerre o dret de la pantalla per canviar a una finestra flotant.</string>
+    <string name="double_click_power_key">Doble pulsació al botó d\'encesa</string>
+    <string name="double_click_volume_down_when_lock">Doble pulsació a abaixar el volum quan la pantalla estigui bloquejada</string>
+    <string name="double_knock">Doble toc dels artells</string>
+    <string name="dump_log">Obté registres relacionats amb els problemes</string>
     <string name="echo">Ressò</string>
     <string name="eighthours">8 hores</string>
     <string name="enable_livetalk_summary">Estalvieu fins a un 70% en les trucades</string>
@@ -148,6 +157,7 @@
     <string name="file_cannot_print">"No es pot imprimir aquest element."</string>
     <string name="file_cannot_screen_throw">"No es pot emetre aquest element."</string>
     <string name="file_sending">S\'està transferint els fitxers…</string>
+    <string name="fingerprint_double_tap">Doble toc al sensor d\'empremtes</string>
     <string name="fireflies">Lluernes</string>
     <string name="first_back_long_press_message">Per establir una configuració personalitzada prement i mantenint premut un botó, aneu a Configuració &gt; Configuracions addicionals &gt; Botons</string>
     <string name="flip_screen_camera_tip">Gireu el dispositiu per utilitzar la càmera</string>
@@ -169,6 +179,7 @@
     <string name="frog">granota</string>
     <string name="functions_are_being_developed">Aquesta funció estarà disponible en breu. Estigueu atents!</string>
     <string name="game">Joc</string>
+    <string name="gesture_function_dialog_message">%1$s s\'utilitza per a \"%2$s\". Voleu substituir-lo per \"%3$s\"?</string>
     <string name="glee">Glee</string>
     <string name="global_actions_airplane_mode">Mode avió</string>
     <string name="global_actions_reboot">Reinicia</string>
@@ -179,6 +190,7 @@
     <string name="global_phone">El meu telèfon</string>
     <string name="glockenspiel">Glockenspiel</string>
     <string name="glorious">glòria</string>
+    <string name="go_to_sleep">Apaga la pantalla</string>
     <string name="greenandblue">Arc de Sant Martí</string>
     <string name="guitar">Guitarra</string>
     <string name="hallofmemories">Records</string>
@@ -207,6 +219,11 @@
     <string name="kb_reset_toast">Restabliment de teclat correctament</string>
     <string name="key_btn_ok">D\'acord</string>
     <string name="key_btn_space">Espai</string>
+    <string name="key_combination_power_back">Encesa + Enrere</string>
+    <string name="key_combination_power_home">Encesa + Inici</string>
+    <string name="key_combination_power_menu">Encesa + Menú</string>
+    <string name="key_combination_power_volume_down">Abaixa volum + Encesa</string>
+    <string name="key_none">Cap</string>
     <string name="keyboard_connect_failed">"No s'ha pogut connectar el teclat. Torneu-lo a adjuntar."</string>
     <string name="keyboard_identity_reject_confirm">Entesos</string>
     <string name="keyboard_identity_reject_message">"Sembla que el teclat no és compatible amb aquest dispositiu."</string>
@@ -214,6 +231,9 @@
     <string name="keyboard_upgrade_failed">"No s'ha pogut actualitzar el teclat"</string>
     <string name="keyboard_upgrade_start">S\'està actualitzant el teclat…</string>
     <string name="keyboard_upgrade_success">El teclat s\'ha actualitzat correctament</string>
+    <string name="knock_gesture_v">Dibuixeu una V amb un artell</string>
+    <string name="knock_long_press_horizontal_slid">Premeu i llisqueu horitzontalment amb un artell</string>
+    <string name="knock_slide_shape">Dibuixa un cercle amb un artell</string>
     <string name="ks_back_home">Pantalla d\'Inici</string>
     <string name="ks_close_window">Tanca la finestra actual</string>
     <string name="ks_launch_control_center">Centre de control</string>
@@ -223,6 +243,21 @@
     <string name="ks_regional_screen_shot">Captura de pantalla (parcial)</string>
     <string name="ks_screenshot">Captura de pantalla (pantalla sencera)</string>
     <string name="kungfu">Kung-fú</string>
+    <string name="launch_ai_shortcut">Drecera a Mi AI</string>
+    <string name="launch_alipay_health_code">Codi sanitari Alipay</string>
+    <string name="launch_alipay_payment_code">Codi de pagament Alipay</string>
+    <string name="launch_alipay_scanner">Escàner Alipay</string>
+    <string name="launch_calculator">Calculadora</string>
+    <string name="launch_camera">Inicia la càmera</string>
+    <string name="launch_control_center">Centre de control</string>
+    <string name="launch_google_search">Inicia l\'Assistent de Google</string>
+    <string name="launch_notification_center">Àrea de notificacions</string>
+    <string name="launch_recents">Inicia Recents</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
+    <string name="launch_voice_assistant">Inicia l\'assistent de veu</string>
+    <string name="launch_wechat_health_code">Codi de salut de WeChat</string>
+    <string name="launch_wechat_payment_code">Codi de pagament de WeChat</string>
+    <string name="launch_wechat_scanner">Escàner WeChat</string>
     <string name="leisure">Oci</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Telèfon Lenovo</string>
@@ -235,6 +270,14 @@
     <string name="lockscreen_access_pattern_start">S\'ha iniciat el patró</string>
     <string name="lockscreen_carrier_customized">Servei limitat</string>
     <string name="lollipop">Piruleta</string>
+    <string name="long_press_back_key">Pulsació llarga del botó Enrere</string>
+    <string name="long_press_buttom_key">Pulsació llarga d\'Inici a la pantalla de bloqueig</string>
+    <string name="long_press_home_key">Pulsació llarga del botó Inici</string>
+    <string name="long_press_menu_key">Pulsació llarga del botó Menú</string>
+    <string name="long_press_menu_key_when_lock">Pulsació llarga de Menú a la pantalla de bloqueig</string>
+    <string name="long_press_power_key">Pulsació llarga del botó d\'Encesa</string>
+    <string name="long_press_power_key_half_second">Manteniu premut el botó d\'encesa durant %ss</string>
+    <string name="long_press_volume_down">Pulsació llarga d\'Abaixar el volum</string>
     <string name="magic_window_toast">Multiplicador d\'aplicacions habilitat.</string>
     <string name="makewishes">Desig d\'aniversari</string>
     <string name="maml_component_customization_title">Configuració</string>
@@ -247,6 +290,7 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mi_pay">Mi Wallet</string>
     <string name="miaudiovisual_notification_summary">Activa per a mostrar efectes en la pantalla de bloqueig</string>
     <string name="miaudiovisual_notification_title">Efectes audiovisuals</string>
     <string name="mihouse">Mi Electrònic</string>
@@ -273,6 +317,7 @@
     <string name="monet">Estany de lliris</string>
     <string name="morning">Matí</string>
     <string name="mountainspring">Font de muntanya</string>
+    <string name="mute">Mode silenci</string>
     <string name="mw_guide_dialog_button_confirm">Ho tinc</string>
     <string name="mw_guide_dialog_message">"Sembla que aquesta aplicació no admet finestres paral·leles. En lloc d'això, s'ha canviat a una altra disposició compatible."</string>
     <string name="mw_guide_dialog_title">"Les finestres paral·leles no són compatibles"</string>
@@ -297,6 +342,7 @@
     <string name="package_delete_confirm_step_1">Voleu desinstal·lar %s?</string>
     <string name="package_delete_confirm_step_2">La desinstal·lació d\'aquesta aplicació pot provocar que el sistema es torni inestable.</string>
     <string name="package_delete_confirm_step_3">"No podreu obrir aquesta aplicació després d'eliminar-la."</string>
+    <string name="partial_screen_shot">Captura de pantalla parcial</string>
     <string name="passionflower">Passió</string>
     <string name="paste">Enganxa</string>
     <string name="pc_device_model_name">Ordinador</string>
@@ -385,6 +431,7 @@
     <string name="screen_on_proximity_sensor_title">Mode butxaca</string>
     <string name="screen_paper_mode_enter_toast">El mode lectura està activat. Podeu desactivar aquesta funció a Configuració &gt; Pantalla &gt; Mole lectura.</string>
     <string name="screen_rotation_freeze_message">Gir automàtic desactivat.</string>
+    <string name="screen_shot">Fer una captura de pantalla</string>
     <string name="screenshot_gesture_detect_alert_button">Activa-ho a la Configuració</string>
     <string name="screenshot_gesture_detect_alert_dont_again">"No ho tornis a mostrar"</string>
     <string name="screenshot_gesture_detect_alert_msg">En lliscar cap avall amb tres dits, voleu que es prengui una captura de pantalla?</string>
@@ -407,6 +454,7 @@
     <string name="set_password_message">Estableix una contrasenya per utilitzar aquesta funció.</string>
     <string name="set_password_title">Estableix una contrasenya</string>
     <string name="shortcut_no_support_on_pc_mode">"Aquest gest no és compatible amb el mode PC"</string>
+    <string name="show_menu">Mostra el menú</string>
     <string name="shutdown_confirm_title">Voleu apagar el dispositiu ara?</string>
     <string name="shutdown_progress">S\'està apagant…</string>
     <string name="silence_mode">Mode silenci</string>
@@ -432,6 +480,7 @@
     <string name="softap_notifif_title">Punt d\'accés \"%s\" activat</string>
     <string name="southwestmountain_preview">Muntanyes</string>
     <string name="spaceage">Era espacial</string>
+    <string name="split_screen">Obre la pantalla dividida</string>
     <string name="spring">Molla</string>
     <string name="standard">Silenci</string>
     <string name="standard_description">Silencia els tons de trucada per a trucades i notificacions entrants</string>
@@ -478,11 +527,15 @@
     <string name="takeback_camera_front_failed">"No s’ha pogut tancar la càmera frontal. Proveu-ho de nou."</string>
     <string name="talk_back_water_mark_string1">TalkBack està activat</string>
     <string name="talk_back_water_mark_string2">Mantingueu premut «Volum +» i «Volum -» durant 3 segons per desactivar-lo</string>
+    <string name="three_gesture_down">Llisqueu 3 dits cap avall</string>
+    <string name="three_gesture_horizontal">Llisqueu horitzontalment amb %d dits</string>
+    <string name="three_gesture_long_press">Manteniu premut amb %d dits</string>
+    <string name="three_gesture_pc_mode">Activa el Mode PC</string>
     <string name="throwing_print">Imprimir</string>
     <string name="throwing_screen">Emet</string>
     <string name="tip_close_screen_phone">Canvia a mans lliures o plegueu el dispositiu per utilitzar l\'altaveu integrat</string>
-    <string name="tip_for_phone_and_camera">Plegueu el dispositiu per utilitzar l\'altaveu integrat o la càmera frontal</string>
-    <string name="tip_use_front_camera">Plegueu el dispositiu per utilitzar la càmera frontal</string>
+    <string name="tip_use_front_camera">"Plegueu el vostre dispositiu
+per utilitzar la càmera frontal"</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">No molestis</string>
     <string name="total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
@@ -492,7 +545,9 @@
     <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
     <string name="translation_query_error_network">"No s'ha pogut obtenir informació. Comproveu la connexió de xarxa i proveu-ho de nou"</string>
     <string name="turn_off">Desactiva</string>
+    <string name="turn_on_torch">Activa la llanterna</string>
     <string name="twohours">1 hora</string>
+    <string name="under_keyguard">Pantalla apagada</string>
     <string name="unknown_caller">Trucada desconeguda</string>
     <string name="unrecognized_manufacture">Desconegut</string>
     <string name="unrecognized_model">Dispositiu desconegut</string>
@@ -504,6 +559,7 @@
     <string name="vigor">Vigor</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="voice_assist">Mi AI</string>
     <string name="wallpaper_group_black_gobi_title">Sorres de Gobi</string>
     <string name="wallpaper_group_black_white_title">Blanc i negre</string>
     <string name="wallpaper_group_color_move_title">Colors líquids</string>

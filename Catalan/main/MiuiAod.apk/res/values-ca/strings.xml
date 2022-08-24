@@ -156,7 +156,6 @@ dd/MM"</string>
     <string name="friday">divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
-    <string name="garbage_count">Hi ha %1$s casos antics</string>
     <string name="gradient_vectorpath">ruta_vector_gradient</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="item_view_role_description">Pestanya</string>
@@ -165,7 +164,6 @@ dd/MM"</string>
     <string name="line_space">Espai entre línies</string>
     <string name="material_slider_range_end">Final del rang,</string>
     <string name="material_slider_range_start">Inici del rang,</string>
-    <string name="memory_leak">Pèrdua de memòria</string>
     <string name="midnight">Nit</string>
     <string name="mini_time">Rellotge petit</string>
     <string name="minimalist_clock">Rellotge simple</string>
@@ -278,7 +276,6 @@ dd/MM"</string>
     <string name="notification_anim_pulse">Pols (vermell)</string>
     <string name="notification_anim_rhythm">Pols (blau)</string>
     <string name="notification_anim_star">Llum d\'estrelles</string>
-    <string name="notification_channel_alerts">Alertes</string>
     <string name="notification_nothing">Cap</string>
     <string name="notification_screen_on">Encendre pantalla</string>
     <string name="off">Desactivat</string>

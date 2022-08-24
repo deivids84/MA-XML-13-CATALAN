@@ -152,6 +152,8 @@
     <string name="find_device_status_title_phone">Troba dispositiu</string>
     <string name="find_permission_location_summary">Per localitzar aquest dispositiu</string>
     <string name="find_permission_location_title">Ubicació d\'accés</string>
+    <string name="find_permission_phone_sim_info_summary">Per accedir a la ubicació mitjançant SMS quan no està connectat a la xarxa</string>
+    <string name="find_permission_phone_sim_info_title">Accés a la informació del dispositiu</string>
     <string name="find_permission_phone_summary">"Per accedir al número de telèfon per localitzar aquest dispositiu quan no està connectat a Internet"</string>
     <string name="find_permission_phone_title">Accés a la informació del dispositiu</string>
     <string name="find_permission_sms_summary">"Per localitzar aquest dispositiu quan no està connectat a Internet"</string>

@@ -933,6 +933,7 @@ Voleu activar l'eSIM de totes maneres?"</string>
     <string name="esim_inactive_notification_message_global">No s\'ha detectat cap targeta SIM. Toqueu per activar l\'eSIM.</string>
     <string name="esim_inactive_notification_title_global">Doble SIM i xarxes mòbils</string>
     <string name="esim_inactive_settings_title">Doble SIM i xarxes mòbils</string>
+    <string name="esim_is_activating_notification_message_for_o2">S\'està activant el pla mòbil…</string>
     <string name="esim_setting_title">Configuració de l\'eSIM</string>
     <string name="evening">Tarda</string>
     <string name="exception_error">Error de xarxa o de targeta SIM.</string>
