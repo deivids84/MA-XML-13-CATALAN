@@ -55,8 +55,8 @@
     <string name="doc_photo_enhance_effect">Efectes</string>
     <string name="doc_photo_enhance_handmode_remove">Esborra manualment</string>
     <string name="doc_photo_enhance_moer">Remoure moiré</string>
-    <string name="doc_photo_enhance_moer_desc">Elimineu els patrons de pantalla moiré</string>
-    <string name="doc_photo_enhance_moer_toast">Elimineu els patrons de pantalla moiré</string>
+    <string name="doc_photo_enhance_moer_desc">Suprimeix els patrons de pantalla moiré</string>
+    <string name="doc_photo_enhance_moer_toast">Suprimeix els patrons de pantalla moiré</string>
     <string name="doc_photo_enhance_none">Original</string>
     <string name="doc_photo_enhance_undistortion">Anti-distorsió</string>
     <string name="doc_photo_enhance_undistortion_desc">Corregir la distorsió de la imatge</string>

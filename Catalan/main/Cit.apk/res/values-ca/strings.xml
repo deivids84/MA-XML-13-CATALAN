@@ -46,6 +46,9 @@
     <string name="cit_accelermeter_second_cali_title">Segona prova de calibratge del sensor d\'acceleració</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mou el dispositiu ràpidament en una direcció. A continuació es mostren els valors de les coordenades X ， Y ， Z. (quan el dispositiu està en moviment: X representa l'esquerra / la dreta, y representa la part davantera / posterior, la z representa cap amunt i cap avall).
 Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</string>
+    <string name="cit_audio_hw_check_summary">Comprovació del maquinari d\'àudio</string>
+    <string name="cit_audio_hw_check_tips">Prova en procés</string>
+    <string name="cit_audio_hw_check_title">Comprovació del maquinari d\'àudio</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prova de retroalimentació del micròfon principal al receptor.
 
 Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon principal; hauríeu d'escoltar la veu del receptor"</string>

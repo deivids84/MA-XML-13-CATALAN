@@ -128,7 +128,7 @@
     <string name="accessibility_live_music_pause_button">Pausa</string>
     <string name="accessibility_live_music_play_button">Reprodueix</string>
     <string name="accessibility_live_preview_button">Veure l\'element anterior</string>
-    <string name="accessibility_live_reverse_button">Elimineu el clip anterior</string>
+    <string name="accessibility_live_reverse_button">Suprimeix el clip anterior</string>
     <string name="accessibility_live_speed_panel_on">Panell de velocitat</string>
     <string name="accessibility_lock_focus_success">S\'ha bloquejat l\'enfocament correctament</string>
     <string name="accessibility_manually_custom_panel_on">Panell de personalització</string>
@@ -841,7 +841,7 @@ en mode Retrat"</string>
     <string name="live_music_network_exception">Error de xarxa</string>
     <string name="live_music_network_exception_tips">S\'ha produït un error de xarxa. Premeu per provar-ho de nou.</string>
     <string name="live_music_title_unknown">Pista desconeguda</string>
-    <string name="live_reverse_confirm">Elimineu</string>
+    <string name="live_reverse_confirm">Suprimeix</string>
     <string name="live_reverse_message">Voleu eliminar els elements capturats anteriorment?</string>
     <string name="live_share_moments">Moments</string>
     <string name="live_speed_extreme_fast">Molt ràpid</string>
@@ -939,7 +939,7 @@ semblin més grans a les fotos"</string>
     <string name="mimoji_create_emoticon_progress">Creant paquet d\'adhesius…</string>
     <string name="mimoji_create_tips">Mira directament a la càmera</string>
     <string name="mimoji_custom_image">Avatar personalitzat</string>
-    <string name="mimoji_delete"><font fgcolor="#ffff0000">Elimineu</font></string>
+    <string name="mimoji_delete"><font fgcolor="#ffff0000">Suprimeix</font></string>
     <string name="mimoji_delete_dialog_title">Vols eliminar ara aquest avatar?</string>
     <string name="mimoji_delete_mimoji">Eliminar avatar</string>
     <string name="mimoji_delete_success">S\'ha eliminat amb èxit</string>

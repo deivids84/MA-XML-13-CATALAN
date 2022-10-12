@@ -44,7 +44,7 @@
     <string name="app_activity_main_title">Imprimir</string>
     <string name="app_label">Gestor de cues d\'impressió</string>
     <string name="blocked_notification_title_template">Impressora bloquejada %1$s</string>
-    <string name="button_delete">Elimineu</string>
+    <string name="button_delete">Suprimeix</string>
     <string name="button_ok">D\'acord</string>
     <string name="cancel">Cancel·leu</string>
     <string name="cancel_print">Cancel·leu la tasca</string>

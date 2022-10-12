@@ -541,7 +541,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="running_process_item_user_label">Usuari: %1$s</string>
     <string name="runningservices_settings_summary">Visualitza i controla els serveis que s\'estan executant actualment</string>
     <string name="runningservices_settings_title">S\'estan executant els serveis</string>
-    <string name="saved_network">Salvat per %1$s</string>
+    <string name="saved_network">Desada per %1$s</string>
     <string name="screen_zoom_summary_custom">Personalitzat (%d)</string>
     <string name="screen_zoom_summary_default">Omissió</string>
     <string name="screen_zoom_summary_extremely_large">Major</string>
@@ -741,7 +741,7 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_no_internet_no_reconnect">"No es connectarà automàticament"</string>
     <string name="wifi_not_in_range">No està a l\'interval</string>
     <string name="wifi_passpoint_expired">Expirat</string>
-    <string name="wifi_remembered">Salvat</string>
+    <string name="wifi_remembered">Desada</string>
     <string name="wifi_scan_throttling">Acceleració d\'escaneig Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Redueix el drenatge de la bateria &amp; millora el rendiment de la xarxa</string>
     <string name="wifi_security_none">Cap</string>
@@ -778,7 +778,7 @@ l'emmagatzematge de credencials no està habilitat"</string>
     <string name="wifitrackerlib_osu_sign_up_complete">S\'ha completat el registre. Connexió…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">No s\'ha pogut completar el registre. Toca per tornar-ho a provar.</string>
     <string name="wifitrackerlib_private_dns_broken">No es pot accedir al servidor DNS privat</string>
-    <string name="wifitrackerlib_saved_network">Salvat per %1$s</string>
+    <string name="wifitrackerlib_saved_network">Desada per %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Ràpid</string>
     <string name="wifitrackerlib_speed_label_medium">Mitjà</string>
     <string name="wifitrackerlib_speed_label_okay">OK</string>
@@ -804,7 +804,7 @@ l'emmagatzematge de credencials no està habilitat"</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">No es connectarà automàticament</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirat</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Condicions temporals de la xarxa</string>
-    <string name="wifitrackerlib_wifi_remembered">Salvat</string>
+    <string name="wifitrackerlib_wifi_remembered">Desada</string>
     <string name="wifitrackerlib_wifi_security_none">Cap</string>
     <string name="wifitrackerlib_wifi_security_owe">Obert millorat</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Punt de pas</string>

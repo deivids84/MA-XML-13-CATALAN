@@ -26,7 +26,7 @@
     <string name="HIPS_Perm_Contact">Modificar i suprimir els contactes</string>
     <string name="HIPS_Perm_Contact_Desc">edició de contactes</string>
     <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers de l’emmagatzematge intern</string>
-    <string name="HIPS_Perm_External_Storage_Desc">"afegir i eliminar fitxers en l'emmagatzematge intern del dispositiu"</string>
+    <string name="HIPS_Perm_External_Storage_Desc">"afegir i suprimir fitxers a l'emmagatzematge intern del dispositiu"</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">enregistrar àudio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Iniciar aplicacions en segon pla automàticament</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Accés a esdeveniments del calendari</string>
@@ -160,6 +160,7 @@
     <string name="blur_location_is_on_tip">%1$s utilitza la vostra ubicació aproximada. Voleu continuar utilitzant-la en lloc d\'una ubicació precisa?</string>
     <string name="blur_location_now_tip">La ubicació aproximada està activada</string>
     <string name="blur_location_title">Ubicació aproximada</string>
+    <string name="carwith_grant_permission_tips_when_lock">Desbloqueu primer el telèfon</string>
     <string name="cetus_invisible_mode_notice_audio">"Esteu d’incògnit. Ara no es pot utilitzar el micròfon."</string>
     <string name="cetus_invisible_mode_notice_camera">"Esteu d'incògnit. Ara no es pot utilitzar la càmera."</string>
     <string name="cetus_invisible_mode_notice_location">"Esteu d'incògnit. Ara no es poden utilitzar els serveis d'ubicació."</string>
@@ -297,6 +298,7 @@
     <string name="ok">D\'acord</string>
     <string name="perm_action_allow">Permet</string>
     <string name="perm_action_deny">No ho permetis mai</string>
+    <string name="perm_educate_post_notification">Les notificacions poden anunciar-se amb so i vibració, donat que es mostren a la barra de notificacions i a les icones de la pantalla inicial. Podeu canviar les vostres preferències de notificació a Configuració.</string>
     <string name="perm_manager_suggest_operation">Gestioneu els permisos</string>
     <string name="perm_manager_suggest_title">Voleu ajustar els permisos?</string>
     <string name="perm_modem_location">Accedir a la vostra ubicació</string>
@@ -314,6 +316,7 @@
     <string name="permdesc_read_call_log">Voleu permetre que %1$s accedeixi a l\'historial de trucades?</string>
     <string name="permdesc_read_contacts">Voleu permetre que %1$s accedeixi als contactes?</string>
     <string name="permdesc_read_mms">Voleu permetre que %1$s llegeixi missatges multimèdia?</string>
+    <string name="permdesc_read_phone_numbers">Voleu permetre que %1$s llegeixi els números de telèfon d\'aquest dispositiu?</string>
     <string name="permdesc_read_phone_state">Vols permetre que %1$s accedeixi a l\'estat del dispositiu i a la informació de la xarxa mòbil?</string>
     <string name="permdesc_read_sms">Voleu permetre que %1$s llegeixi missatges de text i multimèdia?</string>
     <string name="permdesc_read_storage">Voleu permetre que %1$s accedir als fitxers i fotos d\'aquest dispositiu?</string>

@@ -345,7 +345,7 @@ Xiaomi Salut només us notificarà sobre articles importants."</string>
     <string name="dialog_cancel_edit_record">Vols descartar els canvis ara?</string>
     <string name="dialog_confirm">D\'acord</string>
     <string name="dialog_date_select">Seleccionar data</string>
-    <string name="dialog_delete">Elimineu</string>
+    <string name="dialog_delete">Suprimeix</string>
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">Benvingut a Xiaomi Salut! El \"comptador de passos\" us permet veure quants passos feu durant el dia, així com definir i gestionar els objectius de la vostra activitat. Totes les dades relacionades s\'emmagatzemaran localment al dispositiu, cosa que us permet gestionar-lo fàcilment.</string>
     <string name="dialog_exit">Surt</string>

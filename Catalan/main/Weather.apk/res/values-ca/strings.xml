@@ -96,7 +96,7 @@
     <string name="button_settings_confirm_to_revoke_msg">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la Política de privadesa de Weather. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. Weather necessita recopilar la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la seva Política de privadesa es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida.</string>
     <string name="card_vote_item_vs">CONTRA</string>
     <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
-    <string name="city_exceeded_warning">"No es poden afegir més ciutats. Per afegir-ne una, elimineu primer una ciutat que ja es troba a la llista."</string>
+    <string name="city_exceeded_warning">"No es poden afegir més ciutats. Per afegir-ne una de nova, suprimiu primer una ciutat que ja sigui a la llista."</string>
     <string name="clear_net_mock_success">S\'ha esborrat la xarxa simulada correctament</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>

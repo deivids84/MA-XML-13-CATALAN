@@ -154,7 +154,6 @@
     <string name="being_enable_auto_payment">S\'esta activant…</string>
     <string name="bind_sign_in_title">Afegeix un Compte Mi</string>
     <string name="bluetooth_device">Dispositiu d\'àudio Bluetooth</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="broadcast_list">Canals</string>
     <string name="buffering">S\'està omplint la memòria intermèdia&#8230;</string>
     <string name="button_cancel_download">Cancel·la</string>
@@ -443,9 +442,13 @@ Envieu aquest codi al supervisor."</string>
     <string name="filter_by_folder">Per carpeta</string>
     <string name="filter_by_folder_summary">Trieu les carpetes a mostrar</string>
     <string name="filter_by_size">Per mida</string>
+    <string name="filter_by_size_max">%d MB</string>
+    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Amaga fitxers més petits que "</string>
     <string name="filter_by_size_summary">Amaga fitxers d\'àudio petits</string>
+    <string name="filter_size_unit">%d KB</string>
     <string name="find_psw">He oblidat la contrasenya</string>
+    <string name="fm_browser_label">FM</string>
     <string name="fm_detai_add_icon">%s S\'ha creat la drecera de la pantalla d\'inici amb èxit</string>
     <string name="fm_has_turned_off">La ràdio FM està desactivada</string>
     <string name="fm_headline">Noticies</string>
@@ -592,6 +595,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="lyric_setting">Configuració de lletres</string>
     <string name="manager_cloud_space">Gestioneu l’emmagatzematge al núvol de Xiaomi</string>
     <string name="market_download_failure">Error ， torneu-ho a provar？</string>
+    <string name="media_filter">Multimèdia</string>
     <string name="menu_all_task_pause">Pausa-ho tot</string>
     <string name="menu_all_task_start">Inicia-ho tot</string>
     <string name="menu_enter_edit_mode">Editor</string>
@@ -939,6 +943,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="playlist_type_album">Àlbums</string>
     <string name="playlist_type_artist">Artista</string>
     <string name="playlist_type_billboard">Llistes</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">Llistes de reproducció</string>
     <string name="playlist_type_recommend">Llistes de reproducció destacades</string>
     <string name="please_download_first">Cal baixar la cançó abans de poder-la establir com a to de trucada</string>
@@ -978,7 +983,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="pulluprefreshrecyclerview_loading_running">S\'està carregant&#8230;</string>
     <string name="purchased_empty_hint">Encara no hi ha elements.</string>
     <string name="push_message_switch">Notifiqueu els episodis nous</string>
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="radio_cancel_subscribe">S\'ha suprimit dels preferits amb èxit</string>
     <string name="radio_not_support">La ràdio no admet</string>
     <string name="radio_subscribe_success">S\'ha afegit als preferits amb èxit</string>
@@ -1152,6 +1156,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="start_to_download">S\'ha afegit a la cua de descàrrega correctament</string>
     <string name="start_to_play">Reprodueix</string>
     <string name="station_check_favorite">Afegeix a les preferides</string>
+    <string name="station_freq_format">%s MHz</string>
     <string name="stations_list">Llistat d\'emissores</string>
     <string name="stations_list_empty">No hi ha presets</string>
     <string name="stop">Aturar</string>

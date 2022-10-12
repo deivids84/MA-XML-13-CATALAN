@@ -94,7 +94,7 @@
     <string name="input_method_tab_clipboard_text">Porta-retalls</string>
     <string name="input_method_tab_phrase_text">Frases freqüents</string>
     <string name="menu_add_frequent_phrases">Afegiu</string>
-    <string name="menu_delete">Elimineu</string>
+    <string name="menu_delete">Suprimeix</string>
     <string name="menu_edit">Editeu</string>
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
