@@ -104,6 +104,10 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="call_recording_notification_title_error">"No s'ha pogut enregistrar la trucada"</string>
     <string name="caller_info_name_delimiter">" o "</string>
     <string name="caller_manage_header">Trucada de conferència %s</string>
+    <string name="camera_on">L\'altra persona vol activar la vostra càmera.</string>
+    <string name="camera_on_agree">Permet</string>
+    <string name="camera_on_refuse">"No ho permetis"</string>
+    <string name="camera_on_title">Càmera</string>
     <string name="can_not_use">"No es pot fer servir"</string>
     <string name="cancel">Cancel·leu</string>
     <string name="card_title_answering">Contestant trucada</string>
@@ -307,6 +311,10 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="onscreen_change_to_video">Vídeotrucada</string>
     <string name="onscreen_change_to_voice">Trucada de veu</string>
     <string name="onscreen_close_preview_camera">Tancar</string>
+    <string name="onscreen_collapsed">Replega</string>
+    <string name="onscreen_collapsed_dialpad">Mostra el teclat de marcatge</string>
+    <string name="onscreen_expand">Més</string>
+    <string name="onscreen_expand_dialpad">Amaga el teclat de marcatge</string>
     <string name="onscreen_hold_text">Reten</string>
     <string name="onscreen_merge_calls_text">Combina les trucades</string>
     <string name="onscreen_message_text">Missatges</string>
@@ -345,6 +353,11 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
+    <string name="screen_share">Assistència remota</string>
+    <string name="screen_share_agree">Permet</string>
+    <string name="screen_share_connecting">S’està connectant…</string>
+    <string name="screen_share_message">Voleu permetre que l\'altra persona vegi la vostra pantalla en temps real?</string>
+    <string name="screen_share_refuse">Cancel·la</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_audio_dialog_title">Seleccioneu el mode de resposta</string>
     <string name="select_one_sim_title">Només es pot utilitzar la SIM %1$d</string>
@@ -428,5 +441,6 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
     <string name="wifi_call">Trucada VoWifi</string>
+    <string name="xiaoai_assistant">Assistent de trucades Mi IA</string>
     <string name="yesterday">Ahir</string>
 </resources>

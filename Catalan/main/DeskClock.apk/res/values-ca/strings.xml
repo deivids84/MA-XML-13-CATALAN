@@ -44,6 +44,8 @@
     <string name="agree">D\'acord</string>
     <string name="alarm_alert_alert_silenced">Alarma silenciada després de %1$s.</string>
     <string name="alarm_alert_disabled">Desactivat</string>
+    <string name="alarm_alert_now">%s alarma</string>
+    <string name="alarm_alert_snooze_button">Posposa</string>
     <string name="alarm_ascending_mode_summary">Volum de l\'alarma augmenta gradualment</string>
     <string name="alarm_ascending_mode_title">Volum ascendent</string>
     <string name="alarm_clock_more_setting">Configuracions addicionals</string>
@@ -117,6 +119,7 @@
     <string name="cities_show_limit_desc">"No es poden mostrar més rellotges"</string>
     <string name="city_time_contrast_desc">Toca per comparar l\'hora a diferents ciutats</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
+    <string name="click_to_cancel_alarm">Premeu per apagar</string>
     <string name="clock_bg_button_setting_summary_common">Seleccioneu el color de fons de l\'aplicació Rellotge</string>
     <string name="clock_bg_button_setting_summary_follow_sys">El negre s\'utilitzarà com a color de fons cada vegada que canvieu al mode Fosc</string>
     <string name="clock_bg_button_setting_title">Color de fons</string>

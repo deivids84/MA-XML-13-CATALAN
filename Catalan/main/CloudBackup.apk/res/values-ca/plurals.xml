@@ -76,6 +76,14 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">S\'ha fet una còpia de seguretat de %d aplicacions</item>
+        <item quantity="one">S\'ha fet una còpia de seguretat d\' %d aplicació</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">S\'han restaurat %d aplicacions</item>
+        <item quantity="one">S\'ha restaurat %d aplicació</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Queden uns %s min</item>
         <item quantity="one">Queda %s min</item>

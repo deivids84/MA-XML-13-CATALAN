@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">DEMÀ, %1$s</string>
     <string name="agenda_view">Agenda</string>
     <string name="alarm_label">Descarteu</string>
+    <string name="alarm_open_reminder">Activa el recordatori</string>
+    <string name="alarm_reminder_already">El recordatori està activat</string>
     <string name="alert_reminder_expired">Caducat</string>
     <string name="alert_title">Notificacions del calendari</string>
     <string name="all_events">Tots els esdeveniments</string>
@@ -85,7 +87,9 @@
     <string name="birthday_saved">Aniversari desat</string>
     <string name="birthday_term">aniversari</string>
     <string name="button_record_menstruation">Enregistra</string>
+    <string name="calendar_account_settings">Configuració del compte</string>
     <string name="calendar_permission_desc">Gestioneu els events</string>
+    <string name="calendar_privacy_policy">Política de privadesa</string>
     <string name="can_not_create_long_event">Nom d\'esdeveniment massa llarg</string>
     <string name="can_not_modify_allday_event">"Els esdeveniments de tot el dia no es poden modificar"</string>
     <string name="can_not_modify_event">"No es pot modificar"</string>
@@ -106,6 +110,7 @@
     <string name="change_response_title">Canvieu la resposta</string>
     <string name="change_zodiac">Canvieu el signe del zodiac</string>
     <string name="character_counter_content_description">El límit de caràcters ha superat %1$d de %2$d</string>
+    <string name="check_new_version">Comproveu si hi ha actualitzacions</string>
     <string name="chips_action_cancel">Cancel·lar</string>
     <string name="chips_action_copy">Copiar</string>
     <string name="chips_permission_text">Permet els suggeriments de contactes</string>
@@ -142,11 +147,10 @@
     <string name="countdown_notify_title">Compte enrere: %1$s</string>
     <string name="countdown_secondary_tag">Compte enrere</string>
     <string name="countdown_today">Avui</string>
-    <string name="create_an_account_desc">"El Calendari funciona millor amb un Compte Mi.
+    <string name="create_an_account_desc">"Calendari funciona millor amb un Compte Mi.
 
-•
-Accés des de qualsevol navegador
-•Còpia de seguretat dels esdeveniments."</string>
+• Accediu-hi des de qualsevol navegador.
+• Feu còpies de seguretat dels vostres esdeveniments amb garantia."</string>
     <string name="create_kundli">Creeu Kundli</string>
     <string name="creating_event">S\'ha creat l\'esdeveniment</string>
     <string name="creating_event_with_guest">S\'estan enviant les invitacions…</string>
@@ -176,14 +180,16 @@ Accés des de qualsevol navegador
     <string name="date_view">Data</string>
     <string name="day">Dia</string>
     <string name="day_view_new_event_hint">Esdeveniment nou</string>
+    <string name="default_reminder_later_time">Període preestablert pel \"Recorda-m\'ho més tard\"</string>
     <string name="default_reminder_mode">Recordatoris</string>
     <string name="delete_menstruation_record_confirm">Voleu suprimir aquest registre?</string>
-    <string name="delete_recurring_event_title">Voleu eliminar %s?</string>
+    <string name="delete_recurring_event_title">Voleu suprimir %s?</string>
     <string name="delete_this_event_title">Voleu suprimir aquest esdeveniment?</string>
     <string name="description_calendar">Aplicacions del sistema/Calendari</string>
     <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
     <string name="directory_searching_fmt">Cercant %s…</string>
     <string name="discard_label">Cancel·leu</string>
+    <string name="display_to_calendar">Mostrar al calendari</string>
     <string name="does_not_repeat">Esdeveniment únic</string>
     <string name="dropdown_delete_button_desc">Suprimeix %s dels destinataris</string>
     <string name="early_morning">Matí</string>
@@ -206,8 +212,10 @@ Accés des de qualsevol navegador
     <string name="edit_event_label">Detalls</string>
     <string name="edit_event_no_reminder_value">"No recordeu"</string>
     <string name="edit_event_reminder_3_days_before">I avisa\'m %d dies abans</string>
+    <string name="edit_event_reminder_3_days_before_time">Avisa\'m també %d dies abans</string>
     <string name="edit_event_reminder_summary">En aquell dia a les %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d dies abans i el mateix dia a les %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d dies abans i a les %1$s del dia establert</string>
     <string name="edit_event_reminder_text">En %1$s a les %2$s</string>
     <string name="edit_event_reminder_time">Hora de recordatori</string>
     <string name="edit_event_reminder_with_another_day_text">En %1$s, %2$s a les %3$s</string>
@@ -216,6 +224,14 @@ Accés des de qualsevol navegador
     <string name="edit_event_tab_birthday">Aniversari</string>
     <string name="edit_event_tab_countdown">Compte enrere</string>
     <string name="edit_event_tab_event">Esdeveniment</string>
+    <string name="edit_event_title_create_agenda">Crea un esdeveniment</string>
+    <string name="edit_event_title_create_anniversary">Crea un aniversari</string>
+    <string name="edit_event_title_create_birthday">Crea aniversari</string>
+    <string name="edit_event_title_create_countdown">Crea un compte enrere</string>
+    <string name="edit_event_title_edit_agenda">Editeu l\'esdeveniment</string>
+    <string name="edit_event_title_edit_anniversary">Edita la commemoració</string>
+    <string name="edit_event_title_edit_birthday">Editeu l\'aniversari</string>
+    <string name="edit_event_title_edit_countdown">Edita el compte enrere</string>
     <string name="edit_event_to_label">Fins a</string>
     <string name="edit_your_long_holidays">Editeu els festius</string>
     <string name="ee_dd_short_month">EEE, dd MMMM</string>
@@ -322,6 +338,7 @@ Accés des de qualsevol navegador
     <string name="horoscope">Horòscop</string>
     <string name="horoscope_card_title">"Horòscop d'avui"</string>
     <string name="horoscope_select_activity_label">Seleccioneu signe del zòdiac</string>
+    <string name="hour_1">%d hora</string>
     <string name="image_processing">"La imatge no està llesta encara"</string>
     <string name="import_action">Importa</string>
     <string name="import_birthday">Importeu aniversari</string>
@@ -339,7 +356,9 @@ Accés des de qualsevol navegador
     <string name="item_num_selected">%1$d seleccionats</string>
     <string name="language_change_confirmation">S\'ha canviat amb èxit. Podeu canviar l\'idioma a configuració del Calendari.</string>
     <string name="launch_weather_comment">Prem aquí per a veure la informació del temps</string>
-    <string name="load_more_hint">Carregueu esdeveniments del %1$d</string>
+    <string name="load_more_events">Visualitza %d</string>
+    <string name="load_more_events_default">"Veure els esdeveniments de l'any vinent"</string>
+    <string name="load_more_hint">Visualitza %1$d</string>
     <string name="loading">Un moment…</string>
     <string name="local_calendar_display_name">Calendari local</string>
     <string name="local_owner_account_name">Desat en aquest dispositiu</string>
@@ -384,6 +403,10 @@ Accés des de qualsevol navegador
     <string name="mesens_card_title_today_begin">El període pot començar avui</string>
     <string name="mesens_card_title_tomorrow_begin">El període pot començar demà</string>
     <string name="midnight">Nit</string>
+    <string name="minutes_10">%d minuts</string>
+    <string name="minutes_15">%d minuts</string>
+    <string name="minutes_30">%d minuts</string>
+    <string name="minutes_5">%d minuts</string>
     <string name="missing_name">(Sense nom)</string>
     <string name="missing_required_permission">Heu limitat els permisos requerits.</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
@@ -494,6 +517,7 @@ Accés des de qualsevol navegador
     <string name="no_internet_dialog_message">El vostre dispositiu ha de connectar-se a la xarxa perquè pugueu retirar el consentiment. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="no_internet_dialog_title">S\'ha produït un error</string>
     <string name="no_long_holidays">No hi ha pròximes vacances llargues</string>
+    <string name="no_more_events">No hi ha més esdeveniments a mostrar</string>
     <string name="no_network">"No s'ha pogut connectar a la xarxa.
 Comproveu la configuració i proveu-ho de nou."</string>
     <string name="no_network_btn">Proveu de nou</string>
@@ -545,6 +569,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="partner_compatibility">Compatibilitat dels socis</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
+    <string name="permission_description">Detalls dels permisos</string>
     <string name="picker_day">Dia seleccionat: %1$d. Feu lliscar el dit verticalment per seleccionar.</string>
     <string name="picker_month">Mes seleccionat: %1$d. Feu lliscar el dit verticalment per seleccionar.</string>
     <string name="picker_year">Any seleccionat: %1$d. Feu lliscar el dit verticalment per seleccionar.</string>
@@ -556,14 +581,20 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="pref_title_no_remind">Cap recordatori</string>
     <string name="pref_title_notification_remind">Recordatoris de notificació</string>
     <string name="preference_copied">«%1$s» copiat al porta-retalls.</string>
+    <string name="preferences_alarms_category_title">Recordatoris d\'alarma</string>
+    <string name="preferences_alarms_sound">So</string>
+    <string name="preferences_alarms_vibrateWhen">Vibrar</string>
     <string name="preferences_alerts_ringtone_title">So</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
     <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
+    <string name="preferences_allow_remind">Permet els recordatoris</string>
     <string name="preferences_default_allday_reminder_title">Hora de recordatori per defecte per a tots els dies</string>
     <string name="preferences_default_reminder_dialog">Hora de recordatori per defecte</string>
     <string name="preferences_default_reminder_title">Hora de recordatori per defecte</string>
     <string name="preferences_home_tz_title">Fus horari propi</string>
     <string name="preferences_notification_ringtone_title">So</string>
+    <string name="preferences_popup_alert_smart_summary_new">Els esdeveniments temporals estan lligats a una hora exacta</string>
+    <string name="preferences_popup_alert_title">Recordatoris emergents</string>
     <string name="preferences_show_indic_date_title">Mostreu el calendari hindú</string>
     <string name="preferences_title">Calendari</string>
     <string name="preferences_use_home_tz_descrip">Mostreu els calendaris i les hores dels esdeveniments en el vostre propi fus horari quan viatgeu</string>
@@ -573,12 +604,18 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="prefsx_notify_sound_none">Silenciós</string>
     <string name="premission_description_log">Per desar registres</string>
     <string name="premission_description_ringtone">Per establir tons de trucada</string>
+    <string name="privacy_and_permissions">Privadesa i permisos</string>
     <string name="privacy_card_description">Accepta la nostra política de privadesa per accedir a totes les funcions.</string>
     <string name="privacy_policy_dialog_agree">D\'acord</string>
     <string name="privacy_policy_dialog_dont_agree">"No estic d'acord"</string>
     <string name="privacy_policy_dialog_message">&lt;Data&gt;Benvingut a Calendari!&lt;br/&gt;Podeu utilitzar aquesta aplicació per crear i gestionar esdeveniments, establir recordatoris i rebre informació addicional específica de la vostra ubicació. &lt;br/&gt;Calendari necessita recopilar la informació personal necessària per proporcionar-vos serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra &lt;a href=\"%1$s\"&gt; Política de privadesa &lt;/a&gt;. &lt;br/&gt; Llegiu i accepteu el nostre&lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar Calendari. Podeu retirar el vostre consentiment a la Política de privadesa de Calendari a Configuració en qualsevol moment.&lt;br/&gt; Si no accepteu la nostra Política de privadesa, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible. &lt;/Data&gt;</string>
     <string name="privacy_policy_dialog_title">Termes i Condicions</string>
     <string name="privacy_revoke_switch_text">Retirada del consentiment</string>
+    <string name="pull_refresh_events">Visualitza %d</string>
+    <string name="pull_refresh_events_default">"Veure els esdeveniments de l'any anterior"</string>
+    <string name="pull_refresh_progress_load_finish">S\'ha carregat correctament</string>
+    <string name="pull_refresh_progress_loading">Un moment…</string>
+    <string name="pull_refresh_progress_release_to_load">Deixeu anar per carregar</string>
     <string name="pull_to_refresh_hint">Arrossegueu per a carregar esdeveniments del %1$d</string>
     <string name="recorded_menstruation">Període registrat</string>
     <string name="refresh">Actualitzeu</string>
@@ -630,6 +667,8 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="search_calendar">"Data;Solar Termes;Lunar;Almanac;Fortuna;Agenda;Reunió;Recordatori;Festiu;Vacances;Aniversari;2016;2017;Festival de Primavera;Any nou;Dia internacional del treballador;Festival de tardor"</string>
     <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
     <string name="search_calendar_settings">Calendari;Agenda;Recordatori</string>
+    <string name="search_events">Cercar Esdeveniments</string>
+    <string name="search_history">Cerca a l’historial</string>
     <string name="search_menu_title">Cerca</string>
     <string name="second_saturday_holiday">Cada segon dissabte és festiu</string>
     <string name="select_date">Vés a la data</string>
@@ -649,7 +688,9 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="setting_features_title">Configuració de les funcions</string>
     <string name="setting_holiday_display_desc">Les targetes dels dies festius es troben sota l\'agenda a la pàgina d\'inici</string>
     <string name="setting_holiday_reminder">Recordatori de dies festius</string>
+    <string name="setting_import_events">Importa els esdeveniments</string>
     <string name="setting_others">Addicional</string>
+    <string name="setting_show_reject_agenda">Mostra els esdeveniments rebutjats</string>
     <string name="setting_title_about">Quant a</string>
     <string name="setting_title_holiday_display">Mostra els dies festius</string>
     <string name="setting_title_import_todo">Tasques importants</string>
@@ -663,6 +704,9 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="share_image_label">Compartiu mitjançant</string>
     <string name="share_title">Compartiu</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">Afegiu un esdeveniment</string>
+    <string name="shortcut_next_agenda">Proper esdeveniment</string>
+    <string name="shortcut_settings">Configuracions</string>
     <string name="show_day_view">Mostreu el dia</string>
     <string name="show_indic_date_summary">El calendari hindú està disponible quan un dels idiomes de l\'Índia es defineix com a llenguatge del sistema</string>
     <string name="show_menstruation_info">Mostra la informació de la menstruació</string>
@@ -694,6 +738,7 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="subtitle_mi_calendar_predict_menstruation">Registreu i estimeu els propers períodes amb Calendari</string>
     <string name="subtitle_record_and_start_predict">Anoteu un període per estimar quan comença el següent</string>
     <string name="subtitle_stick_record">Anoteu els períodes per obtenir prediccions més precises</string>
+    <string name="suggestions_and_feedback">Suggeriments</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
@@ -703,6 +748,10 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="tab_title_day">Dia</string>
     <string name="tab_title_month">Mes</string>
     <string name="tab_title_week">Setmana</string>
+    <string name="tab_view_day">Dia</string>
+    <string name="tab_view_month">Mes</string>
+    <string name="tab_view_week">Setmana</string>
+    <string name="tab_view_year">Any</string>
     <string name="talk_back_read_date">%1$s (%2$s segons el calendari lunar).</string>
     <string name="talk_back_setting">Configuració</string>
     <string name="talk_back_tab_switch">Canvieu entre vistes</string>
@@ -828,7 +877,7 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="widget_spec_agenda_birth_today">Avui</string>
     <string name="xiaomi_calendar_delete_description">Calendari és una aplicació del sistema que us permet crear i gestionar esdeveniments. Algunes de les seves funcions continuaran disponibles després d’eliminar de la Drecera a la Pantalla d\'Inici.</string>
     <string name="xiaomi_calendar_delete_title">Voleu eliminar \"Calendari\" de la Pantalla d\'inici?</string>
-    <string name="xiaomi_calendar_display_name">Calendari del Compte Mi</string>
+    <string name="xiaomi_calendar_display_name">Calendari del compte Mi</string>
     <string name="year">Any</string>
     <string name="yearly">Anualment ‎(cada %s‎)</string>
     <string name="yearly_plain">Anual</string>

@@ -83,12 +83,13 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="find_device_storage_corrupted">Cerca l’emmagatzematge del dispositiu malmès. El dispositiu no és segur ara.</string>
     <string name="find_device_success_title">El dispositiu de cerca està activat</string>
     <string name="find_device_telephony_fault">Troba el dispositiu: Problema telefònic (%s).</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM \'del\' yyyy</string>
     <string name="fmt_date_numeric_month_day">MM/dd</string>
     <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
-    <string name="fmt_date_short_month_day">MM/dd</string>
-    <string name="fmt_date_short_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM \'del\' yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="friday">divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -97,6 +98,8 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
     <string name="login_failed">"No s'ha pogut iniciar sessió. %s."</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
@@ -111,6 +114,8 @@ Contacta amb el teu agent de vendes per a més informació."</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona elements</string>
+    <string name="miuix_indexer_collect">Recopilacions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
